@@ -48,7 +48,7 @@
         <xlf:target state="translated">续订</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="16" resname="IDS_BUY">
-        <xlf:target state="translated">购买：</xlf:target>
+        <xlf:target state="translated">购买</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="17" resname="IDS_VIRUS_SIGNATURE">
         <xlf:target state="translated">病毒特征库：</xlf:target>
