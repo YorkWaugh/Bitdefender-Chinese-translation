@@ -3,31 +3,31 @@
   <xlf:file datatype="winres" original="atcui" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_ATC_PLUGIN_NAME">
-        <xlf:target state="translated">Advanced Threat Defense</xlf:target>
+        <xlf:target state="translated">高级威胁防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_ATC_ACTIVATE_FEATURE">
-        <xlf:target state="translated">Activate protection</xlf:target>
+        <xlf:target state="translated">激活防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_ATC_SETTINGS_NAME">
-        <xlf:target state="translated">Open</xlf:target>
+        <xlf:target state="translated">开启</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="4" resname="IDS_ATC_PLUGIN_TOOLTIP">
-        <xlf:target state="translated">Identifies suspicious behavior and blocks even zero-day attacks from compromising your device.</xlf:target>
+        <xlf:target state="translated">识别可疑行为，阻断零日攻击。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="5" resname="IDS_THREAT_DEFENSE">
-        <xlf:target state="translated">Threat Defense</xlf:target>
+        <xlf:target state="translated">威胁防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="6" resname="IDS_SETTINGS">
-        <xlf:target state="translated">Settings</xlf:target>
+        <xlf:target state="translated">设置</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="7" resname="IDS_MALWARE_LABEL_TEXT">
-        <xlf:target state="translated">Malware</xlf:target>
+        <xlf:target state="translated">恶意软件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="8" resname="IDS_EXPLOIT_LABEL_TEXT">
-        <xlf:target state="translated">Exploited</xlf:target>
+        <xlf:target state="translated">漏洞</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="9" resname="IDS_EXPLOIT_THREAT_LABEL">
-        <xlf:target state="translated">Threat</xlf:target>
+        <xlf:target state="translated">威胁</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="10" resname="IDS_SUMMARY">
         <xlf:target state="translated">We protected you against %s in the last {0} days.</xlf:target>
