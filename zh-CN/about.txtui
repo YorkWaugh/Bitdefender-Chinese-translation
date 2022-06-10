@@ -3,88 +3,88 @@
   <xlf:file datatype="winres" original="about" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_PRODUCT_INFO">
-        <xlf:target state="translated">Product Information</xlf:target>
+        <xlf:target state="translated">产品信息</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_CONTACT_INFO">
-        <xlf:target state="translated">Contact Information</xlf:target>
+        <xlf:target state="translated">联系信息</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_PURCHASE_INFO">
-        <xlf:target state="translated">Purchase</xlf:target>
+        <xlf:target state="translated">购买</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="4" resname="IDS_WEBSITE">
-        <xlf:target state="translated">Website:</xlf:target>
+        <xlf:target state="translated">网站：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="5" resname="IDS_EMAIL">
-        <xlf:target state="translated">Email: </xlf:target>
+        <xlf:target state="translated">邮箱：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="6" resname="IDS_PHONE">
-        <xlf:target state="translated">Phone: </xlf:target>
+        <xlf:target state="translated">电话：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="7" resname="IDS_FAX">
-        <xlf:target state="translated">Fax:</xlf:target>
+        <xlf:target state="translated">传真：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="8" resname="IDS_CLOSE">
-        <xlf:target state="translated">OK</xlf:target>
+        <xlf:target state="translated">确定</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="9" resname="IDS_TEHNICAL_SUPPORT">
-        <xlf:target state="translated">Encountered an issue?</xlf:target>
+        <xlf:target state="translated">遇到问题？</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="10" resname="IDS_BUILD">
-        <xlf:target state="translated">Build %s</xlf:target>
+        <xlf:target state="translated">创建号 %s</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="11" resname="IDS_COPYRIGHT">
         <xlf:target state="translated">© 2001-2022 &lt;#ProductName#&gt;. All rights reserved</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="12" resname="IDS_TITLE">
-        <xlf:target state="translated">&lt;#ProductName#&gt; About</xlf:target>
+        <xlf:target state="translated">关于 &lt;#ProductName#&gt;</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="13" resname="IDS_TITLE_TASKBAR">
-        <xlf:target state="translated">&lt;#ProductName#&gt; About</xlf:target>
+        <xlf:target state="translated">关于 &lt;#ProductName#&gt;</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="14" resname="IDS_RUN_SUPPORT">
-        <xlf:target state="translated">Get help</xlf:target>
+        <xlf:target state="translated">获取帮助</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="15" resname="IDS_RENEW">
-        <xlf:target state="translated">Renew</xlf:target>
+        <xlf:target state="translated">续订</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="16" resname="IDS_BUY">
-        <xlf:target state="translated">Buy</xlf:target>
+        <xlf:target state="translated">购买：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="17" resname="IDS_VIRUS_SIGNATURE">
-        <xlf:target state="translated">Threat information updates:</xlf:target>
+        <xlf:target state="translated">病毒特征库：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="18" resname="IDS_ENGINE_VERSION">
-        <xlf:target state="translated">Engine version:</xlf:target>
+        <xlf:target state="translated">引擎版本：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="19" resname="IDS_PRODUCT_SIGNATURES">
-        <xlf:target state="translated">Threat Database Properties</xlf:target>
+        <xlf:target state="translated">反恶意软件引擎属性</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="20" resname="IDS_PC_LIFETIME_EDITION">
-        <xlf:target state="translated">PC Lifetime Edition</xlf:target>
+        <xlf:target state="translated">PC 终身版</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="21" resname="IDS_PROD_AV_CUSTOM">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Antivirus</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt; 反病毒</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="22" resname="IDS_ENGINE_LAST_UPDATE">
-        <xlf:target state="translated">Last engine update:</xlf:target>
+        <xlf:target state="translated">上次引擎更新：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="23" resname="IDS_PRODUCT_LAST_UPDATE">
-        <xlf:target state="translated">Last product update:</xlf:target>
+        <xlf:target state="translated">程序创建日期：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="24" resname="IDS_WEB_TEXT">
         <xlf:target state="translated">&lt;#ProductName#&gt;</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="25" resname="IDS_PURCHASE_TEXT">
-        <xlf:target state="translated">View offer</xlf:target>
+        <xlf:target state="translated">查看报价</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="26" resname="IDS_SUBSCRIPTION">
-        <xlf:target state="translated">Subscription agreement</xlf:target>
+        <xlf:target state="translated">订阅协议</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="27" resname="IDS_POLICY">
-        <xlf:target state="translated">Privacy Policy</xlf:target>
+        <xlf:target state="translated">隐私政策</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="28" resname="IDS_3RD_PARTY">
-        <xlf:target state="translated">Third party license terms</xlf:target>
+        <xlf:target state="translated">第三方组件</xlf:target>
       </xlf:trans-unit>
     </xlf:body>
   </xlf:file>
