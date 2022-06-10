@@ -30,139 +30,139 @@
         <xlf:target state="translated">威胁</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="10" resname="IDS_SUMMARY">
-        <xlf:target state="translated">We protected you against %s in the last {0} days.</xlf:target>
+        <xlf:target state="translated">在过去的{0}天内我们保护您免受 %s 的威胁。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="11" resname="IDS_ATTACKS_COUNT">
-        <xlf:target state="translated">%s attacks</xlf:target>
+        <xlf:target state="translated">%s 攻击</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="12" resname="IDS_ONE_ATTACK">
-        <xlf:target state="translated">1 attack</xlf:target>
+        <xlf:target state="translated">1 攻击</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="13" resname="IDS_NO_ATTACKS">
-        <xlf:target state="translated">There were no attacks on your device in the previous {0} days.</xlf:target>
+        <xlf:target state="translated">在先前的{0}天内您的设备未受到攻击。 </xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="14" resname="IDS_DISINFECTION_NEEDS_REBOOT">
-        <xlf:target state="translated">Disinfection needs restart to finalize the operation:</xlf:target>
+        <xlf:target state="translated">需要重启以完成清除操作：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="15" resname="IDS_REBOOT_NOW">
-        <xlf:target state="translated">Restart Now</xlf:target>
+        <xlf:target state="translated">立即重启</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="16" resname="IDS_ACTION_FORMAT">
-        <xlf:target state="translated">%S has been blocked</xlf:target>
+        <xlf:target state="translated">%S 已被拦截</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="17" resname="IDS_ACTION_FORMAT_EXPLOIT">
-        <xlf:target state="translated">%S application has been blocked because of an exploit</xlf:target>
+        <xlf:target state="translated">因为存在漏洞，%S 应用程序已被拦截</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="18" resname="IDS_ACTION_GROUP_FORMAT">
-        <xlf:target state="translated">%S applications have been blocked</xlf:target>
+        <xlf:target state="translated">%S 应用程序已被拦截</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="19" resname="IDS_LABLE_TEXT">
-        <xlf:target state="translated">Ransomware </xlf:target>
+        <xlf:target state="translated">勒索软件 </xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="20" resname="IDS_RES_LABLE_TEXT">
-        <xlf:target state="translated">Disinfection successful:</xlf:target>
+        <xlf:target state="translated">清除成功：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="21" resname="IDS_OPEN_QUAR_TEXT">
-        <xlf:target state="translated">Open quarantine</xlf:target>
+        <xlf:target state="translated">打开隔离区</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="22" resname="IDS_CMD_LINE">
-        <xlf:target state="translated">(Command line parameters: %S)</xlf:target>
+        <xlf:target state="translated">（命令行参数：%S）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="23" resname="IDS_EV_MINUTE_AGO">
-        <xlf:target state="translated">one minute ago</xlf:target>
+        <xlf:target state="translated">1分钟前</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="24" resname="IDS_EV_HOUR_AGO">
-        <xlf:target state="translated">an hour ago</xlf:target>
+        <xlf:target state="translated">1小时前</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="25" resname="IDS_EV_MINUTES_AGO">
-        <xlf:target state="translated">{0} minutes ago</xlf:target>
+        <xlf:target state="translated">{0}分钟前</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="26" resname="IDS_EV_HOURS_AGO">
-        <xlf:target state="translated">{0} hours ago</xlf:target>
+        <xlf:target state="translated">{0}小时前</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="27" resname="IDS_EV_YESTERDAY_AT_AM">
-        <xlf:target state="translated">Yesterday at {0}:{1} AM</xlf:target>
+        <xlf:target state="translated">昨天上午{0}:{1}</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="28" resname="IDS_EV_YESTERDAY_AT_PM">
-        <xlf:target state="translated">Yesterday at {0}:{1} PM</xlf:target>
+        <xlf:target state="translated">昨天下午{0}:{1}</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="29" resname="IDS_EV_JANUARY">
-        <xlf:target state="translated">January</xlf:target>
+        <xlf:target state="translated">一月</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="30" resname="IDS_EV_FEBRUARY">
-        <xlf:target state="translated">February</xlf:target>
+        <xlf:target state="translated">二月</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="31" resname="IDS_EV_MARCH">
-        <xlf:target state="translated">March</xlf:target>
+        <xlf:target state="translated">三月</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="32" resname="IDS_EV_APRIL">
-        <xlf:target state="translated">April</xlf:target>
+        <xlf:target state="translated">四月</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="33" resname="IDS_EV_MAY">
-        <xlf:target state="translated">May</xlf:target>
+        <xlf:target state="translated">五月</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="34" resname="IDS_EV_JUNE">
-        <xlf:target state="translated">June</xlf:target>
+        <xlf:target state="translated">六月</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="35" resname="IDS_EV_JULY">
-        <xlf:target state="translated">July</xlf:target>
+        <xlf:target state="translated">七月</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="36" resname="IDS_EV_AUGUST">
-        <xlf:target state="translated">August</xlf:target>
+        <xlf:target state="translated">八月</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="37" resname="IDS_EV_SEPTEMBER">
-        <xlf:target state="translated">September</xlf:target>
+        <xlf:target state="translated">九月</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="38" resname="IDS_EV_OCTOBER">
-        <xlf:target state="translated">October</xlf:target>
+        <xlf:target state="translated">十月</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="39" resname="IDS_EV_NOVEMBER">
-        <xlf:target state="translated">November</xlf:target>
+        <xlf:target state="translated">十一月</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="40" resname="IDS_EV_DECEMBER">
-        <xlf:target state="translated">December</xlf:target>
+        <xlf:target state="translated">十二月</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="41" resname="IDS_EV_FULL_DATE_AM">
-        <xlf:target state="translated">{0} {1} at {2}:{3} AM</xlf:target>
+        <xlf:target state="translated">{1}{0}日的上午{2}:{3}</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="42" resname="IDS_EV_FULL_DATE_PM">
-        <xlf:target state="translated">{0} {1} at {2}:{3} PM</xlf:target>
+        <xlf:target state="translated">{1}{0}日的下午{2}:{3}</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="43" resname="IDS_EV_NOW">
-        <xlf:target state="translated">now</xlf:target>
+        <xlf:target state="translated">现在</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="44" resname="IDS_THREAT_FREE">
-        <xlf:target state="translated">Your device is threat free</xlf:target>
+        <xlf:target state="translated">您的设备无威胁</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="45" resname="IDS_EMPTY_STATE_DESCRIPTION_ATC">
-        <xlf:target state="translated">Advanced Threat Defense continuously monitors activity on your system and instantly blocks any suspicious applications.</xlf:target>
+        <xlf:target state="translated">高级威胁防护持续监控活动并实时拦截任何恶意程序。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="46" resname="IDS_ATC_OPTION">
-        <xlf:target state="translated">Advanced Threat Defense</xlf:target>
+        <xlf:target state="translated">高级威胁防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="47" resname="IDS_ATC_TOOLTIP">
-        <xlf:target state="translated">Continuously monitors device activity to protect you from even the most advanced threats.</xlf:target>
+        <xlf:target state="translated">持续监控设备活动以保护您免受最新型的威胁。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="48" resname="IDS_GEMMA_OPTION">
-        <xlf:target state="translated">Exploit detection</xlf:target>
+        <xlf:target state="translated">漏洞检测</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="49" resname="IDS_GEMMA_TOOLTIP">
-        <xlf:target state="translated">Scan applications for different types of exploits.</xlf:target>
+        <xlf:target state="translated">扫描不同类型应用程序的漏洞</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="50" resname="IDS_MANAGE_EXCEPTIONS">
-        <xlf:target state="translated">Manage exceptions</xlf:target>
+        <xlf:target state="translated">排除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="51" resname="IDS_MANAGE_EXCEPTIONS_DESCRIPTION">
-        <xlf:target state="translated">Add or remove items to be excepted from scan.</xlf:target>
+        <xlf:target state="translated">添加或删除要从扫描中排除的项目。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="52" resname="IDS_QUARANTINED_THREATS">
-        <xlf:target state="translated">Quarantined threats</xlf:target>
+        <xlf:target state="translated">被隔离的威胁</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="53" resname="IDS_MANAGE_QUARANTINED_THREATS">
-        <xlf:target state="translated">Manage quarantine</xlf:target>
+        <xlf:target state="translated">管理隔离区</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="54" resname="IDS_MANAGE_QUARANTINED_THREATS_DESCRIPTION">
-        <xlf:target state="translated">Restore or delete threats that have been quarantined.</xlf:target>
+        <xlf:target state="translated">恢复或删除已被隔离的威胁。</xlf:target>
       </xlf:trans-unit>
     </xlf:body>
   </xlf:file>
