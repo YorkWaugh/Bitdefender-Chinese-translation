@@ -57,7 +57,7 @@
         <xlf:target state="translated">引擎版本：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="19" resname="IDS_PRODUCT_SIGNATURES">
-        <xlf:target state="translated">威胁数据库属性</xlf:target>
+        <xlf:target state="translated">恶意软件数据库属性</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="20" resname="IDS_PC_LIFETIME_EDITION">
         <xlf:target state="translated">PC 终身版</xlf:target>
