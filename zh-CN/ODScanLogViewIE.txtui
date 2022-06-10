@@ -3,28 +3,28 @@
   <xlf:file datatype="winres" original="ODScanLogViewIE" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_XSL_LOG_FILE_LOADING">
-        <xlf:target state="translated">Please wait while the log file is loading ({0}%)</xlf:target>
+        <xlf:target state="translated">日志文件加载中，请稍等（{0}%）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_XSL_PRODUCT_LOG_FILE">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Log File</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt; 日志文件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_XSL_PRODUCT">
-        <xlf:target state="translated">Product:</xlf:target>
+        <xlf:target state="translated">产品：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="4" resname="IDS_XSL_VERSION">
-        <xlf:target state="translated">Version:</xlf:target>
+        <xlf:target state="translated">版本：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="5" resname="IDS_XSL_LOG_DATE">
-        <xlf:target state="translated">Scan date:</xlf:target>
+        <xlf:target state="translated">扫描日期：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="6" resname="IDS_XSL_EXCLUDED_PATHS">
-        <xlf:target state="translated">Excepted Paths:</xlf:target>
+        <xlf:target state="translated">排除地址：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="7" resname="IDS_XSL_SCAN_RESULTS">
         <xlf:target state="translated">Scan Results Summary</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="8" resname="IDS_XSL_SCAN_OPTIONS">
-        <xlf:target state="translated">Scan Options</xlf:target>
+        <xlf:target state="translated">扫描选项</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="9" resname="IDS_XSL_SCAN_THREATS_OPTIONS">
         <xlf:target state="translated">Targeted threat types</xlf:target>
