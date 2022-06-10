@@ -1,0 +1,1174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="eventsui" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_COPY_TEXT">
+        <xlf:target state="translated">Copy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_EV_ALL">
+        <xlf:target state="translated">All</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_EV_CRITICAL">
+        <xlf:target state="translated">Critical</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_EV_WARNING">
+        <xlf:target state="translated">Warning</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_EV_INFORMATION">
+        <xlf:target state="translated">Information</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_EV_MARK_ALL_AS_READ">
+        <xlf:target state="translated">Mark all as read</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_EV_DELETE_ALL">
+        <xlf:target state="translated">Delete all</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_NO_EVENTS_LAYER_DESCRIPTION">
+        <xlf:target state="translated">There are no notifications yet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_NO_CRITICAL_EVENTS_LAYER_DESCRIPTION">
+        <xlf:target state="translated">You have no critical notifications.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_NO_WARNING_EVENTS_LAYER_DESCRIPTION">
+        <xlf:target state="translated">You have no warning notifications.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_NO_INFO_EVENTS_LAYER_DESCRIPTION">
+        <xlf:target state="translated">You have no informative notifications.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_EV_DELETE_ALL_TITLE">
+        <xlf:target state="translated">Delete events</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_EV_DELETE_ALL_TEXT">
+        <xlf:target state="translated">Are you sure you want to delete all these events?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_EV_FEATURE_TEXT">
+        <xlf:target state="translated">Feature:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_EV_MINUTE_AGO">
+        <xlf:target state="translated">one minute ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_EV_HOUR_AGO">
+        <xlf:target state="translated">an hour ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_EV_MINUTES_AGO">
+        <xlf:target state="translated">{0} minutes ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_EV_HOURS_AGO">
+        <xlf:target state="translated">{0} hours ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_EV_YESTERDAY_AT_AM">
+        <xlf:target state="translated">Yesterday at {0}:{1} AM</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_EV_YESTERDAY_AT_PM">
+        <xlf:target state="translated">Yesterday at {0}:{1} PM</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_EV_JANUARY">
+        <xlf:target state="translated">January</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_EV_FEBRUARY">
+        <xlf:target state="translated">February</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_EV_MARCH">
+        <xlf:target state="translated">March</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_EV_APRIL">
+        <xlf:target state="translated">April</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_EV_MAY">
+        <xlf:target state="translated">May</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_EV_JUNE">
+        <xlf:target state="translated">June</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_EV_JULY">
+        <xlf:target state="translated">July</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_EV_AUGUST">
+        <xlf:target state="translated">August</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_EV_SEPTEMBER">
+        <xlf:target state="translated">September</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_EV_OCTOBER">
+        <xlf:target state="translated">October</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_EV_NOVEMBER">
+        <xlf:target state="translated">November</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_EV_DECEMBER">
+        <xlf:target state="translated">December</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_EV_FULL_DATE_AM">
+        <xlf:target state="translated">{0} {1} at {2}:{3} AM</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_EV_FULL_DATE_PM">
+        <xlf:target state="translated">{0} {1} at {2}:{3} PM</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_EV_NOW">
+        <xlf:target state="translated">now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_EVENTS_MODULE">
+        <xlf:target state="translated">Feature:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_AVC_EXP_SUBJ">
+        <xlf:target state="translated">An exploit was detected on your system</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_EV_AVC_EXPLOIT_DESCRIPTION">
+        <xlf:target state="translated">Application {0} has been detected as potentially malicious and was blocked.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_AVC_SUBJ">
+        <xlf:target state="translated">Potentially malicious application blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_AVC_SUBJ_GROUP">
+        <xlf:target state="translated">Malicious behavior blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_EV_AVC_MALICIOUS_GROUP">
+        <xlf:target state="translated">&lt;#ProductName#&gt; detected potentially malicious behavior and blocked all applications involved.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_EVENTS_ATC_REBOOT_REQUIRED">
+        <xlf:target state="translated">You must restart your device to finalize the cleaning process.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_EV_AVC_MALICIOUS_DESCRIPTION">
+        <xlf:target state="translated">Application {0} has been detected as potentially malicious and was blocked.&#10;Application path: {1}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_EV_AVC_CMD_LINE">
+        <xlf:target state="translated">Command line parameters: {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_EV_AVC_DETECTION_ID">
+        <xlf:target state="translated">Detection ID: {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_ATC_PLUGIN_NAME">
+        <xlf:target state="translated">Advanced Threat Defense</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_AVC_RWP_SUBJ_GROUP">
+        <xlf:target state="translated">Potentially malicious applications blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_EV_AVC_RW_GROUP">
+        <xlf:target state="translated">&lt;#ProductName#&gt; has detected {0} applications as ransomware and blocked them.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_EV_AVC_RW_SINGLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; has detected {0} application as ransomware and blocked it.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_EV_AVC_RW_FAMILY_GROUP">
+        <xlf:target state="translated">&lt;#ProductName#&gt; has detected {0} applications as {1} ransomware and blocked them.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_EV_AVC_RW_FAMILY_SINGLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; has detected {0} as {1} ransomware and blocked it.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_EV_AVC_RW_APP_PATH">
+        <xlf:target state="translated">Ransomware path: {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_EV_AVC_RANSOMWARE_REASONS">
+        <xlf:target state="translated">Ransomware is a type of threat that limits your access to the system, either by locking the screen or by locking your important files, until you pay a ransom.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_EVT_VIEW_APP_GROUP">
+        <xlf:target state="translated">View applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_EVT_VIEW_APP_SINGLE">
+        <xlf:target state="translated">View application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_EVT_REBOOT_REQUIRED">
+        <xlf:target state="translated">Restart</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_AVC_EXP_REPORTING_SUBJ">
+        <xlf:target state="translated">Malicious behavior detected on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_EV_AVC_EXPLOIT_REPORTING_DESCRIPTION">
+        <xlf:target state="translated">Application {0} exhibits potentially malicious behavior.&#10;Application path: {1}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_EV_AVC_EXPLOIT_REPORTING_WARNING">
+        <xlf:target state="translated">The app has not been blocked. Activate protection to block any app that exhibits malicious behavior and keep your device and data safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_EV_ACTIVATE_PROTECTION">
+        <xlf:target state="translated">Activate Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_AVC_MALICIOUS_REPORTING_SUBJ">
+        <xlf:target state="translated">Malicious behavior detected on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_AVC_MALICIOUS_SINGLE_REPORTING_DESCRIPTION">
+        <xlf:target state="translated">Application {0} exhibits potentially malicious behavior.&#10;Application path: {1}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_AVC_MALICIOUS_MULTIPLE_REPORTING_DESCRIPTION">
+        <xlf:target state="translated">A group of applications exhibit potentially malicious behavior.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_AVC_MALICIOUS_SINGLE_REPORTING_WARNING">
+        <xlf:target state="translated">The app has not been blocked. Activate protection to block any app that exhibits malicious behavior and keep your device and data safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_AVC_MALICIOUS_MULTIPLE_REPORTING_WARNING">
+        <xlf:target state="translated">The apps have not been blocked. Activate protection to block any apps that exhibit malicious behavior and keep your device and data safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_EVT_VIEW_ATTACK_TIMELINE">
+        <xlf:target state="translated">View attack timeline</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_FW_FEATURE_NAME">
+        <xlf:target state="translated">Firewall</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_FW_STATE_EVENTNAME">
+        <xlf:target state="translated">Firewall status changed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_FW_STATE_CHANGE_ENABLE">
+        <xlf:target state="translated">Firewall has been enabled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_FW_STATE_CHANGE_DISABLE">
+        <xlf:target state="translated">Firewall has been disabled. It is recommended to enable Firewall for the product to perform properly.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_FW_ENABLE_BUTTON">
+        <xlf:target state="translated">Enable</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_FW_PORTSCAN_EVENTNAME">
+        <xlf:target state="translated">Port scan blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_FW_PORTSCAN_EVENTMSG">
+        <xlf:target state="translated">A port scan was detected and blocked.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_FW_PORT_SCAN_REMOTE_IP">
+        <xlf:target state="translated">Remote IP:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_FW_PROCESSCHANGED_EVENTNAME">
+        <xlf:target state="translated">New application version detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_ACTION_DENY">
+        <xlf:target state="translated">Deny</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_FW_ALLOWED_PROCESSCHANGED_EVENTMSG">
+        <xlf:target state="translated">The application {0} was recently updated to a new version.&#10;File path: {1}&#10;&lt;#ProductName#&gt; Firewall has granted access for this application. If you want to deny access, click on the button below or go to Firewall - Rules.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_FW_ALLOWED_PROCESSCHANGED_USER_EVENTMSG">
+        <xlf:target state="translated">The application {0} was recently updated to a new version.&#10;File path: {1}&#10;&lt;#ProductName#&gt; Firewall has granted access for this application based on user request. If you want to deny access, click on the button below or go to Firewall - Rules.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_FW_BLOCKED_PROCESSCHANGED_EVENTMSG">
+        <xlf:target state="translated">The application {0} was recently updated to a new version.&#10;File path: {1}&#10;&lt;#ProductName#&gt; Firewall detected malicious activity and denied access for this application. If you want to grant access, click on the button below or go to Firewall - Rules.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_FW_BLOCKED_PROCESSCHANGED_USER_EVENTMSG">
+        <xlf:target state="translated">The application {0} was recently updated to a new version.&#10;File path: {1}&#10;&lt;#ProductName#&gt; Firewall has denied access for this application based on user request. If you want to grant access, click on the button below or go to Firewall - Rules.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_FW_BLOCKED_TRAFFIC_EVENTNAME">
+        <xlf:target state="translated">Application not allowed to access network.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_ACTION_ALLOW">
+        <xlf:target state="translated">Allow</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_FW_ALLOWED_MATCHEDTRAFFIC_EVENTMSG">
+        <xlf:target state="translated">The application {0} attempted to connect to the Internet:&#10;File path: {1}&#10;Destination: {2}&#10;Protocol: {3}&#10;Port: {4}&#10;&lt;#ProductName#&gt; Firewall has granted access for this application. If you want to deny access, click on the button below or go to Firewall - Rules.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_FW_ALLOWED_MATCHEDTRAFFIC_USER_EVENTMSG">
+        <xlf:target state="translated">The application {0} attempted to connect to the Internet:&#10;File path: {1}&#10;Destination: {2}&#10;Protocol: {3}&#10;Port: {4}&#10;&lt;#ProductName#&gt; Firewall has granted access for this application based on user request. If you want to deny access, click on the button below or go to Firewall - Rules.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_FW_BLOCKED_MATCHEDTRAFFIC_EVENTMSG">
+        <xlf:target state="translated">The application {0} attempted to connect to the Internet:&#10;File path: {1}&#10;Destination: {2}&#10;Protocol: {3}&#10;Port: {4}&#10;&lt;#ProductName#&gt; Firewall detected malicious activity and denied access for this application. If you want to grant access, click on the button below or go to Firewall - Rules.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_FW_BLOCKED_MATCHEDTRAFFIC_USER_EVENTMSG">
+        <xlf:target state="translated">The application {0} attempted to connect to the Internet:&#10;File path: {1}&#10;Destination: {2}&#10;Protocol: {3}&#10;Port: {4}&#10;&lt;#ProductName#&gt; Firewall has denied access for this application based on user request. If you want to grant access, click on the button below or go to Firewall - Rules.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_FW_ALLOWED_TRAFFIC_EVENTNAME">
+        <xlf:target state="translated">Application allowed to access network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_AS_FEATURE_NAME">
+        <xlf:target state="translated">Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_AS_SUBJECT_ENABLED">
+        <xlf:target state="translated">Antispam feature enabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_AS_SUBJECT_DISABLED">
+        <xlf:target state="translated">Antispam feature disabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_AS_ACTION_ENABLE">
+        <xlf:target state="translated">Enable</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_AS_EV_DESCR_ON">
+        <xlf:target state="translated">Antispam module was enabled for the user [{0}].</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_AS_EV_DESCR_OFF">
+        <xlf:target state="translated">Antispam module was disabled for the user [{0}].</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_EV_UPDATE">
+        <xlf:target state="translated">Update</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_EV_UPDATE_SUCCESS_TITLE">
+        <xlf:target state="translated">Update completed successfully</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_EV_UPDATE_SUCCESS_DESC">
+        <xlf:target state="translated">Update was completed successfully. Your product is up-to-date.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_EV_UPDATE_FAILED_TITLE">
+        <xlf:target state="translated">Update encountered an error</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_EV_UPDATE_FAILED_DESC_DEFAULT">
+        <xlf:target state="translated">Update encountered an error (error code: %d). Please check your internet connection and try again. If the problem persists please contact support for a resolution.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_EV_UPDATE_FAILED_DESC_INVALID_SERVER">
+        <xlf:target state="translated">Update encountered an error (error code: %d, Could not resolve server). Please check your internet connection and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_EV_UPADTE_FAILED_DESC_INVALID_PROXY">
+        <xlf:target state="translated">Update encountered an error (error code: %d). &lt;#ProductName#&gt; could not resolve the proxy configured. Please go to General settings to check your proxy credentials and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_EV_UPDATE_FAILED_DESC_COULD_NOT_CONNECT">
+        <xlf:target state="translated">Update encountered an error (error code: %d). &lt;#ProductName#&gt; could not connect to proxy or update server configured. Please check your internet connection and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_EV_UPDATE_FAILED_DESC_COULD_NOT_LOGIN">
+        <xlf:target state="translated">Update encountered an error (error code: %d). &lt;#ProductName#&gt; could not authenticate to proxy or server configured. Please go to General settings to check your proxy credentials and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_EV_UPDATE_FAILED_DESC_TIMEOUT">
+        <xlf:target state="translated">Update encountered an error (error code: %d, Operation has timed out). Please check your internet connection and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_EV_UPDATE_FAILED_DESC_NO_ACCOUNT">
+        <xlf:target state="translated">You must configure a &lt;#ProductName#&gt; account now to benefit from threat information updates.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_EV_UPDATE_NEEDS_REBOOT_TITLE">
+        <xlf:target state="translated">Update requires a device restart to finalize the process</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_EV_UPDATE_NEEDS_REBOOT_DESC">
+        <xlf:target state="translated">Update requires a device restart to finalize the process.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_EV_UPDATE_ACTION_VIEW_LOG">
+        <xlf:target state="translated">View log</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_EV_UPDATE_ACTION_CONFIG_ACCOUNT">
+        <xlf:target state="translated">Configure account</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_EV_UPDATE_ACTION_RETRY">
+        <xlf:target state="translated">Retry</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_EV_UPDATE_ACTION_REBOOT">
+        <xlf:target state="translated">Restart Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_ONDEMAND_SCAN_TASK_ABORTED">
+        <xlf:target state="translated">%s canceled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_ONDEMAND_SCAN_TASK_STOPPED">
+        <xlf:target state="translated">%s stopped by user</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_ONDEMAND_SCAN_TASK_COMPLETED">
+        <xlf:target state="translated">%s completed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_ONDEMAND_SCAN_TASK_COMPLETED_SUCCESSFULLY">
+        <xlf:target state="translated">%s completed successfully</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_ONDEMAND_SCAN_TASK">
+        <xlf:target state="translated">Scan task</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_ONDEMAND_VIEW_LOG">
+        <xlf:target state="translated">View log</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="IDS_ONDEMAND_RESCAN">
+        <xlf:target state="translated">Rescan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="IDS_ONDEMAND_THREATS_REQUIRE_ACTION">
+        <xlf:target state="translated">Some infected items could not be resolved.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="IDS_ONDEMAND_REQUIRES_REBOOT">
+        <xlf:target state="translated">A restart is necessary to complete the cleaning process.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="IDS_ONDEMAND_THREATS_IGNORED">
+        <xlf:target state="translated">Infected items were ignored at user&apos;s request.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="IDS_ONDEMAND_THREATS_REMAINING">
+        <xlf:target state="translated">Some infected items were not resolved.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="IDS_ONDEMAND_THREATS_RESOLVED">
+        <xlf:target state="translated">All infected items were resolved.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="IDS_ONDEMAND_THREATS_NONE">
+        <xlf:target state="translated">No infected items were detected during scan.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="IDS_ONDEMAND_THREATS_FREE">
+        <xlf:target state="translated">Your device is threat-free.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="IDS_FEATURE_ANTIVIRUS">
+        <xlf:target state="translated">Antivirus</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="IDS_ONDEMAND_TASK_STARTED">
+        <xlf:target state="translated">%s has started.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="IDS_EV_ACTION_TAKEN">
+        <xlf:target state="translated">Action taken:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="128" resname="IDS_ONDEMAND_REBOOTED">
+        <xlf:target state="translated">Restart was triggered by user.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="129" resname="IDS_ONDEMAND_RESCUE_ENVIRONMENT">
+        <xlf:target state="translated">Rescue Environment</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="130" resname="IDS_ONDEMAND_OFFLINE_SCAN">
+        <xlf:target state="translated">We recommend you to boot in %s to solve the issue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="131" resname="IDS_ONDEMAND_VIEW_LOG_DESCRIPTION">
+        <xlf:target state="translated">Click View log to see the scan result summary.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="132" resname="IDS_ONDEMAND_ACTIVATE_PROTECTION">
+        <xlf:target state="translated">Real time protection is not enabled. Activate protection to block any threat that might harm your device and put your data at risk.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="133" resname="IDS_EVT_DESCR_QUAR_MOVE_TO_QUAR_PUA">
+        <xlf:target state="translated">The app %s has been detected as a potentially unwanted application and was moved to quarantine.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="134" resname="IDS_EVT_DESCR_QUAR_MOVE_TO_QUAR_BACKUP_NO_VIRUS_NAME">
+        <xlf:target state="translated">&lt;#ProductName#&gt; has detected an infected item in %s.&#10;The file was disinfected for your protection. If you want to recover the original file, click the Recover button.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="135" resname="IDS_EVT_DESCR_QUAR_MOVE_TO_QUAR_NO_VIRUS_NAME">
+        <xlf:target state="translated">&lt;#ProductName#&gt; moved a threat to quarantine. File name: %s. It is recommended that you run a System Scan to make sure your system is clean.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="136" resname="IDS_EVT_DESCR_QUAR_MOVE_TO_QUAR">
+        <xlf:target state="translated">The file %s is infected with %s and was moved to quarantine. It is recommended that you run a System Scan to make sure your system is clean.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="137" resname="IDS_EVT_RESTORE">
+        <xlf:target state="translated">Restore</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="138" resname="IDS_EVT_DELETE">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="139" resname="IDS_EV_QUAR_RESTORED">
+        <xlf:target state="translated">The item %s was restored at user request.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="140" resname="IDS_EV_QUAR_DELETED">
+        <xlf:target state="translated">The item %s was deleted at user request.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="141" resname="IDS_EV_QUAR_RESTORED_DELETED">
+        <xlf:target state="translated">The quarantined file was restored or deleted by the user.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="142" resname="IDS_QUAR_DEL_CONFIRM">
+        <xlf:target state="translated">Are you sure you want to permanently delete this file?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="143" resname="IDS_QUAR_DEL_CONFIRM_TITLE">
+        <xlf:target state="translated">Delete Confirmation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="144" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="145" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="146" resname="IDS_BROWSE_FOR_FOLDER">
+        <xlf:target state="translated">Select a new location to restore the file(s)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="147" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="148" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="149" resname="IDS_CONFIRM_RESTORE_TITLE">
+        <xlf:target state="translated">Restore file</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="150" resname="IDS_CONFIRM_SEND_TITLE">
+        <xlf:target state="translated">Send files to the Lab</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="151" resname="IDS_BROWSE">
+        <xlf:target state="translated">Browse</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="152" resname="IDS_OPEN_LOCATION">
+        <xlf:target state="translated">Open location</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="153" resname="IDS_APPLY_TO_ALL">
+        <xlf:target state="translated">Apply to all</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="154" resname="IDS_MSG_CAPTION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="155" resname="IDS_FILE_ALREADY_EXISTS">
+        <xlf:target state="translated">A file with the same name already exists. Do you want to replace it?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="156" resname="IDS_PATH_NOT_FOUND">
+        <xlf:target state="translated">Failed to find the specified path. Please review the previous operation and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="157" resname="IDS_PATH_ACCESS_DENIED">
+        <xlf:target state="translated">The system does not have rights to access the specified path.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="158" resname="IDS_PATH_IS_RECYCLER">
+        <xlf:target state="translated">The specified path points to the system&apos;s Recycle Bin. By restoring there the file might become inaccessible. Please select another path.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="159" resname="IDS_APPLY_TO_ALL3">
+        <xlf:target state="translated">Apply to All</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="160" resname="IDS_FILE_RESTORED_DEFAULT">
+        <xlf:target state="translated">Your file has been successfully restored in %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="161" resname="IDS_STRING_QUAR_CHOOSE_PATH">
+        <xlf:target state="translated">Choose another path</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="162" resname="IDS_EV_PUA_TITLE">
+        <xlf:target state="translated">Potentially unwanted application detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="163" resname="IDS_EV_PUA_DENIED_MESSAGE">
+        <xlf:target state="translated">The app %s has been detected as a potentially unwanted application and was blocked.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="164" resname="IDS_EV_MOVE_TO_QUARANTINE_ACTION">
+        <xlf:target state="translated">Move to quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="165" resname="IDS_EV_MOVE_TO_QUARANTINE_NO_FILE_MESSAGE">
+        <xlf:target state="translated">The file %s was removed from your system and couldn&apos;t be moved to quarantine.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="166" resname="IDS_EV_MOVE_TO_QUARANTINE_FILE_CHANGED_MESSAGE">
+        <xlf:target state="translated">The content of the file %s has been changed since this notification was generated. The file will not be moved to quarantine.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="167" resname="IDS_EV_MOVE_TO_QUARANTINE_FAILED_MESSAGE">
+        <xlf:target state="translated">The file %s can&apos;t be moved to quarantine. Contact support for further assistance.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="168" resname="IDS_EV_LEARN_MORE_ACTION">
+        <xlf:target state="translated">Learn more</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="169" resname="IDS_EV_CONTACT_SUPPORT_ACTION">
+        <xlf:target state="translated">Contact support</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="170" resname="IDS_EV_REGULAR_INFECTED_ITEM_DENIED_TITLE">
+        <xlf:target state="translated">Successfully blocked infected file</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="171" resname="IDS_EV_REGULAR_INFECTED_ITEM_DETECTED_TITLE">
+        <xlf:target state="translated">Infected file detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="172" resname="IDS_EV_REGULAR_INFECTED_ITEM_REPORTED_MESSAGE">
+        <xlf:target state="translated">The file %s is infected with %s.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="173" resname="IDS_EV_REGULAR_INFECTED_ITEM_REPORTED_NO_NAME_MESSAGE">
+        <xlf:target state="translated">The file %s is infected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="174" resname="IDS_EV_REGULAR_INFECTED_ITEM_DENIED_SAFE_MESSAGE">
+        <xlf:target state="translated">The file %s is infected with %s. The threat has been successfully blocked, your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="175" resname="IDS_EV_REGULAR_INFECTED_ITEM_DENIED_SAFE_NO_NAME_MESSAGE">
+        <xlf:target state="translated">The file %s has been detected as infected. The threat has been successfully blocked, your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="176" resname="IDS_EV_REGULAR_INFECTED_ITEM_DISINFECTED_MESSAGE">
+        <xlf:target state="translated">The file %s has been detected as infected with %s. &lt;#ProductName#&gt; disinfected this item, your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="177" resname="IDS_EV_REGULAR_INFECTED_ITEM_DISINFECTED_NO_NAME_MESSAGE">
+        <xlf:target state="translated">The file %s has been detected as infected. &lt;#ProductName#&gt; disinfected this item, your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="178" resname="IDS_EV_REGULAR_INFECTED_ITEM_DELETED_MESSAGE">
+        <xlf:target state="translated">The file %s has been detected as infected with %s. &lt;#ProductName#&gt; deleted this item, your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="179" resname="IDS_EV_REGULAR_INFECTED_ITEM_DELETED_NO_NAME_MESSAGE">
+        <xlf:target state="translated">The file %s has been detected as infected. &lt;#ProductName#&gt; deleted this item, your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="180" resname="IDS_EV_REGULAR_INFECTED_ITEM_DENIED_UNSAFE_MESSAGE">
+        <xlf:target state="translated">The file %s is infected with %s. &lt;#ProductName#&gt; blocked this item, your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="181" resname="IDS_EV_REGULAR_INFECTED_ITEM_DENIED_UNSAFE_NO_NAME_MESSAGE">
+        <xlf:target state="translated">The file %s is infected. &lt;#ProductName#&gt; blocked this item, your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="182" resname="IDS_EV_REGULAR_INFECTED_ITEM_REBOOT_NEEDED_MESSAGE">
+        <xlf:target state="translated">The file %s has been detected as infected with %s and &lt;#ProductName#&gt; could not clean this item. A device restart is required to finalize the cleaning process.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="183" resname="IDS_EV_REGULAR_INFECTED_ITEM_REBOOT_NEEDED_NO_NAME_MESSAGE">
+        <xlf:target state="translated">The file %s has been detected as infected and &lt;#ProductName#&gt; could not clean this item. A device restart is required to finalize the cleaning process.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="184" resname="IDS_EV_REBOOT_ACTION">
+        <xlf:target state="translated">Restart Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="185" resname="IDS_EV_RANSOMWARE_TITLE">
+        <xlf:target state="translated">Ransomware detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="186" resname="IDS_EV_RANSOMWARE_BLOCKED_MESSAGE">
+        <xlf:target state="translated">The file %s is infected with %s ransomware. The ransomware has been successfully blocked, your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="187" resname="IDS_EV_RANSOMWARE_BLOCKED_NO_FAMILY_MESSAGE">
+        <xlf:target state="translated">The file %s is infected with ransomware. The ransomware has been successfully blocked, your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="188" resname="IDS_EV_RANSOMWARE_DISINFECTED_MESSAGE">
+        <xlf:target state="translated">The file %s has been detected as infected with %s ransomware. &lt;#ProductName#&gt; disinfected this item, your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="189" resname="IDS_EV_RANSOMWARE_DISINFECTED_NO_FAMILY_MESSAGE">
+        <xlf:target state="translated">The file %s has been detected as infected with ransomware. &lt;#ProductName#&gt; disinfected this item, your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="190" resname="IDS_EV_RANSOMWARE_REBOOT_NEEDED_MESSAGE">
+        <xlf:target state="translated">The file %s is infected with %s ransomware. The ransomware has been successfully blocked, your device if safe. A restart is required to finalize the cleaning process.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="191" resname="IDS_EV_RANSOMWARE_REBOOT_NEEDED_NO_FAMILY_MESSAGE">
+        <xlf:target state="translated">The file %s has been detected as infected with ransomware. The ransomware has been successfully blocked, your device is safe. A restart is required to finalize the cleaning process.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="192" resname="IDS_EV_RANSOMWARE_DESCRIPTION">
+        <xlf:target state="translated">Ransomware is a type of threat that limits your access to the system, either by locking the screen or by locking your important files, until you pay a ransom.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="193" resname="IDS_EV_REGULAR_INFECTED_ITEM_DETECTED_REPORT_MODE_TITLE">
+        <xlf:target state="translated">Threat detected on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="194" resname="IDS_EV_REPORT_MODE_UNRESOLVED_THREAT_MESSAGE">
+        <xlf:target state="translated">The threat has not been resolved. Activate protection to block any threat that might harm your device and put your data at risk.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="195" resname="IDS_EV_ACTIVATE_PROTECTION_ACTION">
+        <xlf:target state="translated">Activate Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="196" resname="IDS_EV_RANSOMWARE_REPORTED_MESSAGE">
+        <xlf:target state="translated">The file %s is infected with ransomware.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="197" resname="IDS_EV_RANSOMWARE_REPORTED_WARNING_MESSAGE">
+        <xlf:target state="translated">The ransomware has not been blocked. Activate protection to block any threat that might harm your device and put your data at risk.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="198" resname="IDS_EV_PUA_REPORTED_TITLE">
+        <xlf:target state="translated">Potentially unwanted application detected on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="199" resname="IDS_EV_PUA_REPORTED_MESSAGE">
+        <xlf:target state="translated">The app %s has been detected as a potentially unwanted application.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="200" resname="IDS_EV_PUA_REPORTED_WARNING_MESSAGE">
+        <xlf:target state="translated">The app has not been blocked. Activate protection to block any potentially unwanted applications and keep your device and data safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="201" resname="IDS_EV_RANSOMWARE_REPORTED_TITLE">
+        <xlf:target state="translated">Ransomware detected on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="202" resname="IDS_CAM_PROT_EV_TAB_TITLE">
+        <xlf:target state="translated">Webcam Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="203" resname="IDS_CAM_PROT_EV_ACTION_ENABLE">
+        <xlf:target state="translated">Enable</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="204" resname="IDS_CAM_PROT_EV_ACTION_GENERIC">
+        <xlf:target state="translated">Open Webcam protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="205" resname="IDS_CAM_PROT_EV_ACTION_ARTICLE">
+        <xlf:target state="translated">Learn more</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="206" resname="IDS_CAM_PROT_EV_BLOCKED_APP_SUBJ">
+        <xlf:target state="translated">%s application access to webcam blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="207" resname="IDS_CAM_PROT_EV_BLOCKED_BROWSER_SUBJ">
+        <xlf:target state="translated">%s browser access to webcam blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="208" resname="IDS_CAM_PROT_EV_BLOCKED_WINSTORE_SUBJ">
+        <xlf:target state="translated">Windows Store app access to webcam blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="209" resname="IDS_CAM_PROT_EV_BLOCKED_APP_MSG">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked %s application from gaining access to your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="210" resname="IDS_CAM_PROT_EV_BLOCKED_APP_COMMUNITY_MSG">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked %s application from gaining access to your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="211" resname="IDS_CAM_PROT_EV_BLOCKED_APP_MSG_EXTRA">
+        <xlf:target state="translated">Allow application if you want to use the webcam; keep blocking if you do not recognize the app or do not want to use the webcam right now.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="212" resname="IDS_CAM_PROT_EV_BLOCKED_BROWSER_MSG">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked %s browser from gaining access to your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="213" resname="IDS_CAM_PROT_EV_BLOCKED_BROWSER_COMMUNITY_MSG">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked %s application from gaining access to your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="214" resname="IDS_CAM_PROT_EV_BLOCKED_BROWSER_MSG_EXTRA">
+        <xlf:target state="translated">Allow browser if you want to use the webcam; keep blocking if you did not want to use the webcam right now.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="215" resname="IDS_CAM_PROT_EV_BLOCKED_WINSTORE_MSG">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked a Windows Store app from gaining access to your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="216" resname="IDS_CAM_PROT_EV_BLOCKED_WINSTORE_MSG_EXTRA">
+        <xlf:target state="translated">Allow application if you want to use the webcam; keep blocking if you did not want to use the webcam right now.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="217" resname="IDS_CAM_PROT_EV_ALLOWED_APP_SUBJ">
+        <xlf:target state="translated">%s application has been allowed to use your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="218" resname="IDS_CAM_PROT_EV_ALLOWED_BROWSER_SUBJ">
+        <xlf:target state="translated">%s browser has been allowed to use your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="219" resname="IDS_CAM_PROT_EV_ALLOWED_WINSTORE_SUBJ">
+        <xlf:target state="translated">A Windows Store app has been allowed to use your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="220" resname="IDS_CAM_PROT_EV_ALLOWED_APP_MSG">
+        <xlf:target state="translated">%s application has been allowed to use your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="221" resname="IDS_CAM_PROT_EV_ALLOWED_APP_COMMUNITY_MSG">
+        <xlf:target state="translated">%s application has been allowed to use your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="222" resname="IDS_CAM_PROT_EV_ALLOWED_BROWSER_MSG">
+        <xlf:target state="translated">%s browser has been allowed to use your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="223" resname="IDS_CAM_PROT_EV_ALLOWED_BROWSER_COMMUNITY_MSG">
+        <xlf:target state="translated">%s browser has been allowed to use your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="224" resname="IDS_CAM_PROT_EV_ALLOWED_WINSTORE_MSG">
+        <xlf:target state="translated">A Windows Store app has been allowed to use your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="225" resname="IDS_CAM_PROT_EV_GENERIC_MSG">
+        <xlf:target state="translated">Click the &quot;Learn more&quot; button below for an informative article on webcam privacy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="226" resname="IDS_CAM_PROT_EV_GENERIC_MSG_LINK">
+        <xlf:target state="translated">To find out more about webcam monitoring threats and how &lt;#ProductName#&gt; protects you, go to our {{0}}Webcam protection article.{{1}}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="227" resname="IDS_CAM_PROT_EV_STATE_CHAGED_SUBJ">
+        <xlf:target state="translated">Webcam Protection status changed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="228" resname="IDS_CAM_PROT_EV_ENABLED">
+        <xlf:target state="translated">The Webcam Protection feature has been enabled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="229" resname="IDS_CAM_PROT_EV_DISABLED">
+        <xlf:target state="translated">The Webcam Protection feature has been disabled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="230" resname="IDS_MIC_PROT_EV_TAB_TITLE">
+        <xlf:target state="translated">Microphone monitor</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="231" resname="IDS_MIC_PROT_EV_ACTION_GENERIC">
+        <xlf:target state="translated">Microphone monitor</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="232" resname="IDS_MIC_PROT_EV_ACTION_ARTICLE">
+        <xlf:target state="translated">Learn more</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="233" resname="IDS_MIC_PROT_EV_ACTION_ENABLE">
+        <xlf:target state="translated">Enable</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="234" resname="IDS_MIC_PROT_EV_ACCESS_APP_SUBJ">
+        <xlf:target state="translated">%s application is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="235" resname="IDS_MIC_PROT_EV_ACCESS_BROWSER_SUBJ">
+        <xlf:target state="translated">%s browser is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="236" resname="IDS_MIC_PROT_EV_ACCESS_WINSTORE_SUBJ">
+        <xlf:target state="translated">A Windows Store app is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="237" resname="IDS_MIC_PROT_EV_ACCESS_APP_MSG">
+        <xlf:target state="translated">%s application is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="238" resname="IDS_MIC_PROT_EV_ACCESS_APP_COMMUNITY_MSG">
+        <xlf:target state="translated">%s application is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="239" resname="IDS_MIC_PROT_EV_ACCESS_APP_APPREP_MSG">
+        <xlf:target state="translated">%s application is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="240" resname="IDS_MIC_PROT_EV_ACCESS_BROWSER_MSG">
+        <xlf:target state="translated">%s browser is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="241" resname="IDS_MIC_PROT_EV_ACCESS_BROWSER_COMMUNITY_MSG">
+        <xlf:target state="translated">%s browser is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="242" resname="IDS_MIC_PROT_EV_ACCESS_BROWSER_APPREP_MSG">
+        <xlf:target state="translated">%s browser is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="243" resname="IDS_MIC_PROT_EV_ACCESS_WINSTORE_MSG">
+        <xlf:target state="translated">A Windows Store app is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="244" resname="IDS_MIC_PROT_EV_GENERIC_MSG">
+        <xlf:target state="translated">To find out more about microphone monitoring threats and how &lt;#ProductName#&gt; protects you, click on Learn more.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="245" resname="IDS_MIC_PROT_EV_GENERIC_MSG_LINK">
+        <xlf:target state="translated">To find out more about microphone monitoring threats and how &lt;#ProductName#&gt; protects you, view our {{0}}Microphone activity article.{{1}}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="246" resname="IDS_MIC_PROT_EV_STATE_CHAGED_SUBJ">
+        <xlf:target state="translated">Microphone monitor module state changed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="247" resname="IDS_MIC_PROT_EV_ENABLED">
+        <xlf:target state="translated">Microphone monitor has been enabled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="248" resname="IDS_MIC_PROT_EV_DISABLED">
+        <xlf:target state="translated">Microphone monitor has been disabled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="249" resname="IDS_EV_NETSCAN_TITLE">
+        <xlf:target state="translated">Infected file detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="250" resname="IDS_EV_NETSCAN_POP3_DESC">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked an email sent to %s because it contains the attachment %s infected with %s. Your device is threat-free.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="251" resname="IDS_EV_NETSCAN_SMTP_DESC">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked an email sent by %s because it contains the attachment %s infected with %s. Your device is threat-free.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="252" resname="IDS_EV_NETSCAN_ACTION_ADD2WHITELIST">
+        <xlf:target state="translated">Add to exceptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="253" resname="IDS_EV_NETSCAN_ACTION_FULLSCAN">
+        <xlf:target state="translated">Full System Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="254" resname="IDS_EV_NETSCAN_ACTION_KB_BOTNETS">
+        <xlf:target state="translated">Learn more about botnets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="255" resname="IDS_EV_NETSCAN_ACTION_KB_EXPLOITS">
+        <xlf:target state="translated">Learn more about exploits</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="256" resname="IDS_EV_NETSCAN_ACTION_KB_DIRTRAVERSAL">
+        <xlf:target state="translated">Learn more about directory traversal exploit</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="257" resname="IDS_EV_NETSCAN_ACTION_KB_SQLINJECTION">
+        <xlf:target state="translated">Learn more about SQL injection exploit</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="258" resname="IDS_EV_NETSCAN_FEATURE">
+        <xlf:target state="translated">Online Threat Prevention</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="259" resname="IDS_EV_VULNERABILITY_FEATURE">
+        <xlf:target state="translated">Vulnerability</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="260" resname="IDS_EV_VULNERABILITY_WEAKPASS_TITLE">
+        <xlf:target state="translated">Weak password detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="261" resname="IDS_EV_VULNERABILITY_WEAKPASS_DESC">
+        <xlf:target state="translated">Vulnerability scan completed successfully. &lt;#ProductName#&gt; detected a weak password for the user: %s.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="262" resname="IDS_EV_VULNERABILITY_ACTION_CHANGEPASS">
+        <xlf:target state="translated">Change password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="263" resname="IDS_EV_VULNERABILITY_STATE_CHANGED_TITLE">
+        <xlf:target state="translated">Automatic Vulnerability scan status changed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="264" resname="IDS_EV_VULNERABILITY_STATE_ENABLED_DESC">
+        <xlf:target state="translated">Automatic Vulnerability Scan has been enabled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="265" resname="IDS_EV_VULNERABILITY_STATE_DISABLED_DESC">
+        <xlf:target state="translated">Vulnerability Scan has been disabled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="266" resname="IDS_EV_VULNERABILITY_ACTION_ENABLED">
+        <xlf:target state="translated">Enable</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="267" resname="IDS_EV_VULNERABILITY_WEAKPASS_FIXED_TITLE">
+        <xlf:target state="translated">Weak password fixed for %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="268" resname="IDS_EV_VULNERABILITY_WEAKPASS_CHANGED_DESC">
+        <xlf:target state="translated">The weak password detected for user %s was changed with a strong one.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="269" resname="IDS_EV_VULNERABILITY_WEAKPASS_FORCED_DESC">
+        <xlf:target state="translated">The weak password detected for user %s was forced to be changed at next login.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="270" resname="IDS_EV_VULNERABILITY_NONE_TITLE">
+        <xlf:target state="translated">Vulnerability scan completed successfully</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="271" resname="IDS_EV_VULNERABILITY_NONE_DESC">
+        <xlf:target state="translated">Vulnerability scan completed successfully. No vulnerabilities were detected on your system.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="272" resname="IDS_EV_VULNERABILITY_MEDIA_AUTORUN_ISSUE_TITLE">
+        <xlf:target state="translated">Media autorun is enabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="273" resname="IDS_EV_VULNERABILITY_MEDIA_AUTORUN_ISSUE_DESC">
+        <xlf:target state="translated">Vulnerability scan completed. Media autorun enabled.&#10;Media autorun option allows applications to automatically start when a removable media is inserted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="274" resname="IDS_EV_VULNERABILITY_AUTOMATIC_UPDATES_ISSUE_TITLE">
+        <xlf:target state="translated">Automatic Windows update is disabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="275" resname="IDS_EV_VULNERABILITY_AUTOMATIC_UPDATES_ISSUE_DESC">
+        <xlf:target state="translated">Automatic Windows update is disabled. It is recommended that you keep Automatic Windows updates enabled to make sure your system is protected against latest vulnerabilities discovered.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="276" resname="IDS_EV_VULNERABILITY_ACTION_FIX">
+        <xlf:target state="translated">Fix</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="277" resname="IDS_EV_VULNERABILITY_MEDIA_AUTORUN_FIXED_TITLE">
+        <xlf:target state="translated">Media autorun disabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="278" resname="IDS_EV_VULNERABILITY_MEDIA_AUTORUN_FIXED_DESC">
+        <xlf:target state="translated">Media autorun was disabled at user request.&#10;Media autorun option allows applications to automatically start when a removable media is inserted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="279" resname="IDS_EV_VULNERABILITY_AUTOMATIC_UPDATES_FIXED_TITLE">
+        <xlf:target state="translated">Windows automatic updates enabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="280" resname="IDS_EV_VULNERABILITY_AUTOMATIC_UPDATES_FIXED_DESC">
+        <xlf:target state="translated">Windows automatic update was enabled by user.&#10;Windows automatic update scans for critical system updates and installs them automatically.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="281" resname="IDS_EV_VULNERABILITY_CRITICAL_UPDATE_TITLE">
+        <xlf:target state="translated">Critical Windows update required</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="282" resname="IDS_EV_VULNERABILITY_CRITICAL_UPDATE_DESC">
+        <xlf:target state="translated">Vulnerability scan completed successfully.&#10;There is a new update available for your system. It is strongly recommended to install it to keep your system protected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="283" resname="IDS_EV_VULNERABILITY_CRITICAL_UPDATES_TITLE">
+        <xlf:target state="translated">Critical Windows updates required</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="284" resname="IDS_EV_VULNERABILITY_CRITICAL_UPDATES_DESC">
+        <xlf:target state="translated">Vulnerability scan completed successfully.&#10;There are new updates available for your system. It is strongly recommended to install them to keep your system protected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="285" resname="IDS_EV_VULNERABILITY_OTHER_UPDATE_TITLE">
+        <xlf:target state="translated">Optional Windows update detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="286" resname="IDS_EV_VULNERABILITY_OTHER_UPDATE_DESC">
+        <xlf:target state="translated">Vulnerability scan completed successfully.&#10;There is a new update available for your system.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="287" resname="IDS_EV_VULNERABILITY_OTHER_UPDATES_TITLE">
+        <xlf:target state="translated">Optional Windows updates detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="288" resname="IDS_EV_VULNERABILITY_OTHER_UPDATES_DESC">
+        <xlf:target state="translated">Vulnerability scan completed successfully.&#10;There are new updates available for your system.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="289" resname="IDS_EV_VULNERABILITY_ACTION_INSTALL_UPDATES">
+        <xlf:target state="translated">Install</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="290" resname="IDS_EV_VULNERABILITY_NR_UPDATES">
+        <xlf:target state="translated">Number of updates found:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="291" resname="IDS_EV_VULNERABILITY_APP_TITLE">
+        <xlf:target state="translated">An update for %s was found</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="292" resname="IDS_EV_VULNERABILITY_APP_DESC">
+        <xlf:target state="translated">Vulnerability scan completed. An update for %s was found.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="293" resname="IDS_EV_VULNERABILITY_APP_CVEONLY_TITLE">
+        <xlf:target state="translated">%s has vulnerabilities.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="294" resname="IDS_EV_VULNERABILITY_APP_CVEONLY_DESC">
+        <xlf:target state="translated">Vulnerability scan completed. %s has vulnerabilities but no update is available.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="295" resname="IDS_EV_VULNERABILITY_APP_INSTALLED_VERSION">
+        <xlf:target state="translated">Installed version: %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="296" resname="IDS_EV_VULNERABILITY_APP_LATEST_VERSION">
+        <xlf:target state="translated">Latest version: %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="297" resname="IDS_CVE_TYPE_GENERAL">
+        <xlf:target state="translated">general</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="298" resname="IDS_CVE_TYPE_EXECUTE_CODE">
+        <xlf:target state="translated">remote code execution</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="299" resname="IDS_CVE_TYPE_GAIN_PRIVILEGES">
+        <xlf:target state="translated">privilege gain</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="300" resname="IDS_CVE_TYPE_GAIN_INFO">
+        <xlf:target state="translated">private info access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="301" resname="IDS_CVE_TYPE_DOS">
+        <xlf:target state="translated">denial of service</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="302" resname="IDS_CVE_TYPE_BYPASS">
+        <xlf:target state="translated">authentication bypass</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="303" resname="IDS_CVE_TYPE_XSS">
+        <xlf:target state="translated">malicious code injection (cross site scripting)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="304" resname="IDS_CVE_TYPE_DIR_TRAVERSAL">
+        <xlf:target state="translated">restricted file access (directory traversal)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="305" resname="IDS_CVE_TYPE_CSRF">
+        <xlf:target state="translated">cross site request forgery</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="306" resname="IDS_CVE_LIST">
+        <xlf:target state="translated">%1!s!, %2!s!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="307" resname="IDS_NO_CVE_ISSUE">
+        <xlf:target state="translated">No vulnerabilities found.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="308" resname="IDS_1_CVE_ISSUE">
+        <xlf:target state="translated">Found one vulnerability of type: %s.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="309" resname="IDS_MORE_CVE_ISSUES">
+        <xlf:target state="translated">Found %d vulnerabilities of types: %s.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="310" resname="IDS_EV_VULNERABILITY_ACTION_UPDATE_APP">
+        <xlf:target state="translated">Update now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="311" resname="IDS_EV_IOR_ROUTINE_FIX_ENABLEPOLICY">
+        <xlf:target state="translated">Fix Issue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="312" resname="IDS_EV_IOR_ROUTINE_FIX_DISABLEPOLICY">
+        <xlf:target state="translated">Fix Issue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="313" resname="IDS_EV_IOR_ROUTINE_FIX_FIXPOLICY">
+        <xlf:target state="translated">Fix Issue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="314" resname="IDS_EV_IOR_ROUTINE_LEARNMORE">
+        <xlf:target state="translated">Learn More</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="315" resname="IDS_VU_APP_FLASH_OTHER_VERSIONS">
+        <xlf:target state="translated">http://get.adobe.com/flashplayer/otherversions/</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="316" resname="IDS_DATA_PROTECTION_FEATURE">
+        <xlf:target state="translated">Data Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="317" resname="IDS_FILESHREDDER_SUCCES_TITLE">
+        <xlf:target state="translated">File Shredder completed successfully</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="318" resname="IDS_FILESHREDDER_SUCCES_DESC">
+        <xlf:target state="translated">File Shredder completed successfully</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="319" resname="IDS_FILESHREDDER_FILES_NUMBER">
+        <xlf:target state="translated">Number of deleted files/folders:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="320" resname="IDS_FILESHREDDER_ERROR_STOPPED_TITLE">
+        <xlf:target state="translated">The File Shred process has been canceled by the user.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="321" resname="IDS_FILESHREDDER_ERROR_STOPPED_DESC">
+        <xlf:target state="translated">The File Shred process has been canceled by the user.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="322" resname="IDS_FILESHREDDER_FAILED_TITLE">
+        <xlf:target state="translated">File Shredder failed to complete successfully</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="323" resname="IDS_FILESHREDDER_FAILED_DESC">
+        <xlf:target state="translated">File Shredder failed to complete successfully</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="324" resname="IDS_WIFI_ADVISER_EV_TAB_TITLE">
+        <xlf:target state="translated">Wi-Fi Advisor</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="325" resname="IDS_WIFI_CONNECTION_HOME_WIFI_DETECTED_SECURE_TITLE_FORMAT">
+        <xlf:target state="translated">Set %s as your home network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="326" resname="IDS_WIFI_CONNECTION_HOME_WIFI_DETECTED_SECURE_MESSAGE_FORMAT">
+        <xlf:target state="translated">Setting a Wi-Fi network as your home network enables &lt;#ProductName#&gt; to perform a security assessment of your Wi-Fi connection.&#10;&#10;We will recommend potential actions to improve security and let you know what risk an unsafe home network could pose.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="327" resname="IDS_WIFI_CONNECTION_HOME_WIFI_DETECTED_OPEN_TITLE_FORMAT">
+        <xlf:target state="translated">Set %s as your home network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="328" resname="IDS_WIFI_CONNECTION_HOME_WIFI_DETECTED_OPEN_MESSAGE_FORMAT">
+        <xlf:target state="translated">Setting a Wi-Fi network as your home network enables &lt;#ProductName#&gt; to perform a security assessment of your Wi-Fi connection.&#10;&#10;We will recommend potential actions to improve security and let you know what risk an unsafe home network could pose.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="329" resname="IDS_WIFI_CONNECTION_HOME_WIFI_SET_OPEN_TITLE_FORMAT">
+        <xlf:target state="translated">Open home Wi-Fi</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="330" resname="IDS_WIFI_CONNECTION_HOME_WIFI_SET_OPEN_MESSAGE_FORMAT">
+        <xlf:source>Your home Wi-Fi network %s is open. Most of your Internet traffic travels unencrypted and is easy to intercept by unwanted 3rd parties.&#10;&#10;We recommend you to change the Wi-Fi settings to boost the security of your network:&#10;&#09;- set a strong Wi-Fi password by using at least 8 characters, one number or symbol and one upper case character&#10;&#09;- set strong security by choosing WPA2 Personal mode with AES encryption.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="331" resname="IDS_WIFI_CONNECTION_HOME_WIFI_DETECTED_RED_TITLE_FORMAT">
+        <xlf:target state="translated">Set %s as your home network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="332" resname="IDS_WIFI_CONNECTION_HOME_WIFI_DETECTED_RED_MESSAGE_FORMAT">
+        <xlf:target state="translated">Setting a Wi-Fi network as your home network enables &lt;#ProductName#&gt; to perform a security assessment of your Wi-Fi connection.&#10;&#10;We will recommend potential actions to improve security and let you know what risk an unsafe home network could pose.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="333" resname="IDS_WIFI_CONNECTION_HOME_WIFI_SET_RED_TITLE_FORMAT">
+        <xlf:target state="translated">Unsafe home Wi-Fi</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="334" resname="IDS_WIFI_CONNECTION_HOME_WIFI_SET_RED_MESSAGE_FORMAT">
+        <xlf:source>Your home Wi-Fi network %s is unsafe.&#10;&#10;We recommend you to change the Wi-Fi settings to boost the security of your network:&#10;&#09;- set a strong Wi-Fi password by using at least 8 characters, one number or symbol and one upper case character&#10;&#09;- set strong security by choosing WPA2 Personal mode with AES encryption.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="335" resname="IDS_WIFI_CONNECTION_HOME_WIFI_DETECTED_YELLOW_TITLE_FORMAT">
+        <xlf:target state="translated">Set %s as your home network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="336" resname="IDS_WIFI_CONNECTION_HOME_WIFI_DETECTED_YELLOW_MESSAGE_FORMAT">
+        <xlf:target state="translated">Setting a Wi-Fi network as your home network enables &lt;#ProductName#&gt; to perform a security assessment of your Wi-Fi connection.&#10;&#10;We will recommend potential actions to improve security and let you know what risk an unsafe home network could pose.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="337" resname="IDS_WIFI_CONNECTION_HOME_WIFI_SET_YELLOW_TITLE_FORMAT">
+        <xlf:target state="translated">Unsafe home Wi-Fi</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="338" resname="IDS_WIFI_CONNECTION_HOME_WIFI_SET_YELLOW_MESSAGE_FORMAT">
+        <xlf:source>Your home Wi-Fi network %s is unsafe.&#10;&#10;We recommend you to change the Wi-Fi settings to boost the security of your network:&#10;&#09;- set a strong Wi-Fi password by using at least 8 characters, one number or symbol and one upper case character&#10;&#09;- set strong security by choosing WPA2 Personal mode with AES encryption.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="339" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_DETECTED_SECURE_TITLE_FORMAT">
+        <xlf:target state="translated">Set %s as your office network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="340" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_DETECTED_SECURE_MESSAGE_FORMAT">
+        <xlf:target state="translated">Setting a Wi-Fi network as your office network enables &lt;#ProductName#&gt; to perform a security assessment of your Wi-Fi connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="341" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_DETECTED_OPEN_TITLE_FORMAT">
+        <xlf:target state="translated">Set %s as your office network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="342" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_DETECTED_OPEN_MESSAGE_FORMAT">
+        <xlf:target state="translated">Setting a Wi-Fi network as your office network enables &lt;#ProductName#&gt; to perform a security assessment of your Wi-Fi connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="343" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_SET_OPEN_TITLE_FORMAT">
+        <xlf:target state="translated">Open office Wi-Fi</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="344" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_SET_OPEN_MESSAGE_FORMAT">
+        <xlf:source>Your office Wi-Fi network %s is open. Most of your Internet traffic travels unencrypted and is easy to intercept by unwanted 3rd parties.&#10;&#10;We recommend you to change the Wi-Fi settings to boost the security of your network:&#10;&#09;- set a strong Wi-Fi password by using at least 8 characters, one number or symbol and one upper case character&#10;&#09;- set strong security by choosing WPA2 Personal mode with AES encryption.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="345" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_DETECTED_RED_TITLE_FORMAT">
+        <xlf:target state="translated">Set %s as your office network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="346" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_DETECTED_RED_MESSAGE_FORMAT">
+        <xlf:target state="translated">Setting a Wi-Fi network as your office network enables &lt;#ProductName#&gt; to perform a security assessment of your Wi-Fi connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="347" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_SET_RED_TITLE_FORMAT">
+        <xlf:target state="translated">Unsafe office Wi-Fi</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="348" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_SET_RED_MESSAGE_FORMAT">
+        <xlf:source>Your office Wi-Fi network %s is unsafe.&#10;&#10;We recommend you to change the Wi-Fi settings to boost the security of your network:&#10;&#09;- set a strong Wi-Fi password by using at least 8 characters, one number or symbol and one upper case character&#10;&#09;- set strong security by choosing WPA2 Personal mode with AES encryption.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="349" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_DETECTED_YELLOW_TITLE_FORMAT">
+        <xlf:target state="translated">Set %s as your office network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="350" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_DETECTED_YELLOW_MESSAGE_FORMAT">
+        <xlf:target state="translated">Setting a Wi-Fi network as your office network enables &lt;#ProductName#&gt; to perform a security assessment of your Wi-Fi connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="351" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_SET_YELLOW_TITLE_FORMAT">
+        <xlf:target state="translated">Unsafe office Wi-Fi</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="352" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_SET_YELLOW_MESSAGE_FORMAT">
+        <xlf:source>Your office Wi-Fi network %s is unsafe.&#10;&#10;We recommend you to change the Wi-Fi settings to boost the security of your network:&#10;&#09;- set a strong Wi-Fi password by using at least 8 characters, one number or symbol and one upper case character&#10;&#09;- set strong security by choosing WPA2 Personal mode with AES encryption.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="353" resname="IDS_WIFI_CONNECTION_PUBLIC_WIFI_CONNECTED_OPEN_TITLE_FORMAT">
+        <xlf:target state="translated">Open Wi-Fi network: %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="354" resname="IDS_WIFI_CONNECTION_PUBLIC_WIFI_CONNECTED_OPEN_MESSAGE_FORMAT">
+        <xlf:source>You connected to an open Wi-Fi network: %s. Open Wi-Fi networks do not require any password. Most of your Internet traffic travels unencrypted and is easy to intercept by unwanted 3rd parties.&#10;&#10;We recommend you to avoid the actions described below or use our secured browser to surf online - &lt;#ProductName#&gt; Safepay with Wi-Fi hotspot protection.&#10;&#10;&#09;- Check your bank account&#10;&#09;- Pay bills or fill taxes&#10;&#09;- Shop online&#10;&#09;- Send e-mails containing sensitive information</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="355" resname="IDS_WIFI_CONNECTION_PUBLIC_WIFI_CONNECTED_RED_TITLE_FORMAT">
+        <xlf:target state="translated">Unsafe Wi-Fi network: %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="356" resname="IDS_WIFI_CONNECTION_PUBLIC_WIFI_CONNECTED_RED_MESSAGE_FORMAT">
+        <xlf:target state="translated">You connected to an unsafe Wi-Fi network: %s. Wi-Fi networks using weak encryption or passwords make most of your internet traffic easy to intercept by unwanted 3rd parties.&#10;&#10;We recommend you to either connect to a different Wi-Fi network or use our secure browser &lt;#ProductName#&gt; Safepay to surf online.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="357" resname="IDS_WIFI_CONNECTION_PUBLIC_WIFI_CONNECTED_YELLOW_TITLE_FORMAT">
+        <xlf:target state="translated">Unsafe Wi-Fi network: %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="358" resname="IDS_WIFI_CONNECTION_PUBLIC_WIFI_CONNECTED_YELLOW_MESSAGE_FORMAT">
+        <xlf:target state="translated">You connected to an unsafe Wi-Fi network: %s. Wi-Fi networks using weak authentication or encryption make most of your Internet traffic easy to intercept by unwanted 3rd parties.&#10;&#10;We recommend you to use &lt;#ProductName#&gt; VPN to secure your connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="359" resname="IDS_WIFI_CONNECTION_HOME_WIFI_SET_OPEN_MESSAGE_FORMAT_VPN">
+        <xlf:source>Your home Wi-Fi network %s is open. Most of your Internet traffic travels unencrypted and is easy to intercept by unwanted 3rd parties.&#10;&#10;We recommend you to change the Wi-Fi settings to boost the security of your network:&#10;&#09;- set a strong Wi-Fi password by using at least 8 characters, one number or symbol and one upper case character&#10;&#09;- set strong security by choosing WPA2 Personal mode with AES encryption.&#10;&#10;Meanwhile we recommend you to use &lt;#ProductName#&gt; VPN.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="360" resname="IDS_WIFI_CONNECTION_HOME_WIFI_SET_RED_MESSAGE_FORMAT_VPN">
+        <xlf:source>Your home Wi-Fi network %s is unsafe.&#10;&#10;We recommend you to change the Wi-Fi settings to boost the security of your network:&#10;&#09;- set a strong Wi-Fi password by using at least 8 characters, one number or symbol and one upper case character&#10;&#09;- set strong security by choosing WPA2 Personal mode with AES encryption.&#10;&#10;Meanwhile we recommend you to use &lt;#ProductName#&gt; VPN.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="361" resname="IDS_WIFI_CONNECTION_HOME_WIFI_SET_YELLOW_MESSAGE_FORMAT_VPN">
+        <xlf:source>Your home Wi-Fi network %s is unsafe.&#10;&#10;We recommend you to change the Wi-Fi settings to boost the security of your network:&#10;&#09;- set a strong Wi-Fi password by using at least 8 characters, one number or symbol and one upper case character&#10;&#09;- set strong security by choosing WPA2 Personal mode with AES encryption.&#10;&#10;Meanwhile we recommend you to use &lt;#ProductName#&gt; VPN.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="362" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_SET_OPEN_MESSAGE_FORMAT_VPN">
+        <xlf:source>Your office Wi-Fi network %s is open. Most of your Internet traffic travels unencrypted and is easy to intercept by unwanted 3rd parties.&#10;&#10;We recommend you to change the Wi-Fi settings to boost the security of your network:&#10;&#09;- set a strong Wi-Fi password by using at least 8 characters, one number or symbol and one upper case character&#10;&#09;- set strong security by choosing WPA2 Personal mode with AES encryption.&#10;&#10;Meanwhile we recommend you to use &lt;#ProductName#&gt; VPN.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="363" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_SET_RED_MESSAGE_FORMAT_VPN">
+        <xlf:source>Your office Wi-Fi network %s is unsafe.&#10;&#10;We recommend you to change the Wi-Fi settings to boost the security of your network:&#10;&#09;- set a strong Wi-Fi password by using at least 8 characters, one number or symbol and one upper case character&#10;&#09;- set strong security by choosing WPA2 Personal mode with AES encryption.&#10;&#10;Meanwhile we recommend you to use &lt;#ProductName#&gt; VPN.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="364" resname="IDS_WIFI_CONNECTION_OFFICE_WIFI_SET_YELLOW_MESSAGE_FORMAT_VPN">
+        <xlf:source>Your office Wi-Fi network %s is unsafe.&#10;&#10;We recommend you to change the Wi-Fi settings to boost the security of your network:&#10;&#09;- set a strong Wi-Fi password by using at least 8 characters, one number or symbol and one upper case character&#10;&#09;- set strong security by choosing WPA2 Personal mode with AES encryption.&#10;&#10;Meanwhile we recommend you to use &lt;#ProductName#&gt; VPN.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="365" resname="IDS_WIFI_CONNECTION_PUBLIC_WIFI_CONNECTED_OPEN_MESSAGE_FORMAT_VPN">
+        <xlf:target state="translated">You connected to an open Wi-Fi network. Open Wi-Fi networks do not require any password. Most of your internet traffic travels unencrypted and is easy to intercept by unwanted 3rd parties.&#10;&#10;We recommend you to use &lt;#ProductName#&gt; VPN to secure your connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="366" resname="IDS_WIFI_CONNECTION_PUBLIC_WIFI_CONNECTED_RED_MESSAGE_FORMAT_VPN">
+        <xlf:target state="translated">You connected to an unsafe Wi-Fi network: %s. Wi-Fi networks using weak authentication or encryption make most of your Internet traffic easy to intercept by unwanted 3rd parties.&#10;&#10;We recommend you to use &lt;#ProductName#&gt; VPN to secure your connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="367" resname="IDS_WIFI_CONNECTION_PUBLIC_WIFI_CONNECTED_YELLOW_MESSAGE_FORMAT_VPN">
+        <xlf:target state="translated">You connected to an unsafe Wi-Fi network: %s. Wi-Fi networks using weak authentication or encryption make most of your Internet traffic vulnerable to intercept by unwanted 3rd parties.&#10;&#10;We recommend you to use &lt;#ProductName#&gt; VPN to secure your connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="368" resname="IDS_EVENT_ACTION_WIFI_CONNECTION_SET_HOME">
+        <xlf:target state="translated">Set As Home</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="369" resname="IDS_EVENT_ACTION_WIFI_CONNECTION_NOT_HOME">
+        <xlf:target state="translated">Not My Home Wi-Fi</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="370" resname="IDS_EVENT_ACTION_WIFI_CONNECTION_SET_OFFICE">
+        <xlf:target state="translated">Set As Office</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="371" resname="IDS_EVENT_ACTION_WIFI_CONNECTION_NOT_OFFICE">
+        <xlf:target state="translated">Not My Office Wi-Fi</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="372" resname="IDS_EVENT_ACTION_WIFI_CONNECTION_VIEW_DETAILS">
+        <xlf:target state="translated">View Details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="373" resname="IDS_EVENT_ACTION_WIFI_CONNECTION_CHANGE_SETTINGS">
+        <xlf:target state="translated">Change Wi-Fi settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="374" resname="IDS_EVENT_ACTION_WIFI_CONNECTION_OPEN_VPN">
+        <xlf:target state="translated">Open &lt;#ProductName#&gt; VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="375" resname="IDS_EVENT_ACTION_WIFI_CONNECTION_OPEN_SAFEPAY">
+        <xlf:target state="translated">Open &lt;#ProductName#&gt; Safepay</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="376" resname="IDS_AMSI_SUSPICIOUS_ACTIVITY_BLOCKED">
+        <xlf:target state="translated">Suspicious activity blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="377" resname="IDS_AMSI_POTENTIALLY_MALICIOUS">
+        <xlf:target state="translated">%s tried to load a malicious resource detected as %s and was blocked. Your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="378" resname="IDS_DIGITAL_IDENTITY_PROTECTION">
+        <xlf:target state="translated">Digital Identity Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="379" resname="IDS_EV_PROTECT_YOURSELF_ACTION">
+        <xlf:target state="translated">Protect yourself</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="380" resname="IDS_EV_READ_MORE_ACTION">
+        <xlf:target state="translated">Read more</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="381" resname="IDS_EV_RIFT_BREACH_DOMAIN">
+        <xlf:target state="translated">A security incident was reported for %s.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="382" resname="IDS_EV_RIFT_BREACH_NAME">
+        <xlf:target state="translated">Data breach alert for %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="383" resname="IDS_UPSELL">
+        <xlf:target state="translated">Upgrade to unlock this feature</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="384" resname="IDS_WIFI_CONNECTION_PUBLIC_WIFI_CONNECTED_OPEN_MESSAGE_FORMAT_VPN_CONNECTED">
+        <xlf:target state="translated">You connected to an open Wi-Fi network: %s. Open Wi-Fi networks do not require any password and make most of your Internet traffic easy to intercept by unwanted 3rd parties. &lt;#ProductName#&gt; VPN will automatically secure your connection and protect your privacy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="385" resname="IDS_WIFI_CONNECTION_PUBLIC_WIFI_CONNECTED_RED_MESSAGE_FORMAT_VPN_CONNECTED">
+        <xlf:target state="translated">You connected to an unsafe Wi-Fi network: %s. Wi-Fi networks using weak authentication or encryption make most of your Internet traffic easy to intercept by unwanted 3rd parties. &lt;#ProductName#&gt; VPN will automatically secure your connection and protect your privacy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="386" resname="IDS_WIFI_CONNECTION_PUBLIC_WIFI_CONNECTED_YELLOW_MESSAGE_FORMAT_VPN_CONNECTED">
+        <xlf:target state="translated">You connected to an unsafe Wi-Fi network: %s. Wi-Fi networks using weak authentication or encryption make most of your Internet traffic easy to intercept by unwanted 3rd parties. &lt;#ProductName#&gt; VPN will automatically secure your connection and protect your privacy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="387" resname="IDS_EV_DETECTION_NAME">
+        <xlf:target state="translated">Detection name: %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="388" resname="IDS_EV_PUA_ACTIONS_DESCRIPTION">
+        <xlf:target state="translated">If you do not trust this application, you can choose to move it to quarantine.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="389" resname="IDS_EVT_DESCR_QUAR_MOVE_TO_QUAR_PUA_ACTIONS">
+        <xlf:target state="translated">If you do not trust this application, you can choose to delete it.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

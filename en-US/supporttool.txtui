@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="SupportTool" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_APP_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Support Tool</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_BUTTON_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_BUTTON_CLOSE">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_START">
+        <xlf:target state="translated">Start</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_EXPLAIN_TOOLTIP_TITLE">
+        <xlf:target state="translated">Ticket details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_EXPLAIN_TOOLTIP">
+        <xlf:target state="translated">To properly identify your issue, the issue description should be clear. If the problem is recurrent, we recommend you to reproduce the issue before sending the ticket.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_GOT_IT">
+        <xlf:target state="translated">Got it</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_STEP1_HEADER">
+        <xlf:target state="translated">Ticket details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_STEP1_ISSUE_CATEGORY">
+        <xlf:target state="translated">Issue category*</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_STEP1_PLEASE_SELECT_OPT">
+        <xlf:target state="translated">Please select</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_STEP1_MALWARE_OPT">
+        <xlf:target state="translated">Malware</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_STEP1_FUNCTIONALITY_OPT">
+        <xlf:target state="translated">Functionality and How To&apos;s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_STEP1_CRASH_OPT">
+        <xlf:target state="translated">Error and Crash</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_STEP1_INSTALL_OPT">
+        <xlf:target state="translated">Download and Install</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_STEP1_ACTIVATION_OPT">
+        <xlf:target state="translated">Activation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_STEP1_PURCHASE_OPT">
+        <xlf:target state="translated">Purchase and Orders</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_STEP1_ISSUE_DESC">
+        <xlf:target state="translated">Issue description*</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_STEP1_TRY_TO_REPRODUCE_ISSUE">
+        <xlf:target state="translated">Try to reproduce the issue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_STEP1_ISSUE_REPRODUCED">
+        <xlf:target state="translated">I have reproduced the issue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_STEP1_TRY_AGAIN">
+        <xlf:target state="translated">Try again</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_STEP1_CONFIRM_TICKET">
+        <xlf:target state="translated">Confirm ticket</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_STEP1_OTHER">
+        <xlf:target state="translated">Other</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_STEP2_NAME_TEXT">
+        <xlf:target state="translated">Full name*</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_STEP2_EMAIL_TEXT">
+        <xlf:target state="translated">Email address*</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_STEP2_INVALID_EMAIL">
+        <xlf:target state="translated">Invalid email address</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_STEP2_YOUR_ISSUE">
+        <xlf:target state="translated">Your issue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_STEP2_ISSUE_CATEGORY_LABEL">
+        <xlf:target state="translated">Issue category:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_STEP2_REPRODUCED_LABEL">
+        <xlf:target state="translated">Reproduced:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_STEP2_ISSUE_DESC">
+        <xlf:target state="translated">Description:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_STEP2_AGREE_CHECKBOX">
+        <xlf:target state="translated">I agree to allow Bitdefender to gather and submit debugging information related to my issue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_STEP2_SEND_TICKET">
+        <xlf:target state="translated">Send Ticket</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_STEP2_BACK">
+        <xlf:target state="translated">Back</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_STEP2_CREATE_DBG_PACK">
+        <xlf:target state="translated">Create debug package</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_STATUS_INIT">
+        <xlf:target state="translated">Initializing...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_STATUS_GETFILES">
+        <xlf:target state="translated">Getting files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_STATUS_GETFILEINFO">
+        <xlf:target state="translated">Getting file info</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_STATUS_LISTFILES">
+        <xlf:target state="translated">Listing files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_STATUS_GETFOLDERS">
+        <xlf:target state="translated">Getting folders</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_STATUS_GETFOLDERSINFO">
+        <xlf:target state="translated">Getting folders info</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_STATUS_GETHARDWARE">
+        <xlf:target state="translated">Getting hardware info</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_STATUS_GETSOFTWARE">
+        <xlf:target state="translated">Getting software info</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_STATUS_GETREGKEYS">
+        <xlf:target state="translated">Getting registry keys</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_STATUS_GETREGVALUES">
+        <xlf:target state="translated">Getting registry values</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_STATUS_EXECTOOLS">
+        <xlf:target state="translated">Executing tools</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_STATUS_GETMODULES">
+        <xlf:target state="translated">Getting features</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_STATUS_GETEVENTLOGS">
+        <xlf:target state="translated">Getting event logs</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_STATUS_ZIPPING">
+        <xlf:target state="translated">Creating archive</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_STATUS_SUBMITTING">
+        <xlf:target state="translated">Submitting archive</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_STATUS_GETDUMPS">
+        <xlf:target state="translated">Getting product dumps...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_STATUS_DONE">
+        <xlf:target state="translated">Done.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_STEP3_GATHERING_TITLE">
+        <xlf:target state="translated">Gathering information...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_STEP3_SENDING_TITLE">
+        <xlf:target state="translated">Sending ticket...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_STEP3_RUNNING_TOOLS">
+        <xlf:target state="translated">Running diagnostics tool, this may take a while...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_STEP4_SUCCESS_TITLE">
+        <xlf:target state="translated">Your ticket has been sent</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_STEP4_SUCCESS_BODY">
+        <xlf:target state="translated">Thank you for your patience. You will be contacted by a Bitdefender support representative as soon as possible.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_STEP4_SUBMIT_ERROR_TITLE">
+        <xlf:target state="translated">There was a problem sending your ticket</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_STEP4_SUBMIT_ERROR_BODY">
+        <xlf:target state="translated">Please check your internet connection and try again later. If the problem persists, please {0}.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_STEP4_NOSUBMIT_TITLE">
+        <xlf:target state="translated">A support file has been created on your desktop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_STEP4_NOSUBMIT_BOTY">
+        <xlf:target state="translated">Please deliver the file to the Bitdefender support team.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_STEP4_CONTACT_SUPPORT">
+        <xlf:target state="translated">Contact support</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_STEP4_LOW_SPACE_TITLE">
+        <xlf:target state="translated">There was an error gathering debug information</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_STEP4_LOW_SPACE_BODY">
+        <xlf:target state="translated">Due to low disk space on your OS partition, support tool failed to gather debug information. Please free some disk space and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_STEP4_BUTTON_RETRY_SEND">
+        <xlf:target state="translated">Retry</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_REPRODUCE_POPUP_TITLE">
+        <xlf:target state="translated">Reproduce the issue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_REPRODUCE_POPUP_DESCRIPTION">
+        <xlf:target state="translated">Reproducing the issue will allow us to faster detect and solve the problem.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_REPRODUCE_SCREEN_CONTROLS">
+        <xlf:target state="translated">Screen controls</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_REPRODUCE_START">
+        <xlf:target state="translated">Start</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_REPRODUCING_ISSUE">
+        <xlf:target state="translated">Reproducing the issue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_GATHERING_DATA">
+        <xlf:target state="translated">Gathering data</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_FINISH">
+        <xlf:target state="translated">Finish</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_PROBLEM_REPRODUCED">
+        <xlf:target state="translated">Support Tool Note: The user reproduced the problem.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_STOP_QUERY">
+        <xlf:target state="translated">The operation will be canceled. Are you sure you want to continue?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_FILE_VERSION">
+        <xlf:target state="translated">File version:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_PROCESS_NAME">
+        <xlf:target state="translated">Process name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_INTERNAL_NAME">
+        <xlf:target state="translated">Internal name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_PRODUCT_NAME">
+        <xlf:target state="translated">Product name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_WINDOWS_VERSION">
+        <xlf:target state="translated">Windows version:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_WINDOWS_BUILD">
+        <xlf:target state="translated">Windows build:</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

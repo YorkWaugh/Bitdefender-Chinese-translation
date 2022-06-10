@@ -1,0 +1,1771 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="obk" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_TITLE">
+        <xlf:target state="translated">Safepay™ - %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_OPENLINK_NEWTAB">
+        <xlf:target state="translated">Open link in new tab</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_NEW_TAB">
+        <xlf:target state="translated">Untitled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_SETTINGS_TAB">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_FAVORITES_TAB">
+        <xlf:target state="translated">Bookmarks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_FAVORITES_TITLE">
+        <xlf:target state="translated">Bookmarks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_SETTINGS_TITLE">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_CREATE_TEXT">
+        <xlf:target state="translated">Create</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_CANCEL_TEXT">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_ENTER_TITLE">
+        <xlf:target state="translated">Name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_ENTER_URL">
+        <xlf:target state="translated">Url</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_NEW_BOOKMARK">
+        <xlf:target state="translated">Add new bookmark</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_DOWNLOAD_FOLDER_NAME">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_SAFEPAY_FULL_PRODUCTNAME">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay™</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_SAFEPAY_SHORT_PRODUCTNAME">
+        <xlf:target state="translated">Safepay ™</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_FAVORITES">
+        <xlf:target state="translated">See Bookmarks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_EXIT_TEXT">
+        <xlf:target state="translated">Exit</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_IDT_ADDNEWTAB">
+        <xlf:target state="translated">Add new tab</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_IDT_TABLIST">
+        <xlf:target state="translated">Tab list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_IDT_GOBACK">
+        <xlf:target state="translated">Go back one page</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_IDT_GOFORWARD">
+        <xlf:target state="translated">Go forward one page</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_IDT_RELOAD">
+        <xlf:target state="translated">Reload current page</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_IDT_OPENVK">
+        <xlf:target state="translated">Open virtual keyboard</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_IDT_ADDFAV">
+        <xlf:target state="translated">Add bookmark</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_IDT_PRINT">
+        <xlf:target state="translated">Print</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_IDT_OPENFAV">
+        <xlf:target state="translated">Bookmarks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_IDT_OPENSETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_IDT_STOP">
+        <xlf:target state="translated">Stop loading current page</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_RETRY">
+        <xlf:target state="translated">Retry</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_BROWSER_AUTO">
+        <xlf:target state="translated">When banking or shopping, choose the option that best fits your needs:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_SETTING_USEOBK_SAFE">
+        <xlf:target state="translated">Automatically open web page in Safepay™</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_SETTING_USEOBK_ASK">
+        <xlf:target state="translated">Recommend me to use Safepay™</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_SETTING_USEOBK_DEFAULT">
+        <xlf:target state="translated">Do not recommend me to use Safepay™</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_BROWSER_DOMAINS">
+        <xlf:target state="translated">Apply &lt;#ProductName#&gt; Safepay™ rules for accessed domains</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_COL_DOMAIN">
+        <xlf:target state="translated">Domain</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_COL_USAGE">
+        <xlf:target state="translated">Domain action</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_COL_REMOVE">
+        <xlf:target state="translated">Remove</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_HOTSPOT_PROTECTION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_NAVIGATION_ERROR">
+        <xlf:target state="translated">Navigation error</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_ERROR_HEADER">
+        <xlf:target state="translated">The navigation to %1!s! failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_ERROR_TEXT">
+        <xlf:target state="translated">Error %1!s!(%2!d!): %3!s!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_ERR_IO_PENDING">
+        <xlf:target state="translated">An asynchronous IO operation is not yet complete. This usually does not indicate a fatal error. Typically this error will be generated as a notification to wait for some external notification that the IO operation finally completed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_ERR_NONE">
+        <xlf:target state="translated">The operation was canceled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_ERR_INSUFFICIENT_RESOURCES">
+        <xlf:source />
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_ERR_OUT_OF_MEMORY">
+        <xlf:target state="translated">Memory allocation failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_ERR_UPLOAD_FILE_CHANGED">
+        <xlf:target state="translated">The file upload failed because the file&apos;s change time is different than expected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_ERR_SOCKET_NOT_CONNECTED">
+        <xlf:target state="translated">The socket is not connected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_ERR_FILE_EXISTS">
+        <xlf:target state="translated">File already exists.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_ERR_FILE_PATH_TOO_LONG">
+        <xlf:target state="translated">The length of file name is too long.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_ERR_FILE_NO_SPACE">
+        <xlf:target state="translated">Not enough free space on the disk.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_ERR_FILE_VIRUS_INFECTED">
+        <xlf:target state="translated">The file has a threat.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_ERR_BLOCKED_BY_CLIENT">
+        <xlf:target state="translated">Client chose to block request.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_ERR_NETWORK_CHANGED">
+        <xlf:target state="translated">The network changed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_ERR_BLOCKED_BY_ADMINISTRATOR">
+        <xlf:target state="translated">The request was blocked because the URL is enlisted in the blacklist configured by the domain administrator.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_ERR_SOCKET_IS_CONNECTED">
+        <xlf:target state="translated">The socket is already connected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_ERR_BLOCKED_ENROLLMENT_CHECK_PENDING">
+        <xlf:target state="translated">The request was blocked because the forced re-enrollment check is still pending.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_ERR_UPLOAD_STREAM_REWIND_NOT_SUPPORTED">
+        <xlf:target state="translated">Upload failed because the upload stream needs to be re-read, due to a retry or a redirect. The upload stream does not support the operation.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_ERR_PROXY_AUTH_UNSUPPORTED">
+        <xlf:target state="translated">Proxy requested authentication for tunnel establishment, with an unsupported method.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_ERR_BAD_SSL_CLIENT_AUTH_CERT">
+        <xlf:target state="translated">The SSL handshake failed because of a bad or missing client certificate.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_ERR_CONNECTION_TIMED_OUT">
+        <xlf:target state="translated">A connection attempt timed out.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_ERR_HOST_RESOLVER_QUEUE_TOO_LARGE">
+        <xlf:target state="translated">There are too many pending DNS resolves, so a request in the queue was aborted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_ERR_SOCKS_CONNECTION_FAILED">
+        <xlf:target state="translated">Failed to establish a connection to the SOCKS proxy server for a target host.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_ERR_SOCKS_CONNECTION_HOST_UNREACHABLE">
+        <xlf:target state="translated">The SOCKS proxy server failed to establish connection to the target host because that host is unreachable.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_ERR_ALPN_NEGOTIATION_FAILED">
+        <xlf:target state="translated">The request to negotiate an alternate protocol failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_ERR_SSL_NO_RENEGOTIATION">
+        <xlf:target state="translated">The peer sent a SSL no_renegotiation alert message.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_ERR_WINSOCK_UNEXPECTED_WRITTEN_BYTES">
+        <xlf:target state="translated">Winsock sometimes reports more data written than passed. This is probably due to a broken LSP.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_ERR_SSL_DECOMPRESSION_FAILURE_ALERT">
+        <xlf:target state="translated">A SSL peer sent a fatal decompression_failure alert. This typically occurs when a peer selects DEFLATE compression although it is not supported.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_ERR_SSL_BAD_RECORD_MAC_ALERT">
+        <xlf:target state="translated">A SSL peer sent a fatal bad_record_mac alert. This has been observed from servers with DEFLATE support that potentially contains bugs.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_ERR_PROXY_AUTH_REQUESTED">
+        <xlf:target state="translated">Proxy requested authentication for tunnel establishment.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_ERR_SSL_UNSAFE_NEGOTIATION">
+        <xlf:target state="translated">A known TLS strict server did not offer the renegotiation extension.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_ERR_PROXY_CONNECTION_FAILED">
+        <xlf:target state="translated">Could not create a connection to the proxy server. An error occurred either in resolving its name, or in connecting a socket to it.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_ERR_MANDATORY_PROXY_CONFIGURATION_FAILED">
+        <xlf:target state="translated">A mandatory proxy configuration could not be used, because the mandatory PAC script could not be fetched, parsed or executed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_ERR_PRECONNECT_MAX_SOCKET_LIMIT">
+        <xlf:target state="translated">The maximum socket limit for the pool was reached while pre-connecting.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_ERR_SSL_CLIENT_AUTH_PRIVATE_KEY_ACCESS_DENIED">
+        <xlf:target state="translated">The permission to use the SSL client certificate&apos;s private key was denied.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_ERR_SSL_CLIENT_AUTH_CERT_NO_PRIVATE_KEY">
+        <xlf:target state="translated">The SSL client certificate has no private key.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_ERR_PROXY_CERTIFICATE_INVALID">
+        <xlf:target state="translated">The certificate presented by the HTTPS Proxy was invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_ERR_NAME_RESOLUTION_FAILED">
+        <xlf:target state="translated">DNS name resolution failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_ERR_NETWORK_ACCESS_DENIED">
+        <xlf:target state="translated">Permission to access the network was denied. This is used to distinguish errors that were most likely caused by a firewall from other access denied errors.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_ERR_TEMPORARILY_THROTTLED">
+        <xlf:target state="translated">The request throttler module cancelled this request to avoid DDOS.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_ERR_HTTPS_PROXY_TUNNEL_RESPONSE_REDIRECT">
+        <xlf:target state="translated">A request to create a SSL tunnel connection through the HTTPS proxy received a non-200 (OK) and non-407 (Proxy Auth) response. The response body might include a description of why the request failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_ERR_SSL_CLIENT_AUTH_SIGNATURE_FAILED">
+        <xlf:target state="translated">We were unable to sign the Certificate Verify data of a SSL client authentication handshake with the client certificate&apos;s private key.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_ERR_MSG_TOO_BIG">
+        <xlf:target state="translated">The message was too large for the transport.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_ERR_WS_PROTOCOL_ERROR">
+        <xlf:target state="translated">Websocket protocol error. This indicates that we are terminating the connection due to a malformed frame or other protocol violation.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_ERR_ADDRESS_IN_USE">
+        <xlf:target state="translated">Returned when attempting to bind an address that is already in use.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_ERR_SSL_HANDSHAKE_NOT_COMPLETED">
+        <xlf:target state="translated">An operation failed because the SSL handshake is not completed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_ERR_SSL_BAD_PEER_PUBLIC_KEY">
+        <xlf:target state="translated">SSL peer&apos;s public key is invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_ERR_SSL_PINNED_KEY_NOT_IN_CERT_CHAIN">
+        <xlf:target state="translated">The certificate did not match the built-in public key pins for the host name.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_ERR_CLIENT_AUTH_CERT_TYPE_UNSUPPORTED">
+        <xlf:target state="translated">Server request for client certificate did not contain any supported types.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_ERR_SSL_DECRYPT_ERROR_ALERT">
+        <xlf:target state="translated">A SSL peer sent a fatal decryption error alert. This typically occurs when a peer could not correctly verify a signature or validate a message.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_ERR_WS_THROTTLE_QUEUE_TOO_LARGE">
+        <xlf:target state="translated">The new job was not pushed to queue, because there are too many pending websocket job instances.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_ERR_SSL_SERVER_CERT_CHANGED">
+        <xlf:target state="translated">The SSL server certificate changed in a renegotiation.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_ERR_SSL_UNRECOGNIZED_NAME_ALERT">
+        <xlf:target state="translated">The SSL server sent a fatal unrecognized_name alert.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_ERR_SOCKET_SET_RECEIVE_BUFFER_SIZE_ERROR">
+        <xlf:target state="translated">Failed to set a socket&apos;s receive buffer size as requested.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_ERR_SOCKET_SET_SEND_BUFFER_SIZE_ERROR">
+        <xlf:target state="translated">Failed to set a socket&apos;s send buffer size as requested.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_ERR_SOCKET_RECEIVE_BUFFER_SIZE_UNCHANGEABLE">
+        <xlf:target state="translated">Failed to set the socket&apos;s receive buffer size as requested, although set option returned success.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_ERR_SOCKET_SEND_BUFFER_SIZE_UNCHANGEABLE">
+        <xlf:target state="translated">Failed to set the socket&apos;s send buffer size as requested, despite success from setting option.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_ERR_SSL_CLIENT_AUTH_CERT_BAD_FORMAT">
+        <xlf:target state="translated">Failed to import a client certificate from the platform store into the SSL library.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_ERR_ICANN_NAME_COLLISION">
+        <xlf:target state="translated">Resolving a hostname to an IP address list included the IPv4 address &quot;127.0.53.53&quot;. This is a special IP address which ICANN recommends to indicate there was a name collision, and alert admins to a potential problem.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_ERR_SSL_SERVER_CERT_BAD_FORMAT">
+        <xlf:target state="translated">The SSL server presented a certificate which could not be decoded.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_ERR_CT_STH_PARSING_FAILED">
+        <xlf:target state="translated">Certificate Transparency received a signed tree head that failed to parse.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_ERR_CT_STH_INCOMPLETE">
+        <xlf:target state="translated">Certificate Transparency received a signed tree head with some of the fields missing.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_ERR_CT_CONSISTENCY_PROOF_PARSING_FAILED">
+        <xlf:target state="translated">Certificate Transparency failed to parse the received consistency proof.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_ERR_SSL_OBSOLETE_CIPHER">
+        <xlf:target state="translated">The SSL server required an unsupported cipher suite that has since been removed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_ERR_NO_BUFFER_SPACE">
+        <xlf:target state="translated">No socket buffer space is available.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_ERR_SSL_CLIENT_AUTH_NO_COMMON_ALGORITHMS">
+        <xlf:target state="translated">There were no common signature algorithms between our client certificate private key and the server&apos;s preferences.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_ERR_TLS13_DOWNGRADE_DETECTED">
+        <xlf:target state="translated">TLS 1.3 was enabled, but a lower version was negotiated and the server returned a value indicating it supported TLS 1.3.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_ERR_SSL_KEY_USAGE_INCOMPATIBLE">
+        <xlf:target state="translated">The server&apos;s certificate has a keyUsage extension incompatible with the negotiated TLS key exchange method.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_ERR_CERTIFICATE_TRANSPARENCY_REQUIRED">
+        <xlf:target state="translated">Certificate Transparency was required for this connection, but the server did not provide CT information that complied with the policy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_ERR_INVALID_HTTP_RESPONSE">
+        <xlf:target state="translated">The server was expected to return an HTTP/1.x response, but did not.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_ERR_CONTENT_DECODING_INIT_FAILED">
+        <xlf:target state="translated">Initializing content decoding failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_ERR_HTTP2_PUSHED_STREAM_NOT_AVAILABLE">
+        <xlf:target state="translated">The pushed stream claimed by the request is no longer available.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_ERR_TOO_MANY_RETRIES">
+        <xlf:target state="translated">An HTTP transaction was retried too many times due for authentication or invalid certificates.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="IDS_ERR_HTTP2_STREAM_CLOSED">
+        <xlf:target state="translated">Received an HTTP/2 frame on a closed stream.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="IDS_ERR_HTTP2_CLIENT_REFUSED_STREAM">
+        <xlf:target state="translated">Client is refusing an HTTP/2 stream.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="IDS_ERR_HTTP2_PUSHED_RESPONSE_DOES_NOT_MATCH">
+        <xlf:target state="translated">A pushed HTTP/2 stream was claimed by a request based on matching URL and request headers, but the pushed response headers do not match the request.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="IDS_ERR_HTTP_RESPONSE_CODE_FAILURE">
+        <xlf:target state="translated">The server returned a non-2xx HTTP response code.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="IDS_ERR_QUIC_CERT_ROOT_NOT_KNOWN">
+        <xlf:target state="translated">The certificate presented on a QUIC connection does not chain to a known root and the origin connected to is not on a list of domains where unknown roots are allowed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="IDS_ERR_PAC_SCRIPT_FAILED">
+        <xlf:target state="translated">The evaluation of the PAC script failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="IDS_ERR_REQUEST_RANGE_NOT_SATISFIABLE">
+        <xlf:target state="translated">Server cannot satisfy the requested range (error code 416).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="IDS_ERR_MALFORMED_IDENTITY">
+        <xlf:target state="translated">The identity used for authentication is invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="IDS_ERR_CONTENT_DECODING_FAILED">
+        <xlf:target state="translated">Content decoding of the response body failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="IDS_ERR_NETWORK_IO_SUSPENDED">
+        <xlf:target state="translated">An operation could not be completed because all network IO is suspended.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="IDS_ERR_SYN_REPLY_NOT_RECEIVED">
+        <xlf:target state="translated">FLIP data received without receiving a SYN_REPLY on the stream.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="128" resname="IDS_ERR_ENCODING_CONVERSION_FAILED">
+        <xlf:target state="translated">Converting the response to target encoding failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="129" resname="IDS_ERR_UNRECOGNIZED_FTP_DIRECTORY_LISTING_FORMAT">
+        <xlf:target state="translated">Unknown format of the FTP directory listing sent by server.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="130" resname="IDS_ERR_NO_SUPPORTED_PROXIES">
+        <xlf:target state="translated">There are no supported proxies in the provided list.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="131" resname="IDS_ERR_INVALID_AUTH_CREDENTIALS">
+        <xlf:target state="translated">Credentials could not be established during HTTP Authentication.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="132" resname="IDS_ERR_UNSUPPORTED_AUTH_SCHEME">
+        <xlf:target state="translated">HTTP Authentication scheme not supported on this machine.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="133" resname="IDS_ERR_ENCODING_DETECTION_FAILED">
+        <xlf:target state="translated">Failed to detect the response encoding.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="134" resname="IDS_ERR_MISSING_AUTH_CREDENTIALS">
+        <xlf:target state="translated">(GSSAPI) No Kerberos credentials were available during HTTP Authentication.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="135" resname="IDS_ERR_UNEXPECTED_SECURITY_LIBRARY_STATUS">
+        <xlf:target state="translated">An unexpected SSPI or GSSAPI status code was returned (status code is documented).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="136" resname="IDS_ERR_MISCONFIGURED_AUTH_ENVIRONMENT">
+        <xlf:target state="translated">The environment was not set up correctly for authentication (no KDC could be found or the principal is unknown).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="137" resname="IDS_ERR_UNDOCUMENTED_SECURITY_LIBRARY_STATUS">
+        <xlf:target state="translated">An undocumented SSPI or GSSAPI status code was returned.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="138" resname="IDS_ERR_RESPONSE_BODY_TOO_BIG_TO_DRAIN">
+        <xlf:target state="translated">The HTTP response was too big to drain.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="139" resname="IDS_ERR_RESPONSE_HEADERS_MULTIPLE_CONTENT_LENGTH">
+        <xlf:target state="translated">The HTTP response contained multiple distinct Content-Length headers.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="140" resname="IDS_ERR_PAC_NOT_IN_DHCP">
+        <xlf:target state="translated">No PAC URL configuration could be retrieved from DHCP, because either the DHCP configuration retrieve failed, or there was no PAC URL configured in DHCP.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="141" resname="IDS_ERR_RESPONSE_HEADERS_MULTIPLE_CONTENT_DISPOSITION">
+        <xlf:target state="translated">The HTTP response contained multiple Content-Disposition headers.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="142" resname="IDS_ERR_RESPONSE_HEADERS_MULTIPLE_LOCATION">
+        <xlf:target state="translated">The HTTP response contained multiple Location headers.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="143" resname="IDS_ERR_CONTENT_LENGTH_MISMATCH">
+        <xlf:target state="translated">The HTTP response body transferred fewer bytes than were advertised by the Content-Length header when the connection was closed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="144" resname="IDS_ERR_INCOMPLETE_CHUNKED_ENCODING">
+        <xlf:target state="translated">The HTTP response body is transferred with Chunked-Encoding, but the terminating zero-length chunk was never sent when the connection is closed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="145" resname="IDS_ERR_QUIC_PROTOCOL_ERROR">
+        <xlf:target state="translated">QUIC protocol error.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="146" resname="IDS_ERR_RESPONSE_HEADERS_TRUNCATED">
+        <xlf:target state="translated">The HTTP headers were truncated by an EOF.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="147" resname="IDS_ERR_QUIC_HANDSHAKE_FAILED">
+        <xlf:target state="translated">The QUIC crytpo handshake failed. The server was unable to read any requests sent. Please re-send.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="148" resname="IDS_ERR_PROXY_AUTH_REQUESTED_WITH_NO_CONNECTION">
+        <xlf:target state="translated">Source:Proxy Auth Requested without a valid Client Socket Handle.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="149" resname="IDS_ERR_HTTP_1_1_REQUIRED">
+        <xlf:target state="translated">HTTP/1.1 required error code received on HTTP/2 session.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="150" resname="IDS_ERR_PROXY_HTTP_1_1_REQUIRED">
+        <xlf:target state="translated">HTTP/1.1 required error code received on HTTP/2 session to proxy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="151" resname="IDS_ERR_PAC_SCRIPT_TERMINATED">
+        <xlf:target state="translated">The PAC script terminated and must be reloaded.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="152" resname="IDS_ERR_CACHE_READ_FAILURE">
+        <xlf:target state="translated">Requested entry could not be found in cache.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="153" resname="IDS_ERR_CACHE_WRITE_FAILURE">
+        <xlf:target state="translated">Unable to write to disk cache.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="154" resname="IDS_ERR_CACHE_OPERATION_NOT_SUPPORTED">
+        <xlf:target state="translated">Entry does not support the operation.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="155" resname="IDS_ERR_CACHE_OPEN_FAILURE">
+        <xlf:target state="translated">The disk cache is unable to open entry.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="156" resname="IDS_ERR_CACHE_CREATE_FAILURE">
+        <xlf:target state="translated">The disk cache is unable to create the entry.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="157" resname="IDS_ERR_CACHE_RACE">
+        <xlf:target state="translated">Multiple transactions are racing to create disk cache entries. This is an internal error.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="158" resname="IDS_ERR_CACHE_CHECKSUM_READ_FAILURE">
+        <xlf:target state="translated">The cache was unable to read a checksum record on an entry. This is an internal error.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="159" resname="IDS_ERR_CACHE_CHECKSUM_MISMATCH">
+        <xlf:target state="translated">The cache found an entry with an invalid checksum. This is an internal error.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="160" resname="IDS_ERR_CACHE_LOCK_TIMEOUT">
+        <xlf:target state="translated">Cache lock timeout.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="161" resname="IDS_ERR_NO_PRIVATE_KEY_FOR_CERT">
+        <xlf:target state="translated">The server responded to a &quot;keygen&quot; with a generated client certificate that we don&apos;t have the matching private key for.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="162" resname="IDS_ERR_ADD_USER_CERT_FAILED">
+        <xlf:target state="translated">Error adding user certificate to the operating system certificate database.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="163" resname="IDS_ERR_FTP_FAILED">
+        <xlf:target state="translated">FTP control connection command failed with generic error.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="164" resname="IDS_ERR_FTP_SERVICE_UNAVAILABLE">
+        <xlf:target state="translated">Service is shutting down. Try logging in later. FTP response code 421 (Service not available, closing control connection).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="165" resname="IDS_ERR_FTP_TRANSFER_ABORTED">
+        <xlf:target state="translated">The server has aborted the transfer. FTP response code 426 (Connection closed; transfer aborted).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="166" resname="IDS_ERR_FTP_FILE_BUSY">
+        <xlf:target state="translated">Server was unable to gain access to required file. FTP response code 450 (Requested file action not taken).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="167" resname="IDS_ERR_FTP_SYNTAX_ERROR">
+        <xlf:target state="translated">Server did not recognize the command due to syntax errors. FTP response code 500, 501 (Syntax error, command unrecognized and the requested action did not take place).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="168" resname="IDS_ERR_FTP_COMMAND_NOT_SUPPORTED">
+        <xlf:target state="translated">Server does not support the command. FTP response codes 502, 504 (Command not implemented or not implemented for that parameter).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="169" resname="IDS_ERR_FTP_BAD_COMMAND_SEQUENCE">
+        <xlf:target state="translated">Server did not recognize the command due to commands sequence. FTP response code 503. (Bad sequence of commands).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="170" resname="IDS_ERR_PKCS12_IMPORT_BAD_PASSWORD">
+        <xlf:target state="translated">PKCS #12 import failed because the password is incorrect.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="171" resname="IDS_ERR_PKCS12_IMPORT_FAILED">
+        <xlf:target state="translated">PKCS# 12 import failed due to unknown error.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="172" resname="IDS_ERR_IMPORT_CA_CERT_NOT_CA">
+        <xlf:target state="translated">Import failed - not a Certificate Authority certificate.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="173" resname="IDS_ERR_IMPORT_CERT_ALREADY_EXISTS">
+        <xlf:target state="translated">Import failed because certificate already exists in the database.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="174" resname="IDS_ERR_IMPORT_CA_CERT_FAILED">
+        <xlf:target state="translated">Certificate Authority import failed due to unknown error.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="175" resname="IDS_ERR_IMPORT_SERVER_CERT_FAILED">
+        <xlf:target state="translated">Server certificate import failed due to some internal error.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="176" resname="IDS_ERR_PKCS12_IMPORT_INVALID_MAC">
+        <xlf:target state="translated">PKCS #12 import failed due to invalid MAC.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="177" resname="IDS_ERR_PKCS12_IMPORT_INVALID_FILE">
+        <xlf:target state="translated">PKCS #12 import failed due to invalid/corrupt file.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="178" resname="IDS_ERR_PKCS12_IMPORT_UNSUPPORTED">
+        <xlf:target state="translated">PKCS #12 import failed due to unsupported features.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="179" resname="IDS_ERR_KEY_GENERATION_FAILED">
+        <xlf:target state="translated">Key generation failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="180" resname="IDS_ERR_PRIVATE_KEY_EXPORT_FAILED">
+        <xlf:target state="translated">Failure to export private key.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="181" resname="IDS_ERR_SELF_SIGNED_CERT_GENERATION_FAILED">
+        <xlf:target state="translated">Unable to generate self-signed certificate.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="182" resname="IDS_ERR_CERT_DATABASE_CHANGED">
+        <xlf:target state="translated">The certificate database changed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="183" resname="IDS_ERR_DNS_MALFORMED_RESPONSE">
+        <xlf:target state="translated">DNS resolver received a malformed response.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="184" resname="IDS_ERR_DNS_SERVER_REQUIRES_TCP">
+        <xlf:target state="translated">DNS server requires TCP.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="185" resname="IDS_ERR_DNS_SERVER_FAILED">
+        <xlf:target state="translated">DNS server failure. This is a generic error.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="186" resname="IDS_ERR_DNS_TIMED_OUT">
+        <xlf:target state="translated">DNS transaction timed out.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="187" resname="IDS_ERR_DNS_CACHE_MISS">
+        <xlf:target state="translated">Cache entry not found for cache-only lookup.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="188" resname="IDS_ERR_DNS_SEARCH_EMPTY">
+        <xlf:target state="translated">Suffix search list rules prevent resolution of the given host name.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="189" resname="IDS_ERR_DNS_SORT_ERROR">
+        <xlf:target state="translated">Failed to sort addresses according to RFC3484. This is an internal DNS error.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="190" resname="IDS_ERR_FAILED">
+        <xlf:target state="translated">Connection failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="191" resname="IDS_ERR_ABORTED">
+        <xlf:target state="translated">Connection aborted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="192" resname="IDS_ERR_INVALID_ARGUMENT">
+        <xlf:target state="translated">Invalid argument.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="193" resname="IDS_ERR_INVALID_HANDLE">
+        <xlf:target state="translated">Invalid handle.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="194" resname="IDS_ERR_FILE_NOT_FOUND">
+        <xlf:target state="translated">File not found</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="195" resname="IDS_ERR_TIMED_OUT">
+        <xlf:target state="translated">The operation timed out.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="196" resname="IDS_ERR_FILE_TOO_BIG">
+        <xlf:target state="translated">File too big.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="197" resname="IDS_ERR_UNEXPECTED">
+        <xlf:target state="translated">Unexpected error.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="198" resname="IDS_ERR_ACCESS_DENIED">
+        <xlf:target state="translated">Access denied.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="199" resname="IDS_ERR_NOT_IMPLEMENTED">
+        <xlf:target state="translated">Not implemented.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="200" resname="IDS_ERR_CONTEXT_SHUT_DOWN">
+        <xlf:target state="translated">An error occurred on one of the loaded frames which can lead to page malfunctions (Underlying context has shut down).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="201" resname="IDS_ERR_BLOCKED_BY_RESPONSE">
+        <xlf:target state="translated">An error occurred on one of the loaded frames which can lead to page malfunctions (The request failed because the response was delivered along with requirements which are not met).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="202" resname="IDS_ERR_CLEARTEXT_NOT_PERMITTED">
+        <xlf:target state="translated">An error occurred on one of the loaded frames which can lead to page malfunctions (The request was blocked by system policy disallowing some or all clear text requests).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="203" resname="IDS_ERR_CONNECTION_CLOSED">
+        <xlf:target state="translated">The server unexpectedly closed the connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="204" resname="IDS_ERR_CONNECTION_RESET">
+        <xlf:target state="translated">The connection was reset.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="205" resname="IDS_ERR_CONNECTION_REFUSED">
+        <xlf:target state="translated">The server refused the connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="206" resname="IDS_ERR_CONNECTION_ABORTED">
+        <xlf:target state="translated">Connection aborted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="207" resname="IDS_ERR_CONNECTION_FAILED">
+        <xlf:target state="translated">The attempt to connect to the server failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="208" resname="IDS_ERR_NAME_NOT_RESOLVED">
+        <xlf:target state="translated">Unable to resolve the server&apos;s DNS address.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="209" resname="IDS_ERR_INTERNET_DISCONNECTED">
+        <xlf:target state="translated">The internet connection has been lost.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="210" resname="IDS_ERR_SSL_PROTOCOL_ERROR">
+        <xlf:target state="translated">SSL protocol error</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="211" resname="IDS_ERR_ADDRESS_INVALID">
+        <xlf:target state="translated">The specified address is invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="212" resname="IDS_ERR_ADDRESS_UNREACHABLE">
+        <xlf:target state="translated">Unable to reach the server.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="213" resname="IDS_ERR_SSL_CLIENT_AUTH_CERT_NEEDED">
+        <xlf:target state="translated">A certificate-based authentication is needed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="214" resname="IDS_ERR_TUNNEL_CONNECTION_FAILED">
+        <xlf:target state="translated">The tunnel connection failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="215" resname="IDS_ERR_NO_SSL_VERSIONS_ENABLED">
+        <xlf:target state="translated">No SSL versions enabled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="216" resname="IDS_ERR_SSL_VERSION_OR_CIPHER_MISMATCH">
+        <xlf:target state="translated">The SSL version or cipher mismatched.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="217" resname="IDS_ERR_SSL_RENEGOTIATION_REQUESTED">
+        <xlf:target state="translated">The SSL renegotiation requested.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="218" resname="IDS_ERR_CERT_COMMON_NAME_INVALID">
+        <xlf:target state="translated">The certificate common name is invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="219" resname="IDS_ERR_CERT_DATE_INVALID">
+        <xlf:target state="translated">The certificate date is invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="220" resname="IDS_ERR_CERT_AUTHORITY_INVALID">
+        <xlf:target state="translated">The page&apos;s security certificate is not trusted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="221" resname="IDS_ERR_CERT_CONTAINS_ERRORS">
+        <xlf:target state="translated">The page&apos;s security certificate contains errors.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="222" resname="IDS_ERR_CERT_NO_REVOCATION_MECHANISM">
+        <xlf:target state="translated">No revocation mechanism found.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="223" resname="IDS_ERR_CERT_UNABLE_TO_CHECK_REVOCATION">
+        <xlf:target state="translated">Cannot check revocation mechanism.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="224" resname="IDS_ERR_CERT_REVOKED">
+        <xlf:target state="translated">The page&apos;s security certificate has been revoked.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="225" resname="IDS_ERR_CERT_INVALID">
+        <xlf:target state="translated">The page&apos;s security certificate is invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="226" resname="IDS_ERR_CERT_WEAK_SIGNATURE_ALGORITHM">
+        <xlf:target state="translated">The page&apos;s security certificate signature algorithm is weak.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="227" resname="IDS_ERR_CERT_NON_UNIQUE_NAME">
+        <xlf:target state="translated">The page&apos;s security certificate name is not unique.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="228" resname="IDS_ERR_CERT_WEAK_KEY">
+        <xlf:target state="translated">The page&apos;s security certificate key is weak.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="229" resname="IDS_ERR_CERT_NAME_CONSTRAINT_VIOLATION">
+        <xlf:target state="translated">The page&apos;s security certificate name has a constraint violation.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="230" resname="IDS_ERR_CERT_VALIDITY_TOO_LONG">
+        <xlf:target state="translated">The page&apos;s security certificate has a validity period that is too long.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="231" resname="IDS_ERR_CERT_SYMANTEC_LEGACY">
+        <xlf:target state="translated">The site&apos;s security certificate is chained to a legacy Symantec root that is no longer trusted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="232" resname="IDS_ERR_CERT_KNOWN_INTERCEPTION_BLOCKED">
+        <xlf:target state="translated">The site&apos;s security certificate is known to be used for interception by an entity other than the device owner.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="233" resname="IDS_ERR_INVALID_URL">
+        <xlf:target state="translated">The URL is invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="234" resname="IDS_ERR_DISALLOWED_URL_SCHEME">
+        <xlf:target state="translated">The URL scheme is disallowed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="235" resname="IDS_ERR_UNKNOWN_URL_SCHEME">
+        <xlf:target state="translated">Unknown URL scheme.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="236" resname="IDS_ERR_TOO_MANY_REDIRECTS">
+        <xlf:target state="translated">There were too many redirects.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="237" resname="IDS_ERR_UNSAFE_REDIRECT">
+        <xlf:target state="translated">An unsafe redirection has been encountered.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="238" resname="IDS_ERR_UNSAFE_PORT">
+        <xlf:target state="translated">The port is unsafe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="239" resname="IDS_ERR_INVALID_RESPONSE">
+        <xlf:target state="translated">An invalid response has been received from server.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="240" resname="IDS_ERR_INVALID_CHUNKED_ENCODING">
+        <xlf:target state="translated">Invalid chunked encoding.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="241" resname="IDS_ERR_METHOD_NOT_SUPPORTED">
+        <xlf:target state="translated">Method not supported.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="242" resname="IDS_ERR_UNEXPECTED_PROXY_AUTH">
+        <xlf:target state="translated">Unexpected proxy authentication.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="243" resname="IDS_ERR_EMPTY_RESPONSE">
+        <xlf:target state="translated">The server returned an empty response.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="244" resname="IDS_ERR_RESPONSE_HEADERS_TOO_BIG">
+        <xlf:target state="translated">The response headers are too big.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="245" resname="IDS_ERR_CACHE_MISS">
+        <xlf:target state="translated">The requested entry was not found in the cache.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="246" resname="IDS_ERR_INSECURE_RESPONSE">
+        <xlf:target state="translated">The response received from server is not secure.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="247" resname="IDS_DEFAULT">
+        <xlf:target state="translated">Unknown error.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="248" resname="IDS_NAVERR_TITLE">
+        <xlf:target state="translated">An error occurred on one of the loaded frames which can lead to page malfunctions.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="249" resname="IDS_LOADING">
+        <xlf:target state="translated">Waiting for %1!s! ...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="250" resname="IDS_VPN_WAIT">
+        <xlf:target state="translated">Please wait while the connection is being secured</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="251" resname="IDS_VPN_FAILED_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay™ could not enable &lt;#ProductName#&gt; VPN at the moment. You can choose to retry the connection or proceed with the local protection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="252" resname="IDS_VPN_FAILED">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay™ could not enable &lt;#ProductName#&gt; VPN at the moment. You can choose to retry the connection or proceed with the local protection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="253" resname="IDS_VPN_RETRY">
+        <xlf:target state="translated">Retry(%d)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="254" resname="IDS_VPN_CONTACTSUPPORT">
+        <xlf:target state="translated">Contact support</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="255" resname="IDS_VPN_CANCEL">
+        <xlf:target state="translated">Proceed with local protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="256" resname="IDS_VPN_SUCCESS">
+        <xlf:target state="translated">&lt;#ProductName#&gt; VPN is enabled. Your connection is secured.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="257" resname="IDS_VPN_TAB">
+        <xlf:target state="translated">&lt;#ProductName#&gt; VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="258" resname="IDS_VK_TITLE">
+        <xlf:target state="translated">Virtual Keyboard</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="259" resname="IDS_VPN_ENTRYNAME">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay™</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="260" resname="IDS_CONTEXTMENU_COPY">
+        <xlf:target state="translated">Copy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="261" resname="IDS_CONTEXTMENU_PASTE">
+        <xlf:target state="translated">Paste</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="262" resname="IDS_SHIFT">
+        <xlf:target state="translated">Shift</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="263" resname="IDS_ENTER">
+        <xlf:target state="translated">Enter</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="264" resname="IDS_CAPS">
+        <xlf:target state="translated">Caps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="265" resname="IDS_BACKSPACE">
+        <xlf:target state="translated">&#8592;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="266" resname="IDS_FN">
+        <xlf:target state="translated">Fn</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="267" resname="IDS_VIRTUALPRINTER_MSG">
+        <xlf:target state="translated">Virtual printers are not supported in &lt;#ProductName#&gt; Safepay™. To be able to print in &lt;#ProductName#&gt; Safepay™, please set your physical printer as default in the Printers &amp; scanners option in Windows.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="268" resname="IDS_ZERODPIPRINTER_MSG">
+        <xlf:target state="translated">Your page fails to print due to a printer malfunction. This may be caused by an error in the print driver or in communicating with the printer. Please verify your default printer.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="269" resname="IDS_NODEFAULTPRINTER_MSG">
+        <xlf:target state="translated">The default printer is not available, or not installed correctly. Please verify that your non-virtual default printer was installed correctly.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="270" resname="IDS_SSL_NAVIGATION_ERROR">
+        <xlf:target state="translated">SSL Error</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="271" resname="IDS_SSL_ERR_HEADER_BIG">
+        <xlf:target state="translated">The security certificate for this page is not trusted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="272" resname="IDS_SSL_ERR_HEADER">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay™ attempted to connect to %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="273" resname="IDS_SSL_ERR_TEXT">
+        <xlf:target state="translated">and the following error(s) were encountered:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="274" resname="IDS_SSL_ERR_COMMON_NAME_INVALID">
+        <xlf:target state="translated">The server&apos;s certificate common name did not match the host name.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="275" resname="IDS_SSL_ERR_DATE_INVALID">
+        <xlf:target state="translated">The server&apos;s certificate appears to either not yet be valid or to be expired.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="276" resname="IDS_SSL_ERR_AUTHORITY_INVALID">
+        <xlf:target state="translated">The server&apos;s certificate is signed by an untrustworthy authority.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="277" resname="IDS_SSL_ERR_NO_REVOCATION_MECHANISM">
+        <xlf:target state="translated">The server&apos;s certificate does not have a mechanism for determining if it is revoked or not.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="278" resname="IDS_SSL_ERR_UNABLE_TO_CHECK_REVOCATION">
+        <xlf:target state="translated">The server&apos;s certificate revocation mechanism is not available.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="279" resname="IDS_SSL_ERR_CERIFICATE_REVOKED">
+        <xlf:target state="translated">The server&apos;s certificate has been revoked.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="280" resname="IDS_SSL_ERR_CERIFICATE_INVALID">
+        <xlf:target state="translated">The server&apos;s certificate is invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="281" resname="IDS_SSL_ERR_WEAK_SIGNATURE_ALGORITHM">
+        <xlf:target state="translated">The server&apos;s certificate is signed using a weak signature algorithm.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="282" resname="IDS_SSL_ERR_NON_UNIQUE_NAME">
+        <xlf:target state="translated">The server&apos;s certificate host name is not unique.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="283" resname="IDS_SSL_ERR_NOT_ISSUED_BY_KNOWN_ROOT_CA">
+        <xlf:target state="translated">The server&apos;s certificate is not issued by a trusted certificate authority.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="284" resname="IDS_SSL_BACKTOSAFETY">
+        <xlf:target state="translated">Back to safety</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="285" resname="IDS_RENDERCRASH_NAVIGATION_ERROR">
+        <xlf:target state="translated">Webpage error</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="286" resname="IDS_RENDERCRASH_ERR_HEADER_BIG">
+        <xlf:target state="translated">Webpage error</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="287" resname="IDS_RENDERCRASH_ERR_HEADER">
+        <xlf:target state="translated">The webpage has quit unexpectedly. The problem may have been caused by an exception, or another exceptional condition such as blocking scripts or requests generated by the webpage.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="288" resname="IDS_RENDERCRASH_ERR_HEADER_RESOLUTION">
+        <xlf:target state="translated">Please Reload page or go Back to the previous page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="289" resname="IDS_RENDERCRASH_ERR_TEXT">
+        <xlf:target state="translated">The following error was encountered:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="290" resname="IDS_RENDERCRASH_ERR_ABNORMAL_TERMINATION">
+        <xlf:target state="translated">The renderer process terminated abnormally.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="291" resname="IDS_RENDERCRASH_ERR_PROCESS_WAS_KILLED">
+        <xlf:target state="translated">The renderer process was killed, either manually, or by another process.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="292" resname="IDS_RENDERCRASH_ERR_PROCESS_CRASHED">
+        <xlf:target state="translated">The renderer process has crashed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="293" resname="IDS_RENDERCRASH_ERR_PROCESS_OOM">
+        <xlf:target state="translated">The renderer process is out of memory.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="294" resname="IDS_RENDERCRASH_ERR_UNKNOWN">
+        <xlf:target state="translated">The renderer process terminated abnormally, but the cause is unknown.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="295" resname="IDS_RENDERCRASH_BACKTOPREVIOUSPAGE">
+        <xlf:target state="translated">Back to previous page</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="296" resname="IDS_RENDERCRASH_RELOADPAGE">
+        <xlf:target state="translated">Reload page</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="297" resname="IDS_RENDERCRASH_RELOAD_TEXT">
+        <xlf:target state="translated">Reload the page</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="313" resname="IDS_DOWNLOAD_TITLE_ERROR">
+        <xlf:target state="translated">Download error</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="314" resname="IDS_DOWNLOAD_TITLE_SUCCESS">
+        <xlf:target state="translated">Download successful</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="315" resname="IDS_DOWNLOAD_MSG_ERROR">
+        <xlf:target state="translated">The file %s failed to download. Please check your internet connection and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="316" resname="IDS_DOWNLOAD_MSG_ERROR_M">
+        <xlf:target state="translated">One or more files failed to download. Please check your internet connection and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="317" resname="IDS_DOWNLOAD_MSG_SUCCESS">
+        <xlf:target state="translated">The file %s has been downloaded successfully.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="318" resname="IDS_DOWNLOAD_MSG_SUCCESS_M">
+        <xlf:target state="translated">One or more files downloaded successfully.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="319" resname="IDS_DOWNLOAD_SIZE_IS_MB">
+        <xlf:target state="translated">MB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="320" resname="IDS_DOWNLOAD_SIZE_IS_KB">
+        <xlf:target state="translated">KB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="321" resname="IDS_DOWNLOAD_SIZE_IS_B">
+        <xlf:target state="translated">bytes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="322" resname="IDS_OPEN_DOWNLOADEDFILES">
+        <xlf:target state="translated">Open</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="323" resname="IDS_OPEN_PRINTERS">
+        <xlf:target state="translated">Open Printers &amp; scanners</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="326" resname="IDS_DONOTWARNME_ANYMORE">
+        <xlf:target state="translated">Do not display this warning again</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="327" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="328" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="346" resname="IDS_URL_BLOCKED_ERROR">
+        <xlf:target state="translated">URL blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="347" resname="IDS_URL_BLOCKED_ERR_HEADER_BIG">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay™ blocked this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="348" resname="IDS_URL_BLOCKED_ERR_HEADER">
+        <xlf:target state="translated">The page you attempt to open is classified as %s by &lt;#ProductName#&gt; Safepay™.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="349" resname="IDS_URL_BLOCKED_BACKTOSAFETY">
+        <xlf:target state="translated">Back to previous page</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="350" resname="IDS_VPN_ICON_SECURE_HELP">
+        <xlf:target state="translated">You are using a secured WiFi connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="351" resname="IDS_VPN_ICON_INSECURE_NO_ACCOUNT_HELP">
+        <xlf:target state="translated">Your connection is not secured by Hotspot protection. Click the Activate now button to explore the benefits of Hotspot protection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="352" resname="IDS_VPN_ICON_INSECURE_CONNECT_FAILED_HELP">
+        <xlf:target state="translated">&lt;#ProductName#&gt; VPN could not be enabled. Your connection is not secured.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="353" resname="IDS_VPN_ICON_INSECURE_DISABLED_HELP">
+        <xlf:target state="translated">You are using an unsecured Wi-Fi connection. Please enable &lt;#ProductName#&gt; to be fully protected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="354" resname="IDS_SCAN_TITLE">
+        <xlf:target state="translated">Scanning (%d%%)...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="355" resname="IDS_SCAN_START">
+        <xlf:target state="translated">Starting....</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="356" resname="IDS_SCANNING_STATUS">
+        <xlf:target state="translated">%s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="357" resname="IDS_IDT_WALLET">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet is On</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="358" resname="IDS_IDT_WALLET_NOT_CONFIGURED">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet is not configured</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="359" resname="IDS_IDT_WALLET_OFF">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet is Off</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="360" resname="IDS_IDT_WALLET_LOCKED">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet is locked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="361" resname="IDS_SWITCHTODESKTOP">
+        <xlf:target state="translated">Switch to Desktop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="362" resname="IDS_STARTUP_SCAN">
+        <xlf:target state="translated">Scan the system for active infections when starting &lt;#ProductName#&gt; Safepay™</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="363" resname="IDS_URL_SCAN">
+        <xlf:target state="translated">Scan Web Pages</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="364" resname="IDS_PROXY_SETTINGS">
+        <xlf:target state="translated">Proxy settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="365" resname="IDS_ADMIN_SETTINGS">
+        <xlf:target state="translated">Import proxy settings from default browser</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="366" resname="IDS_CUSTOM_SETTINGS">
+        <xlf:target state="translated">Custom proxy settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="367" resname="IDS_USER_ADRESS">
+        <xlf:target state="translated">Address</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="368" resname="IDS_USER_PORT">
+        <xlf:target state="translated">Port</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="369" resname="IDS_USER_USERNAME">
+        <xlf:target state="translated">Account Name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="370" resname="IDS_USER_PASSWORD">
+        <xlf:target state="translated">Password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="371" resname="IDS_PRTSCR_DISABLED">
+        <xlf:target state="translated">To enhance security Print Screen is disabled in secure desktop.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="372" resname="IDS_SCAN_HELP">
+        <xlf:target state="translated">There are threats that can compromise any activity you perform on your device once they infect it. &lt;#ProductName#&gt; Safepay™ is checking your system to make sure that your session doesn&apos;t run the risk of getting compromised.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="373" resname="IDS_SCAN_OK">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay™ finished checking your system and no active threats were detected.&lt;br/&gt;Your session is &lt;span style=&apos;color:green;&apos;&gt;&lt;b&gt;safe&lt;/b&gt;&lt;/span&gt;.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="374" resname="IDS_SCAN_INFECTED">
+        <xlf:source>&lt;#ProductName#&gt; Safepay™ detected active malware on your system. It is not safe to perform sensitive transactions in a compromised environment.&#13;&#10;Follow our recommendations to fix the problem.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="375" resname="IDS_FIX_PROBLEM">
+        <xlf:target state="translated">Find a solution</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="377" resname="IDS_REBOOT_REQUEST_MESSAGE">
+        <xlf:target state="translated">You must restart your device in order to finalize the update.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="378" resname="IDS_REBOOT_NOW">
+        <xlf:target state="translated">Restart Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="379" resname="IDS_REBOOT_LATER">
+        <xlf:target state="translated">Restart Later</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="380" resname="IDS_FEEDBACK">
+        <xlf:target state="translated">Feedback</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="381" resname="IDS_UPDATE_SETTINGS">
+        <xlf:target state="translated">Update Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="382" resname="IDS_AUTOMATIC_UPDATE">
+        <xlf:target state="translated">Automatic update</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="383" resname="IDS_UPDATE_NOW">
+        <xlf:target state="translated">Update now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="384" resname="IDS_HTTPFILTER_PROTECTALL">
+        <xlf:target state="translated">Enable all scanning filters</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="385" resname="IDS_HTTPFILTER_PROTECTCUSTOM">
+        <xlf:target state="translated">Choose filters</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="386" resname="IDS_HTTPFILTER_MALWARE">
+        <xlf:target state="translated">Protect against dangerous web pages</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="387" resname="IDS_HTTPFILTER_PHISING">
+        <xlf:target state="translated">Protect against Phishing web pages</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="388" resname="IDS_HTTPFILTER_FRAUD">
+        <xlf:target state="translated">Protect against Fraud web pages</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="389" resname="IDS_HTTPFILTER_UNTRUSTED">
+        <xlf:target state="translated">Protect against Untrusted web pages</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="390" resname="IDS_HTTPFILTER_SPAM">
+        <xlf:target state="translated">Protect against SPAM web pages</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="391" resname="IDS_ALLOW_TEXT">
+        <xlf:target state="translated">I understand the risks, take me there anyway</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="392" resname="IDS_TYPE_MALWARE">
+        <xlf:target state="translated">malware</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="393" resname="IDS_TYPE_PHISHING">
+        <xlf:target state="translated">phishing</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="394" resname="IDS_TYPE_FRAUD">
+        <xlf:target state="translated">fraud</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="395" resname="IDS_TYPE_UNTRUSTED">
+        <xlf:target state="translated">untrusted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="396" resname="IDS_TYPE_SPAM">
+        <xlf:target state="translated">spam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="397" resname="IDS_DOWNLOAD_FILE_STATUS">
+        <xlf:target state="translated">%2!d!/%4!d! %5!s!. %6!d! %7!s!/s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="398" resname="IDS_DOWNLOAD_FILE_STATUS_NO_SIZE">
+        <xlf:target state="translated">%2!d! %3!s!. %6!d! %7!s!/s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="399" resname="IDS_BLOCKED_FILE_URL">
+        <xlf:target state="translated">To keep you safe &lt;#ProductName#&gt; does not allow filesystem browsing.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="400" resname="IDS_BLOCKED_JAVASCRIPT_URL">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay™ blocks web pages using JavaScript. JavaScript is vulnerable to malicious attacks and can compromise the security of your online activity.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="401" resname="IDS_BLOCKED_FILE_URL_INTERNAL_SCHEME">
+        <xlf:target state="translated">&lt;#ProductName#&gt; has detected and blocked an attempt to browse local filesystem.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="402" resname="IDS_BLOCKED_JAVASCRIPT_URL_INTERNAL_SCHEME">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay™ has detected and blocked an attempt to execute JavaScript from navigation.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="403" resname="IDS_PROXY_SETTINGS_CHANGED_MESSAGE">
+        <xlf:target state="translated">The changes to your proxy settings were performed. The changes will take effect the next time you open &lt;#ProductName#&gt; Safepay™.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="404" resname="IDS_PROXY_SETTINGS_CHANGED_RESTART_SAFEPAY">
+        <xlf:target state="translated">Restart &lt;#ProductName#&gt; Safepay™</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="405" resname="IDS_WIFI_OTHERNETWORK">
+        <xlf:target state="translated">Other Network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="406" resname="IDS_CERT_ERROR_CERTIFICATE_INVALID">
+        <xlf:target state="translated">The security certificate presented by this web page is invalid. It&apos;s not recommended to enter sensitive information on this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="407" resname="IDS_CERT_ERROR_CERTIFICATE_EXPIRED">
+        <xlf:target state="translated">The security certificate presented by this web page has expired. It&apos;s not recommended to enter sensitive information on this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="408" resname="IDS_CERT_ERROR_CERTIFICATE_NOT_TRUSTED">
+        <xlf:target state="translated">The security certificate presented by this web page was not issued by a trusted certificate authority. It&apos;s not recommended to continue with this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="409" resname="IDS_CERT_ERROR_CERTIFICATE_WEAK_KEY">
+        <xlf:target state="translated">The security certificate presented by this web page is using a weak signature algorithm. It&apos;s not recommended to continue with this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="410" resname="IDS_CERT_ERROR_CERTIFICATE_WEAKSIGNATURE">
+        <xlf:target state="translated">The security certificate presented by this web page is using a weak signature algorithm. It&apos;s not recommended to continue with this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="411" resname="IDS_CERT_ERROR_CERTIFICATE_NOT_ISSUED_BY_A_KNOWN_ROOT">
+        <xlf:target state="translated">The security certificate presented by this web page was not issued by a trusted certificate authority. It&apos;s not recommended to continue with this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="412" resname="IDS_CERT_ERROR_CERTIFICATE_NO_REVOCATION_OR_UNABLE_TO_CHECK">
+        <xlf:target state="translated">The certificate revocation mechanism is not available or was unable to be verified. It&apos;s not recommended to enter sensitive information on this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="413" resname="IDS_CERT_ERROR_CERTIFICATE_PINNED_KEY_MISSING">
+        <xlf:target state="translated">The security certificate pinned key is missing. It&apos;s not recommended to enter sensitive information on this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="414" resname="IDS_CERT_ERROR_CERTIFICATE_NAME_CONSTRAINT_VIOLATION">
+        <xlf:target state="translated">The security certificate name violates standard constraints. It&apos;s not recommended to enter sensitive information on this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="415" resname="IDS_CERT_ERROR_CERTIFICATE_VALIDITY_TOO_LONG">
+        <xlf:target state="translated">The security certificate validity duration is more than the maximum allowed duration. It&apos;s not recommended to enter sensitive information on this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="416" resname="IDS_CERT_ERROR_CERTIFICATE_SHA1_SIGNATURE_PRESENT">
+        <xlf:target state="translated">The security certificate contains a SHA-1 signature, which are now deprecated. It&apos;s not recommended to enter sensitive information on this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="417" resname="IDS_CERT_ERROR_CERTIFICATE_CT_COMPLIANCE_FAILED">
+        <xlf:target state="translated">The security certificate transparency compliance failed. It&apos;s not recommended to enter sensitive information on this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="418" resname="IDS_CERT_ERROR_OK">
+        <xlf:target state="translated">Your connection with this page is encrypted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="419" resname="IDS_CERT_ERROR_NONE">
+        <xlf:target state="translated">This page is not using an encrypted connection. Avoid entering sensitive information, such as your credit card details or bank login credentials, on the page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="420" resname="IDS_CERT_TITLE_OK">
+        <xlf:target state="translated">Valid certificate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="421" resname="IDS_CERT_TITLE_NONE">
+        <xlf:target state="translated">No certificate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="422" resname="IDS_CERT_TITLE_ERROR_INVALID">
+        <xlf:target state="translated">Invalid certificate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="423" resname="IDS_CERT_TITLE_ERROR_EXPIRED">
+        <xlf:target state="translated">Expired certificate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="424" resname="IDS_CERT_TITLE_ERROR_NOTTRUSTED">
+        <xlf:target state="translated">Not trusted certificate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="425" resname="IDS_CERT_TITLE_ERROR_WEAK">
+        <xlf:target state="translated">Weak signature/key certificate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="426" resname="IDS_CERT_TITLE_ERROR_UNABLE_TO_VERIFY">
+        <xlf:target state="translated">Unable to verify certificate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="427" resname="IDS_CERTINFO">
+        <xlf:target state="translated">&lt;br/&gt;&lt;br/&gt;You are connected to &lt;b&gt;%1!s!&lt;/b&gt; which is run by &lt;b&gt;%2!s!&lt;/b&gt; in %3!s!, %4!s!, %5!s!.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="428" resname="IDS_CERTINFO_NOADDR">
+        <xlf:target state="translated">&lt;br/&gt;&lt;br/&gt;You are connected to &lt;b&gt;%1!s!&lt;/b&gt; which is run by &lt;b&gt;%2!s!&lt;/b&gt;.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="429" resname="IDS_CERTINFO_NOOWNER">
+        <xlf:target state="translated">&lt;br/&gt;&lt;br/&gt;You are connected to &lt;b&gt;%1!s!&lt;/b&gt;.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="430" resname="IDS_CERT_VERIFIED">
+        <xlf:target state="translated">&lt;br/&gt;Verified by: &lt;b&gt;%1!s!&lt;/b&gt;.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="431" resname="IDS_CERT_NOTVERIFIED">
+        <xlf:target state="translated">&lt;br/&gt;Not verified by a trusted authority.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="432" resname="IDS_CERT_ENCRYPTED">
+        <xlf:target state="translated">&lt;br/&gt;Encryption: %1!s!.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="433" resname="IDS_CERT_NOTENCRYPTED">
+        <xlf:target state="translated">&lt;br/&gt;Certification not encrypted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="434" resname="IDS_BLOCK_POPUPS">
+        <xlf:target state="translated">Block pop-ups</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="435" resname="IDS_POPUP_DOMAINS">
+        <xlf:target state="translated">Allow pop-ups from these domains:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="436" resname="IDS_ADD_DOMAIN">
+        <xlf:target state="translated">Add domain</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="437" resname="IDS_COL_DOMAIN_POPUP">
+        <xlf:target state="translated">Allowed domains</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="438" resname="IDS_BLOKED_POPUP_TITLE">
+        <xlf:target state="translated">%d pop-up blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="439" resname="IDS_BLOKED_POPUPS_TITLE">
+        <xlf:target state="translated">%d pop-ups blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="440" resname="IDS_POPUPS_BLOCKED">
+        <xlf:target state="translated">These popups have been blocked:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="441" resname="IDS_ALWAYS_ALLOW_POPUPS">
+        <xlf:target state="translated">Always allow pop-ups from %s.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="442" resname="IDS_MANAGE_POPUPS">
+        <xlf:target state="translated">Manage pop-ups</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="443" resname="IDS_APPLY">
+        <xlf:target state="translated">Finish</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="444" resname="IDS_POPUP_BLOCKED">
+        <xlf:target state="translated">Pop-up blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="445" resname="IDS_ERROR_IMPACT_APPS_RUNNING">
+        <xlf:target state="translated">The application %s is preventing &lt;#ProductName#&gt; from functioning correctly. Press close %s and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="446" resname="IDS_ERROR_IMPACT_APPS_RUNNING_M">
+        <xlf:target state="translated">The following application(s): %s are preventing &lt;#ProductName#&gt; from functioning correctly. Press close these applications and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="447" resname="IDS_ERROR_IMPACT_APPS_RUNNING_CONTINUABLE">
+        <xlf:target state="translated">The application %s is preventing &lt;#ProductName#&gt; Safepay™ from functioning correctly. It is recommended to close %s and retry.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="448" resname="IDS_CONTINUE_WITH_SAFEPAY">
+        <xlf:target state="translated">Continue with Safepay</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="449" resname="IDS_URL_BLOCK_BACKTOSTART">
+        <xlf:target state="translated">Back to start page</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="450" resname="IDS_TAB">
+        <xlf:target state="translated">Tab</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="451" resname="IDS_BATTERY_EST_TIME_MIN">
+        <xlf:target state="translated">%d min</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="452" resname="IDS_BATTERY_EST_TIME_HR_MIN">
+        <xlf:target state="translated">%d hr %d min</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="453" resname="IDS_BATTERY_TOOLTIP_PERCENT_TIME">
+        <xlf:target state="translated">%s (%d%%) remaining</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="454" resname="IDS_BATTERY_TOOLTIP_TIME">
+        <xlf:target state="translated">%s remaining</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="455" resname="IDS_MANAGE_CERTIFICATES">
+        <xlf:target state="translated">Manage certificates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="456" resname="IDS_IMPORT_ONE_CERTIFICATE">
+        <xlf:target state="translated">Import</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="457" resname="IDS_IMPORT_CERTIFICATE_ONE_CAPTION">
+        <xlf:target state="translated">Import certificate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="458" resname="IDS_VK_AUTOMATIC">
+        <xlf:target state="translated">Use Virtual Keyboard</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="459" resname="IDS_RESTRICTED_URL_MSG_1">
+        <xlf:target state="translated">This page requires an extension to function properly. Safepay doesn&apos;t allow the installation of browser extensions in its secure environment due to vulnerabilities that pose security and privacy risks.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="460" resname="IDS_RESTRICTED_URL_MSG_2">
+        <xlf:target state="translated">We recommend you open this web page in your default browser.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="461" resname="IDS_MENU_NEW_TAB">
+        <xlf:target state="translated">New Tab</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="462" resname="IDS_MENU_FAVORITES">
+        <xlf:target state="translated">Bookmarks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="463" resname="IDS_MENU_DOWNLOADS">
+        <xlf:target state="translated">Downloads</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="464" resname="IDS_MENU_VKEYBOARD">
+        <xlf:target state="translated">Virtual Keyboard</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="465" resname="IDS_MENU_PRINT">
+        <xlf:target state="translated">Print</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="466" resname="IDS_MENU_ZOOM">
+        <xlf:target state="translated">Zoom</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="467" resname="IDS_MENU_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="468" resname="IDS_MENU_ABOUT">
+        <xlf:target state="translated">About</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="469" resname="IDS_GOTOSETTINGS">
+        <xlf:target state="translated">Open settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="470" resname="IDS_SHOWALL">
+        <xlf:target state="translated">Show all</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="471" resname="IDS_AUTO_OPEN_BOOKMARK_SAFEPAY">
+        <xlf:target state="translated">Automatically open in Safepay</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="472" resname="IDS_NO_SUBSCRIPTION">
+        <xlf:target state="translated">Your subscription has expired. You can purchase a new subscription or provide a valid activation code.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="473" resname="IDS_EXTEND_SUBSCRIPTION">
+        <xlf:target state="translated">Extend</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="474" resname="IDS_URL_SEEMS_INVALID">
+        <xlf:target state="translated">The web page address is not valid. Would you like to save it anyway?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="475" resname="IDS_BOOKMARK_URL_EMPTY">
+        <xlf:target state="translated">The web page address is empty.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="476" resname="IDS_BOOKMARK_TITLE_EMPTY">
+        <xlf:target state="translated">The web page title is empty.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="477" resname="IDS_ENABLE_HARDWARE_ACCELERATION">
+        <xlf:target state="translated">Enable hardware acceleration</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="478" resname="IDS_MSG_HWACCELERATION_ENABLE_NEEDS_RESTART">
+        <xlf:target state="translated">Hardware acceleration will be enabled next time you run &lt;#ProductName#&gt; Safepay™.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="479" resname="IDS_MSG_HWACCELERATION_DISABLE_NEEDS_RESTART">
+        <xlf:target state="translated">Hardware acceleration will be disabled next time you run &lt;#ProductName#&gt; Safepay™.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="480" resname="IDS_ASK_PRINT_CONFIRMATION">
+        <xlf:target state="translated">Printing confirmation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="481" resname="IDS_Q_ASK_PRINT_CONFIRMATION">
+        <xlf:target state="translated">Are you sure you want to print this page?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="482" resname="IDS_MINIMIZEUSERASK_CAPTION">
+        <xlf:target state="translated">Switch to Desktop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="483" resname="IDS_MINIMIZEUSERASK_DESCRIPTION">
+        <xlf:target state="translated">Minimizing &lt;#ProductName#&gt; Safepay™ will switch you back to the default desktop. From there you can return to the secure desktop by clicking &lt;b&gt;%s&lt;/b&gt;.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="484" resname="IDS_MINIMIZE_SWITCH">
+        <xlf:target state="translated">Return to your desktop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="485" resname="IDS_MINIMIZE_CANCEL">
+        <xlf:target state="translated">Continue with Safepay</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="486" resname="IDS_SWITCHTOOBK">
+        <xlf:target state="translated">Switch to &lt;#ProductName#&gt; Safepay™</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="487" resname="IDS_ALTTAB_SECURE">
+        <xlf:target state="translated">Bitdefender Safepay™</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="488" resname="IDS_ALTTAB_DEFAULT">
+        <xlf:target state="translated">Default Desktop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="489" resname="IDS_URLPROTOCOL_BTN_LAUNCH">
+        <xlf:target state="translated">Launch External Application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="490" resname="IDS_URLPROTOCOL_BTN_DONOTHING">
+        <xlf:target state="translated">Do Nothing</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="491" resname="IDS_URLPROTOCOL_CAPTION">
+        <xlf:target state="translated">External protocol requested</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="492" resname="IDS_URLPROTOCOL_DESCRIPTION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay™ needs to launch an external application to handle %s:// links.&lt;br&gt;If you accept, &lt;#ProductName#&gt; Safepay™ will switch to the default desktop and the following application will be launched:&lt;br&gt;%s&lt;br&gt;&lt;br&gt;If you initiated this request, complete the actions requested by the application, then return to &lt;#ProductName#&gt; Safepay™.&lt;br&gt;If you did not initiate this request, you should press %s.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="493" resname="IDS_URLPROTOCOL_ERROR_CAPTION">
+        <xlf:target state="translated">External protocol error</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="494" resname="IDS_URLPROTOCOL_ERROR_DESCRIPTION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay™ will not launch the external application.&lt;br&gt;Reason: %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="495" resname="IDS_URLPROTOCOL_ERROR_SCHEME_NOT_SUPPORTED">
+        <xlf:target state="translated">URL scheme not supported.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="496" resname="IDS_URLPROTOCOL_ERROR_MISSING_URL_PROTOCOL">
+        <xlf:target state="translated">URL Protocol is not registered.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="497" resname="IDS_URLPROTOCOL_ERROR_INVALID_URL_PROTOCOL">
+        <xlf:target state="translated">URL Protocol registration is incorrect.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="498" resname="IDS_URL_PROTOCOL_COMMAND_NOT_FOUND">
+        <xlf:target state="translated">URL Protocol shell command could not be found.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="499" resname="IDS_URL_PROTOCOL_COMMAND_FAILED_VALIDATION_UNKNOWN">
+        <xlf:target state="translated">URL Protocol associated application validation failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="500" resname="IDS_URL_PROTOCOL_COMMAND_FAILED_VALIDATION_NOT_ALLOWED">
+        <xlf:target state="translated">URL Protocol associated application is not allowed by &lt;#ProductName#&gt; Safepay™.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="501" resname="IDS_URL_PROTOCOL_COMMAND_FAILED_VALIDATION_NOT_SIGNED">
+        <xlf:target state="translated">URL Protocol associated application is not digitally signed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="502" resname="IDS_URL_PROTOCOL_COMMAND_FAILED_VALIDATION_CHALLENGE_FAILED">
+        <xlf:target state="translated">URL Protocol associated application digital signature verification failed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="503" resname="IDS_URLPROTOCOL_NOTPRESENT_CAPTION">
+        <xlf:target state="translated">External protocol error</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="504" resname="IDS_URLPROTOCOL_NOTPRESENT_DESCRIPTION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay™ needs to launch an external application to handle %s:// links, but no application required to open this type of links has been found on your system.&lt;br&gt;&lt;br&gt;Please consult the web page you accessed for instructions on how to install the requested application.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="505" resname="IDS_AUTH_CAPTION">
+        <xlf:target state="translated">Authentication Required</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="506" resname="IDS_AUTH_MESSAGE">
+        <xlf:target state="translated">The server %s requires an username and password.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="507" resname="IDS_AUTH_USER">
+        <xlf:target state="translated">Log In:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="508" resname="IDS_AUTH_PASS">
+        <xlf:target state="translated">Password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="509" resname="IDS_AUTH_REMEMBER">
+        <xlf:target state="translated">Remember my username and password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="510" resname="IDS_VPN_APP_NOT_INSTALLED">
+        <xlf:target state="translated">&lt;#ProductName#&gt; VPN is not enabled. Switch to desktop and enable it now ?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="511" resname="IDS_BITDEFENDER_VPN">
+        <xlf:target state="translated">&lt;#ProductName#&gt; VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="512" resname="IDS_VPN_QUOTA_REACHED">
+        <xlf:target state="translated">You used your daily 200 MB of secure traffic. Upgrade and forget about restrictions.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="513" resname="IDS_VPN_QUOTA_ALMOST_REACHED">
+        <xlf:target state="translated">You’re about to reach your secure traffic limit. Upgrade and forget about restrictions.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="514" resname="IDS_VPN_CONNECTED_TO">
+        <xlf:target state="translated">Connected to:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="515" resname="IDS_VPN_TRAFFIC_QUOTA">
+        <xlf:target state="translated">VPN traffic quota:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="516" resname="IDS_VPN_CONNECT_STATUS_CONNECTED">
+        <xlf:target state="translated">Connected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="517" resname="IDS_VPN_CONNECT_STATUS_CONNECTED_TO">
+        <xlf:target state="translated">Connected to %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="518" resname="IDS_VPN_CONNECT_STATUS_CONNECTING">
+        <xlf:target state="translated">Connecting</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="519" resname="IDS_VPN_CONNECT_STATUS_DISCONNECTED">
+        <xlf:target state="translated">&lt;#ProductName#&gt; VPN is not connected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="520" resname="IDS_VPN_CONNECT_STATUS_DISCONNECTING">
+        <xlf:target state="translated">Disconnecting</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="521" resname="IDS_VPN_CONNECT_QUOTA">
+        <xlf:target state="translated">%s of %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="522" resname="IDS_UM_BYTES">
+        <xlf:target state="translated">bytes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="523" resname="IDS_UM_KBYTES">
+        <xlf:target state="translated">KB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="524" resname="IDS_UM_MBYTES">
+        <xlf:target state="translated">MB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="525" resname="IDS_UM_GBYTES">
+        <xlf:target state="translated">GB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="526" resname="IDS_ASK_VPN_RECONNECT">
+        <xlf:target state="translated">Reconnect to secure your connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="527" resname="IDS_VPN_IP">
+        <xlf:target state="translated">IP: %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="528" resname="IDS_VPN_CONNECT_QUOTA_UNLIMITED">
+        <xlf:target state="translated">Unlimited</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="529" resname="IDS_VPN_AUTO">
+        <xlf:target state="translated">Automatic</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="530" resname="IDS_COUNTRY_RU">
+        <xlf:target state="translated">Russia</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="531" resname="IDS_COUNTRY_DE">
+        <xlf:target state="translated">Germany</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="532" resname="IDS_COUNTRY_HK">
+        <xlf:target state="translated">Hong Kong</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="533" resname="IDS_COUNTRY_IN">
+        <xlf:target state="translated">India</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="534" resname="IDS_COUNTRY_JP">
+        <xlf:target state="translated">Japan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="535" resname="IDS_COUNTRY_ZA">
+        <xlf:target state="translated">South Africa</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="536" resname="IDS_COUNTRY_MX">
+        <xlf:target state="translated">Mexico</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="537" resname="IDS_COUNTRY_IT">
+        <xlf:target state="translated">Italy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="538" resname="IDS_COUNTRY_FR">
+        <xlf:target state="translated">France</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="539" resname="IDS_COUNTRY_ES">
+        <xlf:target state="translated">Spain</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="540" resname="IDS_COUNTRY_BR">
+        <xlf:target state="translated">Brazil</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="541" resname="IDS_COUNTRY_SE">
+        <xlf:target state="translated">Sweden</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="542" resname="IDS_COUNTRY_SG">
+        <xlf:target state="translated">Singapore</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="543" resname="IDS_COUNTRY_AU">
+        <xlf:target state="translated">Australia</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="544" resname="IDS_COUNTRY_CZ">
+        <xlf:target state="translated">Czech Republic</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="545" resname="IDS_COUNTRY_GB">
+        <xlf:target state="translated">United Kingdom</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="546" resname="IDS_COUNTRY_TR">
+        <xlf:target state="translated">Turkey</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="547" resname="IDS_COUNTRY_US">
+        <xlf:target state="translated">United States</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="548" resname="IDS_COUNTRY_CA">
+        <xlf:target state="translated">Canada</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="549" resname="IDS_COUNTRY_NL">
+        <xlf:target state="translated">Netherlands</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="550" resname="IDS_COUNTRY_ID">
+        <xlf:target state="translated">Indonesia</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="551" resname="IDS_DOC_PRINT_STARTED">
+        <xlf:target state="translated">Printing in progress...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="552" resname="IDS_DOC_PRINT_SUCCEEDED">
+        <xlf:target state="translated">Document has been printed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="553" resname="IDS_DOC_PRINT_FAILED">
+        <xlf:target state="translated">There was an error while printing.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="554" resname="IDS_PRINTER_STATUS_BUSY">
+        <xlf:target state="translated">The printer is busy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="555" resname="IDS_PRINTER_STATUS_DOOR_OPEN">
+        <xlf:target state="translated">The printer&apos;s tray is opened.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="556" resname="IDS_PRINTER_STATUS_INITIALIZING">
+        <xlf:target state="translated">The printer is initializing.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="557" resname="IDS_PRINTER_STATUS_IO_ACTIVE">
+        <xlf:target state="translated">The printer is in an active input/output state.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="558" resname="IDS_PRINTER_STATUS_MANUAL_FEED">
+        <xlf:target state="translated">The printer is in a manual feed state.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="559" resname="IDS_PRINTER_STATUS_NO_TONER">
+        <xlf:target state="translated">The printer is out of toner.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="560" resname="IDS_PRINTER_STATUS_NOT_AVAILABLE">
+        <xlf:target state="translated">The printer is not available for printing.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="561" resname="IDS_PRINTER_STATUS_OFFLINE">
+        <xlf:target state="translated">The printer is offline.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="562" resname="IDS_PRINTER_STATUS_OUT_OF_MEMORY">
+        <xlf:target state="translated">The printer has run out of memory.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="563" resname="IDS_PRINTER_STATUS_OUTPUT_BIN_FULL">
+        <xlf:target state="translated">The printer&apos;s output bin is full.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="564" resname="IDS_PRINTER_STATUS_PAGE_PUNT">
+        <xlf:target state="translated">The printer cannot print the current page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="565" resname="IDS_PRINTER_STATUS_PAPER_JAM">
+        <xlf:target state="translated">Paper is jammed in the printer.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="566" resname="IDS_PRINTER_STATUS_PAPER_OUT">
+        <xlf:target state="translated">The printer is out of paper.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="567" resname="IDS_PRINTER_STATUS_PAPER_PROBLEM">
+        <xlf:target state="translated">The printer has a paper problem.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="568" resname="IDS_PRINTER_STATUS_PAUSED">
+        <xlf:target state="translated">The printer is paused.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="569" resname="IDS_PRINTER_STATUS_PENDING_DELETION">
+        <xlf:target state="translated">The printer is pending deletion.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="570" resname="IDS_PRINTER_STATUS_POWER_SAVE">
+        <xlf:target state="translated">The printer is in power save mode.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="571" resname="IDS_PRINTER_STATUS_PRINTING">
+        <xlf:target state="translated">The printer is printing.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="572" resname="IDS_PRINTER_STATUS_PROCESSING">
+        <xlf:target state="translated">The printer is processing a command.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="573" resname="IDS_PRINTER_STATUS_SERVER_UNKNOWN">
+        <xlf:target state="translated">The printer&apos;s status is unknown.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="574" resname="IDS_PRINTER_STATUS_TONER_LOW">
+        <xlf:target state="translated">The printer is low on toner.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="575" resname="IDS_PRINTER_STATUS_USER_INTERVENTION">
+        <xlf:target state="translated">The printer has an error that requires the user to do something.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="576" resname="IDS_PRINTER_STATUS_WAITING">
+        <xlf:target state="translated">The printer is waiting.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="577" resname="IDS_PRINTER_STATUS_WARMING_UP">
+        <xlf:target state="translated">The printer is warming up.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="578" resname="IDS_PRINTER_STATUS_ERROR">
+        <xlf:target state="translated">The printer is in an error state.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="579" resname="IDS_DOMAINPREF_ALERT_MESSAGE">
+        <xlf:target state="translated">Always open %s in secure environment?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="580" resname="IDS_FOREIGNPROCESS_ALERT_MESSAGE">
+        <xlf:target state="translated">The process %s tries to access Safepay data, your browsing is no longer secured. We recommend you to terminate the process to secure your environment.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="581" resname="IDS_FOREIGNPROCESS_BTN_KILLPROCESS">
+        <xlf:target state="translated">Kill process</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="582" resname="IDS_FOREIGNPROCESS_CONFIRMSKIP">
+        <xlf:target state="translated">The process %s tries to access Safepay data, your browsing is no longer secured. Are you sure you want to allow this process to run?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="583" resname="IDS_FOREIGNPROCESS_KILLFAILED">
+        <xlf:target state="translated">The process %s could not be terminated.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="584" resname="IDS_FAV_OPEN">
+        <xlf:target state="translated">Open</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="585" resname="IDS_FAV_EDIT">
+        <xlf:target state="translated">Edit</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="586" resname="IDS_FAV_DELETE">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="587" resname="IDS_FAVORITES_DESCPTION">
+        <xlf:target state="translated">Bookmark your favorite webpages for quick access.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="588" resname="IDS_DOMAINS_DESCRIPTION">
+        <xlf:target state="translated">View &lt;#ProductName#&gt; Safepay domain rules in the list below</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="589" resname="IDS_POPUPS_DESCRIPTION">
+        <xlf:target state="translated">Blocking pop-ups will reduce the chance of compromising your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="590" resname="IDS_CERTIFICATES_DESCRIPTION">
+        <xlf:target state="translated">Import existing certificates from file.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="591" resname="IDS_VK_DESCRIPTION">
+        <xlf:target state="translated">Automatically launch Virtual Keyboard when password fields are selected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="592" resname="IDS_PRINT_DESCRIPTION">
+        <xlf:target state="translated">Ask for confirmation before printing pages.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="593" resname="IDS_BOOKMARKS_DESCRIPTION">
+        <xlf:target state="translated">Organize bookmarks for quick access.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="594" resname="IDS_NO_BOOKMARKS">
+        <xlf:target state="translated">No bookmarks page for manage bookmarks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="595" resname="IDS_DLBAR_OPEN_FILE">
+        <xlf:target state="translated">Open File</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="596" resname="IDS_DLBAR_OPEN">
+        <xlf:target state="translated">Open</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="597" resname="IDS_DLBAR_SHOW_FOLDER">
+        <xlf:target state="translated">Show in folder</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="598" resname="IDS_DLBAR_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="599" resname="IDS_DLBAR_FAILED">
+        <xlf:target state="translated">Download failed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="600" resname="IDS_DLBAR_CANCELED">
+        <xlf:target state="translated">Download canceled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="601" resname="IDS_DOWNLOADS_TAB">
+        <xlf:target state="translated">Downloads</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="602" resname="IDS_FAVORITESLIST_TAB">
+        <xlf:target state="translated">Bookmarks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="603" resname="IDS_DLPAGE_DELETE">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="604" resname="IDS_DLPAGE_TITLE">
+        <xlf:target state="translated">Downloads</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="605" resname="IDS_NO_DOWNLOADS">
+        <xlf:target state="translated">No files have been downloaded</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="606" resname="IDS_SAVE_TEXT">
+        <xlf:target state="translated">Save</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="607" resname="IDS_SELECT_FOLDER_CAP">
+        <xlf:target state="translated">Select folder to upload</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="608" resname="IDS_SELECT_FOLDER">
+        <xlf:target state="translated">Select</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="609" resname="IDS_FLASH_EOL">
+        <xlf:target state="translated">Adobe Flash Player support has been removed due to its EOL announcement.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="610" resname="IDS_MENU_ID_NAV_BACK">
+        <xlf:target state="translated">Back</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="611" resname="IDS_MENU_ID_NAV_FORWARD">
+        <xlf:target state="translated">Forward</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="612" resname="IDS_MENU_ID_NAV_RELOAD">
+        <xlf:target state="translated">Reload</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="613" resname="IDS_MENU_ID_NAV_RELOAD_NOCACHE">
+        <xlf:target state="translated">Force reload</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="614" resname="IDS_MENU_ID_NAV_STOP">
+        <xlf:target state="translated">Stop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="615" resname="IDS_MENU_ID_UNDO">
+        <xlf:target state="translated">Undo</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="616" resname="IDS_MENU_ID_REDO">
+        <xlf:target state="translated">Redo</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="617" resname="IDS_MENU_ID_CUT">
+        <xlf:target state="translated">Cut</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="618" resname="IDS_MENU_ID_COPY">
+        <xlf:target state="translated">Copy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="619" resname="IDS_MENU_ID_PASTE">
+        <xlf:target state="translated">Paste</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="620" resname="IDS_MENU_ID_DELETE">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="621" resname="IDS_MENU_ID_SELECTALL">
+        <xlf:target state="translated">Select all</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="622" resname="IDS_MENU_ID_PRINT">
+        <xlf:target state="translated">Print</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="623" resname="IDS_MENU_ID_VIEWSOURCE">
+        <xlf:target state="translated">View source</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="624" resname="IDS_ERROR_IMPACT_APPS_RUNNING_SIGNOUT">
+        <xlf:target state="translated">The application %s is preventing &lt;#ProductName#&gt; from functioning correctly. Sign out or close %s and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="625" resname="IDS_VPN_CONNECT_STATUS_DISCONNECTED_RECOMMEND">
+        <xlf:target state="translated">To ensure your connection is safe we recommend you to use &lt;#ProductName#&gt; VPN</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xliff>

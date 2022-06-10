@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="RansomwareRecoverAL" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_LOGGER_FEATURE">
+        <xlf:target state="translated">Ransomware Remediation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_LOGGER_RWR_ATTEMPT_TITLE_REMEDIATED">
+        <xlf:target state="translated">Ransomware behavior remediated</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_LOGGER_RWR_ATTEMPT_TITLE_DETECTED">
+        <xlf:target state="translated">Ransomware behavior detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_LOGGER_RWR_SUSPICIOUS_DETECTED">
+        <xlf:target state="translated">Suspicious behavior detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_LOGGER_RWR_ATTEMPT_VIEW_ENCRYPTED_FILES_ACTION">
+        <xlf:target state="translated">Encrypted Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_LOGGER_RWR_ATTEMPT_VIEW_RESTORED_FILES_ACTION">
+        <xlf:target state="translated">Restored Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_LOGGER_RWR_ATTEMPT_ATTENTION_REQUIRED_ACTION">
+        <xlf:target state="translated">Attention required</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_LOGGER_RWR_ATTEMPT_ADD_EXCEPTION_ACTION">
+        <xlf:target state="translated">Except application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_LOGGER_RWR_ATTEMPT_BLOCKED_ACCESS_MSG">
+        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Your files have been protected from being altered.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_LOGGER_RWR_ATTEMPT_AUTO_PARTIAL_RECOVERED_MSG">
+        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Several files were encrypted by it and we couldn&apos;t automatically restore all of them. You can find the files to be restored below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_LOGGER_RWR_ATTEMPT_AUTO_SUCCESS_RECOVERED_MSG">
+        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Several files were encrypted but we successfully restored all of them. You can find the restored files list below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_LOGGER_RWR_ATTEMPT_AUTO_NONE_RECOVERED_MSG">
+        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Several files were encrypted by it and couldn&apos;t be automatically restored. You can find the files to be restored below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_LOGGER_RWR_ATTEMPT_MANUAL_NONE_RECOVERED_MSG">
+        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Your attention is required because automatic file restoration is disabled. You can find the files to be restored below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_LOGGER_RWR_ATTEMPT_MANUAL_ALL_RECOVERED_MSG">
+        <xlf:target state="translated">All your files have been successfully restored. You are safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_LOGGER_RWR_ATTEMPT_DELETE_CERTIFICATE">
+        <xlf:target state="translated">An attempt to delete encryption certificates has been detected. As this is a ransomware behavior, the attempt has been blocked, your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_LOGGER_RWR_REPORT_TITLE">
+        <xlf:target state="translated">Ransomware behavior detected on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_LOGGER_RWR_REPORT_MSG1">
+        <xlf:target state="translated">The process &lt;#process_path#&gt; exhibits ransomware behavior, your data is at risk.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_LOGGER_RWR_REPORT_MSG2">
+        <xlf:target state="translated">The threat has not been resolved. Activate protection to enable the remediation layer and keep your device and data safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_LOGGER_RWR_REPORT_ACTIVATE_PROTECTION">
+        <xlf:target state="translated">Activate Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_LOGGER_RWR_VIEW_ATTACK_TIMELINE_ACTION">
+        <xlf:target state="translated">View attack timeline</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="RansomwareRecover" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_APP_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Remediation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_TITLE">
+        <xlf:target state="translated">Encrypted files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_SCREEN_TITLE">
+        <xlf:target state="translated">Recover files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_SCREEN_DESCR">
+        <xlf:target state="translated">Several files were encrypted by ransomware and your attention is required because automatic file restoration is disabled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_COUNT_FILE">
+        <xlf:target state="translated">1 Encrypted file</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_COUNT_FILES">
+        <xlf:target state="translated">{count_files} Encrypted files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_ERROR_TITLE">
+        <xlf:target state="translated">Several files were encrypted by ransomware and couldn&apos;t be automatically restored. Your attention is required.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_ERROR_DESCR">
+        <xlf:target state="translated">Use the Restore location button to select a different restoration path.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_SUCCESS_DESCR">
+        <xlf:target state="translated">Several files were encrypted by ransomware but we successfully restored them. You are safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_RECOVER_BTN">
+        <xlf:target state="translated">Recover files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_SELECT_PATH_BTN">
+        <xlf:target state="translated">Restore location</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_DONE_BTN">
+        <xlf:target state="translated">Finish</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_BROWSE_FOR_FOLDER">
+        <xlf:target state="translated">Select a new location to restore the file(s)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_NO_FILES_MSG">
+        <xlf:target state="translated">There are no encrypted files on your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_NO_FILES_TITLE">
+        <xlf:target state="translated">Recover files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

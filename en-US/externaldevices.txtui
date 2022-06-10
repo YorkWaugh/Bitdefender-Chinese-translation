@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="ExternalDevices" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_MODULE_NAME">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_SCAN_OPTICAL_DRIVES">
+        <xlf:target state="translated">Scan CD &amp; DVD</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_SCAN_USB_DEVICES">
+        <xlf:target state="translated">Scan flash drives</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_SCAN_NETWORK_DRIVES">
+        <xlf:target state="translated">Scan mapped network drives</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_OPTION_AUTOSCAN">
+        <xlf:target state="translated">Autoscan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_OPTION_DISABLED">
+        <xlf:target state="translated">Disabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_OPTION_PROMPT">
+        <xlf:target state="translated">Ask every time</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_OPTICAL_DESCRIPTION">
+        <xlf:target state="translated">Check if content on CDs and DVDs is threat-free.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_USB_DESCRIPTION">
+        <xlf:target state="translated">Check if content on flash drives is threat-free.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_NETWORK_DESCRIPTION">
+        <xlf:target state="translated">Scan mapped network drives on connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_MANAGE_EXCEPTIONS">
+        <xlf:target state="translated">Manage exceptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_MANAGE_EXCEPTIONS_DESCRIPTION">
+        <xlf:target state="translated">Add or remove items to be excepted from scan.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_QUARANTINED_THREATS">
+        <xlf:target state="translated">Quarantined threats</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_MANAGE_QUARANTINED_THREATS_DESCRIPTION">
+        <xlf:target state="translated">Restore or delete threats that have been quarantined.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_MANAGE_QUARANTINED_THREATS">
+        <xlf:target state="translated">Manage quarantine</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

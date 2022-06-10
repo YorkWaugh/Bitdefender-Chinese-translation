@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="geolocation" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_LOCK_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Safe Lock</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_PIN_FAIL">
+        <xlf:target state="translated">Incorrect pin code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_PIN_CORRECT">
+        <xlf:target state="translated">Correct pin code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_AUTH_FAIL">
+        <xlf:target state="translated">Authentication failed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_WIPE_TITLE">
+        <xlf:target state="translated">Hard disk wipe is in progress...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_NO_KEYBOARD">
+        <xlf:target state="translated">Please use a valid keyboard to unlock your device. PS2 keyboard is recommended.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

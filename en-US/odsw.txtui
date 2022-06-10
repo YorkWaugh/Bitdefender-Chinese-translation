@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="odsw" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_CUSTOM_SCAN_WIZARD">
+        <xlf:target state="translated">Manage Scans</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_ODSW_CHILD_WINDOW_TITLE">
+        <xlf:target state="translated">Scan Options</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_BROWSE_FOLDER_TITLE">
+        <xlf:target state="translated">Select Item(s) to Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_BROWSE_FOLDER_WAIT_MSG">
+        <xlf:target state="translated">Please wait...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_PROMPT_CONFIRM_EXIT">
+        <xlf:target state="translated">Are you sure you want to exit?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_PROMPT_SPECIFY_SCAN_ITEMS">
+        <xlf:target state="translated">You must choose which items must be scanned before you continue to the next step.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_PROMPT_SPECIFY_TASK_NAME">
+        <xlf:target state="translated">You must specify a name for the task before you continue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_PROMPT_INVALID_TASK_NAME">
+        <xlf:target state="translated">Failed to complete operation because the task name is not valid. Please review the previous operation and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_PROMPT_TASK_NAME_EXISTS">
+        <xlf:target state="translated">The task name you specified already exists. You must enter a new name before you can continue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_NEXT">
+        <xlf:target state="translated">Next</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_BACK">
+        <xlf:target state="translated">Back</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_FINISH">
+        <xlf:target state="translated">Start Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_NOT_RESPONDING_HEAD">
+        <xlf:target state="translated">&lt;#ProductName#&gt; services are not responding.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_NOT_RESPONDING_BODY_BETA">
+        <xlf:target state="translated">The &lt;#ProductName#&gt; Security Service is unavailable at the moment. Please restart the device and try again. If the problem persists, please check our online support website at: {0}. The contact information provided on this site allows you to directly reach the &lt;#ProductName#&gt; Customer Care team for further information.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_NOT_RESPONDING_HELP">
+        <xlf:target state="translated">&lt;#ProductWebPage#&gt;/help</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_ODSW_FILES_FOLDERS_TO_BE_SCANNED">
+        <xlf:target state="translated">Files and folders to be scanned:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_ODSW_SCAN_OPTIONS_BUTTON">
+        <xlf:target state="translated">Scan Options</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_ODSW_RECENT_SCANS">
+        <xlf:target state="translated">Recent Scans</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_ODSW_TASK_CREATED">
+        <xlf:target state="translated">Custom Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_ODSW_CLEAR_PATHS">
+        <xlf:target state="translated">Remove All</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_ODSW_REMOVE">
+        <xlf:target state="translated">Remove</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_ODSW_RECENT_SCANS_TITLE">
+        <xlf:target state="translated">Rescan using the settings from previous scans</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_ODSW_FAVORITE_SCANS">
+        <xlf:target state="translated">Favorite Scans</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_ODSW_FAVORITE_SCANS_TITLE">
+        <xlf:target state="translated">Scans previously added to favorites</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_ODSW_SCAN_OPTIONS_ACTIONS">
+        <xlf:target state="translated">Actions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_ODSW_SCAN_OPTIONS_AFTER_SCAN_OPERATION">
+        <xlf:target state="translated">Scan Operations</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_ODSW_SCAN_OPTIONS_PRIORITY_TASK">
+        <xlf:target state="translated">Scan task priority</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_ODSW_SCAN_OPTIONS_PRIORITY_TASK_DESC">
+        <xlf:target state="translated">Sets device resource consumption while running the task.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_ODSW_SCAN_OPTIONS_AFTER_SCAN">
+        <xlf:target state="translated">Post scan actions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_ODSW_SCAN_OPTIONS_ACTIONS_SUMMARY_WINDOW">
+        <xlf:target state="translated">Show Summary window</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_ODSW_SCAN_OPTIONS_SHUTDOWN_COMPUTER">
+        <xlf:target state="translated">Shutdown device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_ODSW_SCAN_OPTIONS_ACTIONS_CLOSE_SCAN_WINDOW">
+        <xlf:target state="translated">Close Scan window</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_ODSW_SCAN_SETTINGS_TITLE">
+        <xlf:target state="translated">Scan options</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_ODSW_SCAN_SETTINGS_DESCR">
+        <xlf:target state="translated">Configure the scan options for this task.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_ONLY_APPS">
+        <xlf:target state="translated">Scan only applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_INSIDE_ARCHIVES_DESC">
+        <xlf:target state="translated">Scan for threats inside different types of archives.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_INSIDE_ARCHIVES">
+        <xlf:target state="translated">Scan archives</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_ODSW_SCAN_SETTINGS_LIMIT_ARCHIVE_SIZE">
+        <xlf:target state="translated">Ignore archives greater than</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_ODSW_SCAN_SETTINGS_LIMIT_ARCHIVE_SIZE_UNIT">
+        <xlf:target state="translated">MB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_BOOT_SECTORS">
+        <xlf:target state="translated">Scan boot sectors</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_MEMORY">
+        <xlf:target state="translated">Scan memory</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_REGISTRY">
+        <xlf:target state="translated">Scan registry</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_COOKIES">
+        <xlf:target state="translated">Scan cookies</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_NEW_CHANGED_FILES">
+        <xlf:target state="translated">Scan only new and modified files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_KEYLOGGER">
+        <xlf:target state="translated">Scan keyloggers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_ROOTKITS">
+        <xlf:target state="translated">Scan for rootkits</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_PUA">
+        <xlf:target state="translated">Scan potentially unwanted applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_PUA_DESC">
+        <xlf:target state="translated">Scan for undesirable applications such as adware or spyware.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_ODSW_SCAN_OPTIONS_CUSTOM_MODIFY_SCAN">
+        <xlf:target state="translated">Modify</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_ODSW_SCAN_OPTIONS_CUSTOM_SCAN">
+        <xlf:target state="translated">Custom</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_ODSW_SCAN_ADVANCED_OPTIONS">
+        <xlf:target state="translated">Show advanced options</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_ODSW_SCAN_OPTIONS_DEFAULT_SCAN">
+        <xlf:target state="translated">Default</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_ODSW_SCANS">
+        <xlf:target state="translated">Manage scans</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_ODSW_SCAN_NEW_TASK">
+        <xlf:target state="translated">Create a new scan task</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_ODSW_SCAN_NEW_TASK_DESCRIPTION">
+        <xlf:target state="translated">Create scan tasks and schedule them.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_ODSW_COLUMN_TASK">
+        <xlf:target state="translated">Scan task</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_ODSW_COLUMN_SCHEDULE">
+        <xlf:target state="translated">Schedule</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_ODSW_START">
+        <xlf:target state="translated">Start Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_ODSW_SCHEDULE_TASK_DESC">
+        <xlf:target state="translated">Schedule scan task</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_ODSW_TASK_DETAILS_DEFAULT">
+        <xlf:target state="translated">Please select or create a new task to view, run, schedule or edit it.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_ODSW_BASIC">
+        <xlf:target state="translated">Basic</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_ODSW_ADVANCED">
+        <xlf:target state="translated">Advanced</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_ODSW_SCAN_NAME">
+        <xlf:target state="translated">Task Name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_ODSW_SCAN_NAME_NOVALUE">
+        <xlf:target state="translated">Required</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_ODSW_SCAN_TARGETS">
+        <xlf:target state="translated">Scan targets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_ODSW_ERROR_TASK_NAME">
+        <xlf:target state="translated">You must provide a name for the custom scan task.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_ODSW_ERROR_TASK_NAME_DUPLICATE">
+        <xlf:target state="translated">The task name you specified already exists. You must enter a new name before you can continue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_ODSW_ERROR_SCAN_TARGET">
+        <xlf:target state="translated">You must select at least one scan target.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_ODSW_SCHEDULE_START_TIME">
+        <xlf:target state="translated">Start time</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_ODSW_SCHEDULE_MONTH_START_DATE">
+        <xlf:target state="translated">Start day of the month</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_ODSW_SCHEDULE_START_DATE">
+        <xlf:target state="translated">Start date</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_ODSW_SCHEDULE_TYPE_STARTUP">
+        <xlf:target state="translated">At system startup</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_ODSW_EDIT_SCAN_DETAILS">
+        <xlf:target state="translated">Scan task</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_ODSW_EDIT_SCAN_DETAILS_DESC">
+        <xlf:target state="translated">Modify scan task details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_ODSW_DETAILS_LAST_RUN">
+        <xlf:target state="translated">Last run:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_ODSW_DETAILS_RESULT">
+        <xlf:target state="translated">Result:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_ODSW_DETAILS_NEXT_RUN">
+        <xlf:target state="translated">Next run:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_ODSW_DETAILS_SCAN_TYPE">
+        <xlf:target state="translated">Scan type:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_ODSW_SCAN_TYPE_BUILTIN">
+        <xlf:target state="translated">Built-in</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_ODSW_SCAN_TYPE_CUSTOM">
+        <xlf:target state="translated">Custom</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_ODSW_SCHEDULE_TYPE_OTHER">
+        <xlf:target state="translated">Other</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_ODSW_SCHEDULE_TYPE_NONE">
+        <xlf:target state="translated">None</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_ODSW_RESULT_RESCAN">
+        <xlf:target state="translated">A rescan was required</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_ODSW_RESULT_RESCUE">
+        <xlf:target state="translated">Reboot in Rescue Mode was required</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_ODSW_RESULT_REBOOT">
+        <xlf:target state="translated">A reboot was required</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_ODSW_WEEKDAY_SUNDAY">
+        <xlf:target state="translated">Sunday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_ODSW_WEEKDAY_MONDAY">
+        <xlf:target state="translated">Monday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_ODSW_WEEKDAY_TUESDAY">
+        <xlf:target state="translated">Tuesday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_ODSW_WEEKDAY_WEDNESDAY">
+        <xlf:target state="translated">Wednesday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_ODSW_WEEKDAY_THURSDAY">
+        <xlf:target state="translated">Thursday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_ODSW_WEEKDAY_FRIDAY">
+        <xlf:target state="translated">Friday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_ODSW_WEEKDAY_SATURDAY">
+        <xlf:target state="translated">Saturday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_ODSW_SCAN_OPTIONS_DESC">
+        <xlf:target state="translated">View or change scan task options</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_ODSW_SCAN_OPTIONS_AFTER_SCAN_DESC">
+        <xlf:target state="translated">Choose the action to be taken if no threats are found.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_ODSW_SCAN_ADVANCED_OPTIONS_HIDE">
+        <xlf:target state="translated">Hide advanced options</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_ODSW_QUICK_SCAN_OPTIONS_DESC">
+        <xlf:target state="translated">View or change scan task options</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_ODSW_CHOSE_SCHEDULE">
+        <xlf:target state="translated">Choose when to schedule this task</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_ODSW_SCHEDULE_TYPE_DAILY">
+        <xlf:target state="translated">Daily</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_ODSW_SCHEDULE_TYPE_WEEKLY">
+        <xlf:target state="translated">Weekly</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_ODSW_SCHEDULE_TYPE_MONTHLY">
+        <xlf:target state="translated">Monthly</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_ODSW_RUN_SCAN">
+        <xlf:target state="translated">Run scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_ONLY_APPS_DESC">
+        <xlf:target state="translated">Scan only accessed applications for threats that may compromise your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_NEW_CHANGED_FILES_DESC">
+        <xlf:target state="translated">Scan only files that are new on your devices or files that have been modified.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_BOOT_SECTORS_DESC">
+        <xlf:target state="translated">Scan the devices for threats that might alter the boot sequence.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_MEMORY_DESC">
+        <xlf:target state="translated">Scan the memory of the device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_REGISTRY_DESC">
+        <xlf:target state="translated">Scan registry hive for threats.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_COOKIES_DESC">
+        <xlf:target state="translated">Scan cookies from websites for threats.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_KEYLOGGER_DESC">
+        <xlf:target state="translated">Scan the devices for keyloggers that may capture personal data such as passwords.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_ODSW_CHOOSE_WHAT_TO_SCAN">
+        <xlf:target state="translated">Select scan paths</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_ODSW_SYSTEM_SCAN">
+        <xlf:target state="translated">System Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_ODSW_PRIORITY_AUTO">
+        <xlf:target state="translated">Auto</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_ODSW_PRIORITY_HIGH">
+        <xlf:target state="translated">High</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="IDS_ODSW_PRIORITY_LOW">
+        <xlf:target state="translated">Low</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="IDS_ODSW_SCHEDULE_STARTUP_EXTENDED">
+        <xlf:target state="translated">Your scan is scheduled to run at system startup.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="IDS_ODSW_SCHEDULE_DAILY_EXTENDED">
+        <xlf:target state="translated">Your scan is scheduled to run every day at ${time}.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="IDS_ODSW_SCHEDULE_WEEKLY_EXTENDED">
+        <xlf:target state="translated">Your scan is scheduled to run every ${weekday}, at ${time}.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="IDS_ODSW_SCHEDULE_MONTHLY_EXTENDED">
+        <xlf:target state="translated">Your scan is scheduled to run every month, on day ${date}, at ${time}.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="IDS_SAVE">
+        <xlf:target state="translated">Save</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="IDS_RUN_SCAN">
+        <xlf:target state="translated">Run Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="IDS_ODSW_SCAN_SETTINGS_MINIMIZE">
+        <xlf:target state="translated">Run minimized</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="IDS_ODSW_SCAN_SETTINGS_MINIMIZE_DESC">
+        <xlf:target state="translated">Performs the scan operation in the background.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_UEFI">
+        <xlf:target state="translated">UEFI Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="IDS_ODSW_SCAN_SETTINGS_SCAN_UEFI_DESC">
+        <xlf:target state="translated">Scan Unified Extensible Firmware Interface modules to check if they have been tampered with.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

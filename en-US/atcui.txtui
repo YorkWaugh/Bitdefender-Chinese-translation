@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="atcui" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_ATC_PLUGIN_NAME">
+        <xlf:target state="translated">Advanced Threat Defense</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_ATC_ACTIVATE_FEATURE">
+        <xlf:target state="translated">Activate protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_ATC_SETTINGS_NAME">
+        <xlf:target state="translated">Open</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_ATC_PLUGIN_TOOLTIP">
+        <xlf:target state="translated">Identifies suspicious behavior and blocks even zero-day attacks from compromising your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_THREAT_DEFENSE">
+        <xlf:target state="translated">Threat Defense</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_MALWARE_LABEL_TEXT">
+        <xlf:target state="translated">Malware</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_EXPLOIT_LABEL_TEXT">
+        <xlf:target state="translated">Exploited</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_EXPLOIT_THREAT_LABEL">
+        <xlf:target state="translated">Threat</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_SUMMARY">
+        <xlf:target state="translated">We protected you against %s in the last {0} days.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_ATTACKS_COUNT">
+        <xlf:target state="translated">%s attacks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_ONE_ATTACK">
+        <xlf:target state="translated">1 attack</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_NO_ATTACKS">
+        <xlf:target state="translated">There were no attacks on your device in the previous {0} days.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_DISINFECTION_NEEDS_REBOOT">
+        <xlf:target state="translated">Disinfection needs restart to finalize the operation:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_REBOOT_NOW">
+        <xlf:target state="translated">Restart Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_ACTION_FORMAT">
+        <xlf:target state="translated">%S has been blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_ACTION_FORMAT_EXPLOIT">
+        <xlf:target state="translated">%S application has been blocked because of an exploit</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_ACTION_GROUP_FORMAT">
+        <xlf:target state="translated">%S applications have been blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_LABLE_TEXT">
+        <xlf:target state="translated">Ransomware </xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_RES_LABLE_TEXT">
+        <xlf:target state="translated">Disinfection successful:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_OPEN_QUAR_TEXT">
+        <xlf:target state="translated">Open quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_CMD_LINE">
+        <xlf:target state="translated">(Command line parameters: %S)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_EV_MINUTE_AGO">
+        <xlf:target state="translated">one minute ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_EV_HOUR_AGO">
+        <xlf:target state="translated">an hour ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_EV_MINUTES_AGO">
+        <xlf:target state="translated">{0} minutes ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_EV_HOURS_AGO">
+        <xlf:target state="translated">{0} hours ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_EV_YESTERDAY_AT_AM">
+        <xlf:target state="translated">Yesterday at {0}:{1} AM</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_EV_YESTERDAY_AT_PM">
+        <xlf:target state="translated">Yesterday at {0}:{1} PM</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_EV_JANUARY">
+        <xlf:target state="translated">January</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_EV_FEBRUARY">
+        <xlf:target state="translated">February</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_EV_MARCH">
+        <xlf:target state="translated">March</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_EV_APRIL">
+        <xlf:target state="translated">April</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_EV_MAY">
+        <xlf:target state="translated">May</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_EV_JUNE">
+        <xlf:target state="translated">June</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_EV_JULY">
+        <xlf:target state="translated">July</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_EV_AUGUST">
+        <xlf:target state="translated">August</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_EV_SEPTEMBER">
+        <xlf:target state="translated">September</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_EV_OCTOBER">
+        <xlf:target state="translated">October</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_EV_NOVEMBER">
+        <xlf:target state="translated">November</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_EV_DECEMBER">
+        <xlf:target state="translated">December</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_EV_FULL_DATE_AM">
+        <xlf:target state="translated">{0} {1} at {2}:{3} AM</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_EV_FULL_DATE_PM">
+        <xlf:target state="translated">{0} {1} at {2}:{3} PM</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_EV_NOW">
+        <xlf:target state="translated">now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_THREAT_FREE">
+        <xlf:target state="translated">Your device is threat free</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_EMPTY_STATE_DESCRIPTION_ATC">
+        <xlf:target state="translated">Advanced Threat Defense continuously monitors activity on your system and instantly blocks any suspicious applications.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_ATC_OPTION">
+        <xlf:target state="translated">Advanced Threat Defense</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_ATC_TOOLTIP">
+        <xlf:target state="translated">Continuously monitors device activity to protect you from even the most advanced threats.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_GEMMA_OPTION">
+        <xlf:target state="translated">Exploit detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_GEMMA_TOOLTIP">
+        <xlf:target state="translated">Scan applications for different types of exploits.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_MANAGE_EXCEPTIONS">
+        <xlf:target state="translated">Manage exceptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_MANAGE_EXCEPTIONS_DESCRIPTION">
+        <xlf:target state="translated">Add or remove items to be excepted from scan.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_QUARANTINED_THREATS">
+        <xlf:target state="translated">Quarantined threats</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_MANAGE_QUARANTINED_THREATS">
+        <xlf:target state="translated">Manage quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_MANAGE_QUARANTINED_THREATS_DESCRIPTION">
+        <xlf:target state="translated">Restore or delete threats that have been quarantined.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

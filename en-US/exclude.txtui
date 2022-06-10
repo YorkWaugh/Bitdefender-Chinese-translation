@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="exclude" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_MANAGE_EXCEPTIONS">
+        <xlf:target state="translated">Manage exceptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_EXCEPTIONS_DESCRIPTION">
+        <xlf:target state="translated">Add or remove items to be excepted from scan.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_ADD_EXCEPTION_PLUS">
+        <xlf:target state="translated">+ Add an Exception</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_CATEGORY_ALL">
+        <xlf:target state="translated">All exceptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_CATEGORY_ANTIVIRUS">
+        <xlf:target state="translated">Antivirus</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_CATEGORY_ATD">
+        <xlf:target state="translated">Advanced Threat Defense</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_CATEGORY_OTD">
+        <xlf:target state="translated">Online Threat Prevention</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_EXCEPTIONS_OPTIONS">
+        <xlf:target state="translated">Exceptions options</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_EXCEPTION_INPUT_DESCRIPTION">
+        <xlf:target state="translated">Enter the path, extension name, URL or domain here</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_DROP_FILE">
+        <xlf:target state="translated">Drop the item here</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_BROWSE_DESCRIPTION">
+        <xlf:target state="translated">Browse the item you want to add to exceptions.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_AVAILABLE_ACTIONS">
+        <xlf:target state="translated">Browse or drag and drop the item in the field above.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_CATEGORY">
+        <xlf:target state="translated">Protection Feature</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_SET_EXCEPTION_DESCRIPTION">
+        <xlf:target state="translated">Excepted items will not be scanned by the selected features.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_OA_SCAN">
+        <xlf:target state="translated">On-access scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_OD_SCAN">
+        <xlf:target state="translated">On-demand scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_AMSI_SCAN">
+        <xlf:target state="translated">Embedded scripts</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_EXCEPT_FROM_ALL_WARNING">
+        <xlf:target state="translated">Be aware that excepting items from all Protection Features can make your device vulnerable to potential threats.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_SAVE_EXCEPTION">
+        <xlf:target state="translated">Save</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_BROWSE_DIALOG_TITLE">
+        <xlf:target state="translated">Select a file or folder to except</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_INVALID_EXCEPTION_STRING">
+        <xlf:target state="translated">The exception you have entered is not valid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_NO_EXCEPTIONS">
+        <xlf:target state="translated">You haven&apos;t set up any exception.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_NO_ANTIVIRUS_EXCEPTIONS">
+        <xlf:target state="translated">You haven&apos;t set up any Antivirus exception.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_NO_ATD_EXCEPTIONS">
+        <xlf:target state="translated">You haven&apos;t set up any Advanced Threat Defense exception.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_NO_OTD_EXCEPTIONS">
+        <xlf:target state="translated">You haven&apos;t set up any Online Threat Prevention exception.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_EXCEPTED_FROM_OA">
+        <xlf:target state="translated">On-access,</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_EXCEPTED_FROM_OD">
+        <xlf:target state="translated">On-demand,</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_EXCEPTED_FROM_AMSI">
+        <xlf:target state="translated">Embedded scripts,</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_EXCEPTED_FROM_ATD">
+        <xlf:target state="translated">Advanced Threat Defense,</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_EXCEPTED_FROM_OTD">
+        <xlf:target state="translated">Online Threat Prevention,</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_EDIT_EXCEPTION_OPTIONS">
+        <xlf:target state="translated">Edit</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_REMOVE_FROM_ALL">
+        <xlf:target state="translated">Remove exception from all protection features</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_REMOVE_FROM_ANTIVIRUS">
+        <xlf:target state="translated">Remove exception from Antivirus.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_REMOVE_FROM_ATD">
+        <xlf:target state="translated">Remove exception from Advanced Threat Defense.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_REMOVE_FROM_OTD">
+        <xlf:target state="translated">Remove exception from Online Threat Prevention.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

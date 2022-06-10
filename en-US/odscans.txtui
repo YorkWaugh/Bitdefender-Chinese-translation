@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="odscans" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_MODULE_NAME">
+        <xlf:target state="translated">Scans</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_QUICK_SCAN">
+        <xlf:target state="translated">Quick Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_QUICK_SCAN_DESCRIPTION">
+        <xlf:target state="translated">Run a lightweight scan for your peace of mind.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_RUN_SCAN">
+        <xlf:target state="translated">Run Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_SYSTEM_SCAN">
+        <xlf:target state="translated">System Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_SYSTEM_SCAN_DESCRIPTION">
+        <xlf:target state="translated">Run a deep analysis of your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_MANAGE_SCANS">
+        <xlf:target state="translated">Manage Scans</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_CREATE_SCAN_DESCRIPTION">
+        <xlf:target state="translated">Create scan tasks and schedule them.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_CREATE_SCAN_BTN">
+        <xlf:target state="translated">+ Custom Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_EDIT">
+        <xlf:target state="translated">Edit</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_DELETE">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_WINRE">
+        <xlf:target state="translated">Rescue Environment</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_WINRE_DESCRIPTION">
+        <xlf:target state="translated">Allows you to scan and remove resilient threats that cannot be solved in the current environment.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_OPEN">
+        <xlf:target state="translated">Open</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_WEEKDAY_SUNDAY">
+        <xlf:target state="translated">Sunday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_WEEKDAY_MONDAY">
+        <xlf:target state="translated">Monday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_WEEKDAY_TUESDAY">
+        <xlf:target state="translated">Tuesday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_WEEKDAY_WEDNESDAY">
+        <xlf:target state="translated">Wednesday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_WEEKDAY_THURSDAY">
+        <xlf:target state="translated">Thursday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_WEEKDAY_FRIDAY">
+        <xlf:target state="translated">Friday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_WEEKDAY_SATURDAY">
+        <xlf:target state="translated">Saturday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_SCHEDULE_STARTUP">
+        <xlf:target state="translated">at system startup</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_SCHEDULE_DAYLY">
+        <xlf:target state="translated">every day at ${time}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_SCHEDULE_WEEKLY">
+        <xlf:target state="translated">every ${weekday}, at ${time}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_SCHEDULE_MONTHLY">
+        <xlf:target state="translated">every month, on day ${date}, at ${time}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_UPSELL">
+        <xlf:target state="translated">Upgrade to unlock this feature</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

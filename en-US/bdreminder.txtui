@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="BdReminder" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_WHATS_NEW">
+        <xlf:target state="translated">What&apos;s new</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_OK">
+        <xlf:target state="translated">Learn more</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_FEATURE1_TITLE">
+        <xlf:target state="translated">Sync your accounts on all your devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_FEATURE1_DESC">
+        <xlf:target state="translated">- smartphone, laptop, tablet. You have easy access to your data anytime, anyplace.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_FEATURE2_TITLE">
+        <xlf:target state="translated">It comes with the strongest known cryptographic algorithms.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_FEATURE2_DESC">
+        <xlf:target state="translated">No one touches your passwords, notes, or card details.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_FEATURE3_TITLE">
+        <xlf:target state="translated">Free your mind from remembering all your accounts.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_FEATURE3_DESC">
+        <xlf:target state="translated">Set a single master password, and that&apos;s all you need.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_PROTECT_TITLE">
+        <xlf:target state="translated">Install &lt;#FullProductName#&gt; on a new device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_PROTECT_DESCRIPTION">
+        <xlf:target state="translated">Send the link below to any of your devices to install the product. Open the link on the device you want to protect to start the installation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_COPY_CLIPBOARD">
+        <xlf:target state="translated">Copy download link</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_SHARE_LINK">
+        <xlf:target state="translated">Share download link</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_LINK_COPIED">
+        <xlf:target state="translated">Link copied to clipboard</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_LINK_DESCRIPTION_1">
+        <xlf:target state="translated">For security reasons, your link will only be valid for 24h.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_LINK_DESCRIPTION_2">
+        <xlf:target state="translated">If you don&apos;t use it by then, you can generate a new link from the &lt;#ProductName#&gt; dashboard.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_LOADING_LINK">
+        <xlf:target state="translated">Generating download link...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_UNLIMITED_DEVICES">
+        <xlf:target state="translated">unlimited</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_FLOW1_TEXT1_TS">
+        <xlf:target state="translated">Use your subscription to protect up to {0} more device(s) - PCs, Macs, tablets or phones.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_FLOW1_TEXT1_AV">
+        <xlf:target state="translated">Use your subscription to protect up to {0} more device(s) with Windows.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_FLOW1_TEXT1_EPP">
+        <xlf:target state="translated">Use your subscription to protect up to {0} more device(s) with Windows or macOS.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_FLOW1_TEXT2">
+        <xlf:target state="translated">Share the download link by email, or copy and send it via an instant message.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_FLOW1_TEXT3">
+        <xlf:target state="translated">Open the link on the device you want to protect, download &lt;#FullProductName#&gt; and install it.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_FLOW_EASY">
+        <xlf:target state="translated">Easy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_FLOW2_TEXT1_TS">
+        <xlf:target state="translated">Make the most of your &lt;#FullProductName#&gt; subscription and install it on {0} more device(s) - PCs, Macs, tablets or phones.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_FLOW2_TEXT1_AV">
+        <xlf:target state="translated">Make the most of your &lt;#FullProductName#&gt; subscription and install it on {0} more device(s) with Windows.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_FLOW2_TEXT1_EPP">
+        <xlf:target state="translated">Make the most of your &lt;#FullProductName#&gt; subscription and install it on {0} more device(s) with Windows or macOS.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_FLOW2_TEXT2">
+        <xlf:target state="translated">It only takes 3 easy steps:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_FLOW2_TEXT3">
+        <xlf:target state="translated">Share link</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_FLOW2_TEXT4">
+        <xlf:target state="translated">Open it on the device you want to protect.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_FLOW2_TEXT5">
+        <xlf:target state="translated">Download and install &lt;#FullProductName#&gt;.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_FLOW3_TEXT1_TS">
+        <xlf:target state="translated">Secure your network by protecting all the devices connected to it. Use your &lt;#FullProductName#&gt; subscription on {0} more device(s) - PCs, Macs, tablets or phones.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_FLOW3_TEXT1_AV">
+        <xlf:target state="translated">Secure your network by protecting all the devices connected to it. Use your &lt;#FullProductName#&gt; subscription on {0} more device(s) with Windows.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_FLOW3_TEXT1_EPP">
+        <xlf:target state="translated">Secure your network by protecting all the devices connected to it. Use your &lt;#FullProductName#&gt; subscription on {0} more device(s) with Windows or macOS.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_FLOW3_TEXT2">
+        <xlf:target state="translated">Share the download link by email, or copy and send it via an instant message.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_FLOW3_TEXT3">
+        <xlf:target state="translated">Open the link on the device you want to protect, download &lt;#FullProductName#&gt; and install it.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_FLOW4_TEXT1_TS">
+        <xlf:target state="translated">Secure your network by protecting all the devices connected to it. Your subscription can be used to install &lt;#FullProductName#&gt; on {0} more device(s) - PCs, Macs, tablets or phones.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_FLOW4_TEXT1_AV">
+        <xlf:target state="translated">Secure your network by protecting all the devices connected to it. Your subscription can be used to install &lt;#FullProductName#&gt; on {0} more device(s) with Windows.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_FLOW4_TEXT1_EPP">
+        <xlf:target state="translated">Secure your network by protecting all the devices connected to it. Your subscription can be used to install &lt;#FullProductName#&gt; on {0} more device(s) with Windows or macOS.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_FLOW4_TEXT2">
+        <xlf:target state="translated">Share the download link by email, or copy and send it via an instant message.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_FLOW4_TEXT3">
+        <xlf:target state="translated">Open the link on the device you want to protect, download &lt;#FullProductName#&gt; and install it.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_FLOW5_TEXT1">
+        <xlf:target state="translated">Make the most of your &lt;#FullProductName#&gt; subscription and add protection on {0} more device(s) - for no extra costs.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_FLOW5_TEXT2_TS">
+        <xlf:target state="translated">Follow 3 easy steps to install &lt;#FullProductName#&gt; on your PC, Mac, tablet or phone:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_FLOW5_TEXT2_AV">
+        <xlf:target state="translated">Follow 3 easy steps to install &lt;#FullProductName#&gt; on another device with Windows:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_FLOW5_TEXT2_EPP">
+        <xlf:target state="translated">Follow 3 easy steps to install &lt;#FullProductName#&gt; on another device with Windows or macOS:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_FLOW5_TEXT3">
+        <xlf:target state="translated">Send the download link to the new device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_FLOW5_TEXT4">
+        <xlf:target state="translated">Open and download &lt;#FullProductName#&gt; on that device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_FLOW5_TEXT5">
+        <xlf:target state="translated">Install and enjoy top security.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_FLOW_QUICK">
+        <xlf:target state="translated">Quick tip:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_FLOW_TIP">
+        <xlf:target state="translated">You can use your subscription to protect {0} more device(s).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_FLOW6_TEXT1">
+        <xlf:target state="translated">Protect the data stored on your mobile phone and enjoy worry-free browsing with &lt;#FullProductName#&gt;.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_FLOW6_TEXT2">
+        <xlf:target state="translated">Follow these easy steps to secure your phone:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_FLOW6_TEXT3">
+        <xlf:target state="translated">Send the download link to your phone.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_FLOW6_TEXT4">
+        <xlf:target state="translated">Open and download &lt;#FullProductName#&gt; on that phone.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_FLOW6_TEXT5">
+        <xlf:target state="translated">Install and enjoy the best mobile protection!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_TITLE_1">
+        <xlf:target state="translated">Hi, Password Manager!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_TITLE_2">
+        <xlf:target state="translated">Bye, forgotten passwords.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_PRIMARY_TITLE_WALLET_OWNERS">
+        <xlf:target state="translated">Meet the upgraded Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_PRIMARY_CONTENT">
+        <xlf:target state="translated">Manage passwords on all your devices, knowing you&apos;re guarded by the latest level of encryption. The best part: it&apos;s cross-platform and it&apos;s included in your Premium Security pack.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_SECONDARY_TITLE">
+        <xlf:target state="translated">Move Wallets to Password Manager and give it a try.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_SECONDARY_CONTENT">
+        <xlf:target state="translated">You&apos;ll no longer need your Wallet browser extension, so we&apos;ll uninstall it for you.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_MOVE_WALLETS">
+        <xlf:target state="translated">Move Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_PRIMARY_TITLE_NO_WALLETS">
+        <xlf:target state="translated">Meet the new Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_INSTALL_PASSWORD_MANAGER">
+        <xlf:target state="translated">Install Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_FLOW1_TEXT1_TS_MORE">
+        <xlf:target state="translated">Use your subscription to protect more devices - PCs, Macs, tablets or phones.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_FLOW1_TEXT1_AV_MORE">
+        <xlf:target state="translated">Use your subscription to protect more devices with Windows.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_FLOW1_TEXT1_EPP_MORE">
+        <xlf:target state="translated">Use your subscription to protect more devices with Windows or macOS.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_FLOW2_TEXT1_TS_MORE">
+        <xlf:target state="translated">Make the most of your &lt;#FullProductName#&gt; subscription and install it on more devices - PCs, Macs, tables or phones.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_FLOW2_TEXT1_AV_MORE">
+        <xlf:target state="translated">Make the most of your &lt;#FullProductName#&gt; subscription and install it on more devices with Windows.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_FLOW2_TEXT1_EPP_MORE">
+        <xlf:target state="translated">Make the most of your &lt;#FullProductName#&gt; subscription and install it on more devices with Windows or macOS.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_FLOW3_TEXT1_TS_MORE">
+        <xlf:target state="translated">Secure your network by protecting all the devices connected to it. Use your &lt;#FullProductName#&gt; subscription on more devices - PCs, Macs, tablets or phones.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_FLOW3_TEXT1_AV_MORE">
+        <xlf:target state="translated">Secure your network by protecting all the devices connected to it. Use your &lt;#FullProductName#&gt; subscription on more devices with Windows.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_FLOW3_TEXT1_EPP_MORE">
+        <xlf:target state="translated">Secure your network by protecting all the devices connected to it. Use your &lt;#FullProductName#&gt; subscription on more devices with Windows or macOS.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_FLOW4_TEXT1_TS_MORE">
+        <xlf:target state="translated">Secure your network by protecting all the devices connected to it. Your subscription can be used to install &lt;#FullProductName#&gt; on more devices - PCs, Macs, tablets or phones.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_FLOW4_TEXT1_AV_MORE">
+        <xlf:target state="translated">Secure your network by protecting all the devices connected to it. Your subscription can be used to install &lt;#FullProductName#&gt; on more devices with Windows.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_FLOW4_TEXT1_EPP_MORE">
+        <xlf:target state="translated">Secure your network by protecting all the devices connected to it. Your subscription can be used to install &lt;#FullProductName#&gt; on more devices with Windows or macOS.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_FLOW5_TEXT1_MORE">
+        <xlf:target state="translated">Make the most of your &lt;#FullProductName#&gt; subscription and add protection on more devices - for no extra costs.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_FLOW_TIP_MORE">
+        <xlf:target state="translated">You can use your subscription to protect more devices</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

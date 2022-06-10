@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdtrackersui" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_TRACKERS_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Anti-tracker</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_TRACKERS_TOOLTIP">
+        <xlf:target state="translated">Blocks web trackers from collecting data that would enable user profiling and commercial targeting.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_TRACKERS_APP_NAME">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Anti-tracker</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_TRACKERS_APP_DESC">
+        <xlf:target state="translated">Protects your privacy by blocking trackers that collect different type of data everytime you navigate online.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_TRACKERS_SHORT_NAME">
+        <xlf:target state="translated">Anti-tracker</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_TRACKERS_BROWSER_SESSION_BLOCKED">
+        <xlf:target state="translated">trackers blocked in the current browsing session</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_TRACKERS_TRACKERS_BLOCKED">
+        <xlf:target state="translated">Trackers blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_TRACKERS_ADVERTISING_TRACKERS_TOOLTIP">
+        <xlf:target state="translated">Advertising trackers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_TRACKERS_INTERACTION_TRACKERS_TOOLTIP">
+        <xlf:target state="translated">Customer Interaction trackers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_TRACKERS_ESSENTIALS_TRACKERS_TOOLTIP">
+        <xlf:target state="translated">Essential trackers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_TRACKERS_ANALYTICS_TRACKERS_TOOLTIP">
+        <xlf:target state="translated">Site Analytics trackers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_TRACKERS_SOCIAL_TRACKERS_TOOLTIP">
+        <xlf:target state="translated">Social Media trackers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_TRACKERS_SECONDS">
+        <xlf:target state="translated">sec</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_TRACKERS_PAGE_LOAD">
+        <xlf:target state="translated">Page load</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_TRACKERS_ENABLE_APP">
+        <xlf:target state="translated">Enable Anti-tracker to protect your online privacy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_TRACKERS_PAUSE_PROTECTION">
+        <xlf:target state="translated">Pause protection on this website</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_TRACKERS_ENABLE_PROTECTION">
+        <xlf:target state="translated">Enable protection on this website</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_TRACKERS_SHOW_MORE_DETAILS">
+        <xlf:target state="translated">Show more details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_TRACKERS_HIDE_MORE_DETAILS">
+        <xlf:target state="translated">Hide more details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_TRACKERS_ADVERTISING_CATEGORY_TITLE">
+        <xlf:target state="translated">Advertising</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_TRACKERS_ANALYTICS_CATEGORY_TITLE">
+        <xlf:target state="translated">Site Analytics</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_TRACKERS_INTERACTION_CATEGORY_TITLE">
+        <xlf:target state="translated">Customer Interaction</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_TRACKERS_SOCIAL_CATEGORY_TITLE">
+        <xlf:target state="translated">Social Media</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_TRACKERS_ESSENTIAL_CATEGORY_TITLE">
+        <xlf:target state="translated">Essential</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_TRACKERS_ADVERTISING_CATEGORY_DESC">
+        <xlf:target state="translated">Advertising trackers are used to analyze website traffic, user behavior, or site visitors&apos; patterns.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_TRACKERS_ANALYTICS_CATEGORY_DESC">
+        <xlf:target state="translated">Site Analytics trackers are used to gather data regarding webpage usage.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_TRACKERS_INTERACTION_CATEGORY_DESC">
+        <xlf:target state="translated">Customer Interaction trackers are used to measure user interaction with different input forms such as chat or support.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_TRACKERS_SOCIAL_CATEGORY_DESC">
+        <xlf:target state="translated">Social Media trackers are used to monitor social audience, activity and user engagement with different social media platforms.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_TRACKERS_ESSENTIAL_CATEGORY_DESC">
+        <xlf:target state="translated">Essential trackers are used to monitor critical webpage functionalities.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_TRACKERS_ADVERTISING_CATEGORY_TOOLTIP">
+        <xlf:target state="translated">Trackers that analyze website traffic or usage behavior.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_TRACKERS_ANALYTICS_CATEGORY_TOOLTIP">
+        <xlf:target state="translated">Relates to data analytics and webpage usage trackers.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_TRACKERS_INTERACTION_CATEGORY_TOOLTIP">
+        <xlf:target state="translated">Trackers used to measure interaction with forms such as chat or support.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_TRACKERS_SOCIAL_CATEGORY_TOOLTIP">
+        <xlf:target state="translated">Trackers used to measure engagement with different social media platforms.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_TRACKERS_ESSENTIAL_CATEGORY_TOOLTIP">
+        <xlf:target state="translated">Relates to trackers that are critical for webpage functionality.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_TRACKERS_EXCEPTIONS_TITLE">
+        <xlf:target state="translated">Exceptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_TRACKERS_EXCEPTIONS_DESC">
+        <xlf:target state="translated">Trackers on excepted websites will not be blocked.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_TRACKERS_ADD_CURR_WEBSITE">
+        <xlf:target state="translated">Add current website to the list.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_TRACKERS_WEBSITE_ADDED_LIST">
+        <xlf:target state="translated">Website added</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_TRACKERS_EXCEPTION_ACTION_DESC">
+        <xlf:target state="translated">Manually add or remove websites below</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_TRACKERS_WEBSITE_URL_ENTER">
+        <xlf:target state="translated">Enter website URL</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_TRACKERS_URL_NOT_VALID">
+        <xlf:target state="translated">The URL is invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_TRACKERS_URL_ALREADY_EXISTS">
+        <xlf:target state="translated">URL already exists.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_TRACKERS_URL_IS_EMPTY">
+        <xlf:target state="translated">The URL is empty</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_TRACKERS_SETTINGS_TITLE">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_TRACKERS_EXTENSION_STATUS_ON">
+        <xlf:target state="translated">Anti-tracker is ON</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_TRACKERS_EXTENSION_STATUS_OFF">
+        <xlf:target state="translated">Anti-tracker is OFF</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_TRACKERS_EXTENSION_STATUS_DESC">
+        <xlf:target state="translated">Enable or disable extension</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_TRACKERS_SPECIAL_OFFERS">
+        <xlf:target state="translated">Special offers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_TRACKERS_SPECIAL_OFFERS_TOOLTIP">
+        <xlf:target state="translated">We use commercial trackers to help you find our special offers easily. Our mission is to protect your privacy. We never share any of the information collected with anybody, for any purpose.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_TRACKERS_PLUGINS_TITLE">
+        <xlf:target state="translated">You can use Anti-tracker with the following apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_TRACKERS_IEXPLORE_LABEL">
+        <xlf:target state="translated">Internet Explorer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_TRACKERS_NOT_ENABLED">
+        <xlf:target state="translated">Not enabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_TRACKERS_FIREFOX_LABEL">
+        <xlf:target state="translated">Mozilla Firefox</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_TRACKERS_ON">
+        <xlf:target state="translated">On</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_TRACKERS_OFF">
+        <xlf:target state="translated">Off</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_TRACKERS_CHROME_LABEL">
+        <xlf:target state="translated">Google Chrome</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_TRACKERS_BROWSER_NOT_INSTALLED">
+        <xlf:target state="translated">This browser isn&apos;t installed on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_TRACKERS_BROWSER_ENABLE_PLUGIN">
+        <xlf:target state="translated">Enable Anti-tracker on this browser</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_TRACKERS_INSTALL_EXTENSION">
+        <xlf:target state="translated">Install Anti-tracker on this browser</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_TRACKERS_ADVERTISING_PAGE_TITLE">
+        <xlf:target state="translated">Advertising trackers (%d)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_TRACKERS_INTERACTION_PAGE_TITLE">
+        <xlf:target state="translated">Customer Interaction trackers (%d)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_TRACKERS_ESSENTIAL_PAGE_TITLE">
+        <xlf:target state="translated">Essential trackers (%d)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_TRACKERS_ANALYTICS_PAGE_TITLE">
+        <xlf:target state="translated">Site Analytics trackers (%d)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_TRACKERS_SOCIAL_PAGE_TITLE">
+        <xlf:target state="translated">Social Media trackers (%d)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_TRACKERS_ADVERTISING_PAGE_BUTTON_BLOCK">
+        <xlf:target state="translated">Enable blocking for this category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_TRACKERS_ADVERTISING_PAGE_BUTTON_UNBLOCK">
+        <xlf:target state="translated">Disable blocking for this category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_TRACKERS_INTERACTION_PAGE_BUTTON_BLOCK">
+        <xlf:target state="translated">Enable blocking for this category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_TRACKERS_INTERACTION_PAGE_BUTTON_UNBLOCK">
+        <xlf:target state="translated">Disable blocking for this category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_TRACKERS_ESSENTIAL_PAGE_BUTTON_BLOCK">
+        <xlf:target state="translated">Enable blocking for this category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_TRACKERS_ESSENTIAL_PAGE_BUTTON_UNBLOCK">
+        <xlf:target state="translated">Disable blocking for this category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_TRACKERS_ANALYTICS_PAGE_BUTTON_BLOCK">
+        <xlf:target state="translated">Enable blocking for this category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_TRACKERS_ANALYTICS_PAGE_BUTTON_UNBLOCK">
+        <xlf:target state="translated">Disable blocking for this category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_TRACKERS_SOCIAL_PAGE_BUTTON_BLOCK">
+        <xlf:target state="translated">Enable blocking for this category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_TRACKERS_SOCIAL_PAGE_BUTTON_UNBLOCK">
+        <xlf:target state="translated">Disable blocking for this category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_TRACKERS_STR">
+        <xlf:target state="translated">trackers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_TRACKERS_UPDATE_IN_PROGRESS">
+        <xlf:target state="translated">Update in progress, please wait...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_TRACKERS_EDGE_LABEL">
+        <xlf:target state="translated">Microsoft Edge</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

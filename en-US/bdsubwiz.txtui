@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdsubwiz" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_SUBWIZ_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_CONTACT_SUPPORT">
+        <xlf:target state="translated">Get help</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_RESTART_DEVICE">
+        <xlf:target state="translated">Restart device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_PROCESS_CRASH_DESC">
+        <xlf:target state="translated">Due to a software failure, %s failed to respond and crashed. Automatic recovery will start. Submit debugging information to help us improve your experience and protection capabilities.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_PROCESS_KEEP_CRASHING_DESC">
+        <xlf:target state="translated">A software failure keeps occurring, %s fails to start properly. Although device restart may fix the issue, debug information is required to resolve the anomaly.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_SUBMIT_DEBUG_INFORMATION">
+        <xlf:target state="translated">Submit info</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_NOT_NOW">
+        <xlf:target state="translated">Not now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_FEEDBACK_MORE_DETAILS">
+        <xlf:target state="translated">Please provide more details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_FEEDBACK_TOOLTIP">
+        <xlf:target state="translated">Add your feedback here...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_ADD_FEEDBACK">
+        <xlf:target state="translated">Add feedback</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_SERVICE_FAILURE">
+        <xlf:target state="translated">Service failure</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_PROCESS_FAILURE">
+        <xlf:target state="translated">Process failure</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_APPNAME_ABOUT">
+        <xlf:target state="translated">About &lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_APPNAME_BDAGENT">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Agent</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_APPNAME_LIVESRV">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Update Service</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_APPNAME_SECCENTER">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Security Center</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_APPNAME_UISCAN">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antivirus Scanner</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_APPNAME_VULNERABILITY_SCAN">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Vulnerability Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_APPNAME_VPN_AGENT">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Agent</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_APPNAME_VPN_UI">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_APPNAME_SECURITY_SERVICE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Security Service</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_APPNAME_HOST_SERVICE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Service Host</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_APPNAME_UPDATE_SERVICE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Update Service</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_APPNAME_PRODUCT_AGENT_SERVICE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Product Agent Service</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_APPNAME_DEVMGMT_SERVICE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Device Management Service</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_APPNAME_VPN_SERVICE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; VPN Service</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_APPNAME_REDLINE_SERVICE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; RedLine Service</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_APPNAME_PROTECTED_SERVICE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Protected Service</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_APPNAME_AUXILIARY_SERVICE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Auxiliary Service</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

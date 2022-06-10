@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdaphconp" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_CATEGORY_PRIVACY">
+        <xlf:target state="translated">Antiphishing</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_TAB_NAME">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_TAB_BROWSERS">
+        <xlf:target state="translated">Web Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_TAB_GUSTER">
+        <xlf:target state="translated">Network threat prevention</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_HTTPTRAF">
+        <xlf:target state="translated">Web attack prevention</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_HTTPTRAF_DESCR">
+        <xlf:target state="translated">Checks every web page you access for threats to avoid them being downloaded on your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_SEARCH_ADVISOR">
+        <xlf:target state="translated">Search Advisor</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_SEARCH_ADVISOR_DESCR">
+        <xlf:target state="translated">Checks your search results to warn against dangerous web pages before you access them.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_APH_BROWSERS">
+        <xlf:target state="translated">Phishing protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_APH_BROWSERS_DESCR">
+        <xlf:target state="translated">Checks every web page you access for phishing behavior. Phishing pages attempt to obtain sensitive information such as login credentials or credit card details by disguising as trustworthy entities. The stolen data can be then used for financial gain.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_ANTIFRAUD">
+        <xlf:target state="translated">Fraud protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_ANTIFRAUD_DESCR">
+        <xlf:target state="translated">Checks every web page you access for fraudulent content. Fraudulent pages usually attempt to trick you into sending money with the intent of obtaining unlawful gain.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_WLBTN_LABEL">
+        <xlf:target state="translated">Manage exceptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_APHWL_URL_MISSING">
+        <xlf:target state="translated">URL %s already exists.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_APHWL_MODIFIED">
+        <xlf:target state="translated">The exception list was modified. Do you want to save it?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_SSL">
+        <xlf:target state="translated">Encrypted web scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_SSL_DESCR">
+        <xlf:target state="translated">Checks the safety of encrypted web pages. Encrypted web pages can use certificates issued by untrusted certificate authorities or even stolen certificates from legitimate sources.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_PRIVACY_PAD_TITLE">
+        <xlf:target state="translated">Online Threat Prevention</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_PRIVACY_PAD_STATUS">
+        <xlf:target state="translated">Our cloud-based Global Protective Network secures your device by blocking any online threat.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_PRIVACY_CONFIGURE">
+        <xlf:target state="translated">Configure</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_ANTIPHISHING_IS">
+        <xlf:target state="translated">Antiphishing</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_EVENTS_PRIVACY_TAB">
+        <xlf:target state="translated">Antiphishing</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_GUSTER_STATUS">
+        <xlf:target state="translated">Network threat prevention</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_GUSTER_STATUS_DESCR">
+        <xlf:target state="translated">Prevents exploitation of vulnerabilities on your device to prevent complex threats, like ransomware, from using these vulnerabilities to attack your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_EXCEPTIONS_TITLE">
+        <xlf:target state="translated">Exceptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_MANAGE_EXCEPTIONS_LABEL">
+        <xlf:target state="translated">Manage exceptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_MANAGE_EXCEPTIONS_DESCR">
+        <xlf:target state="translated">Add or remove items to be excepted from scan.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_MANAGE_EXCEPTIONS_BTN">
+        <xlf:target state="translated">Manage exceptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_TEXT_ON">
+        <xlf:target state="translated">On</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_TEXT_OFF">
+        <xlf:target state="translated">Off</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_WEB_PROTECTION">
+        <xlf:target state="translated">Web Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_NETWORK_THREAT_PROTECTION">
+        <xlf:target state="translated">Network Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_EMAIL_THREAT_PROTECTION">
+        <xlf:target state="translated">Email Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_SCANEMAILS">
+        <xlf:target state="translated">Scan emails</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_SCANEMAILS_DESCR">
+        <xlf:target state="translated">Scans email content for threats that may compromise your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_SCANEMAILS_ALL">
+        <xlf:target state="translated">Incoming and outgoing emails</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_SCANEMAILS_INCOMING">
+        <xlf:target state="translated">Incoming emails only</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_SCANEMAILS_OUTGOING">
+        <xlf:target state="translated">Outgoing emails only</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_SCANEMAILS_NONE">
+        <xlf:target state="translated">Don&apos;t scan emails</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_UPGRADE_TIP">
+        <xlf:target state="translated">Upgrade to unlock this feature</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

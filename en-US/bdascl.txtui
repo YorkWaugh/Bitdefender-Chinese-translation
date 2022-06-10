@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdascl" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_AS_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_ADDRESS_NOT_VALID">
+        <xlf:target state="translated">Please enter a valid email address, e.g. address@domain.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_DOMAIN_NOT_VALID">
+        <xlf:target state="translated">Please enter a valid domain, e.g. @domain.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_ISSPAM">
+        <xlf:target state="translated">Is Spam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_ISSPAM_TTP">
+        <xlf:target state="translated">Mark message as spam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_NOTSPAM">
+        <xlf:target state="translated">Not Spam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_NOTSPAM_TTP">
+        <xlf:target state="translated">Mark message as not-spam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_ADDSPAMMER">
+        <xlf:target state="translated">Add Spammer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_ADDSPAMMMER_TTP">
+        <xlf:target state="translated">Add sender(s) to Spammers list.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_ADDFRIEND">
+        <xlf:target state="translated">Add Friend</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_ADDFRIEND_TTP">
+        <xlf:target state="translated">Add sender(s) to Friends list.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_AS_TITLE_ADDSPAMMER">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Add spammer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_AS_TITLE_ADDFRIEND">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Add friend</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_SPAMMERS">
+        <xlf:target state="translated">Spammers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_SPAMMERS_TTP">
+        <xlf:target state="translated">Manage Spammers list.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_FRIENDS">
+        <xlf:target state="translated">Friends</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_FRIENDS_TTP">
+        <xlf:target state="translated">Manage Friends list.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_SETTINGS_TTP">
+        <xlf:target state="translated">Configuration</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_MENU">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Toolbar</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_MENU_TTP">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Toolbar</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_ACTIVATE">
+        <xlf:target state="translated">Activate &lt;#ProductName#&gt; Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_ACTIVATE_TTP">
+        <xlf:target state="translated">Activate &lt;#ProductName#&gt; Antispam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_ACTIVATE_INTERMIDIATE">
+        <xlf:target state="translated">Initializing Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_ACTIVATE_INTERMIDIATE_TTP">
+        <xlf:target state="translated">Initializing Antispam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_ADD_ENEMY_EXISTS">
+        <xlf:target state="translated">This address already exists in the Spammers list:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_ADD_ENEMY_EXISTSWL">
+        <xlf:target state="translated">Failed to add address to the Spammers list because it is already included in the Friends list. Please remove it from the Friends list first.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_ADD_FRIEND_EXISTS">
+        <xlf:target state="translated">This address already exists in the Friends list:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_ADD_FRIEND_EXISTSBL">
+        <xlf:target state="translated">Failed to add address to the Friends list because it is already included in the Spammers list. Please remove it from the Spammers list first.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_AS_SETTINGS_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_AS_SETTINGS_HEADER">
+        <xlf:target state="translated">Antispam Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_AS_FILTERS_TITLE">
+        <xlf:target state="translated">Antispam Filters</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_AS_TOOLBAR_TITLE">
+        <xlf:target state="translated">Toolbar Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_AS_CLOUD_DETECTION">
+        <xlf:target state="translated">In-the-cloud detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_AS_BLOCK_ASIAN">
+        <xlf:target state="translated">Block email written with Asian characters</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_AS_BLOCK_CYRILLIC">
+        <xlf:target state="translated">Block email written with Cyrillic characters</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_AS_MOVE_TO_TRASH">
+        <xlf:target state="translated">Move message to &apos;Deleted Items&apos;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_AS_MARK_AS_READ">
+        <xlf:target state="translated">Mark spam email messages as &apos;Read&apos;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_AS_FRIEND_CONFIRM">
+        <xlf:target state="translated">Show &apos;Add Friend&apos; confirmation window</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_AS_SETTINGS_POPUP">
+        <xlf:target state="translated">View or change your antispam settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_AS_SPAMMER_CONFIRM">
+        <xlf:target state="translated">Show &apos;Add Spammer&apos; confirmation window</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_AS_OK_BTN">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_AS_CANCEL_BTN">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_AS_SPAMFILTERS_TITLE">
+        <xlf:target state="translated">Spam filters</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_AS_EMAIL_RULES_TITLE">
+        <xlf:target state="translated">Email Rules</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_AS_NOTIFICATIONS_TITLE">
+        <xlf:target state="translated">Notifications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_BWLIST_SPAMMERS_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Spammers list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_BWLIST_FRIENDS_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Friends list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_BWLIST_RADIO_EMAIL">
+        <xlf:target state="translated">E-mail address</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_BWLIST_RADIO_DOMAIN">
+        <xlf:target state="translated">Domain name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_BWLIST_TABLE_HEADERS">
+        <xlf:target state="translated">Email addresses/Domains</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_BWLIST_BTN_ADD">
+        <xlf:target state="translated">Add</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_BWLIST_BTN_SAVE">
+        <xlf:target state="translated">Save</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_BWLIST_BTN_LOAD">
+        <xlf:target state="translated">Load</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_BWLIST_BTN_CLEAR">
+        <xlf:target state="translated">Clear List</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_BWLIST_BTN_REMOVE">
+        <xlf:target state="translated">Remove</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_BWLIST_CHK_OVERWRITE">
+        <xlf:target state="translated">Overwrite current list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_BWLIST_BTN_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_BWLIST_BTN_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_ADD_FRIENDC">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Add friend</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_ADD_ENEMYC">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Add spammer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_SPAM_MORETEXT">
+        <xlf:target state="translated">Any mail coming from this address will be automatically moved to your Spam folder.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_FRIEND_MORETEXT">
+        <xlf:target state="translated">All mail coming from this address will reach your Inbox regardless of its content.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_WARNING">
+        <xlf:target state="translated">Don&apos;t show this message again</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_ADD_FRIEND">
+        <xlf:target state="translated">&lt;#ProductName#&gt; added the following address to the Friends List:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_ADD_ENEMY">
+        <xlf:target state="translated">&lt;#ProductName#&gt; added the following address to the Spammers List:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_ADDRESS_NOT_AVAILABLE">
+        <xlf:target state="translated">The email address is not available.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_WARN_NO_EMAIL_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Failed Action</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_WARN_NO_EMAIL_LABEL">
+        <xlf:target state="translated">Follow the instructions below to manage the email messages.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_WARN_NO_EMAIL">
+        <xlf:target state="translated">To continue, select one or more email messages.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_WARN_NO_EMAIL_MORETEXT">
+        <xlf:target state="translated">To manage spam and legitimate emails, it is necessary to select one or more email messages.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_SUBMIT_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_SUBMIT_TITLE_ISSPAM">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Submit sample</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_SUBMIT_TITLE_NOTSPAM">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Submit sample</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_REBOOT_MESSAGE">
+        <xlf:target state="translated">Help us improve the Antispam detection. Please allow this email to be sent to &lt;#ProductName#&gt; labs for further analysis.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_WAIT_REBOOT">
+        <xlf:target state="translated">Remember this setting</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_REBOOT">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_REBOOT_OK">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_WRNG_WLIST">
+        <xlf:target state="translated">The message is considered legit based on your Antispam Friends list. Do you want to scan future messages from %s?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_WRNG_BLIST">
+        <xlf:target state="translated">The message is tagged as spam based on your Antispam Spammers list. Do you want to receive future messages from %s?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_WRNG_ASIAN">
+        <xlf:target state="translated">The message is tagged as spam based on the Antispam content filter. Do you want to receive future messages containing asian characters?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_WRNG_CYRILLIC">
+        <xlf:target state="translated">The message is tagged as spam based on the Antispam content filter. Do you want to receive future messages containing cyrillic characters?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_CLOUD_DETECTION_TITLE">
+        <xlf:target state="translated">In-the-cloud detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_CLOUD_DETECTION">
+        <xlf:target state="translated">In-the-cloud detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_SUBMIT_SPAM_TITLE">
+        <xlf:target state="translated">Submit spam samples to &lt;#ProductName#&gt; Cloud</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_SUBMIT_SPAM_ON">
+        <xlf:target state="translated">Activate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_SUBMIT_SPAM_OFF">
+        <xlf:target state="translated">Deactivate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_SUBMIT_SPAM_ASK">
+        <xlf:target state="translated">Ask every time</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_SUBMIT_LEGIT_TITLE">
+        <xlf:target state="translated">Submit legit samples to &lt;#ProductName#&gt; Cloud</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_SUBMIT_LEGIT_ON">
+        <xlf:target state="translated">Activate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_SUBMIT_LEGIT_OFF">
+        <xlf:target state="translated">Deactivate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_SUBMIT_LEGIT_ASK">
+        <xlf:target state="translated">Ask every time</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_CLOUD_SETTINGS">
+        <xlf:target state="translated">Cloud Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_CAT_NONE">
+        <xlf:target state="translated">none</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_CAT_ADULT_DATING">
+        <xlf:target state="translated">&lt;#ProductName#&gt; dating scam detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_CAT_EXTORTION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; extortion detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_CAT_MALWARE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; malware detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_CAT_MARKETING">
+        <xlf:target state="translated">&lt;#ProductName#&gt; detected potentially unsolicited bulk email</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_CAT_PHISHING">
+        <xlf:target state="translated">&lt;#ProductName#&gt; phishing detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_CAT_PHISHING_FINANCIAL">
+        <xlf:target state="translated">&lt;#ProductName#&gt; financial phishing detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_CAT_PHISHING_OTHER">
+        <xlf:target state="translated">&lt;#ProductName#&gt; phishing detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_CAT_PHISHING_SPEAR">
+        <xlf:target state="translated">&lt;#ProductName#&gt; spear phishing detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_CAT_SCAM">
+        <xlf:target state="translated">&lt;#ProductName#&gt; scam detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_CAT_SCAM_EMPLOYMENT">
+        <xlf:target state="translated">&lt;#ProductName#&gt; employment scam detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_CAT_SCAM_LOTTERY">
+        <xlf:target state="translated">&lt;#ProductName#&gt; lottery scam detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_CAT_SCAM_NIGERIAN">
+        <xlf:target state="translated">&lt;#ProductName#&gt; advance-fee scam detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_CAT_SCAM_PHARMA">
+        <xlf:target state="translated">&lt;#ProductName#&gt; pharma fraud detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_CAT_SCAM_STOCK">
+        <xlf:target state="translated">&lt;#ProductName#&gt; stock scam detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_CAT_ADULT_PORN">
+        <xlf:target state="translated">&lt;#ProductName#&gt; adult content scam detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="_IDS_BWLIST_BTN_REMOVE">
+        <xlf:source />
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

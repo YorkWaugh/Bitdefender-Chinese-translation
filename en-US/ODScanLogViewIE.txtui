@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="ODScanLogViewIE" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_XSL_LOG_FILE_LOADING">
+        <xlf:target state="translated">Please wait while the log file is loading ({0}%)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_XSL_PRODUCT_LOG_FILE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Log File</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_XSL_PRODUCT">
+        <xlf:target state="translated">Product:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_XSL_VERSION">
+        <xlf:target state="translated">Version:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_XSL_LOG_DATE">
+        <xlf:target state="translated">Scan date:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_XSL_EXCLUDED_PATHS">
+        <xlf:target state="translated">Excepted Paths:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_XSL_SCAN_RESULTS">
+        <xlf:target state="translated">Scan Results Summary</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_XSL_SCAN_OPTIONS">
+        <xlf:target state="translated">Scan Options</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_XSL_SCAN_THREATS_OPTIONS">
+        <xlf:target state="translated">Targeted threat types</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_XSL_SCAN_VIRUSES">
+        <xlf:target state="translated">Scan for threats</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_XSL_SCAN_ADWARE">
+        <xlf:target state="translated">Scan for adware</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_XSL_SCAN_SPYWARE">
+        <xlf:target state="translated">Scan for spyware</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_XSL_SCAN_APPLICATIONS">
+        <xlf:target state="translated">Scan for applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_XSL_SCAN_DIALERS">
+        <xlf:target state="translated">Scan for dialers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_XSL_SCAN_ROOTKITS">
+        <xlf:target state="translated">Scan for rootkits</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_XSL_SCAN_KEYLOGGERS">
+        <xlf:target state="translated">Scan for keyloggers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_XSL_TARGET_SEL">
+        <xlf:target state="translated">Scan options</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_XSL_TARGET_REGISTRY">
+        <xlf:target state="translated">Scan registry keys</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_XSL_TARGET_COOKIES">
+        <xlf:target state="translated">Scan cookies</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_XSL_TARGET_BOOT">
+        <xlf:target state="translated">Scan boot sectors</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_XSL_TARGET_MEMORY">
+        <xlf:target state="translated">Scan memory processes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_XSL_TARGET_ARCHIVES">
+        <xlf:target state="translated">Scan archives</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_XSL_TARGET_PACKERS">
+        <xlf:target state="translated">Scan runtime packers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_XSL_TARGET_EMAILS">
+        <xlf:target state="translated">Scan emails</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_XSL_TARGET_HEURISTIC">
+        <xlf:target state="translated">Heuristic Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_XSL_TARGET_FILE_TYPES">
+        <xlf:target state="translated">File types</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_XSL_TARGET_FILE_TYPE_ALL">
+        <xlf:target state="translated">Scan all files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_XSL_TARGET_FILE_TYPES_APP">
+        <xlf:target state="translated">Scan only applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_XSL_TARGET_EXCL_EXT">
+        <xlf:target state="translated">Excepted extensions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_XSL_TARGET_EXCL_EXT_NONE">
+        <xlf:target state="translated">not configured</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_XSL_TARGET_PROCESSING">
+        <xlf:target state="translated">Target Processing</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_XSL_ACTION_INFECTED_FIRST">
+        <xlf:target state="translated">Primary action taken on infected items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_XSL_ACTION_INFECTED_SECOND">
+        <xlf:target state="translated">Secondary action taken on infected items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_XSL_ACTION_SUSPECT_FIRST">
+        <xlf:target state="translated">Primary action taken on suspicious items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_XSL_ACTION_SUSPECT_SECOND">
+        <xlf:target state="translated">Secondary action taken on suspicious items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_XSL_ACTION_HIDDEN">
+        <xlf:target state="translated">Action taken on hidden items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_XSL_ACTION_PASS_PROT">
+        <xlf:target state="translated">Action taken on password protected items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_XSL_SCAN_ENGINES">
+        <xlf:target state="translated">Scan Engines Summary</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_XSL_ENGINE_SIGN">
+        <xlf:target state="translated">Number of threat information updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_XSL_ENGINE_ARCHIVE">
+        <xlf:target state="translated">Archive plugins</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_XSL_ENGINE_EMAIL">
+        <xlf:target state="translated">E-mail plugins</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_XSL_ENGINE_SCAN">
+        <xlf:target state="translated">Scan plugins</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_XSL_ENGINE_SYSTEM">
+        <xlf:target state="translated">System plugins</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_XSL_ENGINE_UNPACK">
+        <xlf:target state="translated">Unpack plugins</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_XSL_SCAN_SUMMARY_DETAILED">
+        <xlf:target state="translated">Detailed Scan Summary</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_XSL_SCAN_SUMMARY_BASIC">
+        <xlf:target state="translated">Basic</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_XSL_SCAN_SUMM_SCANNED">
+        <xlf:target state="translated">Scanned items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_XSL_SCAN_SUMM_SCANNED_NONE">
+        <xlf:target state="translated">(no items could be scanned)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_XSL_SCAN_SUMM_INFECTED">
+        <xlf:target state="translated">Infected items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_XSL_SCAN_SUMM_INFECTED_NONE">
+        <xlf:target state="translated">(no infected items have been detected)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_XSL_SCAN_SUMM_SUSPECT">
+        <xlf:target state="translated">Suspicious items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_XSL_SCAN_SUMM_SUSPECT_NONE">
+        <xlf:target state="translated">(no suspected items have been detected)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_XSL_SCAN_SUMM_HIDDEN">
+        <xlf:target state="translated">Hidden items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_XSL_SCAN_SUMM_HIDDEN_NONE">
+        <xlf:target state="translated">(no hidden items have been detected during this scan)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_XSL_SCAN_SUMM_HIDDEN_NOT_SCANNED">
+        <xlf:target state="translated">(the scan options do not include scanning for rootkits)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_XSL_SCAN_SUMM_RESOLVED">
+        <xlf:target state="translated">Resolved items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_XSL_SCAN_SUMM_RESOLVED_NONE">
+        <xlf:target state="translated">(no threats have been detected during this scan)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_XSL_SCAN_SUMM_RESOLVED_NONE_THREATS">
+        <xlf:target state="translated">(infected or suspect items have been found and were ignored or could not be fixed)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_XSL_SCAN_SUMM_UNRESOLVED">
+        <xlf:target state="translated">Unresolved items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_XSL_SCAN_SUMM_UNRESOLVED_NONE">
+        <xlf:target state="translated">(no issues remained unresolved)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_XSL_SCAN_SUMMARY_ADVANCED">
+        <xlf:target state="translated">Advanced</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_XSL_SCAN_SUMM_TIME">
+        <xlf:target state="translated">Scan time</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_XSL_SCAN_SUMM_FPS">
+        <xlf:target state="translated">Files per second</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_XSL_SCAN_SUMM_SMARTSCANNED">
+        <xlf:target state="translated">Skipped items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_XSL_SCAN_SUMM_PASS_PROT">
+        <xlf:target state="translated">Password protected:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_XSL_SCAN_SUMM_ARCH_BOMBS">
+        <xlf:target state="translated">Overcompressed items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_XSL_SCAN_SUMM_VIRUSES">
+        <xlf:target state="translated">Different threats:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_XSL_SCAN_SUMM_DIRECTORIES">
+        <xlf:target state="translated">Scanned directories</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_XSL_SCAN_SUMM_BOOT">
+        <xlf:target state="translated">Scanned boot sectors</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_XSL_SCAN_SUMM_ARCHIVES">
+        <xlf:target state="translated">Scanned archives</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_XSL_SCAN_SUMM_ERRORS">
+        <xlf:target state="translated">Input-output errors</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_XSL_SCAN_SUMM_PROC_SCANNED">
+        <xlf:target state="translated">Scanned processes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_XSL_SCAN_SUMM_PROC_INFECTED">
+        <xlf:target state="translated">Infected processes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_XSL_SCAN_SUMM_REG_SCANNED">
+        <xlf:target state="translated">Scanned registry keys</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_XSL_SCAN_SUMM_REG_INFECTED">
+        <xlf:target state="translated">Infected registry keys</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_XSL_SCAN_SUMM_COOK_SCANNED">
+        <xlf:target state="translated">Scanned cookies</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_XSL_SCAN_SUMM_COOK_INFECTED">
+        <xlf:target state="translated">Infected cookies</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_XSL_DETAIL_REMAINING">
+        <xlf:target state="translated">Remaining issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_XSL_DETAIL_NAME">
+        <xlf:target state="translated">Item path</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_XSL_DETAIL_THREAT">
+        <xlf:target state="translated">Threat Name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_XSL_DETAIL_STATUS">
+        <xlf:target state="translated">Action taken</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_XSL_DETAIL_IGNORED">
+        <xlf:target state="translated">Ignored items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_XSL_DETAIL_RESOLVED">
+        <xlf:target state="translated">Resolved issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_XSL_DETAIL_NOT_SCANNED">
+        <xlf:target state="translated">Items skipped from scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_XSL_DETAIL_REASON">
+        <xlf:target state="translated">Reason:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_XSL_THREAT_NAME_ROOTKITS">
+        <xlf:target state="translated">Rootkit-Hidden items:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_XSL_THREAT_NAME_ARCHIVE_BOMB">
+        <xlf:target state="translated">Over-compressed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_XSL_THREAT_NAME_PASSWORD_PROT">
+        <xlf:target state="translated">Password-protected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_XSL_ACTION_NONE">
+        <xlf:target state="translated">None</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_XSL_ACTION_ABORT">
+        <xlf:target state="translated">Abort</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_XSL_ACTION_DISINFECT">
+        <xlf:target state="translated">Disinfect</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_XSL_ACTION_RENAME">
+        <xlf:target state="translated">Rename</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_XSL_ACTION_DELETE">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_XSL_ACTION_QUAR_COPY">
+        <xlf:target state="translated">Copy files to quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_XSL_ACTION_QUAR_MOVE">
+        <xlf:target state="translated">Move files to quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_XSL_ACTION_LOG_NOT_SCAN">
+        <xlf:target state="translated">Log only</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_XSL_ACTION_PROMPT_PASS">
+        <xlf:target state="translated">Prompt for password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_XSL_STATUS_NOT_SCANNED">
+        <xlf:target state="translated">Not scanned</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_XSL_STATUS_CLEAN">
+        <xlf:target state="translated">Cleaned</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_XSL_STATUS_INFECTED">
+        <xlf:target state="translated">No action was taken</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_XSL_STATUS_SUSPECTED">
+        <xlf:target state="translated">Suspect</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_XSL_STATUS_HIDDEN">
+        <xlf:target state="translated">Hidden</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_XSL_STATUS_HIDDEN_INFECTED">
+        <xlf:target state="translated">Hidden (infected)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_XSL_STATUS_HIDDEN_SUSPECTED">
+        <xlf:target state="translated">Hidden (suspect)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_XSL_STATUS_DISINFECTED">
+        <xlf:target state="translated">Disinfected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_XSL_STATUS_DELETED">
+        <xlf:target state="translated">Deleted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_XSL_STATUS_DELETED_CONTAINER">
+        <xlf:target state="translated">Deleted archive</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_XSL_STATUS_QUARANTINED">
+        <xlf:target state="translated">Moved to Quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_XSL_STATUS_UNHIDDEN">
+        <xlf:target state="translated">Renamed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_XSL_STATUS_DELETED_REBOOT">
+        <xlf:target state="translated">Deleted after reboot</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_XSL_STATUS_QUARANTINED_REBOOT">
+        <xlf:target state="translated">Moved to Quarantine after reboot</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_XSL_STATUS_CLEANED_REBOOT">
+        <xlf:target state="translated">Cleaned after reboot</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_XSL_STATUS_FAIL_DISINFECT">
+        <xlf:target state="translated">Disinfect failed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_XSL_STATUS_FAIL_DELETE">
+        <xlf:target state="translated">Delete failed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_XSL_STATUS_FAIL_DELETE_CONTAINER">
+        <xlf:target state="translated">Delete archive failed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_XSL_STATUS_FAIL_QUARANTINE">
+        <xlf:target state="translated">Move to quarantine failed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="IDS_XSL_STATUS_FAIL_QUARANTINE_CONTAINER">
+        <xlf:target state="translated">Move archive to Quarantine failed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="IDS_XSL_STATUS_FAIL_UNHIDE">
+        <xlf:target state="translated">Rename failed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="IDS_XSL_STATUS_ERROR_PASSWORD_PROTECTED">
+        <xlf:target state="translated">(file was password-protected)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="IDS_XSL_STATUS_ERROR_ARCHIVE_BOMB">
+        <xlf:target state="translated">(over-compressed file)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="IDS_XSL_STATUS_ERROR_NO_ACTION">
+        <xlf:target state="translated">(no action was taken)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="IDS_XSL_STATUS_ERROR_FAIL_REPACK">
+        <xlf:target state="translated">(archive could not be repacked)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="IDS_XSL_STATUS_ERROR_FAIL_RESCAN">
+        <xlf:target state="translated">(item was not found)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="IDS_XSL_STATUS_ERROR_IGNORED_READONLY">
+        <xlf:target state="translated">(ignored, file was located on a read-only media device)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="IDS_XSL_STATUS_ERROR_IGNORED_FIX_RIGHTS">
+        <xlf:target state="translated">(ignored, user did not have the proper access rights)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="IDS_XSL_STATUS_ERROR_RESCUE_MODE">
+        <xlf:target state="translated">(reboot in Rescue Mode required)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="IDS_XSL_OBJECT_TYPE_FILE">
+        <xlf:target state="translated">File</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="128" resname="IDS_XSL_OBJECT_TYPE_BOOT_SECTOR">
+        <xlf:target state="translated">Boot sector:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="129" resname="IDS_XSL_OBJECT_TYPE_PROCESS">
+        <xlf:target state="translated">Process</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="130" resname="IDS_XSL_OBJECT_TYPE_REGISTRY_KEY">
+        <xlf:target state="translated">Registry key</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="131" resname="IDS_XSL_OBJECT_TYPE_COOKIE">
+        <xlf:target state="translated">Cookie</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="132" resname="IDS_XSL_OBJECT_TYPE_MIME_MESSAGE">
+        <xlf:target state="translated">MIME message</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="133" resname="IDS_XSL_OBJECT_TYPE_STREAM">
+        <xlf:target state="translated">Stream</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="134" resname="IDS_XSL_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="135" resname="IDS_XSL_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="136" resname="IDS_XSL_BITDEF_LOG_FILE">
+        <xlf:target state="translated">Log File</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="137" resname="IDS_XSL_TARGET_ALL_FILES">
+        <xlf:target state="translated">Scan all files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="138" resname="IDS_XSL_TARGET_INC_EXT">
+        <xlf:target state="translated">Scanned extensions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="139" resname="IDS_XSL_TARGET_INCL_EXT_NONE">
+        <xlf:target state="translated">not configured</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="140" resname="IDS_DEVICE_ASSESMENT_LOG">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Device Assessment Scan Log</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

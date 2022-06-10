@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdsystray" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_SAB_PROD_INVALID">
+        <xlf:target state="translated">Subscription has expired</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_QUOTA_EXCEEDED">
+        <xlf:target state="translated">Devices limit reached</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_SAB_NO_SERVICES">
+        <xlf:target state="translated">Services not responding</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_ICOTIP_NORMAL">
+        <xlf:target state="translated">PROTECTED. No issues are affecting the security status of your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_ICOTIP_WARNING">
+        <xlf:target state="translated">WARNING: multiple issues are affecting the security status of your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_ICOTIP_WARNING_ONE">
+        <xlf:target state="translated">WARNING: 1 issue is affecting the security status of your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_ICOTIP_CRITICAL_ONE">
+        <xlf:target state="translated">WARNING: 1 issue is affecting the security status of your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_ICOTIP_CRITICAL">
+        <xlf:target state="translated">WARNING: multiple issues are affecting the security status of your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_ICOTIP_SECURITY_OFF">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Services are not responding. Please restart the computer and if the problem persists contact &lt;#ProductName#&gt; support.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_ICOTIP_EXP_INVALID">
+        <xlf:target state="translated">Please activate your product to stay protected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_ICOTIP_SIGN_OUT">
+        <xlf:target state="translated">Please sign in to activate &lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_ICOTIP_SECURITY_OFF_UPDATING">
+        <xlf:target state="translated">&lt;#ProductName#&gt; services have been switched off temporarily for an update.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_ICOTIP_GAMEMODE_ON">
+        <xlf:target state="translated">Game Mode is turned on.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_ICOTIP_LAPTOPMODE">
+        <xlf:target state="translated">Battery Mode is on</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_ICOTIP_SM_ON">
+        <xlf:target state="translated">You are safe</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_ICOTIP_LOADING">
+        <xlf:target state="translated">&lt;#ProductName#&gt; services are loading now, please wait.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_TRAY_SHOW">
+        <xlf:target state="translated">Show</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_TRAY_ABOUT">
+        <xlf:target state="translated">About</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_TRAY_UPDATENOW">
+        <xlf:target state="translated">Update Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_TRAY_WATCHDOG_OFF">
+        <xlf:target state="translated">Hide Security Widget</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_TRAY_WATCHDOG_ON">
+        <xlf:target state="translated">Show Security Widget</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_ISSUE_NOT_MONITORED">
+        <xlf:target state="translated">No issues to fix</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_TRAY_NOFIX">
+        <xlf:target state="translated">No security issues to fix</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_TRAY_FIXALL">
+        <xlf:target state="translated">View security issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_TRAY_ENABLE_PROTECTION">
+        <xlf:target state="translated">Enable protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_TRAY_DISABLE_PROTECTION">
+        <xlf:target state="translated">Disable protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_SAB_ACTIVATE_NOW">
+        <xlf:target state="translated">Activate Now</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

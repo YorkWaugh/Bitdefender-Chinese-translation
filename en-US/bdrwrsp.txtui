@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdrwrsp" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_RWR_PANEL_TITLE">
+        <xlf:target state="translated">Ransomware Remediation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_RWR_PANEL_TOOLTIP">
+        <xlf:target state="translated">Ransomware Remediation reverses any damage done by ransomware by restoring encrypted files.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_RWR_PANEL_BUTTON">
+        <xlf:target state="translated">Manage</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_RWR_ACTIVATE_AUTO_RESTORE">
+        <xlf:target state="translated">Enable automatic file restoration</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_ACTIVATE_FEATURE">
+        <xlf:target state="translated">Activate protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_OK_BTN">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_WAIT">
+        <xlf:target state="translated">Wait...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_GOT_IT">
+        <xlf:target state="translated">OK, Got it</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_SETTINGS_TAB_NAME">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_RWR_SETTS_AUTOMATIC_RESTORE">
+        <xlf:target state="translated">Automatic restore</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_RWR_SETTS_AUTOMATIC_RESTORE_DESCR">
+        <xlf:target state="translated">Automatically restore files that were encrypted by ransomware</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_RWR_SETTS_RESTORE_FILES">
+        <xlf:target state="translated">Restore files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_RWR_SETTS_RESTORE_FILES_DESC">
+        <xlf:target state="translated">Restore files that have been encrypted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_RWR_RESTORED_TITLE">
+        <xlf:target state="translated">Restored files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_RWR_RESTORED_SCREEN_TITLE">
+        <xlf:target state="translated">Restored files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_RWR_RESTORED_ORIGINAL_DESCR">
+        <xlf:target state="translated">The file was restored in it&apos;s original location</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_RWR_RESTORED_OTHER_DESCR">
+        <xlf:target state="translated">The file was restored in:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_EXCLUSIONS_TAB_NAME">
+        <xlf:target state="translated">Exceptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_EXCLUSIONS_TITLE">
+        <xlf:target state="translated">Application Exceptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_EXCLUSIONS_DESCR">
+        <xlf:target state="translated">Applications that are added in the exception list will not be blocked from altering your files in case they exhibit ransomware behavior.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_EXCLUSIONS_ADD">
+        <xlf:target state="translated">+Add an Exception</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_EXCLUSIONS_REM_TIP">
+        <xlf:target state="translated">Remove Exception</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_RWR_BROWSE_EXCLUSION_TITLE">
+        <xlf:target state="translated">Add excepted application</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

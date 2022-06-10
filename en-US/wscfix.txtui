@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="wscfix" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_AV_PASSWORD_PROMPT">
+        <xlf:target state="translated">A password is required in order to enable the Antivirus feature.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_FW_PASSWORD_PROMPT">
+        <xlf:target state="translated">A password is required in order to enable the Firewall feature.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_NO_ADMIN_PRIVILEGES">
+        <xlf:target state="translated">Administrator privileges are required to perform this operation.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

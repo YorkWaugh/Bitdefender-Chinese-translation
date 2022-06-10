@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdctccli" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_UACDISABLED_NAME">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_UACDISABLED_NOTIF_TITLE">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_UACDISABLED_NOTIF_CONTENT">
+        <xlf:target state="translated">Your device will not display any warning when executed files perform changes on your system without requiring special permissions, thus, running them may compromise your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_UACDISABLED_EVENT_TITLE">
+        <xlf:target state="translated">Potential device vulnerability detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_UACDISABLED_EVENT_CONTENT">
+        <xlf:target state="translated">With a disabled UAC, your device might end up installing unauthorized software, changing settings and performing other dangerous actions, all without your permission. Because you no longer receive any warning when any file is launched / executed, including the malicious ones.&#10;&#10;We recommend you to enable UAC.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_UACDISABLED_VUSCAN_TITLE">
+        <xlf:target state="translated">A Change in your System Settings detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_UACDISABLED_VUSCAN_CONTENT">
+        <xlf:target state="translated">We detected that User Access Control is disabled on your device. UAC lets you know whenever something interacts with your computer in a way that is outside the norm. For example, when you want to install a new program, you are asked for permission. When you install a lot of programs, you might get annoyed by the multiple prompts for permission and be tempted to disable this feature.&#10;&#10;But, if you are casually browsing the internet and a malicious software installs something on your device, you may want to know about it. With UAC disabled, your device will display no warnings and some files thus executed can lead to system failure or data loss.&#10;&#10;We recommend you to enable UAC.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_UACINSECURE_NAME">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_UACINSECURE_NOTIF_TITLE">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_UACINSECURE_NOTIF_CONTENT">
+        <xlf:target state="translated">Your device will not display any warning when executed files perform changes on your system without requiring special permissions, thus, running them may compromise your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_UACINSECURE_EVENT_TITLE">
+        <xlf:target state="translated">Potential device vulnerability detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_UACINSECURE_EVENT_CONTENT">
+        <xlf:target state="translated">With a insecure UAC, your device might end up installing unauthorized software, changing settings and performing other dangerous actions, all without your permission. Because you no longer receive any warning when any file is launched / executed, including the malicious ones.&#10;&#10;We recommend you to fix UAC.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_UACINSECURE_VUSCAN_TITLE">
+        <xlf:target state="translated">A Change in your System Settings detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_UACINSECURE_VUSCAN_CONTENT">
+        <xlf:target state="translated">We detected that User Access Control is not on the recommended level on your device. UAC lets you know whenever something interacts with your computer in a way that is outside the norm. For example, when you want to install a new program, you are asked for permission. When you install a lot of programs, you might get annoyed by the multiple prompts for permission and be tempted to disable this feature.&#10;&#10;But, if you are casually browsing the internet and a malicious software installs something on your device, you may want to know about it. With UAC insecure, your device will display no warnings and some files thus executed can lead to system failure or data loss.&#10;&#10;We recommend you to fix UAC.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_NOAUTORUNDISABLED_NAME">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_NOAUTORUNDISABLED_NOTIF_TITLE">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_NOAUTORUNDISABLED_NOTIF_CONTENT">
+        <xlf:target state="translated">Your device will not display any warning when MTP devices such as phones or cameras connect and perform different operations without your knowledge thus, you data is at risk.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_NOAUTORUNDISABLED_EVENT_TITLE">
+        <xlf:target state="translated">Potential device vulnerability detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_NOAUTORUNDISABLED_EVENT_CONTENT">
+        <xlf:target state="translated">With autorun on, your device no longer displays any warnings whenever MTP devices, including phones or cameras, connect to it. There is a high risk any such media device (you connect from now on) will perform an illicit operation without your knowledge, causing system failure or data loss.&#10;&#10;By turning off the Autorun feature on your device, you&apos;ll add an extra layer of security to your safety.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_NOAUTORUNDISABLED_VUSCAN_TITLE">
+        <xlf:target state="translated">A Change in your System Settings detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_NOAUTORUNDISABLED_VUSCAN_CONTENT">
+        <xlf:target state="translated">We detected a change in your device settings (no autorun disabled) that allows smart devices such as phones, cameras and tablets to connect and perform various operations without letting you know. While MTP (Media Transfer Protocol) may be the most convenient way to transfer music, videos and photos, you should not allow them to perform any actions without your knowledge / permission. If, for some reason, your MPT device contains unknown malicious files, it will execute them automatically upon device connection, and compromise your data.&#10;&#10;By turning off the Autorun feature on your device, you&apos;ll add an extra layer of security to your safety.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_IERUNINVALIDSIGENABLED_NAME">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_IERUNINVALIDSIGENABLED_NOTIF_TITLE">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_IERUNINVALIDSIGENABLED_NOTIF_CONTENT">
+        <xlf:target state="translated">Your device doesn&apos;t perform an integrity validation on files downloaded via Internet Explorer, thus, executing them may compromise your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_IERUNINVALIDSIGENABLED_EVENT_TITLE">
+        <xlf:target state="translated">Potential device vulnerability detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_IERUNINVALIDSIGENABLED_EVENT_CONTENT">
+        <xlf:target state="translated">Your device doesn&apos;t check the integrity of files downloaded via Internet Explorer, so they could be launched even if their signatures are invalid. This could compromise your device, as invalid signatures might indicate that someone has tampered with the files.&#10;&#10;We recommend you enable the integrity validation feature for more secure downloads.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_IERUNINVALIDSIGENABLED_VUSCAN_TITLE">
+        <xlf:target state="translated">A Change in your System Settings detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_IERUNINVALIDSIGENABLED_VUSCAN_CONTENT">
+        <xlf:target state="translated">The integrity validation feature verifies that a file you download is, in fact, the file you expect to download. Each digital file has a signature that vouches for both its integrity and the identity of its creator.&#10;&#10;We detected a change in your device&apos;s settings that allows your computer to download files via Internet Explorer without checking them. This is risky, as some files / software may be malicious and compromise your device.&#10;&#10;We recommend you enable the integrity validation feature for more secure downloads.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_IECHECKEXESIGDISABLED_NAME">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_IECHECKEXESIGDISABLED_NOTIF_TITLE">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_IECHECKEXESIGDISABLED_NOTIF_CONTENT">
+        <xlf:target state="translated">Your device doesn&apos;t check the digital signatures of programs downloaded via Internet Explorer, thus, executing them may compromise your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_IECHECKEXESIGDISABLED_EVENT_TITLE">
+        <xlf:target state="translated">Potential device vulnerability detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_IECHECKEXESIGDISABLED_EVENT_CONTENT">
+        <xlf:target state="translated">Your device doesn&apos;t check the digital signatures of programs downloaded via Internet Explorer. Thus, you might open and run files/software that are not safe and compromise your device.&#10;&#10;We recommend you allow your device to verify the digital signatures of programs and files before executing them.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_IECHECKEXESIGDISABLED_VUSCAN_TITLE">
+        <xlf:target state="translated">A Change in your System Settings detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_IECHECKEXESIGDISABLED_VUSCAN_CONTENT">
+        <xlf:source>We detected a change in your device&apos;s settings that allows you to execute programs downloaded via Internet Explorer without validating their digital signature first.&#10;&#10;A digital signature is an electronic security mark added to files.It allows you to verify a file&apos;s publisher and ensure that the file has not been changed/ tempered with.&#10;&#10;With the &quot;Internet Explorer check digital signatures&quot; feature disabled, there&apos;s no way for you to be sure a file/software is legitimate.&#10;&#10;We recommend you allow your device to verify the digital signatures of programs and files before executing them.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_IESECWARNUNSAFEFILES_NAME">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_IESECWARNUNSAFEFILES_NOTIF_TITLE">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_IESECWARNUNSAFEFILES_NOTIF_CONTENT">
+        <xlf:target state="translated">Your device will not display any warning when opening potentially unsafe files downloaded via Internet Explorer, thus, executing them may compromise your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_IESECWARNUNSAFEFILES_EVENT_TITLE">
+        <xlf:target state="translated">Potential device vulnerability detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_IESECWARNUNSAFEFILES_EVENT_CONTENT">
+        <xlf:target state="translated">Your device will not warn you when you open potentially unsafe files downloaded via Internet Explorer. Executing some of these files may compromise your device.&#10;&#10;We recommend you allow your device to show a security warning message for potentially unsafe files.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_IESECWARNUNSAFEFILES_VUSCAN_TITLE">
+        <xlf:target state="translated">A Change in your System Settings detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_IESECWARNUNSAFEFILES_VUSCAN_CONTENT">
+        <xlf:target state="translated">Because of a change in its settings, your device will not show you security warning messages when opening potentially dangerous files. Security warning messages usually appear when you run an application file downloaded from the Internet Explorer or an executable file located in a network shared folder. Thus, you will not know which files are illegitimate, and executing them may compromise your device.&#10;&#10;We recommend you allow your device to show a security warning message for potentially unsafe files.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_ALLOWCONNECTOPENHOTSPOT_NAME">
+        <xlf:target state="translated">Your privacy may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_ALLOWCONNECTOPENHOTSPOT_NOTIF_TITLE">
+        <xlf:target state="translated">Your privacy may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_ALLOWCONNECTOPENHOTSPOT_NOTIF_CONTENT">
+        <xlf:target state="translated">Your device may automatically connect to open hotspot networks without your knowledge, thus, exposing your data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_ALLOWCONNECTOPENHOTSPOT_EVENT_TITLE">
+        <xlf:target state="translated">Potential privacy exposure detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_ALLOWCONNECTOPENHOTSPOT_EVENT_CONTENT">
+        <xlf:target state="translated">Your device may automatically connect to open hotspot networks without notifying you. This may expose your data and your device to different attacks.&#10;&#10;We recommend you disable this setting to avoid the security risk of using open hotspots.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_ALLOWCONNECTOPENHOTSPOT_VUSCAN_TITLE">
+        <xlf:target state="translated">Altered system settings detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_ALLOWCONNECTOPENHOTSPOT_VUSCAN_CONTENT">
+        <xlf:target state="translated">We detected a change in your device&apos;s settings that allows it to automatically connect to open hotspot networks without your knowledge. Open hotspots often have security vulnerabilities that hackers can exploit to perform MITM (man-in-the-middle) attacks. By listening in and intercepting your device&apos;s traffic via a rogue hotspot, they can intercept data flowing to and from the device&apos;s browser and apps to steal sensitive information.&#10;&#10;We recommend you disable this setting to avoid the security risk of using open hotspots.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_NETLOGONREQSIGNORSEALDISABLED_NAME">
+        <xlf:target state="translated">Your privacy may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_NETLOGONREQSIGNORSEALDISABLED_NOTIF_TITLE">
+        <xlf:target state="translated">Your privacy may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_NETLOGONREQSIGNORSEALDISABLED_NOTIF_CONTENT">
+        <xlf:target state="translated">Your device may send sensitive information in an unsecured way, thus exposing your data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_NETLOGONREQSIGNORSEALDISABLED_EVENT_TITLE">
+        <xlf:target state="translated">Potential privacy exposure detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_NETLOGONREQSIGNORSEALDISABLED_EVENT_CONTENT">
+        <xlf:target state="translated">Your device may send sensitive information in an unsecure way, because the requirement for sign-in for the Netlogon service is disabled. Your data may be exposed.&#10;&#10;We recommend you enable the requirement for sign in or seal for Netlogon on your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_NETLOGONREQSIGNORSEALDISABLED_VUSCAN_TITLE">
+        <xlf:target state="translated">Altered system settings detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_NETLOGONREQSIGNORSEALDISABLED_VUSCAN_CONTENT">
+        <xlf:target state="translated">We detected a change in your device&apos;s settings that allows your device to send data in an unsecure way, endangering your privacy. Netlogon is a Windows Server process that authenticates users and other services within a domain. Since it is a service and not an application, Netlogon continuously runs in the background, unless it is stopped, which seems to be your case.&#10;&#10;We recommend you enable the requirement for sign in or seal for Netlogon on your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_ALLDRIVES_NOAUTORUNDISABLED_NAME">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_ALLDRIVES_NOAUTORUNDISABLED_NOTIF_TITLE">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_ALLDRIVES_NOAUTORUNDISABLED_NOTIF_CONTENT">
+        <xlf:target state="translated">Your device will execute the setup file from media drives as soon as they are inserted in the drive without your knowledge, thus, automatic execution of unknown files may harm your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_ALLDRIVES_NOAUTORUNDISABLED_EVENT_TITLE">
+        <xlf:target state="translated">Potential device vulnerability detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_ALLDRIVES_NOAUTORUNDISABLED_EVENT_CONTENT">
+        <xlf:target state="translated">With autorun on for all drives, your device will automatically run all files from connected drives (media, memory, storage drives) without notifying you. If, by any chance, your USB device contains malicious code, its automatic execution may harm your device.&#10;&#10;We recommend you enable No autorun for all drives as a first step to prevent the execution of unknown and potentially dangerous files.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_ALLDRIVES_NOAUTORUNDISABLED_VUSCAN_TITLE">
+        <xlf:target state="translated">A Change in your System Settings detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_ALLDRIVES_NOAUTORUNDISABLED_VUSCAN_CONTENT">
+        <xlf:target state="translated">When you have &lt;b&gt;autorun for all drives enabled / no autorun disabled for all drives&lt;/b&gt;, your device will automatically run all files it finds on USB devices you plug into it, including memory sticks, external memory cards and media devices such as phones, cameras and tablets. You&apos;ll receive no warning before this happens. Any of these connected devices could contain infected data or files, which, once executed, might harm your computer.&#10;&#10;We recommend you enable &lt;b&gt;No autorun for all drives&lt;/b&gt; as a first step to prevent the execution of unknown and potentially dangerous files.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_AUTORESTARTSIGNON_NAME">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_AUTORESTARTSIGNON_NOTIF_TITLE">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_AUTORESTARTSIGNON_NOTIF_CONTENT">
+        <xlf:target state="translated">Your device is keeping Windows user&apos;s credentials locally in order to automatically perform sign-in after Windows Update restarts, thus, your device and data may be exposed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_AUTORESTARTSIGNON_EVENT_TITLE">
+        <xlf:target state="translated">Potential device vulnerability detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_AUTORESTARTSIGNON_EVENT_CONTENT">
+        <xlf:target state="translated">With automatic sign on after restart, your device saves the Windows credentials of the user last logged in and keeps them automatically logged in after a device restart. This could pose a risk to your privacy, as your data and device could be exposed to prying eyes in certain circumstances.&#10;&#10;We recommend you disable auto logins after the automatic restart to enhance your data&apos;s security and your privacy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_AUTORESTARTSIGNON_VUSCAN_TITLE">
+        <xlf:target state="translated">A Change in your System Settings detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_AUTORESTARTSIGNON_VUSCAN_CONTENT">
+        <xlf:target state="translated">We detected a change in your device settings that allows it to automatically sign in the last interactive user after a system restart. For example, after installing &lt;b&gt;Windows Updates&lt;/b&gt;, Windows makes a system-initiated automatic restart for the computer. In your case, the last logged in user gets logged in.&#10;&#10;Automatic logins are a security risk. Your Windows user name and account password are stored on your computer. Thus, anyone with access to your device can get at it. They can also use that password to access your Outlook.com email, OneDrive files, and anything else your Microsoft account password provides access to.&#10;&#10;We recommend you disable auto logins after the automatic restart to enhance your data&apos;s security and your privacy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_IESECZONESMAPEDITDISABLED_NAME">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_IESECZONESMAPEDITDISABLED_NOTIF_TITLE">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_IESECZONESMAPEDITDISABLED_NOTIF_CONTENT">
+        <xlf:target state="translated">Your device doesn&apos;t restrict user access to site management settings for security zones, thus, altering security zone settings may allow restricted pages to execute potentially malicious operations.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_IESECZONESMAPEDITDISABLED_EVENT_TITLE">
+        <xlf:target state="translated">Potential device vulnerability detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_IESECZONESMAPEDITDISABLED_EVENT_CONTENT">
+        <xlf:target state="translated">Your device allows any user to change the site management settings for security zones established by the administrator. There is a risk that restricted pages execute potentially malicious operations on your computer.&#10;&#10;We recommend you enable this policy, so the site management settings for security zones are disabled.This prevents users from adding or removing sites from security zones on your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_IESECZONESMAPEDITDISABLED_VUSCAN_TITLE">
+        <xlf:target state="translated">A Change in your System Settings detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_IESECZONESMAPEDITDISABLED_VUSCAN_CONTENT">
+        <xlf:target state="translated">We detected a change in your device&apos;s settings that allows users to modify security zone settings. The policy is called SECURITY_ZONES_MAP_EDIT and, if you disable it, users can add Web sites to or remove sites from the Trusted Sites and Restricted Sites zones.&#10;&#10;A security zone is a group of Web sites with the same security level. Letting any user add or remove sites from security zones is a safety hazard, as it may allow restricted pages to execute potentially malicious operations.&#10;&#10;We recommend you enable this policy, so the site management settings for security zones are disabled. This prevents users from adding or removing sites from security zones on your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_IESECOPTIONSEDITDISABLED_NAME">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_IESECOPTIONSEDITDISABLED_NOTIF_TITLE">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_IESECOPTIONSEDITDISABLED_NOTIF_CONTENT">
+        <xlf:target state="translated">Your device doesn&apos;t restrict user access to site management policies for security zones, thus, altering security zone policies may allow restricted pages to execute potentially malicious operations.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_IESECOPTIONSEDITDISABLED_EVENT_TITLE">
+        <xlf:target state="translated">Potential device vulnerability detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_IESECOPTIONSEDITDISABLED_EVENT_CONTENT">
+        <xlf:target state="translated">Your device allows any user to change the settings for the security zones. This could lead to execution of dangerous code types from the Internet and websites listed in the Restricted Sites zone in the browser.&#10;&#10;We recommend you prevent users from changing your security zone settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_IESECOPTIONSEDITDISABLED_VUSCAN_TITLE">
+        <xlf:target state="translated">A Change in your System Settings detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_IESECOPTIONSEDITDISABLED_VUSCAN_CONTENT">
+        <xlf:target state="translated">Internet Explorer automatically assigns all websites to a security zone: Internet, Local intranet, Trusted sites, or Restricted sites. Each zone has a different default security level that determines what kind of content can be blocked for that site.&#10;&#10;We detected a change in your device&apos;s settings that allows users to modify security zone policies. This may allow restricted pages to execute potentially malicious operations, thus, your device may be at risk.&#10;&#10;We recommend you prevent users from changing your security zone settings.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

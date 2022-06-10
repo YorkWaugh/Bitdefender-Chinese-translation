@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="general" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_PLUGIN_NAME">
+        <xlf:target state="translated">General</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_PASSWORD_PROTECTION">
+        <xlf:target state="translated">Password protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_CHANGE_PASSWORD">
+        <xlf:target state="translated">Password change</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_GAMEMODE">
+        <xlf:target state="translated">Automatic Game Mode</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_LAPTOPMODE">
+        <xlf:target state="translated">Automatic Battery Mode</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_PROXY_USAGE">
+        <xlf:target state="translated">Proxy usage</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_MANAGE_PROXIES">
+        <xlf:target state="translated">Manage proxies</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_CHANGE_LANGUAGE_LABEL">
+        <xlf:target state="translated">Product language</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_CHANGE_PASSWORD_LABEL">
+        <xlf:target state="translated">Manage password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_BITDEFENDER">
+        <xlf:target state="translated">&lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_ISSUES_TIPTEXT">
+        <xlf:target state="translated">Configure the list of issues to be monitored</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_ISSUES_TIPTITLE">
+        <xlf:target state="translated">Issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_WINDOW_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; General settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_SAB">
+        <xlf:target state="translated">Security widget</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_SAB_TOOLTIP">
+        <xlf:target state="translated">Displays the security status of your device on the desktop.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_SET_PASSW_CAPTION">
+        <xlf:target state="translated">Settings Password Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_INFO_SETPASSWD">
+        <xlf:target state="translated">The password must be at least 8 characters long.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_CAPTION">
+        <xlf:target state="translated">Please enter the password that will restrict access to the product settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_RETYPE_PASSWD">
+        <xlf:target state="translated">Retype password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_PASSW_PROBLEM">
+        <xlf:target state="translated">The passwords you have entered do not match.  Please try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_TYPE_PASSWD">
+        <xlf:target state="translated">Password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_CONFIGURE_ISSUES">
+        <xlf:target state="translated">Configure status alerts</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_CLOSE">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_GAME_ADD">
+        <xlf:target state="translated">Add game</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_GAME_REMOVE">
+        <xlf:target state="translated">Remove game</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_UPDATE_BASIC_UI_TEXT">
+        <xlf:target state="translated">Update</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_EVENTS_UPDATE_TAB">
+        <xlf:target state="translated">Update</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_IPM_NOTIFICATION">
+        <xlf:target state="translated">Special offers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_TEXT_ON">
+        <xlf:target state="translated">On</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_TEXT_OFF">
+        <xlf:target state="translated">Off</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_RECOMMENDATIONS_SWITCH">
+        <xlf:target state="translated">Recommendation notifications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_PASSWORD_TOOLTIP">
+        <xlf:target state="translated">Restricts access to &lt;#ProductName#&gt; settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_CHANGE_TOOLTIP">
+        <xlf:target state="translated">Change the password that restricts access to &lt;#ProductName#&gt; settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_IPM_TOOLTIP">
+        <xlf:target state="translated">Displays in-product notifications with special offers customized for you.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_RECOMMENDATIONS_TOOLTIP">
+        <xlf:target state="translated">Get on-screen recommendations about security features you can use.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_CHANGE_LANGUAGE">
+        <xlf:target state="translated">Change Language</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_CHANGE_LANGUAGE_DESC">
+        <xlf:target state="translated">Change product language.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_SAVE">
+        <xlf:target state="translated">Save</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_AVAILABLE_LANGUAGES">
+        <xlf:target state="translated">Available languages</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_LANG_DESCRIPTION">
+        <xlf:target state="translated">Please select one of the available languages below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_DARK_SWITCH">
+        <xlf:target state="translated">Dark mode</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_DARK_TOOLTIP">
+        <xlf:target state="translated">Change application theme</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

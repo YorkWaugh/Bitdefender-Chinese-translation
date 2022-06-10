@@ -1,0 +1,616 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdfvwiz" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_FV_WIZARD_TYPE_ADD">
+        <xlf:target state="translated">&lt;#ProductName#&gt; File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_FV_WIZARD_TYPE_REMOVE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Remove files from vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_FV_WIZARD_TYPE_VIEW">
+        <xlf:target state="translated">&lt;#ProductName#&gt; View File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_FV_WIZARD_TYPE_CLOSE">
+        <xlf:target state="translated">&lt;#ProductName#&gt;  Close File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_FILESHRED_SHREDDED">
+        <xlf:target state="translated">%d/%d files shredded</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_FILESHRED_SUMMARY">
+        <xlf:target state="translated">Results Summary</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_FV_TEXT_FINISH">
+        <xlf:target state="translated">Finish</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_BROWSE_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Select target</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_BROWSE_OK_BUTTON">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_BROWSE_CANCEL_BUTTON">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_BROWSE_WAIT_MESSAGE">
+        <xlf:target state="translated">Loading...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_FILESHRED_ADD_FILES">
+        <xlf:target state="translated">Add Items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_E_ADD_NOVAULT">
+        <xlf:target state="translated">Please select an existing File Vault from the list of File Vaults or browse for a previously created File Vault.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_E_PASSWORD">
+        <xlf:target state="translated">The password was not specified. Please enter a valid password and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_E_PASSWORD_WRONG">
+        <xlf:target state="translated">The password is not correct. Please try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_MOUNTED_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_MOUNTED_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_E_CLOSE_NOVAULT">
+        <xlf:target state="translated">Please select an opened File Vault to close.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_FINISH_OPER_CAP">
+        <xlf:target state="translated">Operation:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_FILESHRD_TP_FILES">
+        <xlf:target state="translated">Permanently deleted files:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_FILESHRD_TP_FOLDERS">
+        <xlf:target state="translated">Permanently deleted folders:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_FILESHRD_TP_NOT_FOLDERS">
+        <xlf:target state="translated">Folders not deleted:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_FILESHRD_TP_NOT_FILES">
+        <xlf:target state="translated">Files not deleted:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_FILESHRD_SCANNING">
+        <xlf:target state="translated">Scanning</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_FILESHRD_C_ACTION">
+        <xlf:target state="translated">Current action:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_FILESHRD_REMOVE">
+        <xlf:target state="translated">Remove</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_NA">
+        <xlf:target state="translated">N/A</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_Q_CHECKCREATEFILE_FAIL">
+        <xlf:target state="translated">You do not have permissions to create files in the folder %s&#13;&#10;Are you sure you want to continue?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_PLEASE_WAIT_CREATE_VAULT">
+        <xlf:target state="translated">Please wait until &lt;#ProductName#&gt; creates the file vault...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_E_DISKSIZETOOSMALL">
+        <xlf:target state="translated">The disk size cannot be less than %ld MB. The recommended minimum size is %ld MB.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_ACTIONS">
+        <xlf:target state="translated">Actions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_E_ADD_NEWVAULT_PATHTOOLONG">
+        <xlf:target state="translated">The specified file path exceeds 259 characters.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_E_CREATE_PASSWORDTOOLONG">
+        <xlf:target state="translated">The specified password is longer than 255 characters.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_FILESHRED_FILES_SHREDDED">
+        <xlf:target state="translated">shredded</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_FINISH_OPER_CLOSE">
+        <xlf:target state="translated">Close File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_NAME_CAP">
+        <xlf:target state="translated">Name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_PATH_CAP">
+        <xlf:target state="translated">Path:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_STATUS_CAP">
+        <xlf:target state="translated">Status:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_VSTAT_UNMOUNTED">
+        <xlf:target state="translated">Locked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_VSTAT_MOUNTED_ON_DRIVE">
+        <xlf:target state="translated">Opened on %c:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_E_FILENAMEISRESERVED">
+        <xlf:target state="translated">Operation failed because the name you used for the file vault is a name reserved by the operating system. Please try again using a different name.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_DEF_VAULTPATH">
+        <xlf:target state="translated">(Vault Path)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_DEF_PASSWORD">
+        <xlf:target state="translated">(Vault Password)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_DEF_CONFIRMPASSWD">
+        <xlf:target state="translated">(Confirm Password)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_E_FILENAMEISAVAULT">
+        <xlf:target state="translated">A previously created file vault with that name was found on your PC. Choose a different name to create a new file vault.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_RC_STEP1_TITLE">
+        <xlf:target state="translated">Select files &amp; folders</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_OPERATION_NAME_CLOSE">
+        <xlf:target state="translated">Close File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_OPERATION_NAME_ADD">
+        <xlf:target state="translated">Add Files to File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_OPERATION_NAME_REMOVE">
+        <xlf:target state="translated">Remove files from vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_OPERATION_NAME_VIEW">
+        <xlf:target state="translated">View File Vault content</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_CLOSE_OPERATION_CAPTION">
+        <xlf:target state="translated">Operation:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_CLOSE_VNAME_CAPTION">
+        <xlf:target state="translated">Name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_CLOSE_RESULT_CAPTION">
+        <xlf:target state="translated">Result:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_CLOSE_RESULT_SUCCEEDED">
+        <xlf:target state="translated">The operation succeeded.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_CLOSE_RESULT_FAILED">
+        <xlf:target state="translated">Operation already performed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_CLOSE_ERRINFO_CAPTION">
+        <xlf:target state="translated">Information:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_FINISH_OPER_VIEW">
+        <xlf:target state="translated">View File Vault content</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_E_VAULTNOTMOUNTED">
+        <xlf:target state="translated">To view the contents of a File Vault, you must first open it.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_BITDEFENDER">
+        <xlf:target state="translated">&lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_FINISH_OPER_REMOVE">
+        <xlf:target state="translated">Remove %ld Files from Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="IDS_X_DELETED_OF_Y">
+        <xlf:target state="translated">(%ld of %ld deleted)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="IDS_FINISH_OPER_ADD_CREATE">
+        <xlf:target state="translated">Add %ld files/folders to File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="IDS_FINISH_OPER_ADD_UNMOUNTED">
+        <xlf:target state="translated">Add %ld files/folders to existing File Vault (locked)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="IDS_FINISH_OPER_ADD_MOUNTED">
+        <xlf:target state="translated">Add %ld files/folders to existing File Vault (opened)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="IDS_E_DRIVEFORMAT_CANCELED">
+        <xlf:target state="translated">The File Vault drive format operation has been canceled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="IDS_E_ADD_NEWVAULT_PATHMISSING">
+        <xlf:target state="translated">Failed to complete operation because the File Vault path has not been specified.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="IDS_E_ADD_PASSWORDMISSING">
+        <xlf:target state="translated">Failed to complete operation because the File Vault password has not been specified.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="IDS_E_ADD_PASSWORDTOOSHORT">
+        <xlf:target state="translated">The password you have entered is invalid. Please re-enter the correct one.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="IDS_E_ADD_SIZEMISSING">
+        <xlf:target state="translated">Failed to complete operation because the File Vault size has not been specified.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="IDS_E_ADD_SIZEINVALID">
+        <xlf:target state="translated">Failed to complete operation because the File Vault size is invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="IDS_E_ADD_NEWVAULT_DRIVEMISSING">
+        <xlf:target state="translated">Please specify a drive letter for the operation to continue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="128" resname="IDS_E_DRIVEFORMAT_NOFORMAT">
+        <xlf:target state="translated">The File Vault drive failed to be formatted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="129" resname="IDS_E_DRIVEFORMAT_ERROR">
+        <xlf:target state="translated">An error occurred during the last format operation on this File Vault. Please try to format the File Vault again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="130" resname="IDS_E_DRIVEFORMAT_UNAVAILABLE">
+        <xlf:target state="translated">The File Vault drive format operation failed to be completed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="131" resname="IDS_E_ADDFILES_INCOMPLETE">
+        <xlf:target state="translated">An error or warning occurred while adding files to the File Vault. Check if there is sufficient disk space and if you have the necessary security privileges to write in the File Vault.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="132" resname="IDS_E_NO_FREEDRIVELETTER">
+        <xlf:target state="translated">There are no more free drive letters available.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="133" resname="IDS_CLOSE_RESULT_SUCCEEDED_WARNING">
+        <xlf:target state="translated">The operation started successfully, but one or more warnings occurred.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="134" resname="IDS_WIZBTN_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="135" resname="IDS_WIZBTN_BACK">
+        <xlf:target state="translated">Back</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="136" resname="IDS_TEXT_SELECTVAULT">
+        <xlf:target state="translated">Select an Existing File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="137" resname="IDS_TEXT_BROWSEVAULT">
+        <xlf:target state="translated">Browse for a File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="138" resname="IDS_TEXT_CREATEVAULT">
+        <xlf:target state="translated">Create New File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="139" resname="IDS_TEXT_DRIVELETTER">
+        <xlf:target state="translated">Drive letter:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="140" resname="IDS_TEXT_ENTERPASSWORD">
+        <xlf:target state="translated">Password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="141" resname="IDS_TEXT_PASSWORDLENGTH">
+        <xlf:target state="translated">The password must have at least 8 characters.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="142" resname="IDS_TEXT_VAULTSIZE">
+        <xlf:target state="translated">Enter the File Vault Size (MB):</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="143" resname="IDS_VAULTFILEMASK">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Vault disk files (*.bvd)|*.bvd||</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="144" resname="IDS_E_ADD_VAULT_ITSELF">
+        <xlf:target state="translated">Failed to add File Vault (as file) to itself (as File Vault). Please review the operation and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="145" resname="IDS_E_FILENOTVAULT">
+        <xlf:target state="translated">The specified file is not a valid File Vault.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="146" resname="IDS_WIZARD_CAPTION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; File Vault wizard</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="147" resname="IDS_CLOSE_WIZARD">
+        <xlf:target state="translated">Are you sure you want to close the wizard?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="148" resname="IDS_WIZBTN_NEXT">
+        <xlf:target state="translated">Next</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="149" resname="IDS_DESC_VAULTCONTENT">
+        <xlf:target state="translated">These are the files stored in the currently selected File Vault.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="150" resname="IDS_FINISH_OPER_REMOVE_1">
+        <xlf:target state="translated">Remove %ld file from File Vault.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="151" resname="IDS_FINISH_OPER_ADD_MOUNTED_1">
+        <xlf:target state="translated">Add %ld file/folder to existing File Vault (opened)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="152" resname="IDS_FINISH_OPER_ADD_UNMOUNTED_1">
+        <xlf:target state="translated">Add %ld file/folder to existing File Vault (locked)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="153" resname="IDS_TEXT_BROWSE">
+        <xlf:target state="translated">Browse</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="154" resname="IDS_TITLE_ADDFILES">
+        <xlf:target state="translated">Add Files to Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="155" resname="IDS_DESC_ADDFILES">
+        <xlf:target state="translated">Please click on &apos;Add target&apos; to select which files must be secured in the File Vault. Please note that the files will not be deleted from your hard drive. Only a copy of these files will be stored in an encrypted location.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="156" resname="IDS_DESC_SELECTVAULT1">
+        <xlf:target state="translated">&lt;#ProductName#&gt; File Vault functions similar to bank vaults: you choose what you want to secure, you create a vault with a password, you deposit and then you close the vault. If this is the first time you use &lt;#ProductName#&gt; File Encryption you will have to create a new File Vault. Please choose one of the options below:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="157" resname="IDS_COL_VAULTNAME">
+        <xlf:target state="translated">File Vault name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="158" resname="IDS_COL_MOUNTED">
+        <xlf:target state="translated">Opened</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="159" resname="IDS_COL_DRIVE">
+        <xlf:target state="translated">Drive</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="160" resname="IDS_TITLE_DISPLAYVAULTCONTENT">
+        <xlf:target state="translated">Display File Vault content</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="161" resname="IDS_TITLE_SELECTVAULT">
+        <xlf:target state="translated">Select File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="162" resname="IDS_TITLE_CREATEVAULT">
+        <xlf:target state="translated">Create File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="163" resname="IDS_TITLE_ASKPASSWORD">
+        <xlf:target state="translated">File Vault Password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="164" resname="IDS_TITLE_FINISH">
+        <xlf:target state="translated">Confirm</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="165" resname="IDS_DESC_FINISH">
+        <xlf:target state="translated">Please review the selected operations and click &lt;b&gt;Next&lt;/b&gt; if you wish to continue.&lt;br /&gt;You can click &lt;b&gt;Back&lt;/b&gt; if you want to change anything.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="166" resname="IDS_DESC_PASSWORD">
+        <xlf:target state="translated">Please enter the currently selected File Vault password.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="167" resname="IDS_TEXT_PWD1">
+        <xlf:target state="translated">Password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="168" resname="IDS_TITLE_DISPLAYRESULT">
+        <xlf:target state="translated">Display Operation Results</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="169" resname="IDS_DESC_SELECTVAULT2">
+        <xlf:target state="translated">Please select which File Vault you would like to lock. You can browse for a File Vault or you can choose from one of the File Vaults recently created. No one will have access to this vault after you lock it. If want to add files or to view its content, you will have to enter the password again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="170" resname="IDS_DESC_REMOVE">
+        <xlf:target state="translated">Please select the files you wish to remove.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="171" resname="IDS_BTN_REMOVE">
+        <xlf:target state="translated">Remove</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="172" resname="IDS_DESC_SELECTVAULT3">
+        <xlf:target state="translated">Please select which File Vault you would like to view and modify. You can browse for a File Vault or you can choose from one of the File Vaults recently created. If this File Vault has not been used since the last system restart you will be asked to enter a password.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="173" resname="IDS_DESC_SELECTVAULT4">
+        <xlf:target state="translated">Please select which File Vault you would like to view. You can browse for a File Vault or you can choose from one of the File Vaults recently created. If this File Vault has not been used since the last system restart you will be asked to enter a password.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="174" resname="IDS_ADD_TARGET">
+        <xlf:target state="translated">Add Target</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="175" resname="IDS_E_ADD_DISKSIZETOOLARGE">
+        <xlf:target state="translated">The specified vault size is greater than the available space on disk.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="176" resname="IDS_FV_TEXT_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="177" resname="IDS_TEXT_CONFIRMPASSWORD">
+        <xlf:target state="translated">Confirm password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="178" resname="IDS_E_ADD_PASSWORDMISMATCH">
+        <xlf:target state="translated">The passwords do not match. Please enter and confirm the File Vault password again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="179" resname="IDS_E_ADD_PASSWORDTOOSHORT2">
+        <xlf:target state="translated">The File Vault confirmation password does not match (it is too short).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="180" resname="IDS_E_ADD_PASSWORDMISSING2">
+        <xlf:target state="translated">Please enter a File Vault confirmation password.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="181" resname="IDS_CAP_BROWSEFORVAULT">
+        <xlf:target state="translated">Specify the File Vault name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="182" resname="IDS_DESC_CREATEVAULT">
+        <xlf:target state="translated">Please specify the new File Vault password and configure where the File Vault should be stored and what size it should have.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="183" resname="IDS_STEP">
+        <xlf:target state="translated">Step</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="184" resname="IDS_E_FILEALREADLOCKED">
+        <xlf:target state="translated">The selected File Vault is already locked.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="185" resname="IDS_E_INVALIDPATH">
+        <xlf:target state="translated">The File Vault file path is either invalid or does not exist.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="186" resname="IDS_E_INVALIDPATH2">
+        <xlf:target state="translated">The File Vault path is either invalid or does not exist. It seems to be a root disk and does not contain a file name.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="187" resname="IDS_E_INVALIDPATH3">
+        <xlf:target state="translated">A file name cannot contain the following characters &lt; &gt; : &quot; / \ |</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="188" resname="IDS_FILENAME_SPACESONLY_CAP">
+        <xlf:target state="translated">Fix file name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="189" resname="IDS_FILENAME_SPACESONLY">
+        <xlf:target state="translated">The file name includes only blank characters. Are you sure you want to continue?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="190" resname="IDS_E_INVALIDFILENAME_CAP">
+        <xlf:target state="translated">Fix file name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="191" resname="IDS_E_INVALIDFILENAME">
+        <xlf:target state="translated">You have not entered a complete file name (it includes only the extension).  We recommend you go back and enter the complete file name followed by the extension.  Windows Explorer does not allow creation of file names starting with a period.  Are you sure you want to continue?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="192" resname="IDS_E_INVALIDFILENAME2">
+        <xlf:target state="translated">The file name starts with a blank space.  Are you sure you want to use this file name?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="193" resname="IDS_CAP_CREATE">
+        <xlf:target state="translated">Create File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="194" resname="IDS_E_PATHALREADYEXISTS">
+        <xlf:target state="translated">A File Vault with these characteristics already exists. Please review the previous steps and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="195" resname="IDS_E_NO_LOGICAL_DRIVES">
+        <xlf:target state="translated">No logical drives have been detected on your device. Please choose an existing File Vault or select an already opened File Vault for this operation to continue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="196" resname="IDS_TEXT_CHOOSEPATH">
+        <xlf:target state="translated">Enter File Vault path:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="197" resname="IDS_FINISH_OPER_ADD_CREATE_1">
+        <xlf:target state="translated">Add %ld file/folder to new File Vault</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="199" resname="IDS_WAIT">
+        <xlf:target state="translated">Please wait...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="200" resname="IDS_ADD_ERROR_CONFIRM">
+        <xlf:target state="translated">An error occurred while copying files. Do you wish to continue the operation?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="201" resname="IDS_E_CREATE_PASSWORDTOOSHORT">
+        <xlf:target state="translated">The specified password is shorter than 8 characters.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="202" resname="IDS_TO_BE_ADDED">
+        <xlf:target state="translated">Files/folders to be added</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="203" resname="IDS_FILESHRD_NAME">
+        <xlf:target state="translated">&lt;#ProductName#&gt; File Shredder</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="204" resname="IDS_FILESHRD_TASKNAME">
+        <xlf:target state="translated">File shredding completed successfully</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="205" resname="IDS_FILESHRD_TASKDESCRIPTION">
+        <xlf:target state="translated">File Shredder permanently erases files and their traces from your system. It is recommended for cases where you want to delete files from your computer with no possibility of recovery.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="206" resname="IDS_FILESHRD_PART_DEL_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Warning</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="207" resname="IDS_FILESHRD_PART_DEL_MSG">
+        <xlf:target state="translated">You are about to erase an entire partition. Please note that the data erased by the File Shredder cannot be retrieved after the operation finishes. Please make sure that you have selected the targets very carefully. Are you sure you want to continue?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="208" resname="IDS_DUPLICATE_CONFIRM">
+        <xlf:target state="translated">Please note that the data erased by the &lt;#ProductName#&gt; File Shredder cannot be retrieved anymore. Please make sure that you have selected the targets very carefully. Are you sure you want to continue?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="209" resname="IDS_SAFEDEL_BROWSE_TITLE">
+        <xlf:target state="translated">Select the files you want to erase</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="210" resname="IDS_SAFEDEL_BROWSE_OK_BUTTON">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="211" resname="IDS_SAFEDEL_BROWSE_CANCEL_BUTTON">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="212" resname="IDS_SAFEDEL_BROWSE_WAIT_MESSAGE">
+        <xlf:target state="translated">Loading</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="213" resname="IDS_FILESHRD_ERROR_STOPPED">
+        <xlf:target state="translated">The File Shred process has been canceled by the user.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="214" resname="IDS_SAFEDEL_DELETING">
+        <xlf:target state="translated">Deleting</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="215" resname="IDS_FILESHRD_NOFILES_DELETED">
+        <xlf:target state="translated">No files have been deleted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="216" resname="IDS_FILESHRD_ERROR_DELETING">
+        <xlf:target state="translated">Some of the files/folders failed to be deleted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="217" resname="IDS_FILESHRD_INFO_TITLE">
+        <xlf:target state="translated">File Shredder</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="218" resname="IDS_FILESHRD_INFO_DESC">
+        <xlf:target state="translated">Permanently deletes selected files or folders and all their traces from your hard drive. Click Add Items to choose folders or individual files you want to shred. Or drag and drop them directly in this window.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="219" resname="IDS_FILESHRD_INFO_DRAG">
+        <xlf:target state="translated">*or drag and drop them directly in this window</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="220" resname="IDS_FILESHRD_INFO_WARNING_TITLE">
+        <xlf:target state="translated">Attention</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="221" resname="IDS_FILESHRD_INFO_WARNING_DESC">
+        <xlf:target state="translated">You will not be able to recover your files once they have been deleted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="222" resname="IDS_FILESHRD_DELETE_BUTTON">
+        <xlf:target state="translated">Delete Permanently</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="223" resname="IDS_FILESHRD_SMALL_BOX_WARNING">
+        <xlf:target state="translated">You will not be able to recover your files once they have been deleted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="224" resname="IDS_FILESHRD_REMOVE_ALL_BUTOON">
+        <xlf:target state="translated">Remove all</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="225" resname="IDS_FILESHRD_HEADING_SHRED_INFO">
+        <xlf:target state="translated">Shredding files...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="226" resname="IDS_FILESHRD_FILE_STATUS">
+        <xlf:target state="translated">Status:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="227" resname="IDS_FILESHRD_STOP_BUTTON">
+        <xlf:target state="translated">Stop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="228" resname="IDS_FILESHRD_DONE_BUTTON">
+        <xlf:target state="translated">Finish</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="229" resname="IDS_FILESHRD_EXCLUSION_ERROR">
+        <xlf:target state="translated">Unable to delete file: you need permission to perform this action</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="230" resname="IDS_FILESHRD_FILE_NOT_FOUND_ERROR">
+        <xlf:target state="translated">Unable to delete file: file not found</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="231" resname="IDS_FILESHRD_ACCES_DENIED_ERROR">
+        <xlf:target state="translated">Unable to delete file: acces denied</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="232" resname="IDS_FILESHRD_FILE_IN_USE_ERROR">
+        <xlf:target state="translated">Unable to delete file: file is being used by another program</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="233" resname="IDS_FILESHRD_DEFAULT_ERROR">
+        <xlf:target state="translated">Unable to delete file</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="234" resname="IDS_FILESHRD_CANCELED_ERROR">
+        <xlf:target state="translated">Canceled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="235" resname="IDS_FILESHRD_VOLUME_ERROR">
+        <xlf:target state="translated">Unable to delete: Path is a volume</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="236" resname="IDS_FILESHRED_CONFIRM_QUESTION">
+        <xlf:target state="translated">Permanently delete selected items?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="237" resname="IDS_FILESHRED_CONFIRM_YES">
+        <xlf:target state="translated">Yes, Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="238" resname="IDS_CLOSE_CONFIRM">
+        <xlf:target state="translated">Are you sure you want to close this wizard?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="239" resname="IDS_TUNEUP_SUCCESFULL">
+        <xlf:target state="translated">Task finished successfully.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="240" resname="IDS_TUNEUP_ABORTED">
+        <xlf:target state="translated">Task aborted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="241" resname="IDS_FILESHRD_STEP1">
+        <xlf:target state="translated">Select file/folder</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="242" resname="IDS_FILESHRD_STEP2">
+        <xlf:target state="translated">Shredding Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="243" resname="IDS_FILESHRD_STEP3">
+        <xlf:target state="translated">Results</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="244" resname="IDS_FILESHRD_FP_TITLE">
+        <xlf:target state="translated">Choose a file/folder to permanently delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="245" resname="IDS_FILESHRD_FP_SUBTITLE">
+        <xlf:target state="translated">File Shredder permanently deletes selected files and all their traces from your hard drive. Click &lt;b&gt;Add Folder(s)&lt;/b&gt;  to choose files that you want to shred. &lt;br /&gt; &lt;b&gt;WARNING:&lt;/b&gt;  you will NOT be able to recover a file that has been run through the File Shredder.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="246" resname="IDS_FILESHRD_BROWSE">
+        <xlf:target state="translated">Add Folder(s)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="247" resname="IDS_DUPFINDER_PATH">
+        <xlf:target state="translated">Folder(s) Location</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="248" resname="IDS_FILESHRD_SP_TITLE">
+        <xlf:target state="translated">Shredding</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="249" resname="IDS_FILESHRD_CLOSE">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="250" resname="IDS_REGREC_BTN_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="251" resname="IDS_RC_BTN_NEXT">
+        <xlf:target state="translated">Next</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="252" resname="IDS_FILESHRD_STOP">
+        <xlf:target state="translated">Stop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="253" resname="IDS_FILESHRD_TP_TITLE">
+        <xlf:target state="translated">Results Summary</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="254" resname="IDS_FILESHRD_TP_STATUS">
+        <xlf:target state="translated">All selected files or folders have been permanently deleted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="255" resname="IDS_FILESHRD_DELETED_CAPTION">
+        <xlf:target state="translated">Deleted files/folders:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="256" resname="IDS_FILESHRD_PLEASE_WAIT">
+        <xlf:target state="translated">Please wait for &lt;#ProductName#&gt; to wipe all selected files and folders.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="257" resname="IDS_FILESHRD_SCAN_STATUS">
+        <xlf:target state="translated">Shredding status</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

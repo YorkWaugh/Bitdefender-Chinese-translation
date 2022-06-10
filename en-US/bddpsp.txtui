@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bddpsp" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_DP_PANEL_TITLE">
+        <xlf:target state="translated">Data Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_DP_TASK_FILESHREDDER">
+        <xlf:target state="translated">File Shredder</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_DP_TASK_FILESHREDDER_TTP">
+        <xlf:target state="translated">File Shredder.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_DP_PANEL_TOOLTIP">
+        <xlf:target state="translated">Remove all traces of deleted files on your device.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

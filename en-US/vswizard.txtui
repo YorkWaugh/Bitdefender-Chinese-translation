@@ -1,0 +1,763 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="vswizard" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_VU_SCAN_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Vulnerability Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_WEAK">
+        <xlf:target state="translated">Weak</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_STRONG">
+        <xlf:target state="translated">Strong</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_FIX">
+        <xlf:target state="translated">Fix</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_TITLE">
+        <xlf:target state="translated">&lt;#FullProductNameHtml#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_ROUTER_MAC_ADDRESS">
+        <xlf:target state="translated">MAC address:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_ROUTER_PASSWORD_STRENGTH">
+        <xlf:target state="translated">Password strength:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_UNSECURED_ROUTER_DETAILS">
+        <xlf:target state="translated">Your router access is unsecured. We recommend setting a strong password for your router by using at least one number or symbol and one upper case character. You may use &lt;#ProductName#&gt; Password Generator to generate a strong password.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_SECURED_ROUTER_WEAK_PASSWORD_DETAILS">
+        <xlf:target state="translated">Your router&apos;s password is weak. Try setting a stronger one by using both upper and lower case letters and at least one number or special character. You can generate strong passwords with &lt;#ProductName#&gt; Password Generator and securely save them in your Wallet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_ROUTER_CHANGE_ROUTER_PASSWORD">
+        <xlf:target state="translated">Change router password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_NO_PASS">
+        <xlf:target state="translated">No password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_SSID_PREFIX">
+        <xlf:target state="translated">%s Wi-Fi network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_WIFI_UNSECURED">
+        <xlf:target state="translated">Unsecured</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_WIFI_AUTH_OPEN_SYSTEM">
+        <xlf:target state="translated">Unsecured</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_WIFI_AUTH_SHARED_KEY">
+        <xlf:target state="translated">WEP shared key</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_WIFI_AUTH_WPA">
+        <xlf:target state="translated">WPA-Enterprise</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_WIFI_AUTH_WPA_PSK">
+        <xlf:target state="translated">WPA-Personal</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_WIFI_AUTH_WPA2">
+        <xlf:target state="translated">WPA2-Enterprise</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_WIFI_AUTH_WPA2_PSK">
+        <xlf:target state="translated">WPA2-Personal</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_WIFI_AUTH_UNKNOWN">
+        <xlf:target state="translated">Unknown</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_WIFI_UNSECURED_DETAILS_HOME">
+        <xlf:target state="translated">Your home Wi-Fi is unsafe. Connecting to an unsecure Wi-Fi poses a major risk for your privacy. We recommend changing the Wi-Fi network settings to WPA2 / WPA2PSK with AES encryption and setting a strong password. Use at least 8 characters passwords with one number or symbol and one upper case character.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_WIFI_UNSECURED_DETAILS_PUBLIC">
+        <xlf:target state="translated">Your Wi-Fi connection is unsecured. Connecting to an unsecured Wi-Fi network poses a major risk for your privacy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_WIFI_WEAK_PASSWORD_DETAILS_HOME">
+        <xlf:target state="translated">Your home Wi-Fi network is unsafe. The Wi-Fi password is weak and could be easily cracked. Sending or receiving sensitive data or personal information while connected to an unsafe Wi-Fi network poses a major risk to your privacy. We recommend changing the password to a stronger one, by using minimum 8 characters long passphrases, with at least one number or symbol and one upper case character.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_WIFI_WEAK_PASSWORD_DETAILS_PUBLIC">
+        <xlf:target state="translated">Your Wi-Fi password is vulnerable. Connecting to a vulnerable Wi-Fi network poses a major risk for your privacy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_WIFI_MEDIUM_PASSWORD_DETAILS_HOME">
+        <xlf:target state="translated">Your home Wi-Fi network is unsafe. The Wi-Fi password is fair and could be easily cracked. Sending and receiving sensitive data or personal information while connected to an unsafe Wi-Fi network poses a major risk to your privacy. We recommend changing the password to a stronger one, by using minimum 8 characters long passphrases, with at least one number or symbol and one upper case character.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_WIFI_MEDIUM_PASSWORD_DETAILS_PUBLIC">
+        <xlf:target state="translated">You are connected to an unsafe Wi-Fi network. Connecting to an unsecured Wi-Fi network poses a major risk for your privacy. We recommend you to either connect to a more secure Wi-Fi network or use our secure browser to surf online - Bitdefender Safepay™.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_WIFI_CHANG_ALG_HOME">
+        <xlf:target state="translated">Your home Wi-Fi network is using an unsafe encryption algorithm. For better protection, we recommend changing the Wi-Fi network settings to WPA2 or WPA2PSK with AES encryption.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_WIFI_CHANGE_ALG_PUBLIC">
+        <xlf:target state="translated">Your Wi-Fi connection is using an unsafe algorithm.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_WIFI_CHANGE_CHYPHER_HOME">
+        <xlf:target state="translated">Your home Wi-Fi network is using an unsafe cipher. For better protection, we recommend changing your Wi-Fi network settings to use AES encryption.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_WIFI_CHANGE_CHYPHER_PUBLIC">
+        <xlf:target state="translated">This Wi-Fi network uses a weak encryption. This poses a major risk for your privacy when sending and receive sensitive data over the internet. We recommend you to browse protected using our secured browser - Bitdefender Safepay™.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_WIFI_DISCONNECT">
+        <xlf:target state="translated">We recommend changing your network connection to a secure one.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_WIFI_CHANGE_CONFIGURATION">
+        <xlf:target state="translated">Change Wi-Fi configuration</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_WIFI_CHANGE_WIFI_PASSWORD">
+        <xlf:target state="translated">Change Wi-Fi password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_OPEN_SAFEPAY">
+        <xlf:target state="translated">Open Safepay</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_WIFI_RECOMMENDATION">
+        <xlf:target state="translated">When working with banking web pages, we recommend that you use &lt;#ProductName#&gt; Safepay™. %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_WIFI_ENCRYPTION">
+        <xlf:target state="translated">Encryption:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_WIFI_CYPHER">
+        <xlf:target state="translated">Cipher:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_WIFI_PASSWORD_STRENGTH">
+        <xlf:target state="translated">Password strength:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_SELECT_TASKS">
+        <xlf:target state="translated">Protect your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_START">
+        <xlf:target state="translated">Next</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_WIN_CRITICAL_UPDATES">
+        <xlf:target state="translated">Scanning for Windows updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_WIN_OTHER_UPDATES">
+        <xlf:target state="translated">Check for Optional Windows Updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_SCANNING">
+        <xlf:target state="translated">Scanning</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_STATUS">
+        <xlf:target state="translated">Status</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_STOP">
+        <xlf:target state="translated">Stop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_WINDOWS_UPDATES">
+        <xlf:target state="translated">Windows updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_CLOSE">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_FILTER_WINDOWS_UPDATES">
+        <xlf:target state="translated">Critical Windows updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_FILTER_APPLICATION_UPDATES">
+        <xlf:target state="translated">Application updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_FILTER_WEAK_PASSWORDS">
+        <xlf:target state="translated">Weak Windows accounts</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_FILTER_WEAK_ROUTERS">
+        <xlf:target state="translated">Wi-Fi networks and routers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_FILTER_ALL">
+        <xlf:target state="translated">All Vulnerabilities</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_CAT_OS">
+        <xlf:target state="translated">Operating System</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_CAT_APPLICATIONS">
+        <xlf:target state="translated">Applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_CAT_NETWORK">
+        <xlf:target state="translated">Network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_FILTER_OS_SECURITY">
+        <xlf:target state="translated">Operating System Security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_FILTER_BROWSER_SECURITY">
+        <xlf:target state="translated">Browser Security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_FILTER_NETWORK_CREDENTIALS">
+        <xlf:target state="translated">Network &amp; Credentials</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_WEAK_USERNAME">
+        <xlf:target state="translated">Account Name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_WEAK_STRENGTH">
+        <xlf:target state="translated">Password Strength</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_WEAK_STATUS">
+        <xlf:target state="translated">Status</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_WEAK_POP_TITLE">
+        <xlf:target state="translated">%s&apos;s password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_WEAK_POP_TYPE_PASS">
+        <xlf:target state="translated">New password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_WEAK_POP_CONFIRM">
+        <xlf:target state="translated">Confirm password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_WEAK_POP_FORCE">
+        <xlf:target state="translated">Request user to change password at next login</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_WEAK_POP_CHANGE">
+        <xlf:target state="translated">Change the password now:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_WEAK_POP_OK">
+        <xlf:target state="translated">Save</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_WEAK_POP_CLOSE">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_WU_TABLE_TITLE">
+        <xlf:target state="translated">Updates available for install</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_FOP_CLOSE">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_WEAK_PASS_TASKHELP">
+        <xlf:source>The current password for the Windows account: &lt;span class=&quot;label&quot;&gt;%s&lt;/span&gt; is weak. We recommend changing the password to a stronger one.&lt;br/&gt;To set a new password, please choose one of the options below.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_NO_PASS_TASKHELP">
+        <xlf:source>Your Windows account &lt;span class=&quot;label&quot;&gt;%s&lt;/span&gt; has no password set. We recommend creating a strong password for your account.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_PASSWORD_STRENGTH">
+        <xlf:target state="translated">Password strength:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_WEAK_PASS">
+        <xlf:target state="translated">Weak</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_MEDIUM_PASS">
+        <xlf:target state="translated">Medium</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_STRONG_PASS">
+        <xlf:target state="translated">Strong</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_WEAK_PASS_TASKNAME">
+        <xlf:target state="translated">Scanning for weak Windows accounts passwords</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_APP_UPDATES_TASKNAME">
+        <xlf:target state="translated">Scanning for applications updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_ROUTERS_WIFI_TASKNAME">
+        <xlf:target state="translated">Scanning for routers and Wi-Fi connections</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_WU_FINISHED_OK">
+        <xlf:target state="translated">Your Windows has been updated successfully.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_INSTALLING">
+        <xlf:target state="translated">Installing...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_AU_APP_NAME">
+        <xlf:target state="translated">Application Name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_AU_YOUR_VERSION">
+        <xlf:target state="translated">Installed Version</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_AU_DOWNLOAD">
+        <xlf:target state="translated">Status</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_CANNOT_APPLY_FORCE">
+        <xlf:target state="translated">Failed to force user to change password at log-in.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_PASSWORD_DIFFERENT">
+        <xlf:target state="translated">The passwords configured do not match.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_PASSWORD_NOT_STRONG">
+        <xlf:target state="translated">The password you have entered does not meet the security policies. It is recommended to type a minimum 8 characters password that includes both capital letters, lower letters and alphanumeric characters. Please enter a different password and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_PASSWORD_CHANGED">
+        <xlf:target state="translated">Password has been successfully changed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_PASSWORD_COMPLEXITY_NOT_MET">
+        <xlf:target state="translated">The password does not meet the password policy requirements. Please check the minimum password length, password complexity and password history requirements.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_CANNOT_CHANGE_PASSWORD">
+        <xlf:target state="translated">An error occurred when changing password.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_FIRST_PAGE_ADVICE">
+        <xlf:target state="translated">This wizard will guide you through the actions required to identify outdated applications and the Windows accounts that have a weak password. Please choose which items to check for vulnerabilities:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_UP_TO_DATE">
+        <xlf:target state="translated">You are safe</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_CHANGE_FORCED">
+        <xlf:target state="translated">The user will be forced to change the password.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_WU_FINISHED_OK_ISSUE">
+        <xlf:target state="translated">Your Windows has been updated successfully.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_WU_ERROR">
+        <xlf:target state="translated">An error occured when downloading updates.(0x%1!.8X!)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_WINUPDATES">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Windows Updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_USER_CANT_CHANGE">
+        <xlf:target state="translated">You do not have permission to change your password. Please ask the device administrator to make the change.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_RESULTS">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Vulnerability Scan Results</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_WU_FINISHED_OK_WITH_ERRORS">
+        <xlf:target state="translated">Not all Windows updates have been installed. Please run the task again and retry to install the updates.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_WU_CANCELED">
+        <xlf:target state="translated">Windows updates installation was canceled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_PASS_REMINDER">
+        <xlf:target state="translated">&lt;strong&gt;Important!&lt;/strong&gt; Please remember this password. Windows will request the new password for this user at next log-on.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_STEP1_TITLE">
+        <xlf:target state="translated">Protect your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_STEP2_TITLE">
+        <xlf:target state="translated">Check for issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_STEP3_TITLE">
+        <xlf:target state="translated">Windows updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_STEP4_TITLE">
+        <xlf:target state="translated">Application updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_STEP5_TITLE">
+        <xlf:target state="translated">Weak passwords</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_STEP6_TITLE">
+        <xlf:target state="translated">Summary</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_WEAK_PASSWORDS">
+        <xlf:target state="translated">Windows Accounts Passwords</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_APP_UPDATES">
+        <xlf:target state="translated">Applications Updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_WEAK_ASS_TITLE_PAGE">
+        <xlf:target state="translated">Windows Accounts with Weak Passwords</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_VU_APP_FLASH_OTHER_VERSIONS">
+        <xlf:target state="translated">http://get.adobe.com/flashplayer/otherversions/</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_WU_ERROR_SERVICE_ACCESS_DENIED">
+        <xlf:target state="translated">Windows update service cannot be started because the proper credentials have not been provided.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="IDS_WU_ERROR_SERVICE_DISABLED">
+        <xlf:target state="translated">Windows update service cannot be started because it has been disabled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="IDS_WU_ERROR_SERVICE">
+        <xlf:target state="translated">Windows update service cannot be started.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="IDS_OLD_PASSWORD_INVALID">
+        <xlf:target state="translated">The old password is not correct, please try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="IDS_WEAK_POP_TYPE_OLD_PASS">
+        <xlf:target state="translated">Old password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="IDS_ACCOUNT_RESTRICTION">
+        <xlf:target state="translated">You cannot change your password because a minimum password age has been set by the device administrator, which has not yet elapsed.  Please contact the device administrator to modify these settings so that your password can be changed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="IDS_RESTART">
+        <xlf:target state="translated">Restart</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="IDS_WU_ERROR_ELEVATION">
+        <xlf:target state="translated">The installation of windows updates has been canceled because it requires administrative privileges to continue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="IDS_WEAK_PASS_HELP">
+        <xlf:target state="translated">The status of the passwords configured by you is displayed below. It is recommended to modify passwords detected as weak.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="IDS_MEDIA_AUTORUN_DISABLED_OK">
+        <xlf:target state="translated">Media autorun was disabled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="IDS_MEDIA_AUTORUN_DISABLED_FAILED">
+        <xlf:target state="translated">Media autorun cannot be disabled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="IDS_AUTOMATIC_UPDATES_ENABLED_OK">
+        <xlf:target state="translated">Windows automatic updates was enabled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="128" resname="IDS_AUTOMATIC_UPDATES_ENABLED_FAILED">
+        <xlf:target state="translated">Cannot enable windows automatic updates.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="129" resname="IDS_CLOSE_CONFIRMATION">
+        <xlf:target state="translated">Are you sure you want to exit this wizard?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="130" resname="IDS_WU_PROGRESS_DOWNLOAD">
+        <xlf:target state="translated">Downloading %1!d! of %2!d!, %5!d!%% complete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="131" resname="IDS_MB">
+        <xlf:target state="translated">%1!6s! MB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="132" resname="IDS_KB">
+        <xlf:target state="translated">%1!6s! KB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="133" resname="IDS_GB">
+        <xlf:target state="translated">%1!6s! GB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="134" resname="IDS_B">
+        <xlf:target state="translated">%1!6s! B</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="135" resname="IDS_INITIALIZEDOWNLOAD">
+        <xlf:target state="translated">Initializing download</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="136" resname="IDS_PASSWORD_TIP3">
+        <xlf:target state="translated">Please remember this password.&#10;Windows will request the new password for this user at next login.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="137" resname="IDS_AU_VULNERABILITIES">
+        <xlf:target state="translated">Vulnerabilities</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="138" resname="IDS_AU_RISK">
+        <xlf:target state="translated">Risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="139" resname="IDS_CONNECTION_ERROR">
+        <xlf:target state="translated">The internet connection is unavailable. Please activate your network connection and restart the vulnerability scanner.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="140" resname="IDS_TIMEOUT_ERROR">
+        <xlf:target state="translated">Vulnerability scan was unable to connect to the &lt;#ProductName#&gt; server, please retry later. If the problem persists, please contact our Customer Support.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="141" resname="IDS_SKIP">
+        <xlf:target state="translated">Skip</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="142" resname="IDS_FILTER">
+        <xlf:target state="translated">Filter</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="143" resname="IDS_WIN_UPDATES_NO">
+        <xlf:target state="translated">%d Critical Windows Updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="144" resname="IDS_WIN_UPDATE_NO">
+        <xlf:target state="translated">1 Critical Windows Update</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="145" resname="IDS_WIN_UPDATES_RISC">
+        <xlf:target state="translated">Vulnerability risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="146" resname="IDS_VIEW_DETAILS">
+        <xlf:target state="translated">View details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="147" resname="IDS_UPDATES_ACTION">
+        <xlf:target state="translated">Install all</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="148" resname="IDS_VU_RISC">
+        <xlf:target state="translated">Vulnerability risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="149" resname="IDS_DOWNLOAD_NEW">
+        <xlf:target state="translated">Download new version</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="150" resname="IDS_CHECK_SITE">
+        <xlf:target state="translated">Check vendor&apos;s web page</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="151" resname="IDS_WEAK_ACTION">
+        <xlf:source>Change password&#13;at next login</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="152" resname="IDS_RESCAN">
+        <xlf:target state="translated">Rescan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="153" resname="IDS_CNT_VULNERABILITIES_FOUND">
+        <xlf:target state="translated">%d vulnerability issues found</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="154" resname="IDS_CNT_VULNERABILITY_FOUND">
+        <xlf:target state="translated">1 vulnerability issue found</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="155" resname="IDS_SCAN_DONE">
+        <xlf:target state="translated">Vulnerability scan completed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="156" resname="IDS_SCAN_START">
+        <xlf:target state="translated">Vulnerability scan is starting</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="157" resname="IDS_WINUPDATE_SELECT_STATUS">
+        <xlf:target state="translated">%1!d! updates selected (maximum size: %2!s!)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="158" resname="IDS_WINUPDATE_SELECT_STATUS_1">
+        <xlf:target state="translated">1 update selected (maximum size: %2!s!)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="159" resname="IDS_WINUPDATE_NOSELECT_STATUS_1">
+        <xlf:target state="translated">1 update (maximum size: %1!s!)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="160" resname="IDS_UPD_KB3125574_DESCRIPTION">
+        <xlf:target state="translated">We detected that your Operating System is missing an update that provides communications security when connected to the internet.&lt;br/&gt;We recommend you install this update to secure your connections and avoid eavesdropping or tampering with the packages your applications, including Bitdefender, are sending or receiving.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="161" resname="IDS_KB3125574_URL">
+        <xlf:target state="translated">https://www.bitdefender.com/links/%1!s!/w7-kb-missing.html?kb=4&amp;arch=%2!s!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="162" resname="IDS_APP_VLN_DESC_NEW_VERSION_VLN_RECOMANDATION">
+        <xlf:target state="translated">To be protected against cyber attacks, it is recommended to install the new version of %s that contains the latest security fixes.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="163" resname="IDS_APP_VLN_DESC_NO_NEW_VERSION_VLN_RECOMANDATION">
+        <xlf:target state="translated">Please make sure that automatic Vulnerability scan is activated so that you can be notified in the Events when a new version of app is available. You can also visit the vendor&apos;s web page to check the latest updates manually.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="164" resname="IDS_APP_VLN_DESC_NEW_VERSION_NO_VLN">
+        <xlf:source>The currently installed version has &lt;span class=&quot;label&quot;&gt;no vulnerabilities.&lt;/span&gt;</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="165" resname="IDS_APP_VLN_DESC_NEW_VERSION_SINGLE_VLN">
+        <xlf:source>The currently installed version has &lt;span class=&quot;label&quot;&gt;one vulnerability&lt;/span&gt; of the following type:</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="166" resname="IDS_APP_VLN_DESC_NEW_VERSION_MULTIPLE_VLN">
+        <xlf:source>The currently installed version has &lt;span class=&quot;label&quot;&gt;%d vulnerabilities&lt;/span&gt; of the following types:</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="167" resname="IDS_APP_VLN_DESC_NO_NEW_VERSION_SINGLE_VLN">
+        <xlf:source>The currently installed version has &lt;span class=&quot;label&quot;&gt;one vulnerability&lt;/span&gt; of the following type:</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="168" resname="IDS_APP_VLN_DESC_NO_NEW_VERSION_MULTIPLE_VLN">
+        <xlf:source>The currently installed version has &lt;span class=&quot;label&quot;&gt;%d vulnerabilities&lt;/span&gt; of the following types:</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="169" resname="IDS_APP_VLN_DESC_CVE_TYPE_GENERAL">
+        <xlf:source>&lt;span class=&quot;label&quot;&gt;General&lt;/span&gt;: This vulnerability has not yet been rated.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="170" resname="IDS_APP_VLN_DESC_CVE_TYPE_EXECUTE_CODE">
+        <xlf:source>&lt;span class=&quot;label&quot;&gt;Execute Code&lt;/span&gt;: By exploiting the vulnerability the attacker has the ability to execute code on the victims system.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="171" resname="IDS_APP_VLN_DESC_CVE_TYPE_GAIN_PRIVILEGES">
+        <xlf:source>&lt;span class=&quot;label&quot;&gt;Gain Privileges&lt;/span&gt;: By exploiting this vulnerability the attacker can gain elevated privileges thus being able to control important parts of the operating system.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="172" resname="IDS_APP_VLN_DESC_CVE_TYPE_GAIN_INFO">
+        <xlf:source>&lt;span class=&quot;label&quot;&gt;Gain Information&lt;/span&gt;: By exploiting this vulnerability the attacker can access private information (usually files) on the victims system.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="173" resname="IDS_APP_VLN_DESC_CVE_TYPE_DOS">
+        <xlf:source>&lt;span class=&quot;label&quot;&gt;Denial of Service&lt;/span&gt;: By exploiting this vulnerability the attacker can block access to certain resources or to the entire system.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="174" resname="IDS_APP_VLN_DESC_CVE_TYPE_BYPASS">
+        <xlf:source>&lt;span class=&quot;label&quot;&gt;Bypass&lt;/span&gt;: By exploiting this vulnerability the attacker can gain access to a restricted resource without being required to authentificate.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="175" resname="IDS_APP_VLN_DESC_CVE_TYPE_XSS">
+        <xlf:source>&lt;span class=&quot;label&quot;&gt;XSS&lt;/span&gt;: By exploiting this vulnerability the attacker can inject malicious script code into webpages viewed by other users.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="176" resname="IDS_APP_VLN_DESC_CVE_TYPE_DIR_TRAVERSAL">
+        <xlf:source>&lt;span class=&quot;label&quot;&gt;Directory Traversal&lt;/span&gt;: By exploiting this vulnerability the attacker cand gain access to a file that he is restricted to.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="177" resname="IDS_APP_VLN_DESC_CVE_TYPE_CSRF">
+        <xlf:source>&lt;span class=&quot;label&quot;&gt;CSRF&lt;/span&gt;: By exploiting this vulnerability the attacker can run malicious scripts on website that the user is currently logged on.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="178" resname="IDS_INSTALL">
+        <xlf:target state="translated">Install updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="179" resname="IDS_BROWSE_INSTALL">
+        <xlf:target state="translated">Get updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="180" resname="IDS_APP_VLN_DESC_NEW_VERSION_NO_VLN_RECOMANDATION">
+        <xlf:target state="translated">There is a new update available for %s. It is recommended to always have the latest version of app installed to keep your system protected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="181" resname="IDS_CANCEL_PASSWORD_CHANGE">
+        <xlf:source>Cancel password&#13;change request</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="182" resname="IDS_MORE_INFORMATION">
+        <xlf:target state="translated">More Information</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="183" resname="IDS_INSTALLED">
+        <xlf:target state="translated">Installed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="184" resname="IDS_INCOMPLETE_RESPONSE_ERROR">
+        <xlf:target state="translated">Vulnerability scan was unable to connect to the &lt;#ProductName#&gt; server, please retry later. If the problem persists, please contact our Customer Support.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="185" resname="IDS_WU_ERROR_SEARCH">
+        <xlf:target state="translated">An error occurred while searching for updates.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="186" resname="IDS_LOCALIZATION_DEPENDENT_VERSION">
+        <xlf:target state="translated">This version may differ according to the app&apos;s localization. Please check the vendor&apos;s web page to download the update available for your localization.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="187" resname="IDS_TRAY_SHOW">
+        <xlf:target state="translated">Show</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="188" resname="IDS_TRAY_ABOUT">
+        <xlf:target state="translated">About</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="189" resname="IDS_TRAY_EXIT">
+        <xlf:target state="translated">Exit</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="190" resname="IDS_TRAY_TOOLTIP">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Vulnerability Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="191" resname="IDS_WIN_UPDATES_REBOOT">
+        <xlf:target state="translated">Restart is required to finish installing updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="192" resname="IDS_CYPHER_TKIP">
+        <xlf:target state="translated">TKIP</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="193" resname="IDS_CYPHER_AES">
+        <xlf:target state="translated">AES</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="194" resname="IDS_CYPHER_WEP">
+        <xlf:target state="translated">WEP</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="195" resname="IDS_CYPHER_WPAGROUP">
+        <xlf:target state="translated">WPA group keys</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="196" resname="IDS_CYPHER_UNKNOWN">
+        <xlf:target state="translated">Unknown</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="197" resname="IDS_CYPHER_NONE">
+        <xlf:target state="translated">None</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="198" resname="IDS_ROUTER_TITLE">
+        <xlf:target state="translated">Router %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="199" resname="IDS_OTHER_USER_LOGGED">
+        <xlf:target state="translated">There is another user logged on. Do you want to restart and close all other user applications?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="200" resname="IDS_START_TITLE">
+        <xlf:target state="translated">Vulnerability Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="201" resname="IDS_START_INFO">
+        <xlf:target state="translated">Check your device for different types of vulnerabilities regardless of whether they are operating system vulnerabilities, vulnerabilities of installed applications or network connection ones.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="202" resname="IDS_START_BTN">
+        <xlf:target state="translated">Start Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="203" resname="IDS_START_TITLE2">
+        <xlf:target state="translated">Vulnerabilities</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="204" resname="IDS_START_INFO2">
+        <xlf:target state="translated">Immediate actions can be taken for every vulnerability found.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="205" resname="IDS_TYPE_APP_UPDATE">
+        <xlf:target state="translated">Application update</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="206" resname="IDS_TYPE_ROUTER">
+        <xlf:target state="translated">Weak router password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="207" resname="IDS_TYPE_WEAK_PASS">
+        <xlf:target state="translated">Weak Windows account password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="208" resname="IDS_TYPE_WIN_UPDATE">
+        <xlf:target state="translated">Critical Windows updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="209" resname="IDS_TYPE_WIFI">
+        <xlf:target state="translated">Unsafe Wi-Fi</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="210" resname="IDS_RISK_LOW">
+        <xlf:target state="translated">LOW</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="211" resname="IDS_RISK_MEDIUM">
+        <xlf:target state="translated">MEDIUM</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="212" resname="IDS_RISK_HIGH">
+        <xlf:target state="translated">HIGH</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="213" resname="IDS_PASS_TITLE">
+        <xlf:target state="translated">Your password must:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="214" resname="IDS_PASS_HELP1">
+        <xlf:target state="translated">include lower and upper characters</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="215" resname="IDS_PASS_HELP2">
+        <xlf:target state="translated">contain at least one number or symbol</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="216" resname="IDS_PASS_HELP3">
+        <xlf:target state="translated">be at least 8 characters long</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="217" resname="IDS_FILTER_ALL_TEXT">
+        <xlf:target state="translated">No vulnerabilities were found on your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="218" resname="IDS_FILTER_WINUPD_TEXT">
+        <xlf:target state="translated">All Critical Windows updates are installed on your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="219" resname="IDS_FILTER_APPUPD_TEXT">
+        <xlf:target state="translated">Your applications are up to date.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="220" resname="IDS_FILTER_USERPASS_TEXT">
+        <xlf:target state="translated">Your Windows accounts are safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="221" resname="IDS_FILTER_WIFI_TEXT">
+        <xlf:target state="translated">Your Wi-Fi networks are safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="222" resname="IDS_FILTER_SEARCHING">
+        <xlf:target state="translated">Searching for vulnerabilities...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="223" resname="IDS_PARTIAL">
+        <xlf:target state="translated">Show partial results</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="224" resname="IDS_RETRY">
+        <xlf:target state="translated">Retry scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="225" resname="IDS_APP_ERROR_TITLE">
+        <xlf:target state="translated">Application updates scan was skipped</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="226" resname="IDS_WINUPD_ERROR_TITLE">
+        <xlf:target state="translated">Critical Windows updates scan was skipped</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="227" resname="IDS_WU_ERROR_INST_IN_PROGRESS">
+        <xlf:target state="translated">Another installation is already in progress. Wait for the process to finish and try again afterwards.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="228" resname="IDS_CLEAN_REPORT_TITLE">
+        <xlf:target state="translated">Your device is safe</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="229" resname="IDS_CLEAN_REPORT_STATUS">
+        <xlf:target state="translated">There were no vulnerabilities found on your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="230" resname="IDS_CLEAN_REPORT_OPERATING_SYSTEM_VULNERABILITIES">
+        <xlf:target state="translated">OPERATING SYSTEM VULNERABILITIES</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="231" resname="IDS_CLEAN_REPORT_OPERATING_SYSTEM_SECURITY">
+        <xlf:target state="translated">Operating System Security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="232" resname="IDS_CLEAN_REPORT_CRITICAL_WINDOWS_UPDATES">
+        <xlf:target state="translated">Critical Windows updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="233" resname="IDS_CLEAN_REPORT_WEAK_WINDOWS_ACCOUNTS">
+        <xlf:target state="translated">Weak Windows Accounts</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="234" resname="IDS_CLEAN_REPORT_APPLICATION_VULNERABILITIES">
+        <xlf:target state="translated">APPLICATION VULNERABILITIES</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="235" resname="IDS_CLEAN_REPORT_BROWSER_SECURITY">
+        <xlf:target state="translated">Browser Security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="236" resname="IDS_CLEAN_REPORT_APPLICATION_UPDATES">
+        <xlf:target state="translated">Application updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="237" resname="IDS_CLEAN_REPORT_NETWORK_VULNERABILITIES">
+        <xlf:target state="translated">NETWORK VULNERABILITIES</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="238" resname="IDS_CLEAN_REPORT_NETWORK_AND_CREDENTIALS">
+        <xlf:target state="translated">Network &amp; Credentials</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="239" resname="IDS_CLEAN_REPORT_WIFI_AND_ROUTERS">
+        <xlf:target state="translated">Wi-Fi &amp; Routers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="240" resname="IDS_DETAILS_CAT_OS">
+        <xlf:target state="translated">Operating System Security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="241" resname="IDS_DETAILS_CAT_APPLICATIONS">
+        <xlf:target state="translated">Browser Security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="242" resname="IDS_DETAILS_CAT_NETWORK">
+        <xlf:target state="translated">Network &amp; Credentials</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="243" resname="IDS_IOR_FIX_ISSUE">
+        <xlf:target state="translated">Fix issue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="244" resname="IDS_IOR_FIX_ASK_REBOOT_TITLE">
+        <xlf:target state="translated">Restart required</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="245" resname="IDS_IOR_FIX_ASK_REBOOT_TEXT">
+        <xlf:target state="translated">To finalize the remediation operation for this vulnerability, a device restart is required.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="246" resname="IDS_BTN_RESTART">
+        <xlf:target state="translated">Restart</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="247" resname="IDS_BTN_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="248" resname="IDS_RESTART_NOW">
+        <xlf:target state="translated">Restart Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="249" resname="IDS_WIN7SP2UPDATE_TITLE">
+        <xlf:target state="translated">Update for Windows 7, x64-based Systems (KB3125574)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="250" resname="IDS_WIN7SP2UPDATE_DESCR">
+        <xlf:target state="translated">Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="251" resname="IDS_APP_UNINSTALL">
+        <xlf:target state="translated">Uninstall app</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="252" resname="IDS_APP_VLN_UNINSTALL_RECOMMENDATION">
+        <xlf:target state="translated">If you do not use this app anymore, we recommend you to uninstall it.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

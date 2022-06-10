@@ -1,0 +1,1036 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdwtxcon" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="3" resname="IDS_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_MULTIPLELOGINS_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_CATEGORIES">
+        <xlf:target state="translated">Categories:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_NOEDITOR_TEXT">
+        <xlf:source>Click on &quot;+&quot; button to add a new item of selected category.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_SEARCH">
+        <xlf:target state="translated">Search</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_MYINFO">
+        <xlf:target state="translated">Identity</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_WEBSITES">
+        <xlf:target state="translated">Web pages</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_ONLINE_BANKING">
+        <xlf:target state="translated">Online banking</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_EMAILS">
+        <xlf:target state="translated">Emails</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_APPS">
+        <xlf:target state="translated">Applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_WIFI_NETWORKS">
+        <xlf:target state="translated">Wi-Fi Networks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_FIRST_NAME">
+        <xlf:target state="translated">First name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_LAST_NAME">
+        <xlf:target state="translated">Last name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_PRIMARY_EMAIL">
+        <xlf:target state="translated">Email address:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_PHONE">
+        <xlf:target state="translated">Home phone:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_CITY">
+        <xlf:target state="translated">City:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_STATE">
+        <xlf:target state="translated">State/Province:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_POSTAL_CODE">
+        <xlf:target state="translated">Postal code:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_ADDRESS">
+        <xlf:target state="translated">Address 1:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_PERSONAL_INFO">
+        <xlf:target state="translated">Personal information</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_INFO_TITLE">
+        <xlf:target state="translated">Title:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_INFO_MR">
+        <xlf:target state="translated">Mr.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_INFO_MRS">
+        <xlf:target state="translated">Mrs.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_INFO_MISS">
+        <xlf:target state="translated">Miss</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_INFO_MS">
+        <xlf:target state="translated">Ms</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_MIDDLE_NAME">
+        <xlf:target state="translated">Middle name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_INFO_UNAME">
+        <xlf:target state="translated">Username:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_INFO_GENDER">
+        <xlf:target state="translated">Gender:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_INFO_MALE">
+        <xlf:target state="translated">Male</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_INFO_FEMALE">
+        <xlf:target state="translated">Female</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_INFO_MONTH">
+        <xlf:target state="translated">Month:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_JANUARY">
+        <xlf:target state="translated">January</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_FEBRUARY">
+        <xlf:target state="translated">February</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_MARCH">
+        <xlf:target state="translated">March</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_APRIL">
+        <xlf:target state="translated">April</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_MAY">
+        <xlf:target state="translated">May</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_JUNE">
+        <xlf:target state="translated">June</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_JULY">
+        <xlf:target state="translated">July</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_AUGUST">
+        <xlf:target state="translated">August</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_SEPTEMBER">
+        <xlf:target state="translated">September</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_OCTOBER">
+        <xlf:target state="translated">October</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_NOVEMBER">
+        <xlf:target state="translated">November</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_DECEMBER">
+        <xlf:target state="translated">December</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_DAY">
+        <xlf:target state="translated">Day:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_YEAR">
+        <xlf:target state="translated">Year:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_COMPANY">
+        <xlf:target state="translated">Company:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_ADDRESS_INFO">
+        <xlf:target state="translated">Address information</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_ADDRESS2">
+        <xlf:target state="translated">Address 2:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_COUNTRY">
+        <xlf:target state="translated">Country:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_CONTACT_INFO">
+        <xlf:target state="translated">Contact Information</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_MOBILE">
+        <xlf:target state="translated">Mobile phone:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_WORK_PHONE">
+        <xlf:target state="translated">Work phone:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_ADD_TIPTITLE">
+        <xlf:target state="translated">Add item</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_ADD_TIPTEXT">
+        <xlf:target state="translated">Add a new item that you want to store securely.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_EDIT_TIPTITLE">
+        <xlf:target state="translated">Edit entry</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_EDIT_TIPTEXT">
+        <xlf:target state="translated">Change the details for the selected item.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_CATEGORIES_TIPTITLE">
+        <xlf:target state="translated">Wallet category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_CATEGORIES_TIPTEXT">
+        <xlf:target state="translated">Select the category for each item added to Wallet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_PASSWORD_TIPTITLE">
+        <xlf:target state="translated">Show password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_PASSWORD_TIPTEXT">
+        <xlf:target state="translated">Click button to show password.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_WEBSITES_URL">
+        <xlf:target state="translated">URL:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_WEBSITES_USERNAME">
+        <xlf:target state="translated">User Name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_WEBSITES_PASSWORD">
+        <xlf:target state="translated">Password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_BANKING_TYPE">
+        <xlf:target state="translated">Type:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_BANK_NAME">
+        <xlf:target state="translated">Bank Name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_CARD_BENEFICIARY">
+        <xlf:target state="translated">Name on card:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_CARD_NUMBER">
+        <xlf:target state="translated">Number:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_CARD_EXPIRATIONDATE">
+        <xlf:target state="translated">Expiration Date:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_CARD_CSC">
+        <xlf:target state="translated">Card security code:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_CARD_TYPE">
+        <xlf:target state="translated">Card type:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_CARD_VISA">
+        <xlf:target state="translated">VISA</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_CARD_MASTERCARD">
+        <xlf:target state="translated">MasterCard</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_CARD_AMERICAN_EXPRESS">
+        <xlf:target state="translated">American Express</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_CARD_DISCOVER">
+        <xlf:target state="translated">Discover</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_CARD_MAESTRO">
+        <xlf:target state="translated">Maestro</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_CARD_OTHER">
+        <xlf:target state="translated">Other</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_LINKED_MYINFO">
+        <xlf:target state="translated">Identity</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_EMPTY">
+        <xlf:target state="translated">Identity</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_BANK_SWIFTCODE">
+        <xlf:target state="translated">SWIFT code:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_BANK_IBANNUMBER">
+        <xlf:target state="translated">Bank account number(IBAN):</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_CARD_PIN">
+        <xlf:target state="translated">Card PIN:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_BANK_ADDRESS">
+        <xlf:target state="translated">Bank Address:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_BANK_PHONENUMBER">
+        <xlf:target state="translated">Bank phone number:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_BANK_URL">
+        <xlf:target state="translated">URL:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_BANK_USERNAME">
+        <xlf:target state="translated">User name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_BANK_PASSWORD">
+        <xlf:target state="translated">Password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_BANK_ROUTING_NUMBER">
+        <xlf:target state="translated">Routing Number:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_BANK_ACCOUNT_OWNER">
+        <xlf:target state="translated">Account Owner:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_EMAIL_CLIENT">
+        <xlf:target state="translated">Email Client:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_EMAIL_URL">
+        <xlf:target state="translated">Email URL:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_EMAIL_USERNAME">
+        <xlf:target state="translated">User name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_EMAIL_PASSWORD">
+        <xlf:target state="translated">Password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_EMAIL_INSERVER">
+        <xlf:target state="translated">Incoming server:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_EMAIL_INPORT">
+        <xlf:target state="translated">Incoming port:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_EMAIL_OUTSERVER">
+        <xlf:target state="translated">Outgoing server:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_EMAIL_OUTPORT">
+        <xlf:target state="translated">Outgoing port:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_APP_NAME">
+        <xlf:target state="translated">Application Name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_APP_ACTIVATIONCODE">
+        <xlf:target state="translated">License key/activation code:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_APP_VERSION">
+        <xlf:target state="translated">Version:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_APP_EXPIRATIONDATE">
+        <xlf:target state="translated">Expiration Date:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_APP_SUPPORTEMAIL">
+        <xlf:target state="translated">Support email:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_APP_REQUIRESLOGIN">
+        <xlf:target state="translated">Requires Login:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_APP_USERNAME">
+        <xlf:target state="translated">User name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_APP_PASSWORD">
+        <xlf:target state="translated">Password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_WIFI_NAME">
+        <xlf:target state="translated">Wi-Fi name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_WIFI_USERNAME">
+        <xlf:target state="translated">User name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_WIFI_PASSWORD">
+        <xlf:target state="translated">Password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_WIFI_CONNECTIONTYPE">
+        <xlf:target state="translated">Connection type:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_WIFI_CONNECTIONMODE">
+        <xlf:target state="translated">Authentication encryption:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_WIFI_AUTHENTICATIONLEVEL">
+        <xlf:target state="translated">Authentication method:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_NEW_ITEM_MYINFO">
+        <xlf:target state="translated">New Info</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_NEW_ITEM_WEBSITES">
+        <xlf:target state="translated">New Web Page</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_NEW_ITEM_ONLINEBANKING">
+        <xlf:target state="translated">New Bank</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_NEW_ITEM_EMAILS">
+        <xlf:target state="translated">New Email</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="IDS_NEW_ITEM_APPS">
+        <xlf:target state="translated">New Application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="IDS_NEW_ITEM_WIFI">
+        <xlf:target state="translated">New Wi-Fi Network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="IDS_SEARCH_DESCRIPTION">
+        <xlf:target state="translated">Search results</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="IDS_SEARCH_DETAILS0">
+        <xlf:target state="translated">No results were found in Wallet that match your search criteria.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="IDS_SEARCH_DETAILS1">
+        <xlf:target state="translated">One result was found in Wallet that match your search criteria.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="IDS_SEARCH_DETAILSN">
+        <xlf:target state="translated">%d results were found in Wallet that match your search criteria.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="IDS_REGISTER">
+        <xlf:target state="translated">License Info</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="IDS_FEEDBACK">
+        <xlf:target state="translated">Feedback</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="IDS_INTEGRATED_SUPPORT">
+        <xlf:target state="translated">Help Support</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="IDS_CARD">
+        <xlf:target state="translated">Credit Card</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="128" resname="IDS_BANK_ACCOUNT">
+        <xlf:target state="translated">Bank account</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="129" resname="IDS_DELETE">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="130" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="131" resname="IDS_SAVE">
+        <xlf:target state="translated">Save</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="132" resname="IDS_ADD_ITEM">
+        <xlf:target state="translated">+ Add item</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="133" resname="IDS_EDIT">
+        <xlf:target state="translated">Edit</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="134" resname="IDS_NEW_ITEM_ONLINEBANKING_CARD">
+        <xlf:target state="translated">New Card</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="135" resname="IDS_CONFIRM_DELETE">
+        <xlf:target state="translated">Are you sure you want to delete the item ?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="136" resname="IDS_CONFIRM_DEL_TITLE">
+        <xlf:target state="translated">Delete Confirmation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="137" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="138" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="139" resname="IDS_ABORT">
+        <xlf:target state="translated">Abort</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="140" resname="IDS_RETRY">
+        <xlf:target state="translated">Retry</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="141" resname="IDS_IGNORE">
+        <xlf:target state="translated">Ignore</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="142" resname="IDS_CONTINUE">
+        <xlf:target state="translated">Continue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="143" resname="IDS_POPUP_TEXT">
+        <xlf:target state="translated">Select a category to save the type of information you want in your Wallet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="144" resname="IDS_CANNOT_SAVE_EMPTY_ITEM">
+        <xlf:target state="translated">Please enter some information. An empty entry cannot be saved.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="145" resname="IDS_EMPTY_ITEM_TITLE">
+        <xlf:target state="translated">Empty entry</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="146" resname="IDS_E_EMAILADDRESS">
+        <xlf:target state="translated">The email address is not valid. Please recheck it for errors and retry.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="147" resname="IDS_E_EMAILADDRESS_CAP">
+        <xlf:target state="translated">Invalid email address</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="148" resname="IDS_E_DUPLICATEWEBSITE">
+        <xlf:target state="translated">There is already an entry with the same URL and user name.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="149" resname="IDS_E_DUPLICATE_CAP">
+        <xlf:target state="translated">Duplicate entry</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="150" resname="IDS_E_DUPLICATEMYINFO">
+        <xlf:target state="translated">There is already an entry with the same name.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="151" resname="IDS_E_DUPLICATEBANK">
+        <xlf:target state="translated">There is already an entry with the same bank account.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="152" resname="IDS_E_DUPLICATECARD">
+        <xlf:target state="translated">There is already an entry with the same card number.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="153" resname="IDS_E_DUPLICATEAPP">
+        <xlf:target state="translated">There is already an entry with the same application and user name.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="154" resname="IDS_E_DUPLICATEEMAIL">
+        <xlf:target state="translated">There is already an entry with the same client and email.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="155" resname="IDS_E_DUPLICATEWIFI">
+        <xlf:target state="translated">There is already an entry with the same Wi-Fi name and password.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="156" resname="IDS_CLOSE_OR_CONTINUE">
+        <xlf:target state="translated">Press Yes to close and dismiss current item, or No to continue editing.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="157" resname="IDS_MYINFO_DESC">
+        <xlf:target state="translated">Deposit your personal information</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="158" resname="IDS_WEBSITES_DESC">
+        <xlf:target state="translated">Login faster to your online accounts</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="159" resname="IDS_ONLINEBANKING_DESC">
+        <xlf:target state="translated">Make online purchases faster and safer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="160" resname="IDS_EMAILS_DESC">
+        <xlf:target state="translated">Keep email settings within reach</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="161" resname="IDS_APPSUBSCRIPTIONS_DESC">
+        <xlf:target state="translated">Keep track of your games or tools subscriptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="162" resname="IDS_WIFINETWORKS_DESC">
+        <xlf:target state="translated">Retrieve Wi-Fi passwords when you forget them</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="163" resname="IDS_MYINFO_DESC_BIG">
+        <xlf:target state="translated">Be careful how you handle sensitive personal information - secure it with the Password Manager.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="164" resname="IDS_WEBSITES_DESC_BIG">
+        <xlf:target state="translated">Store your usernames, passwords and other account details. Password Manager will automatically fill them in when needed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="165" resname="IDS_ONLINEBANKING_DESC_BIG">
+        <xlf:target state="translated">Add your credit card number, card security code and expiration date. Password Manager will automatically fill them in for each purchase.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="166" resname="IDS_EMAILS_DESC_BIG">
+        <xlf:target state="translated">Store your server names, ports, and email credentials in one place.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="167" resname="IDS_APPSUBSCRIPTIONS_DESC_BIG">
+        <xlf:target state="translated">Store license keys, as well as logins, for purchased software. Password Manager will automatically fill them when needed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="168" resname="IDS_WIFINETWORKS_DESC_BIG">
+        <xlf:target state="translated">Store passwords for known wireless networks here.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="169" resname="IDS_MODIFY_CREDENTIALS">
+        <xlf:target state="translated">Do you want to modify the credentials for:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="170" resname="IDS_QUESTION_MARK">
+        <xlf:target state="translated">?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="171" resname="IDS_WEBSITES_TITLE">
+        <xlf:target state="translated">Title:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="172" resname="IDS_SET_UP_IDENTITY">
+        <xlf:target state="translated">Set up Identity</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="173" resname="IDS_SET_UP_WEBSITE">
+        <xlf:target state="translated">Set up Website</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="174" resname="IDS_SET_UP_BANKING">
+        <xlf:target state="translated">Set up Banking</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="175" resname="IDS_SET_UP_EMAIL">
+        <xlf:target state="translated">Set up Email</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="176" resname="IDS_SET_UP_APP">
+        <xlf:target state="translated">Set up App Subscription</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="177" resname="IDS_SET_UP_WIFI">
+        <xlf:target state="translated">Set up Wi-Fi</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="178" resname="IDS_IMPORT_PASSWORD">
+        <xlf:target state="translated">Password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="179" resname="IDS_DB_FILTER">
+        <xlf:target state="translated">Wallet Databases (*.db)|*.db|All files (*.*)|*.*|</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="180" resname="IDS_CONFIRM_IMPORT">
+        <xlf:target state="translated">Import</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="181" resname="IDS_CONFIRM_CREATE_DB">
+        <xlf:target state="translated">Continue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="182" resname="IDS_START_FRESH">
+        <xlf:target state="translated">Start Fresh</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="183" resname="IDS_START_FRESH_DESCRIPTION">
+        <xlf:target state="translated">Create a new Wallet database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="184" resname="IDS_IMPORT">
+        <xlf:target state="translated">Import</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="185" resname="IDS_IMPORT_DESCRIPTION">
+        <xlf:target state="translated">Import an existing database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="186" resname="IDS_FROM_TARGET">
+        <xlf:target state="translated">From target</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="187" resname="IDS_IMPORT_DETECTED">
+        <xlf:target state="translated">A database was detected on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="188" resname="IDS_IMPORT_DETECTED_DESCRIPTION">
+        <xlf:target state="translated">Use the detected database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="189" resname="IDS_WARNING_IMPORT">
+        <xlf:target state="translated">The password inserted is not correct or the file format is wrong. Please try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="190" resname="IDS_FAILURE_NEW_BD">
+        <xlf:target state="translated">The Wallet database could not be generated. We recommend you relaunch the wizard. If the problem persists, contact one of our support engineers to help you fix your issue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="191" resname="IDS_NEW_DB_TITLE">
+        <xlf:target state="translated">Wallet details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="192" resname="IDS_NEW_DB_DESCRIPTION">
+        <xlf:target state="translated">Set a strong password to ensure that no one using your device will be able to access this information. As your data is private, we do not store the password. Please ensure that the master password is safely kept.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="193" resname="IDS_BACK">
+        <xlf:target state="translated">Back</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="194" resname="IDS_IMPORT_TITLE">
+        <xlf:target state="translated">Wallet details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="195" resname="IDS_IMPORT_PASSWORD_DESCRIPTION">
+        <xlf:target state="translated">Validate Master Password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="196" resname="IDS_CHANGE_PASS_TITLE">
+        <xlf:target state="translated">Change Wallet Master Password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="197" resname="IDS_CHANGE_PASS_LABEL_DESCRIPTION">
+        <xlf:target state="translated">We recommend you to set a new name for your Wallet database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="198" resname="IDS_CHANGE_PASS_WALLET_LABEL">
+        <xlf:target state="translated">New Wallet label</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="199" resname="IDS_CHANGE_PASS_DESCRIPTION">
+        <xlf:target state="translated">This way, no one using your device can make payments or log in to apps or web pages in your place.&#10;Not even we store it. So don’t forget it or you will lose access to your credentials list!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="200" resname="IDS_CHANGE_PASS_NEW_MASTER">
+        <xlf:target state="translated">Master password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="201" resname="IDS_CHANGE_PASS_NEW_MASTER_RETYPE">
+        <xlf:target state="translated">Retype password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="202" resname="IDS_CHANGE_PASS_NEW_HINT">
+        <xlf:target state="translated">Hint</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="203" resname="IDS_CHANGE_PASS_CONFIRM">
+        <xlf:target state="translated">Continue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="204" resname="IDS_FAILURE_CHANGE_PASS">
+        <xlf:target state="translated">Something unexpected occurred during Master Password change. Please try again. If the problem persists we recommend you to contact support.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="205" resname="IDS_WARNING_CHANGE_PASS">
+        <xlf:target state="translated">Wrong password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="206" resname="IDS_UNCHANGED_PASSWORD">
+        <xlf:target state="translated">The new Master Password can&apos;t be the same as your old one.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="207" resname="IDS_RESTART">
+        <xlf:target state="translated">Try Again</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="208" resname="IDS_E_PASSWORD_IN_HINT">
+        <xlf:target state="translated">The password hint should not be the same as the password or include it.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="209" resname="IDS_HINT_VIEW">
+        <xlf:target state="translated">Hint: %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="210" resname="IDS_CLOSE">
+        <xlf:target state="translated">Finish</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="211" resname="IDS_PASSWORD_STRENGTH">
+        <xlf:target state="translated">Password Strength</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="212" resname="IDS_TOOSHORT_PASSWORD">
+        <xlf:target state="translated">The password is too short</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="213" resname="IDS_VERYSTRONG_PASSWORD">
+        <xlf:target state="translated">Very strong password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="214" resname="IDS_WEAK_PASSWORD">
+        <xlf:target state="translated">Weak password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="215" resname="IDS_GOOD_PASSWORD">
+        <xlf:target state="translated">Strong password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="216" resname="IDS_MISMATCH_PASSWORD">
+        <xlf:target state="translated">You have mismatching passwords.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="217" resname="IDS_COMPLETE_NEW_BD">
+        <xlf:target state="translated">Database creation completed succesfully. You can now close the wizard, and use your new Wallet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="218" resname="IDS_FAILURE_IMPORT">
+        <xlf:target state="translated">The Wallet database could not be generated. We recommend you relaunch the wizard. If the problem persists, contact one of our support engineers to help you fix your issue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="219" resname="IDS_FINISHED_ERROR_TITLE">
+        <xlf:target state="translated">The database could not be generated. Run the wizard again to complete the process. If the problem persists, please contact support to get help with this issue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="220" resname="IDS_TOO_LONG_PASSWORD">
+        <xlf:target state="translated">Your password can&apos;t be longer than 31 characters.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="221" resname="IDS_SETTINGS_TITLE">
+        <xlf:target state="translated">Finish setting up your Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="222" resname="IDS_SETTINGS_PAGE_DESCRIPTION">
+        <xlf:target state="translated">After this step you will be able to start filling in your most important information.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="223" resname="IDS_MASTER_PASSWORD">
+        <xlf:target state="translated">Master Password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="224" resname="IDS_RETYPE_PASSWORD">
+        <xlf:target state="translated">Retype password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="225" resname="IDS_PASSWORD_TIP2">
+        <xlf:target state="translated">Use at least: one number or symbol, and one upper case character</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="226" resname="IDS_HINT">
+        <xlf:target state="translated">Hint</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="227" resname="IDS_BROWSER_IMPORT_DESCRIPTION">
+        <xlf:target state="translated">Select the programs from which Wallet should automatically import credentials.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="228" resname="IDS_ENABLE_REMINDER">
+        <xlf:target state="translated">To access data from your &lt;#ProductName#&gt; Wallet, insert the master password when requested.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="229" resname="IDS_DLG_WIPE_CAPTION">
+        <xlf:target state="translated">Wipe Wallet database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="230" resname="IDS_DLG_WIPE_MSG">
+        <xlf:target state="translated">WARNING! The information currently stored in Wallet will be permanently deleted and can&apos;t be recovered later. Do you want to continue?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="231" resname="IDS_DLG_NODB_INUSE">
+        <xlf:target state="translated">No Wallet database in use or Wallet is not configured. Do you want to configure it now?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="232" resname="IDS_DLG_WRONG_PSSWD">
+        <xlf:target state="translated">Wrong Password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="233" resname="IDS_DLG_OPEN_CAPTION">
+        <xlf:target state="translated">Open Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="234" resname="IDS_DLG_WIZARD_CAPTION">
+        <xlf:target state="translated">Open Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="235" resname="IDS_BIRTHDATE_TITLE">
+        <xlf:target state="translated">Date of Birth:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="236" resname="IDS_NONE">
+        <xlf:target state="translated">None</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="237" resname="IDS_CHECK_IE">
+        <xlf:target state="translated">Internet Explorer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="238" resname="IDS_CHECK_FF">
+        <xlf:target state="translated">Mozilla Firefox</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="239" resname="IDS_CHECK_CHROME">
+        <xlf:target state="translated">Google Chrome</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="240" resname="IDS_WALLET_LABEL">
+        <xlf:target state="translated">Wallet label</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="241" resname="IDS_NEW_LABEL_DESCRIPTION">
+        <xlf:target state="translated">Set a unique name for your Wallet database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="242" resname="IDS_IMPORT_LABEL_DESCRIPTION">
+        <xlf:target state="translated">Set a unique name for your Wallet database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="243" resname="IDS_SYNC_CREATE_DB">
+        <xlf:target state="translated">Continue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="244" resname="IDS_SYNC_REMINDER">
+        <xlf:target state="translated">Remind me every time I create a new Wallet database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="245" resname="IDS_SYNC_ENABLED_IMPORT">
+        <xlf:target state="translated">Securely sync your Wallet across devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="246" resname="IDS_CLOUD_SYNC_TITLE">
+        <xlf:target state="translated">Sync across devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="247" resname="IDS_CLOUD_SYNC_OPTION_ON">
+        <xlf:target state="translated">Sync across all my devices is ON</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="248" resname="IDS_CLOUD_SYNC_OPTION_OFF">
+        <xlf:target state="translated">Sync across all my devices is OFF</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="249" resname="IDS_CLOUD_SYNC_AFFIRMATIVE">
+        <xlf:target state="translated">Yes, I would like sync across all my devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="250" resname="IDS_CLOUD_SYNC_NEGATIVE">
+        <xlf:target state="translated">No, thank you</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="251" resname="IDS_CLOUD_SYNC_EXPLAINED">
+        <xlf:target state="translated">Synchronizing your Wallets allows you to use them from all your devices.&lt;br /&gt;Your personal information is kept securely encrypted in our cloud.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="252" resname="IDS_WALLET_DETAILS_BANKING">
+        <xlf:target state="translated">Banking information won&apos;t be synced across devices. Your credit card data will only be stored locally on this device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="253" resname="IDS_WALLET_CLOUD_SYNC_BANKING">
+        <xlf:target state="translated">Your personal information will be synced across devices. Banking information will be kept locally.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="254" resname="IDS_E_LABEL_EMPTY">
+        <xlf:target state="translated">Please provide a name for your Wallet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="255" resname="IDS_E_LABEL_DUPLICATE">
+        <xlf:target state="translated">Name already used. Please select a new one.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="256" resname="IDS_E_PASSWORD_IN_LABEL">
+        <xlf:target state="translated">Your Wallet name should not contain your password.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="257" resname="IDS_E_LABEL_WHITESPACE">
+        <xlf:target state="translated">Wallet name shouldn&apos;t contain only space characters.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="258" resname="IDS_START_CLEAN">
+        <xlf:target state="translated">Create new</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="259" resname="IDS_SYNC_IN_PROGRESS">
+        <xlf:target state="translated">Synchronization in progress ...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="260" resname="IDS_SYNC_WAIT_OPERATION">
+        <xlf:target state="translated">Please wait while we&apos;re decrypting your data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="261" resname="IDS_DLG_IMPORT_CSV_UNKNOWN_FORMAT">
+        <xlf:target state="translated">Importing credentials failed due to unsupported file format.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="262" resname="IDS_DLG_IMPORT_CSV_FAILED_GENERIC">
+        <xlf:target state="translated">An error occurred while importing credentials.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="263" resname="IDS_DLG_IMPORT_CSV_NO_ENTRIES">
+        <xlf:target state="translated">Could not find any credentials to import.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="264" resname="IDS_WIZ_STEP_1_OF_3">
+        <xlf:target state="translated">Step 1 of 3</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="265" resname="IDS_WIZ_STEP_2_OF_3">
+        <xlf:target state="translated">Step 2 of 3</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="266" resname="IDS_WIZ_STEP_3_OF_3">
+        <xlf:target state="translated">Step 3 of 3</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="267" resname="IDS_MIGRATE_BROWSE_CAPTION">
+        <xlf:target state="translated">Migrate Wallet database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="268" resname="IDS_MIGRATE_BROWSE_FILTER">
+        <xlf:target state="translated">Comma-separated values file(*.csv)|*.csv|</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="269" resname="IDS_DLG_MIGRATE_MSG">
+        <xlf:target state="translated">Exporting to CSV file exposes your credentials. We recommend deleting the exported file as soon as it is imported in the browser extension. </xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="270" resname="IDS_DLG_MIGRATE_CAPTION">
+        <xlf:target state="translated">Migrate Wallet database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="271" resname="IDS_MIGRATE_CAPTION">
+        <xlf:target state="translated">Migrate Wallet database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="272" resname="IDS_MIGRATE_FILE_EXISTS_FMT">
+        <xlf:target state="translated">%s already exists. Do you want to replace it?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="273" resname="IDS_MIGRATE_FAILED">
+        <xlf:target state="translated">Failed to export to CSV file.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="274" resname="IDS_MIGRATE_WILL_NOT_EXPORT_FMT">
+        <xlf:target state="translated">&quot;%s&quot; won&apos;t be exported</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="275" resname="IDS_MIGRATE_SURE_EXCLUDE_EXPORT">
+        <xlf:target state="translated">Are you sure you want to exclude it from your export?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="276" resname="IDS_MIGRATE_SELECTED">
+        <xlf:target state="translated">Select</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="277" resname="IDS_MIGRATE_DISCARDED">
+        <xlf:target state="translated">Remove</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="278" resname="IDS_MIGRATE_WALLET_SYNC_NEVER">
+        <xlf:target state="translated">last sync: never synced</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="279" resname="IDS_MIGRATE_WALLET_SYNC_SECONDS">
+        <xlf:target state="translated">last sync: now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="280" resname="IDS_MIGRATE_WALLET_SYNC_MINUTE">
+        <xlf:target state="translated">last sync: 1 minute ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="281" resname="IDS_MIGRATE_WALLET_SYNC_MINUTES">
+        <xlf:target state="translated">last sync: %d minutes ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="282" resname="IDS_MIGRATE_WALLET_SYNC_HOUR">
+        <xlf:target state="translated">last sync: 1 hour ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="283" resname="IDS_MIGRATE_WALLET_SYNC_HOURS">
+        <xlf:target state="translated">last sync: %d hours ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="284" resname="IDS_MIGRATE_WALLET_SYNC_DAY">
+        <xlf:target state="translated">last sync: 1 day ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="285" resname="IDS_MIGRATE_WALLET_SYNC_DAYS">
+        <xlf:target state="translated">last sync: %d days ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="286" resname="IDS_MIGRATE_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet Export</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="287" resname="IDS_MIGRATE_WELCOME">
+        <xlf:target state="translated">Welcome to &lt;#ProductName#&gt; Password Export</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="288" resname="IDS_MIGRATE_WELCOME_EXPORT">
+        <xlf:target state="translated">Export all your data from Wallet to Password Manager.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="289" resname="IDS_MIGRATE_WELCOME_START">
+        <xlf:target state="translated">Start now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="290" resname="IDS_MIGRATE_STEP_1_OF_3">
+        <xlf:target state="translated">Step 1 of 3</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="291" resname="IDS_MIGRATE_STEP_2_OF_3">
+        <xlf:target state="translated">Step 2 of 3</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="292" resname="IDS_MIGRATE_STEP_3_OF_3">
+        <xlf:target state="translated">Step 3 of 3</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="293" resname="IDS_MIGRATE_EXPORT_WALLETS">
+        <xlf:target state="translated">Export your wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="294" resname="IDS_MIGRATE_SYNC_LIST">
+        <xlf:target state="translated">Syncing wallets list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="295" resname="IDS_MIGRATE_SYNC_WAIT">
+        <xlf:target state="translated">This might take a few moments. Please wait.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="296" resname="IDS_MIGRATE_CHOOSE_WALLETS">
+        <xlf:target state="translated">Select the wallets you&apos;d like to export data from. This export will include all available information.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="297" resname="IDS_MIGRATE_YOUR_WALLETS">
+        <xlf:target state="translated">Your wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="298" resname="IDS_MIGRATE_WALLETS_SINGLE_WARNING">
+        <xlf:target state="translated">The data will be merged into one single file. Import this file in Password Manager and you&apos;ll have all your information in one single account.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="299" resname="IDS_MIGRATE_BUILDING_DATABASE">
+        <xlf:target state="translated">Building your database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="300" resname="IDS_MIGRATE_AUTHORIZE_FORMAT">
+        <xlf:target state="translated">Authorizing %d of %d wallets...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="301" resname="IDS_MIGRATE_SYNC_DATA">
+        <xlf:target state="translated">Syncing data from the cloud...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="302" resname="IDS_MIGRATE_DATABASE_READY">
+        <xlf:target state="translated">Your database is ready</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="303" resname="IDS_MIGRATE_READY_WALLETS_LABEL">
+        <xlf:target state="translated">Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="304" resname="IDS_MIGRATE_READY_WALLETS_FORMAT_2">
+        <xlf:target state="translated">%s, %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="305" resname="IDS_MIGRATE_READY_WALLETS_FORMAT_3">
+        <xlf:target state="translated">%s, %s, %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="306" resname="IDS_MIGRATE_READY_WALLETS_FORMAT_MORE">
+        <xlf:target state="translated">%s, %s, %s, +%d</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="307" resname="IDS_MIGRATE_READY_RESOLVED_LABEL">
+        <xlf:target state="translated">Resolved conflicts</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="308" resname="IDS_MIGRATE_READY_EXPORTED_LABEL">
+        <xlf:target state="translated">Total exported entries</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="309" resname="IDS_MIGRATE_SUCCESS_HOW_TO">
+        <xlf:target state="translated">How to import your data to Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="310" resname="IDS_MIGRATE_SUCCESS_STEPS">
+        <xlf:target state="translated">Follow these simple steps:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="311" resname="IDS_MIGRATE_SUCCESS_OPEN_EXT">
+        <xlf:target state="translated">Open Password Manager extension and log in to your account.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="312" resname="IDS_MIGRATE_SUCCESS_SETTINGS">
+        <xlf:target state="translated">Select &lt;b&gt;Menu&lt;/b&gt; &lt;img src=&quot;../img/icons/menu.svg&quot; class=&quot;hamburger&quot;&gt; &gt; &lt;b&gt;Settings&lt;/b&gt; and scroll to &lt;b&gt;Import data&lt;/b&gt;.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="313" resname="IDS_MIGRATE_SUCCESS_CHOOSE">
+        <xlf:target state="translated">Select &lt;b&gt;Import data&lt;/b&gt;, and choose &quot;&lt;#ProductName#&gt; Wallet&quot; file type.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="314" resname="IDS_MIGRATE_SUCCESS_UPLOAD">
+        <xlf:target state="translated">Enter your Master Password, and upload the file you exported from Wallet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="315" resname="IDS_MIGRATE_SUCCESS_HELP">
+        <xlf:target state="translated">Need help importing your data?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="316" resname="IDS_MIGRATE_SUCCESS_GUIDE">
+        <xlf:target state="translated">Check our detailed guide</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="317" resname="IDS_MIGRATE_SUCCESS_WARNING">
+        <xlf:target state="translated">Important</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="318" resname="IDS_MIGRATE_SUCCESS_WARNING_MSG">
+        <xlf:target state="translated">The exported file is not encrypted, and anyone can access it to read your data. Make sure you keep it safe and delete it after importing it in the new Password Manager.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="319" resname="IDS_MIGRATE_NEED_PASSWORD">
+        <xlf:target state="translated">You need your password to access your wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="320" resname="IDS_MIGRATE_NEED_PASSWORD_CONTINUE">
+        <xlf:target state="translated">If you still want to export your data, click Continue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="321" resname="IDS_MIGRATE_EXPORT_EMPTY">
+        <xlf:target state="translated">Your wallets are empty</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="322" resname="IDS_MIGRATE_EXPORT_EMPTY_MSG">
+        <xlf:target state="translated">There’s no data to export. Check &lt;#ProductName#&gt; Wallet for more details.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="323" resname="IDS_MIGRATE_ERROR_NO_INTERNET">
+        <xlf:target state="translated">No internet connection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="324" resname="IDS_MIGRATE_ERROR_NO_INTERNET_MSG">
+        <xlf:target state="translated">Check your connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="325" resname="IDS_MIGRATE_NEXT">
+        <xlf:target state="translated">Next</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="326" resname="IDS_MIGRATE_SAVE">
+        <xlf:target state="translated">Save your data</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="327" resname="IDS_MIGRATE_GOT_IT">
+        <xlf:target state="translated">Got it</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="328" resname="IDS_MIGRATE_EXIT">
+        <xlf:target state="translated">Exit</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="329" resname="IDS_MIGRATE_CONTINUE">
+        <xlf:target state="translated">Continue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="330" resname="IDS_MIGRATE_CONFLICTS_TITLE">
+        <xlf:target state="translated">Export conflict</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="331" resname="IDS_MIGRATE_CONFLICTS_FORMAT">
+        <xlf:target state="translated">Conflict %d of %d</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="332" resname="IDS_MIGRATE_CONFLICTS_MSG">
+        <xlf:target state="translated">One or more entries refer to the same type of information. Select the entry you want to continue with. *Duplicate entries will be moved in Password Manager Notes.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="333" resname="IDS_MIGRATE_CONFLICT_WALLET">
+        <xlf:target state="translated">Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="334" resname="IDS_MIGRATE_CONFLICT_URL">
+        <xlf:target state="translated">URL</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="335" resname="IDS_MIGRATE_CONFLICT_WEBSITE_INFO">
+        <xlf:target state="translated">Keep only one password to avoid failed log in attempts or account restrictions.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="336" resname="IDS_MIGRATE_CONFLICT_USERNAME">
+        <xlf:target state="translated">Username</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="337" resname="IDS_MIGRATE_CONFLICT_PASSWORD">
+        <xlf:target state="translated">Password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="338" resname="IDS_MIGRATE_CONFLICT_CREDIT_CARD">
+        <xlf:target state="translated">Credit card</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="339" resname="IDS_MIGRATE_CONFLICT_CARD_INFO">
+        <xlf:target state="translated">Keep only one Credit Card to avoid payment issues.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="340" resname="IDS_MIGRATE_CONFLICT_EXP_DATE">
+        <xlf:target state="translated">Expiration date</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="341" resname="IDS_MIGRATE_CONFLICT_CARD_PIN">
+        <xlf:target state="translated">Card PIN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="342" resname="IDS_MIGRATE_CONFLICT_CARD_CSC">
+        <xlf:target state="translated">Card security code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="343" resname="IDS_MIGRATE_CONFLICT_SAVE">
+        <xlf:target state="translated">Save</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="344" resname="IDS_MIGRATE_SUCCESS_ENCRYPT">
+        <xlf:target state="translated">Click &lt;b&gt;Continue&lt;/b&gt; to import and encrypt your data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="345" resname="IDS_MIGRATE_SUCCESS_OPEN_PWD_MAN">
+        <xlf:target state="translated">Open Password Manager</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

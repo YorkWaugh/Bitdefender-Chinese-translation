@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdhtmldialogs_sc" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_POSTPONE_5_MINUTES">
+        <xlf:target state="translated">5 minutes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_POSTPONE_15_MINUTES">
+        <xlf:target state="translated">15 minutes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_POSTPONE_30_MINUTES">
+        <xlf:target state="translated">30 minutes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_POSTPONE_1_HOUR">
+        <xlf:target state="translated">1 hour</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_POSTPONE_PERMANENTLY">
+        <xlf:target state="translated">Permanently</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_POSTPONE_UNTIL_START">
+        <xlf:target state="translated">Until system restart</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_NC_TITLE">
+        <xlf:target state="translated">New Network Connection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_NC_SUBTITLE">
+        <xlf:target state="translated">Choose the connection type for the</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_NC_HOME">
+        <xlf:target state="translated">is a trusted network (e.g. home, office)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_NC_NET_DETAILS">
+        <xlf:target state="translated">Firewall Network Details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_NC_PUBLIC">
+        <xlf:target state="translated">is a public network (e.g. cafe, university, airport)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_NC_REMEMBER">
+        <xlf:target state="translated">Remember this option for this network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_NC_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_TRUST_BLOCK">
+        <xlf:target state="translated">Untrusted (Block all)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_TEXT_ANY_ADAPTER">
+        <xlf:target state="translated">Any Network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_ND_NO_CONN">
+        <xlf:target state="translated">No adapters are connected at this time.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_SET_STEALTH">
+        <xlf:target state="translated">Stealth Mode</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_SET_ADDRESSES">
+        <xlf:target state="translated">Addresses</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_SET_GATEWAYS">
+        <xlf:target state="translated">Gateways</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_SET_GENERIC">
+        <xlf:target state="translated">Generic</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_SET_TRUST">
+        <xlf:target state="translated">Network Type</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_MITM_INSTALL">
+        <xlf:target state="translated">To ensure full protection, &lt;#ProductName#&gt; needs to close applications, such as Firefox, Thunderbird and Opera. Please click OK to continue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_MITM_UNINSTALL">
+        <xlf:target state="translated">You must close applications, such as Firefox, Thunderbird and Opera in order to uninstall the &lt;#ProductName#&gt; Root Certificate. Click OK to automatically close them and uninstall the certificate.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_MITM_INSTALL_TITLE">
+        <xlf:target state="translated">Securing your browsing</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_MITM_UNINSTALL_TITLE">
+        <xlf:target state="translated">Uninstall &lt;#ProductName#&gt; Root Certificate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_PASSWORD_ERROR_TITLE">
+        <xlf:target state="translated">Incorrect password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_ENTER_PASSWORD">
+        <xlf:target state="translated">Enter password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_RETYPE_PASWORD">
+        <xlf:target state="translated">Retype password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_PASSWORD_RESTRICTION">
+        <xlf:target state="translated">The password must be 8 to 31 characters long.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_ENTER_PASSWORD_MSG">
+        <xlf:target state="translated">Please enter the password that will restrict access to &lt;#ProductName#&gt; settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_REMEMBERPASS">
+        <xlf:target state="translated">Don&apos;t show this message again during this session</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_PASSWORD_REQUIRED">
+        <xlf:target state="translated">A password is required in order to finish this operation.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_GEN_SET_WND_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_PASS_INCORRECT">
+        <xlf:target state="translated">The password you entered is incorrect</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_PASSWORD_PROTECTION_TITLE">
+        <xlf:target state="translated">Password protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_ND_TRUST_LOCAL">
+        <xlf:target state="translated">Trust local:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_ND_STEALTH_MODE">
+        <xlf:target state="translated">Stealth Mode:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_ND_GENERIC">
+        <xlf:target state="translated">Generic Profile:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_ND_ADDRESSES">
+        <xlf:target state="translated">Addresses</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_ND_GATEWAYS">
+        <xlf:target state="translated">Gateways</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_ACTION_ALLOW">
+        <xlf:target state="translated">Allow</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_ACTION_DENY">
+        <xlf:target state="translated">Deny</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_ACTION_REPORT">
+        <xlf:target state="translated">Report</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_ND_BTN_CANCEL">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_TEXT_ON">
+        <xlf:target state="translated">On</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_TEXT_OFF">
+        <xlf:target state="translated">Off</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_STEALTH_REMOTE">
+        <xlf:target state="translated">Remote</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_TRUST_ALLOW">
+        <xlf:target state="translated">Trusted (Allow All)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_TRUST_ALLOW_LOCAL">
+        <xlf:target state="translated">Home/Office</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_TRUST_UNSAFE">
+        <xlf:target state="translated">Public</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_PASSWORD_ERROR_SIZE">
+        <xlf:target state="translated">Your password must be 8 to 31 characters long.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_PASSWORD_ERROR_DIFFERENT">
+        <xlf:target state="translated">The passwords do not match.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_PASSWORD_ERROR_GENERIC">
+        <xlf:target state="translated">There was an error while applying the password you set. Please enter another password.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

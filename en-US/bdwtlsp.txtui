@@ -1,0 +1,631 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdwtlsp" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_PWDMAN_TAB">
+        <xlf:target state="translated">Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_PWDMAN_TITLE">
+        <xlf:target state="translated">Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_PWDMAN_TASK">
+        <xlf:target state="translated">Manage Information</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_PWDMAN_TASK_TTP">
+        <xlf:target state="translated">Manage Information.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_PWDMAN_CONFIGURE">
+        <xlf:target state="translated">Configure</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_PWDMAN_CONFIGURE_TTP">
+        <xlf:target state="translated">Configure the password database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_PWDMAN_TASK_MENU_TITLE">
+        <xlf:target state="translated">Manage</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_PWDMAN_TASK_MENU_TTP">
+        <xlf:target state="translated">Manage Information.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_PWDMAN_TASK_OPEN_TITLE">
+        <xlf:target state="translated">Open Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_PWDMAN_TASK_OPEN_TTP">
+        <xlf:target state="translated">Open Wallet to view or modify your information</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_PWDMAN_TASK_LOCK_TITLE">
+        <xlf:target state="translated">Lock Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_PWDMAN_TASK_LOCK_TTP">
+        <xlf:target state="translated">Lock Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_PWDMAN_TASK_EXPORT_TITLE">
+        <xlf:target state="translated">Export Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_PWDMAN_TASK_EXPORT_TTP">
+        <xlf:target state="translated">Export your Wallet to use it on other devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_PWDMAN_TASK_WIPE_TITLE">
+        <xlf:target state="translated">Create new Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_PWDMAN_TASK_WIPE_TTP">
+        <xlf:target state="translated">Create new wallet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_PWDMAN_TOOLTIP">
+        <xlf:target state="translated">Secures your passwords, credit card information, and other sensitive data into your personal Wallet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_PWDMAN_TAB_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_PWDMAN_AUTOFILL_SETTINGS">
+        <xlf:target state="translated">Autofill Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_PWDMAN_PANELUITEXT">
+        <xlf:target state="translated">Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_ASKPWD_TITLE">
+        <xlf:target state="translated">To protect your private information choose one of the options below:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_ASKPWD_LOGIN_RADIO">
+        <xlf:target state="translated">Ask for my master password when I login on my device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_LOCK_IDLE_CHECK">
+        <xlf:target state="translated">Automatically lock Wallet when I leave my device unattended</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_ASKPWD_BROWSER_RADIO">
+        <xlf:target state="translated">Ask for my master password when I open my browsers and apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_ASKPWD_MANUAL_RADIO">
+        <xlf:target state="translated">Do not ask me for my master password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_DATABASE_LABEL">
+        <xlf:target state="translated">Imported Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_DATABASE_DELETE_BTN">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_DATABASE_IMPORT_BTN">
+        <xlf:target state="translated">Import</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_BROWSERS_AND_APPS_LABEL">
+        <xlf:target state="translated">Browsers and apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_IEXPLORE_LABEL">
+        <xlf:target state="translated">Internet Explorer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_PWDMAN_PLUGINS_TITLE">
+        <xlf:target state="translated">You can use Wallet with the following apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_FIREFOX_LABEL">
+        <xlf:target state="translated">Mozilla Firefox</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_CHROME_LABEL">
+        <xlf:target state="translated">Google Chrome</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_SAFARI_LABEL">
+        <xlf:target state="translated">Safari</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_INSTALL_EXTENSION">
+        <xlf:target state="translated">Install &lt;#ProductName#&gt; Wallet extension on this browser</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_ENABLE_EXTENSION">
+        <xlf:target state="translated">Enable &lt;#ProductName#&gt; Wallet extension on this browser</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_DELETE_BROWSERS_PWDS_LABEL">
+        <xlf:target state="translated">Delete passwords stored in browsers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_DELETE_BROWSERS_PWDS_BTN">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_AFTER_RESTART_MESSAGE">
+        <xlf:target state="translated">The modification will take effect after a computer restart.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_AFTER_RESTART_TITLE">
+        <xlf:target state="translated">Master password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_ON">
+        <xlf:target state="translated">On</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_OFF">
+        <xlf:target state="translated">Off</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_NOT_ENABLE">
+        <xlf:target state="translated">Not enabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_APPS_TIPTITLE">
+        <xlf:target state="translated">Wallet settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_APPS_TIPTEXT">
+        <xlf:target state="translated">Choose the browsers and applications that will use Wallet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_IDLE_TIPTITLE">
+        <xlf:target state="translated">Idle detection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_IDLE_TIPTEXT">
+        <xlf:target state="translated">Lock your Wallet whenever you leave your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_PWDMAN_MASTER_PASSWORD">
+        <xlf:target state="translated">Security Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_AUTOFILL_CHECK_LABEL">
+        <xlf:target state="translated">Autofill login credentials</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_AUTOFILL_SAVE_TITLE">
+        <xlf:target state="translated">Configure how Password Manager secures your credentials</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_AUTOFILL_NOASK_RADIO">
+        <xlf:target state="translated">Autofill login credentials every time</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_AUTOFILL_ASKBEFORE_RADIO">
+        <xlf:target state="translated">Ask for my master password before filling (this option is recommended when you&apos;re sharing your device with other users)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_AUTOFILL_CHOOSE_RADIO">
+        <xlf:target state="translated">Let me choose when I want to autofill my login credentials</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_AUTOFILL_AUTOSAVE_RADIO">
+        <xlf:target state="translated">Save credentials automatically in Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_AUTOFILL_SAVEASK_RADIO">
+        <xlf:target state="translated">Ask me every time</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_AUTOFILL_NOSAVE_RADIO">
+        <xlf:target state="translated">Do not save, I will update the information manually</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_PWDMAN_APPS">
+        <xlf:target state="translated">Plugins</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_EXPORTDB_CAPTION">
+        <xlf:target state="translated">Export Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_EXPORTDB_FILTER">
+        <xlf:target state="translated">Wallet database(*.db)|*.db|Comma-separated values file(*.csv)|*.csv|All (*.*)|*.*|</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_FILE_EXISTS_FMT">
+        <xlf:target state="translated">%s already exists. Do you want to replace it?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_DLG_CSV_EXPORT_MSG">
+        <xlf:target state="translated">Exporting to CSV file is not a secure way to back-up your Wallet. We recommend deleting the exported file as soon as it is no longer necessary. Do you want to continue and export your credentials?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_DLG_CSV_EXPORT_CAPTION">
+        <xlf:target state="translated">Export wallet database to CSV file</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_IMPORT_ENTIES_CAPTION">
+        <xlf:target state="translated">Import credentials</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_IMPORT_ENTIES_FILTER">
+        <xlf:target state="translated">Comma-separated values file(*.csv)|*.csv</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_SAVE">
+        <xlf:target state="translated">Save</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_CLOSE">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_DLG_WIPE_CAPTION">
+        <xlf:target state="translated">Wipe Wallet database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_DLG_WIPE_MSG">
+        <xlf:target state="translated">WARNING! The information currently stored in Wallet will be permanently deleted and can&apos;t be recovered later. Do you want to continue?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_DLG_NODB_INUSE">
+        <xlf:target state="translated">No Wallet database in use or Wallet is not configured. Do you want to configure it now?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_DLG_WRONG_PSSWD">
+        <xlf:target state="translated">Wrong Password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_DLG_OPEN_CAPTION">
+        <xlf:target state="translated">Open Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_DLG_WIZARD_CAPTION">
+        <xlf:target state="translated">Open Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_DLG_CLOUD_DELETE_CAPTION">
+        <xlf:target state="translated">Delete Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_DLG_CLOUD_DELETE_MSG">
+        <xlf:target state="translated">The information stored in your Wallet will be permanently deleted and will not be recoverable. Do you want to continue?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_DLG_LOCAL_DELETE_CAPTION">
+        <xlf:target state="translated">Delete Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_DLG_LOCAL_DELETE_MSG">
+        <xlf:target state="translated">WARNING! The information currently stored in Wallet will be permanently deleted and can&apos;t be recovered later. Do you want to continue?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_MASTER_PASSWORD">
+        <xlf:target state="translated">Master password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_PLEASE_ENTER">
+        <xlf:target state="translated">Enter your master password to unlock &lt;#ProductName#&gt; Wallet:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_RETYPE">
+        <xlf:target state="translated">Retype password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_PASSWORD_WARN">
+        <xlf:target state="translated">Warning: For security purposes the master password cannot be reset. Make sure you store it safely to be able to recover it later.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_EXPLANATION">
+        <xlf:target state="translated">Your password is required to confirm your identity and allow Wallet to autofill your credentials.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_OBK_LABEL">
+        <xlf:target state="translated">Safepay</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_EDGE_CHROMIUM_LABEL">
+        <xlf:target state="translated">Microsoft Edge</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_AUTOFILL_FORMS_LABLE">
+        <xlf:target state="translated">Autofill forms</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_AUTOFILL_FORMS_CHECK">
+        <xlf:target state="translated">Prompt my fill options when I visit a page with forms</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_PWDMAN_WALLETS">
+        <xlf:target state="translated">Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_ACTIVE_WALLET">
+        <xlf:target state="translated">Active Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_INACTIVE_WALLET">
+        <xlf:target state="translated">Inactive Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_SELECTED_WALLET_CLOUD_SYNC_ON">
+        <xlf:target state="translated">Sync across devices is ON</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_SELECTED_WALLET_CLOUD_SYNC_OFF">
+        <xlf:target state="translated">Sync across devices is OFF</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_SELECTED_WALLET_OPEN">
+        <xlf:target state="translated">Open</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_SELECTED_WALLET_LOCK">
+        <xlf:target state="translated">Lock</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_SELECTED_WALLET_IMPORT">
+        <xlf:target state="translated">Import</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_SELECTED_WALLET_EXPORT">
+        <xlf:target state="translated">Export</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_SELECTED_WALLET_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_SELECTED_WALLET_CHANGE_PASS">
+        <xlf:target state="translated">Change password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_WALLETS_LIST_TITLE">
+        <xlf:target state="translated">My Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_WALLETS_LIST_SUBTITLE">
+        <xlf:target state="translated">Manage Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_WALLETS_LIST_ADD">
+        <xlf:target state="translated">Add wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_WALLETS_EMPTY_TITLE">
+        <xlf:target state="translated">What is &lt;#ProductName#&gt; Password Manager?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_WALLETS_DESCR">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Password Manager secures your passwords, credit card information, and other sensitive data into your personal Wallet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_WALLETS_EMPTY_DESCR">
+        <xlf:target state="translated">Bitdefender Password Manager takes special care of your sensitive information by allowing you to securely store all your passwords and personal information into your personal Wallet. It simplifies online purchases and logins by auto-filling your credentials and payment data directly in your browser.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_SELECTED_WALLET_DELETE">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_WALLETS_CREATE">
+        <xlf:target state="translated">Create new</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_WALLETS_CREATE_DESCR">
+        <xlf:target state="translated">Create a new Wallet database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_WALLETS_IMPORT">
+        <xlf:target state="translated">From target</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_WALLETS_IMPORT_DESCR">
+        <xlf:target state="translated">Import an existing database</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_WALLET_SETTING_TITLE">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_WALLET_SETTINGS_LABEL">
+        <xlf:target state="translated">Wallet name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_WALLET_SYNC_EXPLAINATION">
+        <xlf:target state="translated">Securely sync your Wallet across devices?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_WALLET_SYNC_YES_OPTION">
+        <xlf:target state="translated">Yes, I would like sync across all my devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="IDS_WALLET_SYNC_NO_OPTION">
+        <xlf:target state="translated">No, thank you</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="IDS_WALLET_SYNC_BANKING">
+        <xlf:target state="translated">Your personal information will be synced across devices. Banking information will only be kept locally.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="IDS_SETT_LABEL_DUPLICATE">
+        <xlf:target state="translated">Name already used. Please select a new one.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="IDS_WALLET_SYNC_NEVER">
+        <xlf:target state="translated">(last sync: never)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="IDS_WALLET_SYNC_SECONDS">
+        <xlf:target state="translated">(last sync: now)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="IDS_WALLET_SYNC_MINUTE">
+        <xlf:target state="translated">(last sync: 1 minute ago)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="IDS_WALLET_SYNC_MINUTES">
+        <xlf:target state="translated">(last sync: %d minutes ago)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="IDS_WALLET_SYNC_HOUR">
+        <xlf:target state="translated">(last sync: 1 hour ago)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="IDS_WALLET_SYNC_HOURS">
+        <xlf:target state="translated">(last sync: %d hours ago)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="IDS_WALLET_SYNC_DAY">
+        <xlf:target state="translated">(last sync: 1 day ago)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="IDS_WALLET_SYNC_DAYS">
+        <xlf:target state="translated">(last sync: %d days ago)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="128" resname="IDS_TILE_TITLE">
+        <xlf:target state="translated">Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="129" resname="IDS_TILE_COUNT_NO_WALLETS">
+        <xlf:target state="translated">Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="130" resname="IDS_TILE_COUNT_ONE_WALLETS">
+        <xlf:target state="translated">Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="131" resname="IDS_TILE_COUNT_MULTIPLE_WALLETS">
+        <xlf:target state="translated">Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="132" resname="IDS_TILE_ACTION_CREATE_WALLET">
+        <xlf:target state="translated">Create wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="133" resname="IDS_TILE_ACTION_OPEN_WALLET">
+        <xlf:target state="translated">Open Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="134" resname="IDS_TILE_ACTION_EXPLORE_WALLETS">
+        <xlf:target state="translated">View Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="135" resname="IDS_TILE_ACTION_ENABLE_WALLET">
+        <xlf:target state="translated">Enable Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="136" resname="IDS_BROWSER_NOT_INSTALLED">
+        <xlf:target state="translated">This browser isn&apos;t installed on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="137" resname="IDS_BROWSER_ENABLE_PLUGIN">
+        <xlf:target state="translated">Enable &lt;#ProductName#&gt; Wallet extension for this browser</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="138" resname="IDS_APP_NOT_INSTALLED">
+        <xlf:target state="translated">This application isn&apos;t installed on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="139" resname="IDS_WALLET_CMD_ACTIVATE">
+        <xlf:target state="translated">Activate wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="140" resname="IDS_PWDMAN_TASK_MYWALLETS_TITLE">
+        <xlf:target state="translated">My Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="141" resname="IDS_PWDMAN_TASK_MYWALLETS_TTP">
+        <xlf:target state="translated">My Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="142" resname="IDS_PWDMAN_TASK_SETTINGS_TITLE">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="143" resname="IDS_PARTNER_PWDMAN_TITLE">
+        <xlf:target state="translated">Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="144" resname="IDS_PARTNER_PWDMAN_TOOLTIP">
+        <xlf:target state="translated">Make your life easier by securing your online accounts</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="145" resname="IDS_PARTNER_PWDMAN_TASK_MENU_TITLE">
+        <xlf:target state="translated">Manage</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="146" resname="IDS_PARTNER_PWDMAN_TASK_SETTINGS_TITLE">
+        <xlf:target state="translated">Manage Information.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="147" resname="IDS_PARTNER_TAB_DOWNLOAD">
+        <xlf:target state="translated">Download</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="148" resname="IDS_PARTNER_TAB_DOWNLOAD_DESC">
+        <xlf:target state="translated">Take control of your internet browsing with Password Manager extension.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="149" resname="IDS_PARTNER_TAB_DOWNLOAD_EMPTY">
+        <xlf:target state="translated">Password Manager is not yet available for any of the browsers you are currently using.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="150" resname="IDS_PARTNER_EXTENSION_GET">
+        <xlf:target state="translated">Get extension</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="151" resname="IDS_PARTNER_EXTENSION_ENABLE">
+        <xlf:target state="translated">Enable</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="152" resname="IDS_PARTNER_PLATFORM_INSTALLED">
+        <xlf:target state="translated">Installed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="153" resname="IDS_PARTNER_PLATFORMS_USE">
+        <xlf:target state="translated">Use across platforms</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="154" resname="IDS_PARTNER_PLATFORMS_AVAILABLE">
+        <xlf:target state="translated">Available platforms</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="155" resname="IDS_PARTNER_PLATFORM_DESKTOP">
+        <xlf:target state="translated">Desktop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="156" resname="IDS_PARTNER_PLATFORM_MOBILE">
+        <xlf:target state="translated">Mobile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="157" resname="IDS_PARTNER_PLATFORM_LINK_DOWN">
+        <xlf:target state="translated">Send download link</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="158" resname="IDS_PARTNER_PLATFORM_LINK_SEND">
+        <xlf:target state="translated">Send</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="159" resname="IDS_PARTNER_PLATFORM_LINK_SENT">
+        <xlf:target state="translated">Link sent.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="160" resname="IDS_PARTNER_PLATFORM_LINK_SEND_AGAIN">
+        <xlf:target state="translated">Send again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="161" resname="IDS_PARTNER_PLATFORM_LINK_SEND_FAIL">
+        <xlf:target state="translated">Could not send link.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="162" resname="IDS_PARTNER_PLATFORM_LINK_SEND_RETRY">
+        <xlf:target state="translated">Try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="164" resname="IDS_EXPORT_FOUND_WARNING_TITLE">
+        <xlf:target state="translated">Important</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="165" resname="IDS_EXPORT_FOUND_WARNING_MESSAGE">
+        <xlf:target state="translated">You have files on your computer containing private data that is not encrypted: {0}. Anyone with access to your computer can read them. Delete them now to keep your data safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="166" resname="IDS_EXPORT_ENTRY_FORMAT">
+        <xlf:target state="translated">&lt;b&gt;{0}&lt;/b&gt; (from {1})</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="167" resname="IDS_EXPORT_FOUND_WARNING_UNDERSTAND">
+        <xlf:target state="translated">I understand</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="168" resname="IDS_EXPORT_FOUND_WARNING_SHRED">
+        <xlf:target state="translated">Shred .csv files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="169" resname="IDS_SPLASH_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="170" resname="IDS_SPLASH_SUBTITLE">
+        <xlf:target state="translated">Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="171" resname="IDS_SPLASH_EXPLAINED">
+        <xlf:target state="translated">Manage passwords on all your devices, knowing you&apos;re guarded by the latest level of encryption. The best part: it&apos;s cross-platform and it&apos;s included in your Premium Security pack.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="172" resname="IDS_SPLASH_EXPORT">
+        <xlf:target state="translated">Export all your data from Wallet to Password Manager.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="173" resname="IDS_SPLASH_UNINSTALL_EXTENSIONS">
+        <xlf:target state="translated">You&apos;ll no longer need your Wallet browser extension, so we&apos;ll uninstall it for you.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="174" resname="IDS_SPLASH_MOVE_WALLETS">
+        <xlf:target state="translated">Move Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="175" resname="IDS_NEW_PWDMAN_TITLE">
+        <xlf:target state="translated">Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="176" resname="IDS_NEW_PWDMAN_TOOLTIP">
+        <xlf:target state="translated">Manage passwords on all your devices, knowing you&apos;re guarded by the latest level of encryption.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="177" resname="IDS_NEW_PWDMAN_TASK_MENU_TITLE">
+        <xlf:target state="translated">Open</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="178" resname="IDS_NEW_PWDMAN_TASK_SETTINGS_TITLE">
+        <xlf:target state="translated">Manage passwords.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="179" resname="IDS_NEW_PWDMAN_SYNC_ALL_DEVICES">
+        <xlf:target state="translated">Sync your data on all your devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="180" resname="IDS_NEW_PWDMAN_SYNC_ALL_DEVICES_MSG">
+        <xlf:target state="translated">Smartphone, laptop or tablet, you have easy access to your data anytime, anyplace.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="181" resname="IDS_NEW_PWDMAN_STRONG_ENCRYPTION">
+        <xlf:target state="translated">Count on the strongest known cryptographic algorithms</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="182" resname="IDS_NEW_PWDMAN_STRONG_ENCRYPTION_MSG">
+        <xlf:target state="translated">No one touches your passwords, notes, or card details.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="183" resname="IDS_NEW_PWDMAN_SINGLE_PASSWORD">
+        <xlf:target state="translated">Free your mind from remembering all your accounts.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="184" resname="IDS_NEW_PWDMAN_SINGLE_PASSWORD_MSG">
+        <xlf:target state="translated">Set a single master password, and that&apos;s all you need.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="185" resname="IDS_NEW_PWDMAN_DISCOVER">
+        <xlf:target state="translated">Discover Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="186" resname="IDS_NEW_PWDMAN_MOVE_WALLETS_MSG">
+        <xlf:target state="translated">Move Wallets to Password Manager and give it a try.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="187" resname="IDS_NEW_PWDMAN_UNINSTALL_EXTENSIONS">
+        <xlf:target state="translated">We&apos;ll also uninstall the Wallet browser extension - you will no longer need it.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="188" resname="IDS_NEW_PWDMAN_MOVE_WALLETS">
+        <xlf:target state="translated">Move Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="189" resname="IDS_NEW_PWDMAN_MOVE_WALLETS_HELP">
+        <xlf:target state="translated">I need help moving my Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="190" resname="IDS_NEW_PWDMAN_MOVE_WALLETS_SHORT_MSG">
+        <xlf:target state="translated">Move data from your wallets to the new Password Manager.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="191" resname="IDS_EXPORT_CHOICE_TITLE">
+        <xlf:target state="translated">Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="192" resname="IDS_EXPORT_CHOICE_LABEL_TITLE">
+        <xlf:target state="translated">Export &quot;%s&quot; Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="193" resname="IDS_EXPORT_CHOICE_TOOL_MSG">
+        <xlf:target state="translated">Move Wallet to Password Manager and give it a try.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="194" resname="IDS_EXPORT_CHOICE_TOOL">
+        <xlf:target state="translated">Export for Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="195" resname="IDS_EXPORT_CHOICE_BACKUP_MSG">
+        <xlf:target state="translated">Export Wallet to create a backup in the event of data loss.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="196" resname="IDS_EXPORT_CHOICE_BACKUP">
+        <xlf:target state="translated">Export Wallet for other apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="197" resname="IDS_EXPORT_CHOICE_WARNING">
+        <xlf:target state="translated">The exported file is not encrypted, and anyone can access it to read your data. Make sure you keep it safe and delete it after importing it in the new Password Manager.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="198" resname="IDS_PM_INACTIVE_TITLE">
+        <xlf:target state="translated">Meet the new Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="199" resname="IDS_PM_INACTIVE_MSG_DEVICES">
+        <xlf:target state="translated">Manage passwords on all your devices, knowing you&apos;re guarded by the latest level of encryption.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="200" resname="IDS_PM_INACTIVE_MSG_PASSWORD">
+        <xlf:target state="translated">Easily manage your logins with the help of a single master password.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="201" resname="IDS_PM_DISCOVER_CENTRAL">
+        <xlf:target state="translated">Discover Password Manager in Central</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="202" resname="IDS_PM_AVAILABLE_PLATFORMS">
+        <xlf:target state="translated">Available on:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="203" resname="IDS_PM_OLD_WALLET_MSG">
+        <xlf:target state="translated">Want to access your old Wallets?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="203" resname="IDS_PM_OLD_WALLET_CLICK">
+        <xlf:target state="translated">Click here!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="204" resname="IDS_PM_ACTIVE_TITLE_SAFE">
+        <xlf:target state="translated">Your passwords are safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="205" resname="IDS_PM_ACTIVE_TITLE_ACCESS">
+        <xlf:target state="translated">Access them from anywhere.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="206" resname="IDS_PM_ACTIVE_MSG_DEVICES">
+        <xlf:target state="translated">Manage passwords on all your devices, knowing you&apos;re guarded by the latest level of encryption.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="207" resname="IDS_WALLET_TOGGLE_NAME">
+        <xlf:target state="translated">Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="208" resname="IDS_WALLET_TOGGLE_DESC">
+        <xlf:target state="translated">Enable / Disable wallet access</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

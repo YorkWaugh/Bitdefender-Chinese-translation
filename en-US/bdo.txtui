@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdo" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_BD_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_IS_SPAM">
+        <xlf:target state="translated">Is Spam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_NOT_SPAM">
+        <xlf:target state="translated">Not Spam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_ADD_SPAMMER">
+        <xlf:target state="translated">Add Spammer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_ADD_FRIEND">
+        <xlf:target state="translated">Add Friend</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_SPAMMERS">
+        <xlf:target state="translated">Spammers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_FRIENDS">
+        <xlf:target state="translated">Friends</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_RIBBON_TAB_AS">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_RIBBON_SCRTIP_TAB_AS">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_RIBBON_SUPTIP_TAB_AS">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_RIBBON_GRP_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_RIBBON_SCRTIP_GRP_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_RIBBON_SUPTIP_GRP_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_RIBBON_GRP_SPAM">
+        <xlf:target state="translated">Spam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_RIBBON_SCRTIP_GRP_SPAM">
+        <xlf:target state="translated">Spam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_RIBBON_SUPTIP_GRP_SPAM">
+        <xlf:target state="translated">Mark as Spam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_RIBBON_GRP_FRIENDS">
+        <xlf:target state="translated">Friends/Spammers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_RIBBON_SCRTIP_GRP_FRIENDS">
+        <xlf:target state="translated">Friends/Spammers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_RIBBON_SUPTIP_GRP_FRIENDS">
+        <xlf:target state="translated">Friends/Spammers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_RIBBON_BTN_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_RIBBON_BTN_SCRTIP_SETTINGS">
+        <xlf:target state="translated">Antispam Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_RIBBON_BTN_SUPTIP_SETTINGS">
+        <xlf:target state="translated">Manages &lt;#ProductName#&gt; Antispam Settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_RIBBON_BTN_ISSPAM">
+        <xlf:target state="translated">Is Spam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_RIBBON_BTN_SCRTIP_ISSPAM">
+        <xlf:target state="translated">Mark as Spam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_RIBBON_BTN_SUPTIP_ISSPAM">
+        <xlf:target state="translated">Mark the selected email(s) as Spam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_RIBBON_BTN_NOTSPAM">
+        <xlf:target state="translated">Not Spam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_RIBBON_BTN_SCRTIP_NOTSPAM">
+        <xlf:target state="translated">Mark as Not Spam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_RIBBON_BTN_SUPTIP_NOTSPAM">
+        <xlf:target state="translated">Mark the selected email(s) as Not Spam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_RIBBON_BTN_ADD_SPAMMER">
+        <xlf:target state="translated">Add Spammer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_RIBBON_BTN_SCRTIP_ADD_SPAMMER">
+        <xlf:target state="translated">Add Spammer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_RIBBON_BTN_SUPTIP_ADD_SPAMMER">
+        <xlf:target state="translated">Add the selected contact(s) to the Spammers list.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_RIBBON_BTN_ADD_FRIEND">
+        <xlf:target state="translated">Add Friend</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_RIBBON_BTN_SCRTIP_ADD_FRIEND">
+        <xlf:target state="translated">Add Friend</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_RIBBON_BTN_SUPTIP_ADD_FRIEND">
+        <xlf:target state="translated">Add the selected contact(s) to the Friends list.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_RIBBON_BTN_SPAMMERS">
+        <xlf:target state="translated">Spammers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_RIBBON_BTN_SCRTIP_SPAMMERS">
+        <xlf:target state="translated">Spammers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_RIBBON_BTN_SUPTIP_SPAMMERS">
+        <xlf:target state="translated">Manage the Spammers list.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_RIBBON_BTN_FRIENDS">
+        <xlf:target state="translated">Friends</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_RIBBON_BTN_SCRTIP_FRIENDS">
+        <xlf:target state="translated">Friends</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_RIBBON_BTN_SUPTIP_FRIENDS">
+        <xlf:target state="translated">Manage the Friends list.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

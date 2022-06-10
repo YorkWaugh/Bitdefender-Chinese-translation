@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdctcgui" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_TITLE_ATTACK_TYPE_MALWARE">
+        <xlf:target state="translated">Threat blocked on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_TITLE_ATTACK_TYPE_RANSOMWARE">
+        <xlf:target state="translated">Ransomware blocked on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_TITLE_ATTACK_TYPE_EXPLOIT">
+        <xlf:target state="translated">Exploit attempt blocked on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_TITLE_ATTACK_TYPE_PASSWORD_STEALER">
+        <xlf:target state="translated">Password stealer blocked on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_TITLE_ATTACK_TYPE_PUA">
+        <xlf:target state="translated">Potentially unwanted application blocked on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_TITLE_ATTACK_TYPE_OTHER">
+        <xlf:target state="translated">Threat blocked on your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_FEATURE_ANTIVIRUS">
+        <xlf:target state="translated">Real-time protection security layer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_FEATURE_ATD">
+        <xlf:target state="translated">Advanced Threat Defense security layer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_FEATURE_OTP_WEB">
+        <xlf:target state="translated">Web protection security layer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_FEATURE_OTP_GHOSTR">
+        <xlf:target state="translated">Network protection security layer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_FEATURE_RANSOMWARE">
+        <xlf:target state="translated">Ransomware remediation security layer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_TIMELINE_THREAT_BLOCKED">
+        <xlf:target state="translated">Threat detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_TIMELINE_ALT_OUTCOME">
+        <xlf:target state="translated">Alternative outcome</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_TIMELINE_ALT_TIMESTAMP">
+        <xlf:target state="translated">After few seconds</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_TIMELINE_SYSTEM_EXEC_SIGNED">
+        <xlf:target state="translated">Operating system executed {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_TIMELINE_SYSTEM_EXEC_UNSIGNED">
+        <xlf:target state="translated">Operating system executed unsigned process {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_TIMELINE_SYSTEM_EXEC_GENERIC">
+        <xlf:target state="translated">Operating system executed process {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_TIMELINE_SIGNED_EXEC_SIGNED">
+        <xlf:target state="translated">{0} signed by {1} executed {2}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_TIMELINE_SIGNED_EXEC_UNSIGNED">
+        <xlf:target state="translated">{0} signed by {1} executed unsigned process {2}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_TIMELINE_SIGNED_EXEC_GENERIC">
+        <xlf:target state="translated">{0} signed by {1} executed process {2}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_TIMELINE_UNSIGNED_EXEC_SIGNED">
+        <xlf:target state="translated">Unsigned process {0} executed {1}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_TIMELINE_UNSIGNED_EXEC_UNSIGNED">
+        <xlf:target state="translated">Unsigned process {0} executed unsigned file {1}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_TIMELINE_UNSIGNED_EXEC_GENERIC">
+        <xlf:target state="translated">Unsigned {0} executed process {1}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_TIMELINE_GENERIC_EXEC_SIGNED">
+        <xlf:target state="translated">{0} executed {1}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_TIMELINE_GENERIC_EXEC_UNSIGNED">
+        <xlf:target state="translated">{0} executed unsigned process {1}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_TIMELINE_GENERIC_EXEC_GENERIC">
+        <xlf:target state="translated">{0} executed process {1}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_TIMELINE_GENERATING">
+        <xlf:target state="translated">Generating attack timeline...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_TIMELINE_GENERATE_FAILED">
+        <xlf:target state="translated">An error occurred while generating the attack timeline.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_OUTCOME_ATTACK_TYPE_MALWARE">
+        <xlf:target state="translated">Malware is malicious software designed to damage your device. If we didn’t block it, it could have destroyed your files or stolen your private information.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_OUTCOME_ATTACK_TYPE_RANSOMWARE">
+        <xlf:target state="translated">A ransomware attack encrypts and denies access to files on your own device. If we didn’t block it, attackers would have demanded a ransom for the decryption key to recover your files.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_OUTCOME_ATTACK_TYPE_EXPLOIT">
+        <xlf:target state="translated">An exploit takes advantage of a security flaw or vulnerability in operating systems or apps. If we didn’t block it, cybercriminals would have exploited this weakness to install malware and take control of your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_OUTCOME_ATTACK_TYPE_PASSWORD_STEALER">
+        <xlf:target state="translated">Password stealers are a type of malware that runs silently in the background. If we didn’t block it, attackers would have collected and sold your private data (accounts, passwords, credit cards, or system info).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_OUTCOME_ATTACK_TYPE_PUA">
+        <xlf:target state="translated">This potentially unwanted app can compromise your privacy and weaken your device security. If we didn’t block it, it could have caused your computer to run slow, display annoying ads, or install unwanted apps.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_OUTCOME_ATTACK_TYPE_OTHER">
+        <xlf:target state="translated">This type of threat is designed to damage your device. If we didn’t block it, it could have destroyed your files or stolen your private information.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_FEEDBACK_REPORT_USEFUL">
+        <xlf:target state="translated">Was this information useful to you?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_FEEDBACK_THANKS">
+        <xlf:target state="translated">Thank you for your feedback!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_FEEDBACK_WHY">
+        <xlf:target state="translated">Help us improve</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_FEEDBACK_OPTION1">
+        <xlf:target state="translated">The information is not relevant for me</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_FEEDBACK_OPTION2">
+        <xlf:target state="translated">It has too many details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_FEEDBACK_OPTION3">
+        <xlf:target state="translated">It has too few details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_FEEDBACK_OTHER">
+        <xlf:target state="translated">Other</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_FEEDBACK_OTHER_PLACEHOLDER">
+        <xlf:target state="translated">Please add details...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_ERROR_INFO">
+        <xlf:target state="translated">The data gathering process is still in progress. Don&apos;t worry, you will be able to view the complete attack timeline later in the Notifications area.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_SEND">
+        <xlf:target state="translated">Send</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

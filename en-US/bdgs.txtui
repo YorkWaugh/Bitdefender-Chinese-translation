@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdgs" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_PRODUCT_REGISTRATION">
+        <xlf:target state="translated">Getting started</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_REGISTER_YOUR_PRODUCT">
+        <xlf:target state="translated">Activate Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_I_WANT_TO_REGISTER">
+        <xlf:target state="translated">I have an activation code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_I_WANT_TO_EVALUATE">
+        <xlf:target state="translated">I don&apos;t have a subscription, I want to try the product for free</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_ACTIVATION_INVALID">
+        <xlf:target state="translated">Activation code is invalid</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_SUBSCRIPTION_INVALID">
+        <xlf:target state="translated">Your free trial has expired</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_REDEEM_RECOMANDATION">
+        <xlf:target state="translated">The trial period for &lt;#FullProductName#&gt; has ended. We hope you enjoyed our product. If you are ready to upgrade, follow the instructions below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_ERROR_REGISTERING">
+        <xlf:target state="translated">The code you entered is invalid. Please enter a different code and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_ALREADY_USED">
+        <xlf:target state="translated">The code you entered was already used.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_INVALID">
+        <xlf:target state="translated">The code you entered is invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_GEOLOCATION_LIMITATION">
+        <xlf:target state="translated">This code is restricted in your region and can&apos;t be used to activate a subscription on your account. Please contact your vendor for more information.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_INCOMPATIBLE_TYPE">
+        <xlf:target state="translated">Sorry, this is a promotional code and cannot be used to extend your current subscription.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_INCOMPATIBLE_PARAMETERS">
+        <xlf:target state="translated">Sorry, the code you entered cannot be used to extend your current subscription. Please use the code with another Central account. Or contact Support for more information.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_EXISTING_SUBSCRIPTION_BETTER">
+        <xlf:target state="translated">Your license key can&apos;t be used to extend your current subscription as the validity of your license key is shorter than the validity of your subscription.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_SUBSCRIPTION_EXPIRY_LIMIT_REACHED">
+        <xlf:target state="translated">Sorry, you cannot use this activation code on this account. That’s because with your new code your subscription would be valid for more than the maximum allowed 3-year period. You can still use the code with a different Central account to protect more devices.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_LINK_MORE_INFO">
+        <xlf:target state="translated">To view more details about activation code, click {0}.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_LINK_HERE">
+        <xlf:target state="translated">here</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_THANKS_MESSAGE">
+        <xlf:target state="translated">Thank you for choosing &lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_AVAILABILITY_TITLE">
+        <xlf:target state="translated">Your subscription is available for</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_DAYS">
+        <xlf:target state="translated">days</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_NO_SUBSCRIPTION_QUESTION">
+        <xlf:target state="translated">Don&apos;t have a subscription?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_BUY_NOW">
+        <xlf:target state="translated">Buy one now.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_CONTINUE">
+        <xlf:target state="translated">Continue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_BUY_SUBSCRIPTION">
+        <xlf:target state="translated">Buy a new subscription</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_FINISH">
+        <xlf:target state="translated">Finish</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_CLOSE">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_REDEEM_CODE">
+        <xlf:target state="translated">I have an activation code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_CONTACT_SUPPORT">
+        <xlf:target state="translated">Contact Support</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_TYPE_CODE">
+        <xlf:target state="translated">TYPE ACTIVATION CODE:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_ERROR_QUOTA_TITLE">
+        <xlf:target state="translated">Maximum number of devices reached</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_ERROR_QUOTA_MSG">
+        <xlf:target state="translated">You are protecting the maximum number of devices covered by your subscription on</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_BDCENTRAL_LINK">
+        <xlf:target state="translated">Go to &lt;#ProductName#&gt; Central</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_ADDITONAL_DEVICES_LINK">
+        <xlf:target state="translated">Buy additional devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_BUY_BUTTON">
+        <xlf:target state="translated">Buy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_NETWORK_ERROR">
+        <xlf:target state="translated">Unable to connect to the server</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_TRIAL_NO_NET">
+        <xlf:target state="translated">Your subscription cannot be activated because your device is not connected to the internet. Please check your connection and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_ACTIVATION_NO_NET">
+        <xlf:target state="translated">Your subscription cannot be activated because your device is not connected to the internet. Please check your connection and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_TRY_AGAIN">
+        <xlf:target state="translated">Try again</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_DEVICES">
+        <xlf:target state="translated">Devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_RENEWAL_DATE">
+        <xlf:target state="translated">Expiry Date</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_PLAN_DETAILS">
+        <xlf:target state="translated">Subscription Details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_GS_NFR">
+        <xlf:target state="translated">Not for resale</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_HOW_TO_ACTIVATE">
+        <xlf:target state="translated">How to find your activation code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_OK_BUTTON">
+        <xlf:target state="translated">OK, GOT IT</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_HOW_TO_FIND">
+        <xlf:target state="translated">How to find your activation code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_BOUGHT_ONLINE">
+        <xlf:target state="translated">I bought the product online</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_ONLINE_DESCRIPTION">
+        <xlf:target state="translated">You can find your activation code in the confirmation email you received right after purchase.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_BOUGHT_IN_STORE">
+        <xlf:target state="translated">I bought the product in store</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_STORE_DESCRIPTION">
+        <xlf:target state="translated">Your activation code is in the product box you purchased in store.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_WELCOME_MESSAGE">
+        <xlf:target state="translated">To benefit from the latest &lt;#ProductName#&gt; protection, you need to activate your product.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_TRIAL_DESCRIPTION">
+        <xlf:target state="translated">Select this option for a free trial. You can choose to buy &lt;#ProductName#&gt; any time during the evaluation period.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_MORE_DEVICES_DESCRIPTION">
+        <xlf:target state="translated">You can upgrade your subscription to protect this device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_MORE_DEVICES_BUTTON">
+        <xlf:target state="translated">GET MORE DEVICES</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_MANAGE_DEVICES_DESCRIPTION">
+        <xlf:target state="translated">You can replace one of your current devices.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_MANAGE_DEVICES_BUTTON">
+        <xlf:target state="translated">MANAGE DEVICES</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_ACTIVATE_CODE_DESCRIPTION">
+        <xlf:target state="translated">I&apos;ve already purchased the product.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_ACTIVATE_CODE_BUTTON">
+        <xlf:target state="translated">Activate code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_BUY_SUB_BUTTON">
+        <xlf:target state="translated">Buy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_TRIAL_ERROR_TITLE">
+        <xlf:target state="translated">Your trial has expired</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_TRIAL_ERROR_DESCRIPTION">
+        <xlf:target state="translated">The trial period for &lt;#ProductName#&gt; has ended. If you enjoyed our product and you are ready to upgrade, please insert a valid activation code or follow the buy button below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_BUY_RADIO_TITLE">
+        <xlf:target state="translated">I&apos;d like to purchase the product</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_BUY_RADIO_DESCRIPTION">
+        <xlf:target state="translated">Press Continue to view the offers.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_LIFETIME_SUBSCRIPTION">
+        <xlf:target state="translated">Lifetime of your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_THANKS_MESSAGE_SELLER">
+        <xlf:target state="translated">Thank you for activating &lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_INSTALL_IN_STORE">
+        <xlf:target state="translated">INSTALL IN STORE</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_SELLER_FINAL_CONFIRMATION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Account is mandatory to activate your &lt;#ProductName#&gt; subscription and access our product main interface.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_CODE_STORE_STATUS_INVALID">
+        <xlf:target state="translated">Invalid activation code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_CODE_STORE_STATUS_USED">
+        <xlf:target state="translated">Used activation code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_CODE_STORE_STATUS_GEO">
+        <xlf:target state="translated">Region restricted code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_CODE_STORE_STATUS_INCOMPATIBLE">
+        <xlf:target state="translated">Not for resale code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_CODE_STORE_DESCR_INVALID">
+        <xlf:target state="translated">The code you entered is invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_CODE_STORE_DESCR_USED">
+        <xlf:target state="translated">This activation code was already used to generate a subscription.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_CODE_STORE_DESCR_GEO">
+        <xlf:target state="translated">This code is restricted in your region and can&apos;t be used to activate a subscription on your account.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_CODE_STORE_DESCR_INCOMPATIBLE">
+        <xlf:target state="translated">Sorry, this is a promotional code and cannot be used to extend your current subscription.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_CODE_STORE_CONFIRMATION">
+        <xlf:target state="translated">To receive another activation code, please contact your &lt;#ProductName#&gt; provider.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_CODE_STORE_HEADER">
+        <xlf:target state="translated">Subscription details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_SET_DSA_TITLE">
+        <xlf:target state="translated">Set &lt;#ProductName#&gt; as your default security application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_SET_DSA_DESCRIPTION">
+        <xlf:target state="translated">Your &lt;#ProductName#&gt; installation process is almost done. To activate &lt;#ProductName#&gt; protection, be sure to set your product as the default security application on Windows 10.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_DSA_WINDOW_QUESTION">
+        <xlf:target state="translated">Do you want to change your antivirus protection?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_DSA_WINDOW_TITLE_KEEP">
+        <xlf:target state="translated">Keep using this antivirus protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_DSA_OUR_APP">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antivirus</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_DSA_OUR_APP_DESCRIPTION">
+        <xlf:target state="translated">New</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_DSA_WINDOW_CHANGE">
+        <xlf:target state="translated">Change my antivirus protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_DSA_WINDOWS_DEFENDER">
+        <xlf:target state="translated">Other antivirus</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_DSA_WINDOWS_DEFENDER_DESCRIPTION">
+        <xlf:target state="translated">Installed and active</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_DSA_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_PRODUCT_DSA_CONFIRMATION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; is now your default security application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_PRODUCT_DSA_DESCRIPTION">
+        <xlf:target state="translated">Thank you for choosing &lt;#ProductName#&gt; as your preferred security solution. Your protection is now active. Hit Finish to start using your product.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_SET_DSA_BUTTON">
+        <xlf:target state="translated">Set default security application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_ACTIVATION_CODE_INPUT_TEXT">
+        <xlf:target state="translated">Activation Code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_DATA_LOADING">
+        <xlf:target state="translated">Please wait while loading the necessary data</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_PART_OF_PLAN">
+        <xlf:target state="translated">Part of</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_PRODUCT_NAME_AV">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antivirus Plus</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_PRODUCT_NAME_IS">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Internet Security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_PRODUCT_NAME_TS">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Total Security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_COMPARISON_UPGRADE_TITLE">
+        <xlf:target state="translated">Upgrade to the next security level</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_LITE_SECURITY">
+        <xlf:target state="translated">Antivirus Free</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_TOTAL_SECURITY">
+        <xlf:target state="translated">Total Security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_COMPARISON_ANTIVIRUS">
+        <xlf:target state="translated">Real-Time Data Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_COMPARISON_RANSOMWARE">
+        <xlf:target state="translated">Multi-Layer Ransomware Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_COMPARISON_OBK">
+        <xlf:target state="translated">Safe Online Banking</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_COMPARISON_VPN">
+        <xlf:target state="translated">VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_COMPARISON_OPTIMIZER">
+        <xlf:target state="translated">Device Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_COMPARISON_DEVICES">
+        <xlf:target state="translated">Protection for every OS: Windows, macOS, Android and iOS</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_COMPARISON_OS_WINDOWS">
+        <xlf:target state="translated">Windows</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_BTN_START_FREE_TRIAL">
+        <xlf:target state="translated">Start free trial</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_COMPARISON_START_TRIAL_TOOLTIP1">
+        <xlf:target state="translated">Start a 30 days trial of Total Security,</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_COMPARISON_START_TRIAL_TOOLTIP2">
+        <xlf:target state="translated">for free.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_BTN_UPGRADE">
+        <xlf:target state="translated">Upgrade</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_APPLY_ACTIVE_SUBSCRIPTION">
+        <xlf:target state="translated">We&apos;ve applied your active subscription</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_ACTIVE_SUBSCRIPTION_MESSAGE">
+        <xlf:target state="translated">You have the best, most awarded protection on the market.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_APPLY_TRIAL_SUBSCRIPTION">
+        <xlf:target state="translated">Trial subscription activated</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_APPLY_FREE_SUBSCRIPTION">
+        <xlf:target state="translated">Free subscription activated</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_NEVER_EXPIRES">
+        <xlf:target state="translated">Never expires</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_FAIL_ACTIVATE_FREE">
+        <xlf:target state="translated">An error occurred while activating your subscription</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_TRY_ACTIVATE_FREE">
+        <xlf:target state="translated">Please check your internet connection and try again.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="proxymgrui" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_DLG_CAPTION">
+        <xlf:target state="translated">Proxy Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_PROXY_SETTINGS">
+        <xlf:target state="translated">&lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_ADMIN_SETTINGS">
+        <xlf:target state="translated">Import proxy settings from default browser</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_ADMIN_ADRESS">
+        <xlf:target state="translated">Address:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_ADMIN_PORT">
+        <xlf:target state="translated">Port:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_ADMIN_USERNAME">
+        <xlf:target state="translated">Username:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_ADMIN_PASSWORD">
+        <xlf:target state="translated">Password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_ADMIN_ERROR">
+        <xlf:target state="translated">Incorrect install time detected proxy settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_USER_SETTINGS">
+        <xlf:target state="translated">Proxy settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_USER_ADRESS">
+        <xlf:target state="translated">Address:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_USER_PORT">
+        <xlf:target state="translated">Port:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_USER_USERNAME">
+        <xlf:target state="translated">Username:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_USER_PASSWORD">
+        <xlf:target state="translated">Password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_USER_ERROR">
+        <xlf:target state="translated">Incorrect user proxy settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_CUSTOM_SETTINGS">
+        <xlf:target state="translated">Custom proxy settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_DESCRIPTION">
+        <xlf:target state="translated">Please select the proxy configuration to be used with &lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_CUSTOM_ADRESS">
+        <xlf:target state="translated">Address:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_CUSTOM_PORT">
+        <xlf:target state="translated">Port:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_CUSTOM_USERNAME">
+        <xlf:target state="translated">Username:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_CUSTOM_PASSWORD">
+        <xlf:target state="translated">Password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_CUSTOM_ERROR">
+        <xlf:target state="translated">Incorrect custom proxy settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_ERROR">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Error</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_ADMIN_IP">
+        <xlf:target state="translated">IP:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_USER_IP">
+        <xlf:target state="translated">IP:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_CUSTOM_IP">
+        <xlf:target state="translated">IP:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_HELP_ST_ADMIN_SETTINGS">
+        <xlf:target state="translated">This is where you can change the proxy settings detected at install time.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_HELP_ST_ADMIN_IP">
+        <xlf:target state="translated">The proxy IP address detected at install time.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_HELP_ST_ADMIN_PORT">
+        <xlf:target state="translated">The proxy port detected at install time.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_HELP_ST_ADMIN_USERNAME">
+        <xlf:target state="translated">The proxy username detected at install time.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_HELP_ST_ADMIN_PASSWORD">
+        <xlf:target state="translated">The proxy password detected at install time.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_HELP_ST_USER_SETTINGS">
+        <xlf:target state="translated">This is where you can change the proxy settings detected in the default browser.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_HELP_ST_USER_IP">
+        <xlf:target state="translated">The proxy IP address read from the current browser settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_HELP_ST_USER_PORT">
+        <xlf:target state="translated">The proxy port read from the current browser settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_HELP_ST_USER_USERNAME">
+        <xlf:target state="translated">The proxy username read from the current browser settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_HELP_ST_USER_PASSWORD">
+        <xlf:target state="translated">The proxy password read from the current browser settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_HELP_ST_CUSTOM_SETTINGS">
+        <xlf:target state="translated">This is where you can specify your own proxy settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_HELP_ST_CUSTOM_IP">
+        <xlf:target state="translated">The custom proxy IP address.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_HELP_ST_CUSTOM_PORT">
+        <xlf:target state="translated">The custom proxy port.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_HELP_ST_CUSTOM_USERNAME">
+        <xlf:target state="translated">The custom username used to access the specified proxy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_HELP_ST_CUSTOM_PASSWORD">
+        <xlf:target state="translated">This is the password that has to be used to access the specified proxy.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>
