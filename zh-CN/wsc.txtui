@@ -3,13 +3,13 @@
   <xlf:file datatype="winres" original="wsc" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_AV_TITLE">
-        <xlf:target state="translated">Antivirus</xlf:target>
+        <xlf:target state="translated">反病毒</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_AS_TITLE">
-        <xlf:target state="translated">Antispyware</xlf:target>
+        <xlf:target state="translated">反间谍软件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_FW_TITLE">
-        <xlf:target state="translated">Firewall</xlf:target>
+        <xlf:target state="translated">防火墙</xlf:target>
       </xlf:trans-unit>
     </xlf:body>
   </xlf:file>
