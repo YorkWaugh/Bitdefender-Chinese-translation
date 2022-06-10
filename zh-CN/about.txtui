@@ -51,13 +51,13 @@
         <xlf:target state="translated">购买</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="17" resname="IDS_VIRUS_SIGNATURE">
-        <xlf:target state="translated">病毒特征库：</xlf:target>
+        <xlf:target state="translated">威胁信息库：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="18" resname="IDS_ENGINE_VERSION">
         <xlf:target state="translated">引擎版本：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="19" resname="IDS_PRODUCT_SIGNATURES">
-        <xlf:target state="translated">恶意软件数据库属性</xlf:target>
+        <xlf:target state="translated">威胁数据库属性</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="20" resname="IDS_PC_LIFETIME_EDITION">
         <xlf:target state="translated">PC 终身版</xlf:target>
