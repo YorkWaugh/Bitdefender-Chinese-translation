@@ -144,40 +144,40 @@
         <xlf:target state="translated">扫描项目</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="48" resname="IDS_XSL_SCAN_SUMM_SCANNED_NONE">
-        <xlf:target state="translated">(no items could be scanned)</xlf:target>
+        <xlf:target state="translated">（无可扫描的项目）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="49" resname="IDS_XSL_SCAN_SUMM_INFECTED">
-        <xlf:target state="translated">Infected items</xlf:target>
+        <xlf:target state="translated">受感染的项目</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="50" resname="IDS_XSL_SCAN_SUMM_INFECTED_NONE">
-        <xlf:target state="translated">(no infected items have been detected)</xlf:target>
+        <xlf:target state="translated">（未检测到受感染的项目）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="51" resname="IDS_XSL_SCAN_SUMM_SUSPECT">
-        <xlf:target state="translated">Suspicious items</xlf:target>
+        <xlf:target state="translated">可疑项目</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="52" resname="IDS_XSL_SCAN_SUMM_SUSPECT_NONE">
-        <xlf:target state="translated">(no suspected items have been detected)</xlf:target>
+        <xlf:target state="translated">（未检测到可疑项目）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="53" resname="IDS_XSL_SCAN_SUMM_HIDDEN">
-        <xlf:target state="translated">Hidden items</xlf:target>
+        <xlf:target state="translated">隐藏项目</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="54" resname="IDS_XSL_SCAN_SUMM_HIDDEN_NONE">
-        <xlf:target state="translated">(no hidden items have been detected during this scan)</xlf:target>
+        <xlf:target state="translated">(本次扫描未检测到隐藏项目)</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="55" resname="IDS_XSL_SCAN_SUMM_HIDDEN_NOT_SCANNED">
-        <xlf:target state="translated">(the scan options do not include scanning for rootkits)</xlf:target>
+        <xlf:target state="translated">(本次未扫描rootkit)</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="56" resname="IDS_XSL_SCAN_SUMM_RESOLVED">
-        <xlf:target state="translated">Resolved items</xlf:target>
+        <xlf:target state="translated">已解决的项目</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="57" resname="IDS_XSL_SCAN_SUMM_RESOLVED_NONE">
-        <xlf:target state="translated">(no threats have been detected during this scan)</xlf:target>
+        <xlf:target state="translated">(本次扫描未检测到威胁)</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="58" resname="IDS_XSL_SCAN_SUMM_RESOLVED_NONE_THREATS">
-        <xlf:target state="translated">(infected or suspect items have been found and were ignored or could not be fixed)</xlf:target>
+        <xlf:target state="translated">（发现被感染或可疑的项目，但被忽视或无法修复）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="59" resname="IDS_XSL_SCAN_SUMM_UNRESOLVED">
-        <xlf:target state="translated">Unresolved items</xlf:target>
+        <xlf:target state="translated">未解决的项目</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="60" resname="IDS_XSL_SCAN_SUMM_UNRESOLVED_NONE">
         <xlf:target state="translated">(no issues remained unresolved)</xlf:target>
