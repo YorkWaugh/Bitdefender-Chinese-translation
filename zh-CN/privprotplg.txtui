@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="privprotplg" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_PRIV_PROT_PANEL_TITLE">
+        <xlf:target state="translated">Video &amp; Audio Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_PRIV_PROT_PANEL_TOOLTIP">
+        <xlf:target state="translated">Protects your privacy by stopping cyber attacks that might track and record your activity.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_PRIV_PROT_TAB_CAM_PROT">
+        <xlf:target state="translated">Webcam Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_PRIV_PROT_TAB_MIC_PROT">
+        <xlf:target state="translated">Audio Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_PRIV_PROT_TAB_MIC_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_CAM_PROT_PANEL_TITLE">
+        <xlf:target state="translated">Webcam Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_CAM_PROT_TASK_MANAGE_CAM_RULES">
+        <xlf:target state="translated">Webcam access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_CAM_PROT_TASK_MANAGE_MIC_RULES">
+        <xlf:target state="translated">Microphone monitor</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_CAM_PROT_FIX_AVAILABILITY">
+        <xlf:target state="translated">Fix</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_CAM_PROT_SETT_TITLE">
+        <xlf:target state="translated">Webcam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_CAM_PROT_SETT_BLOCKING">
+        <xlf:target state="translated">Application block rules</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_CAM_PROT_SETT_NOTIFICATIONS">
+        <xlf:target state="translated">Notifications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_CAM_PROT_BLOCK_ALL">
+        <xlf:target state="translated">Block all access to the webcam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_CAM_PROT_BLOCK_BROWSERS">
+        <xlf:target state="translated">Block browsers&apos; access to the webcam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_CAM_PROT_BLOCK_WINSTORE">
+        <xlf:target state="translated">Block Windows Store apps&apos; access to the webcam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_CAM_PROT_USE_COMMUNITY">
+        <xlf:target state="translated">Set application permissions based on community choice</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_CAM_PROT_NOTIFY_ALLOWED">
+        <xlf:target state="translated">Notify when allowed applications connect to the webcam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_MIC_PROT_SETT_TITLE">
+        <xlf:target state="translated">Microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_MIC_PROT_SETT_NOTIFICATIONS">
+        <xlf:target state="translated">Notifications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_MIC_PROT_NOTIFY_ALL">
+        <xlf:target state="translated">Notify when an application tries to access the microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_MIC_PROT_NOTIFY_BROWSERS">
+        <xlf:target state="translated">Notify when browsers access the microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_MIC_PROT_NOTIFY_WINSTORE">
+        <xlf:target state="translated">Notify when Windows Store apps access the microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_MIC_PROT_USE_COMMUNITY">
+        <xlf:target state="translated">Display notification based on &lt;#ProductName#&gt; users&apos; choice</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_MIC_PROT_USE_APPREP">
+        <xlf:target state="translated">Notify when untrusted apps access the microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_CAM_PROT_EXPLAIN_MODULE">
+        <xlf:target state="translated">What is Webcam Protection?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_CAM_PROT_EXPLAIN_MESSAGE_FIRST">
+        <xlf:target state="translated">Webcam Protection restricts access to your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_CAM_PROT_EXPLAIN_MESSAGE_SECOND">
+        <xlf:target state="translated">Only trusted applications will be allowed to grab image, keeping you protected against threats (including any previously unknown ones) or hackers that might be trying to snoop in on your activities</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_CAM_PROT_EXPLAIN_ADD_APP">
+        <xlf:target state="translated">Start adding applications to the webcam access list.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_CAM_PROT_EXPLAIN_ADD_WINSTORE_APP">
+        <xlf:target state="translated">Select Windows Store apps to add to the permissions list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_CAM_PROT_INFO_RULES">
+        <xlf:target state="translated">Applications that access your webcam will appear here.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_CAM_PROT_INFO_RULES_DESC">
+        <xlf:target state="translated">You can specify which apps should be allowed to access your webcam or which to blocked upon access.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_CAM_PROT_RULE_ACTIVITY_NONE">
+        <xlf:target state="translated">No webcam activity</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_CAM_PROT_RULE_ACTIVITY_SECONDS">
+        <xlf:target state="translated">Last webcam activity: now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_CAM_PROT_RULE_ACTIVITY_MINUTE">
+        <xlf:target state="translated">Last webcam activity: 1 minute ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_CAM_PROT_RULE_ACTIVITY_MINUTES">
+        <xlf:target state="translated">Last webcam activity: %d minutes ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_CAM_PROT_RULE_ACTIVITY_HOUR">
+        <xlf:target state="translated">Last webcam activity: 1 hour ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_CAM_PROT_RULE_ACTIVITY_HOURS">
+        <xlf:target state="translated">Last webcam activity: %d hours ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_CAM_PROT_RULE_ACTIVITY_DAY">
+        <xlf:target state="translated">Last webcam activity: 1 day ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_CAM_PROT_RULE_ACTIVITY_DAYS">
+        <xlf:target state="translated">Last webcam activity: %d days ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_CAM_PROT_WINDOW_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Webcam Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_CAM_PROT_BROWSE_TRUSTED_TITLE">
+        <xlf:target state="translated">Add trusted application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_CAM_PROT_RULES_TITLE">
+        <xlf:target state="translated">Webcam access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_CAM_PROT_RULES_ADD">
+        <xlf:target state="translated">Add application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_CAM_PROT_RULES_ADD_NEW_CLASSIC">
+        <xlf:target state="translated">From your apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_CAM_PROT_RULES_ADD_NEW_WINSTORE">
+        <xlf:target state="translated">From Windows Store</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_CAM_PROT_WINSTORE_APPS_TITLE">
+        <xlf:target state="translated">Add apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_CAM_PROT_WINSTORE_EMPTY_DESCRIPTION">
+        <xlf:target state="translated">No Windows Store apps available</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_CAM_PROT_WINSTORE_EMPTY_TITLE">
+        <xlf:target state="translated">Webcam applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_CAM_PROT_WINSTORE_LOADING">
+        <xlf:target state="translated">Loading the application list...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_CAM_PROT_ACTIVITY_DESCRIPTION">
+        <xlf:target state="translated">Recent webcam activity</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_CAM_PROT_ACTIVITY_TITLE">
+        <xlf:target state="translated">Webcam activity</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_CAM_PROT_ACCESS_ALLOWED">
+        <xlf:target state="translated">Webcam access is allowed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_CAM_PROT_ACCESS_ALLOWED_WINSTORE">
+        <xlf:target state="translated">Webcam access is allowed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_CAM_PROT_ACCESS_BLOCKED">
+        <xlf:target state="translated">Webcam access is blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_CAM_PROT_ACCESS_BLOCKED_ALL">
+        <xlf:target state="translated">Webcam access is blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_CAM_PROT_ACCESS_BLOCKED_BROWSERS">
+        <xlf:target state="translated">Webcam access is blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_CAM_PROT_ACCESS_BLOCKED_WINSTORE">
+        <xlf:target state="translated">Webcam access is blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_CAM_PROT_COMMUNITY_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; users:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_CAM_PROT_COMMUNITY_ALLOWED">
+        <xlf:target state="translated">allowed the application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_CAM_PROT_COMMUNITY_BLOCKED">
+        <xlf:target state="translated">blocked the application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_CAM_PROT_COMMUNITY_NO_DATA">
+        <xlf:target state="translated">Gathering data</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_CAM_PROT_WINSTORE_RULE_NAME">
+        <xlf:target state="translated">Windows Store Apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_CAM_PROT_EMPTY_APP_PERMISSIONS">
+        <xlf:target state="translated">Webcam access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_CAM_PROT_EMPTY_DESCRIPTION">
+        <xlf:target state="translated">No application has requested access to your webcam yet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_CAM_PROT_EV_BLOCKED_APP_MSG">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked %s application from gaining access to your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_CAM_PROT_EV_BLOCKED_APP_COMMUNITY_MSG">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked %s application from gaining access to your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_CAM_PROT_EV_BLOCKED_APP_MSG_EXTRA">
+        <xlf:target state="translated">Allow application if you want to use the webcam; keep blocking if you do not recognize the app or do not want to use the webcam right now.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_CAM_PROT_EV_BLOCKED_BROWSER_MSG">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked %s browser from gaining access to your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_CAM_PROT_EV_BLOCKED_BROWSER_COMMUNITY_MSG">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked %s application from gaining access to your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_CAM_PROT_EV_BLOCKED_BROWSER_MSG_EXTRA">
+        <xlf:target state="translated">Allow browser if you want to use the webcam; keep blocking if you did not want to use the webcam right now.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_CAM_PROT_EV_BLOCKED_WINSTORE_MSG">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked a Windows Store app from gaining access to your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_CAM_PROT_EV_BLOCKED_WINSTORE_MSG_EXTRA">
+        <xlf:target state="translated">Allow application if you want to use the webcam; keep blocking if you did not want to use the webcam right now.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_CAM_PROT_EV_ALLOWED_APP_MSG">
+        <xlf:target state="translated">%s application has been allowed to use your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_CAM_PROT_EV_ALLOWED_APP_COMMUNITY_MSG">
+        <xlf:target state="translated">%s application has been allowed to use your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_CAM_PROT_EV_ALLOWED_BROWSER_MSG">
+        <xlf:target state="translated">%s browser has been allowed to use your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_CAM_PROT_EV_ALLOWED_BROWSER_COMMUNITY_MSG">
+        <xlf:target state="translated">%s browser has been allowed to use your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_CAM_PROT_EV_ALLOWED_WINSTORE_MSG">
+        <xlf:target state="translated">A Windows Store app has been allowed to use your webcam.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_CAM_PROT_EV_GENERIC_MSG">
+        <xlf:target state="translated">Click the &quot;Learn more&quot; button below for an informative article on webcam privacy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_CAM_PROT_EV_GENERIC_MSG_LINK">
+        <xlf:target state="translated">To find out more about webcam monitoring threats and how &lt;#ProductName#&gt; protects you, go to our {{0}}Webcam protection article.{{1}}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_MIC_PROT_EV_GENERIC_MSG">
+        <xlf:target state="translated">To find out more about microphone monitoring threats and how &lt;#ProductName#&gt; protects you, click on Learn more.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_MIC_PROT_EV_GENERIC_MSG_LINK">
+        <xlf:target state="translated">To find out more about microphone monitoring threats and how &lt;#ProductName#&gt; protects you, view our {{0}}Microphone activity article.{{1}}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_MIC_PROT_EV_ACCESS_APP_MSG">
+        <xlf:target state="translated">%s application is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_MIC_PROT_EV_ACCESS_APP_COMMUNITY_MSG">
+        <xlf:target state="translated">%s application is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_MIC_PROT_EV_ACCESS_APP_APPREP_MSG">
+        <xlf:target state="translated">%s application is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_MIC_PROT_EV_ACCESS_BROWSER_MSG">
+        <xlf:target state="translated">%s browser is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_MIC_PROT_EV_ACCESS_BROWSER_COMMUNITY_MSG">
+        <xlf:target state="translated">%s browser is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_MIC_PROT_EV_ACCESS_BROWSER_APPREP_MSG">
+        <xlf:target state="translated">%s browser is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_MIC_PROT_EV_ACCESS_WINSTORE_MSG">
+        <xlf:target state="translated">A Windows Store app is accessing your microphone</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_MIC_PROT_WINSTORE_APPS_TITLE">
+        <xlf:target state="translated">Add apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_MIC_PROT_WINSTORE_EMPTY_DESCRIPTION">
+        <xlf:target state="translated">No app can be added to the list.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_MIC_PROT_WINSTORE_EMPTY_TITLE">
+        <xlf:target state="translated">Microphone apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_MIC_PROT_WINSTORE_LOADING">
+        <xlf:target state="translated">Loading the application list...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_MIC_PROT_WINDOW_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Microphone monitor</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_MIC_PROT_PANEL_TITLE">
+        <xlf:target state="translated">Microphone monitor</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_MIC_PROT_RULES_TITLE">
+        <xlf:target state="translated">Microphone monitor</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_MIC_PROT_RULES_ADD">
+        <xlf:target state="translated">Add application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_MIC_PROT_RULES_ADD_NEW_CLASSIC">
+        <xlf:target state="translated">From your apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_MIC_PROT_RULES_ADD_NEW_WINSTORE">
+        <xlf:target state="translated">From Windows Store</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_MIC_PROT_EXPLAIN_MODULE">
+        <xlf:target state="translated">What is Microphone Monitor?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_MIC_PROT_EXPLAIN_MESSAGE_FIRST">
+        <xlf:target state="translated">Microphone monitor notifies when applications access your microphone.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_MIC_PROT_EXPLAIN_MESSAGE_SECOND">
+        <xlf:target state="translated">Any app can access different types of data on your device without your knowledge. Microphone monitor will notify you when unknown apps, custom-compiled loggers or hackers access your microphone to record sound.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_MIC_PROT_EXPLAIN_ADD_APP">
+        <xlf:target state="translated">Start adding applications to the list.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_MIC_PROT_EXPLAIN_ADD_WINSTORE_APP">
+        <xlf:target state="translated">Select Windows Store apps to add to the list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_MIC_PROT_ACTIVITY_DESCRIPTION">
+        <xlf:target state="translated">Recent microphone activity</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_MIC_PROT_ACTIVITY_TITLE">
+        <xlf:target state="translated">Microphone activity</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_MIC_PROT_ACCESS_NOT_NOTIFIED">
+        <xlf:target state="translated">Do not display notification on microphone access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_MIC_PROT_ACCESS_NOT_NOTIFIED_WINSTORE">
+        <xlf:target state="translated">Do not display notification on microphone access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_MIC_PROT_ACCESS_NOTIFIED">
+        <xlf:target state="translated">Display notification on microphone access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_MIC_PROT_ACCESS_NOTIFIED_WINSTORE">
+        <xlf:target state="translated">Display notification on microphone access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_MIC_PROT_ACCESS_NOTIFIED_ALL">
+        <xlf:target state="translated">Display notification on microphone access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_MIC_PROT_ACCESS_NOTIFIED_BROWSERS">
+        <xlf:target state="translated">Display notification on microphone access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_MIC_PROT_COMMUNITY_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; users:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_MIC_PROT_COMMUNITY_ALLOWED">
+        <xlf:target state="translated">Don&apos;t notify on access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_MIC_PROT_COMMUNITY_BLOCKED">
+        <xlf:target state="translated">Notify on access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_MIC_PROT_COMMUNITY_NO_DATA">
+        <xlf:target state="translated">Gathering data</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_MIC_PROT_WINSTORE_RULE_NAME">
+        <xlf:target state="translated">Windows Store Apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="IDS_MIC_PROT_EMPTY_APP_PERMISSIONS">
+        <xlf:target state="translated">Application notifications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="IDS_MIC_PROT_EMPTY_DESCRIPTION">
+        <xlf:target state="translated">No application has accessed your microphone.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="IDS_MIC_PROT_BROWSE_TRUSTED_TITLE">
+        <xlf:target state="translated">Add trusted application</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="IDS_MIC_PROT_INFO_RULES">
+        <xlf:target state="translated">Applications that access your microphone will appear here.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="IDS_MIC_PROT_INFO_RULES_DESC">
+        <xlf:target state="translated">You can specify which apps should trigger a notification upon microphone access.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="IDS_MIC_PROT_RULE_ACTIVITY_NONE">
+        <xlf:target state="translated">No microphone activity</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="IDS_MIC_PROT_RULE_ACTIVITY_SECONDS">
+        <xlf:target state="translated">Last microphone activity: now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="IDS_MIC_PROT_RULE_ACTIVITY_MINUTE">
+        <xlf:target state="translated">Last microphone activity: 1 minute ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="IDS_MIC_PROT_RULE_ACTIVITY_MINUTES">
+        <xlf:target state="translated">Last microphone activity: %d minutes ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="IDS_MIC_PROT_RULE_ACTIVITY_HOUR">
+        <xlf:target state="translated">Last microphone activity: 1 hour ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="IDS_MIC_PROT_RULE_ACTIVITY_HOURS">
+        <xlf:target state="translated">Last microphone activity: %d hours ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="128" resname="IDS_MIC_PROT_RULE_ACTIVITY_DAY">
+        <xlf:target state="translated">Last microphone activity: 1 day ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="129" resname="IDS_MIC_PROT_RULE_ACTIVITY_DAYS">
+        <xlf:target state="translated">Last microphone activity: %d days ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="130" resname="IDS_ADD">
+        <xlf:target state="translated">Add</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="131" resname="IDS_CLOSE">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="132" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="133" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="134" resname="IDS_WAIT">
+        <xlf:target state="translated">Wait...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="135" resname="IDS_DELETE">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="136" resname="IDS_ON">
+        <xlf:target state="translated">On</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="137" resname="IDS_OFF">
+        <xlf:target state="translated">Off</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="138" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="139" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="140" resname="IDS_ENABLED">
+        <xlf:target state="translated">Enabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="141" resname="IDS_DISABLED">
+        <xlf:target state="translated">Disabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="142" resname="IDS_GOT_IT">
+        <xlf:target state="translated">OK, Got it</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

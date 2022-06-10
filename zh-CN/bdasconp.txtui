@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdasconp" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_PLUGIN_NAME">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_LOW">
+        <xlf:target state="translated">Permissive</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_MEDIUM">
+        <xlf:target state="translated">Normal</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_ANTISPAM_PAD_TITLE">
+        <xlf:target state="translated">Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_MANAGE_TITLE">
+        <xlf:target state="translated">Manage</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_MANAGE_TITLE_TTP">
+        <xlf:target state="translated">Manage</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_ANTISPAM_IS">
+        <xlf:target state="translated">Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_ANTISPAM_PAD_TOOLTIP">
+        <xlf:target state="translated">Filters what is not relevant in the Inbox of your local email client (Outlook, Thunderbird).</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_ANTISPAM">
+        <xlf:target state="translated">Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_ANTISPAM_TTP">
+        <xlf:target state="translated">Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_MANAGE_FRIENDS_TTP">
+        <xlf:target state="translated">Manage Friends list (add/remove friends)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_MANAGE_SPAMMERS_TTP">
+        <xlf:target state="translated">Manage Spammers list (add/remove spammers)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_FILTERS_TITLE">
+        <xlf:target state="translated">Spam filters</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_BLOCK_ASIAN">
+        <xlf:target state="translated">Block logograms (Asian)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_BLOCK_ASIAN_DESCR">
+        <xlf:target state="translated">Blocks emails that are encoded with Asian characters</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_BLOCK_CYRILLIC">
+        <xlf:target state="translated">Block Cyrillic</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_BLOCK_CYRILLIC_DESCR">
+        <xlf:target state="translated">Blocks emails that are encoded with Cyrillic characters</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_MANAGE_FRIENDS">
+        <xlf:target state="translated">Manage Friends</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_MANAGE_SPAMMERS">
+        <xlf:target state="translated">Manage Spammers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_SUBMIT_SPAM_TIPTITLE">
+        <xlf:target state="translated">Submit spam samples to Cloud</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_SUBMIT_SPAM_TIPTEXT">
+        <xlf:target state="translated">Allow your spam emails to be sent to &lt;#ProductName#&gt; labs for further analysis, to help improve &lt;#ProductName#&gt; Antispam detection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_SUBMIT_LEGIT_TIPTITLE">
+        <xlf:target state="translated">Submit legit samples to Cloud</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_SUBMIT_LEGIT_TIPTEXT">
+        <xlf:target state="translated">Allow legit emails to be sent to &lt;#ProductName#&gt; labs for further analysis, to help improve &lt;#ProductName#&gt; Antispam detection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_SUBMIT_SPAM_TITLE">
+        <xlf:target state="translated">Submit spam samples</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_SUBMIT_SPAM_DESCR">
+        <xlf:target state="translated">Submit emails you consider to be spam to help us detect similar content in the future.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_SUBMIT_SPAM_ON">
+        <xlf:target state="translated">Activate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_SUBMIT_SPAM_OFF">
+        <xlf:target state="translated">Deactivate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_SUBMIT_SPAM_ASK">
+        <xlf:target state="translated">Ask every time</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_SUBMIT_LEGIT_TITLE">
+        <xlf:target state="translated">Submit legitimate samples</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_SUBMIT_LEGIT_DESCR">
+        <xlf:target state="translated">Submit emails that were incorrectly detected as spam to help us improve our detection algorithms.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_SUBMIT_LEGIT_ON">
+        <xlf:target state="translated">Activate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_SUBMIT_LEGIT_OFF">
+        <xlf:target state="translated">Deactivate</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_SUBMIT_LEGIT_ASK">
+        <xlf:target state="translated">Ask every time</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_TEXT_ON">
+        <xlf:target state="translated">On</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_TEXT_OFF">
+        <xlf:target state="translated">Off</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_BWLIST_RADIO_EMAIL">
+        <xlf:target state="translated">E-mail address</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_BWLIST_RADIO_DOMAIN">
+        <xlf:target state="translated">Domain name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_BWLIST_BTN_ADD">
+        <xlf:target state="translated">Add</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_BWLIST_BTN_SAVE">
+        <xlf:target state="translated">Save</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_BWLIST_BTN_LOAD">
+        <xlf:target state="translated">Load</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_BWLIST_BTN_CLEAR">
+        <xlf:target state="translated">Clear List</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_BWLIST_BTN_REMOVE">
+        <xlf:target state="translated">Remove</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_BWLIST_CHK_OVERWRITE">
+        <xlf:target state="translated">Overwrite current list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_MSGBOX_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_ADDRESS_NOT_VALID">
+        <xlf:target state="translated">Please enter a valid email address, e.g. address@domain.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_DOMAIN_NOT_VALID">
+        <xlf:target state="translated">Please enter a valid domain, e.g. @domain.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="_IDS_BWLIST_BTN_REMOVE">
+        <xlf:source />
+        <xlf:target state="translated" />
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

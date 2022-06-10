@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="vshield" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_VSHIELD_PLUGIN_NAME">
+        <xlf:target state="translated">Advanced</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_ANTIVIRUS_PAD_TITLE">
+        <xlf:target state="translated">Antivirus</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_ANTIVIRUS_PAD_BUTTON">
+        <xlf:target state="translated">Open</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_ACTIVATE_FEATURE">
+        <xlf:target state="translated">Activate protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_SHIELD_TITLE">
+        <xlf:target state="translated">Shield</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_MB_TEXT">
+        <xlf:target state="translated">MB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_REALTIME_PROTECTION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Shield</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_DISABLE_PROT_MAIN">
+        <xlf:target state="translated">You are about to disable the protection against threats.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_SCAN_ARCHIVES">
+        <xlf:target state="translated">Scan archives</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_LIMITARCH">
+        <xlf:target state="translated">Ignore archives greater than</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_SCAN_APPLICATIONS">
+        <xlf:target state="translated">Scan only applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_SCAN_PUA">
+        <xlf:target state="translated">Scan potentially unwanted applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_SCAN_SCRIPTS">
+        <xlf:target state="translated">Scan scripts</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_SCAN_NETSH">
+        <xlf:target state="translated">Scan network shares</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_DISABLE_PROT_SECOND">
+        <xlf:target state="translated">How long do you want to keep the protection disabled?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_SCANBOOT">
+        <xlf:target state="translated">Scan boot sectors</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_NEWCHFILES">
+        <xlf:target state="translated">Scan only new and modified files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_SCAN_KEYLOG">
+        <xlf:target state="translated">Scan keyloggers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_TAKEPROPERACTION">
+        <xlf:target state="translated">Take proper actions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_MOVETOQUARACTION">
+        <xlf:target state="translated">Move to quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_SCAN_DENYACCESSACTION">
+        <xlf:target state="translated">Deny access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_SCANSYSBOOT">
+        <xlf:target state="translated">Early boot scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_SHIELD_PRESENTATION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Shield actively protects your device from threats by detecting and removing malicious software.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_AFTER_SCAN_ACTIONS">
+        <xlf:target state="translated">Threat actions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_RESET">
+        <xlf:target state="translated">Reset advanced settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_RESET_DESCRIPTION">
+        <xlf:target state="translated">This will reset your advanced settings to default.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_RESET_CONFIRMATION">
+        <xlf:target state="translated">Are you sure you want to reset your &lt;#ProductName#&gt; Shield settings to default?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_ANTIVIRUS_PAD_TOOLTIP">
+        <xlf:target state="translated">Real-time protection blocks any threat from running on your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_SCAN_APPLICATIONS_DESCRIPTION">
+        <xlf:target state="translated">Scans only accessed applications for threats that may compromise your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_SCAN_PUA_DESCRIPTION">
+        <xlf:target state="translated">Scans for undesirable applications such as adware or spyware.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_SCAN_SCRIPTS_DESCRIPTION">
+        <xlf:target state="translated">Scans different applications for scripts that might harm your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_SCAN_NETSH_DESCRIPTION">
+        <xlf:target state="translated">Scan network paths when you access them to ensure the protection of your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_SCAN_ARCHIVES_DESCRIPTION">
+        <xlf:target state="translated">Scans for threats inside different types of archives.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_SCANBOOT_DESCRIPTION">
+        <xlf:target state="translated">Scans the device for threats that might alter the boot sequence.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_NEWCHFILES_DESCRIPTION">
+        <xlf:target state="translated">Scans only files that are new on your device or files that have been modified.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_SCAN_KEYLOG_DESCRIPTION">
+        <xlf:target state="translated">Scans the device for keyloggers that may capture personal data such as passwords.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_SCANSYSBOOT_DESCRIPTION">
+        <xlf:target state="translated">Scans your device at startup as soon as all critical services are loaded.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_AFTER_SCAN_ACTIONS_DESCRIPTION">
+        <xlf:target state="translated">Automatic actions to be taken on found threats.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_UPGRADE_TO_UNLOCK">
+        <xlf:target state="translated">Upgrade to unlock this feature</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

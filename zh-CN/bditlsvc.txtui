@@ -1,0 +1,559 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bditlsvc" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="_ALERT___wndtitle">
+        <xlf:target state="translated">Web Protection by &lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="_ALERT___title">
+        <xlf:target state="translated">&lt;span&gt;Web Protection by &lt;/span&gt;&lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="_ALERT___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="_ALERT___gohome">
+        <xlf:target state="translated">Take me back to safety</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="_ALERT___proceed">
+        <xlf:target state="translated">I understand the risks, take me there anyway</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="_ALERT___addtowhitelist">
+        <xlf:target state="translated">If you know this page is not dangerous, you can {%WHITELIST.ASTART%}add it to your Exceptions list{%WHITELIST.ASTOP%} of trusted websites. Be aware that you will not be warned about any threats existing on this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="_ALERT___password_title">
+        <xlf:target state="translated">The web page you are trying to access contains dangerous URLs and it will be skipped from scan.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="_ALERT___password_label">
+        <xlf:target state="translated">To continue this operation you must enter the product password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="_ALERT___password_error">
+        <xlf:target state="translated">The password you have entered is not valid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="_ALERT___password_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="_ALERT___password_CANCEL">
+        <xlf:target state="translated">CANCEL</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="_LS_GREEN___title">
+        <xlf:target state="translated">This page is safe</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="_LS_GREEN___content">
+        <xlf:target state="translated">We could not find any suspect elements on this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="_LS_YELLOW___title">
+        <xlf:target state="translated">This page might be unsafe</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="_LS_YELLOW___content">
+        <xlf:target state="translated">We detected elements that may harm your computer.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="_LS_RED___title">
+        <xlf:target state="translated">This page is unsafe</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="_LS_RED___content">
+        <xlf:target state="translated">We detected elements that may harm your computer.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="_LS_PROTECTION___title">
+        <xlf:target state="translated">Web Protection by &lt;strong&gt;&lt;#ProductName#&gt;&lt;/strong&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="_UNTRUSTED___subject">
+        <xlf:target state="translated">Suspicious web page detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="_UNTRUSTED___event">
+        <xlf:target state="translated">The page {%url|http_host|cremote_ip|dst_ip%} has been detected with suspicious activity. It is not recommended to continue browsing this website.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="_UNTRUSTED_APP___event">
+        <xlf:target state="translated">The page {%url|http_host|cremote_ip|dst_ip%} has been detected with suspicious activity. It is not recommended to continue browsing this website.&#10;Accessed by: {%process.name%}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="_SPAM___subject">
+        <xlf:target state="translated">Suspicious web page detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="_SPAM___event">
+        <xlf:target state="translated">The webpage {%url|http_host|cremote_ip|dst_ip%} has been detected as suspicious. Although the page is not blocked, it is not recommended to continue browsing this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="_SPAM_APP___event">
+        <xlf:target state="translated">The webpage {%url|http_host|cremote_ip|dst_ip%} has been detected as suspicious. Although the page is not blocked, it is not recommended to continue browsing this page.&#10;Accessed by: {%process.name%}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="_MALWARE___title">
+        <xlf:target state="translated">Threat detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="_MALWARE___safe">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked a threat.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="_MALWARE_APP___safe">
+        <xlf:target state="translated">&lt;#ProductName#&gt; blocked a threat accessed by application {%process.name%}.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="_MALWARE___yourprotection">
+        <xlf:target state="translated">Dangerous page blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="_MALWARE___alert">
+        <xlf:target state="translated">Dangerous pages attempt to install software that can harm the device, gather personal information or operate without your consent.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="_MALWARE___subject">
+        <xlf:target state="translated">Infected web page detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="_MALWARE___event">
+        <xlf:target state="translated">We blocked this dangerous page for your protection:&#10;{%url|http_host|cremote_ip|dst_ip%}&#10;Dangerous pages attempt to install software that can harm the device, gather personal information or operate without your consent.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="_MALWARE_APP___subject">
+        <xlf:target state="translated">Infected web resource detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="_MALWARE_APP___event">
+        <xlf:target state="translated">We blocked this dangerous page for your protection:&#10;{%url|http_host|cremote_ip|dst_ip%}&#10;Accessed by: {%process.name%}&#10;Dangerous pages attempt to install software that can harm the device, gather personal information or operate without your consent.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="_PHISHING___yourprotection">
+        <xlf:target state="translated">Phishing page blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="_PHISHING___alert">
+        <xlf:target state="translated">Phishing pages attempt to obtain sensitive information such as login credentials or credit card details by disguising as trustworthy entities. The stolen data can be then used for financial gain.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="_PHISHING___subject">
+        <xlf:target state="translated">Phishing attempt detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="_PHISHING___event">
+        <xlf:target state="translated">We blocked this phishing page for your protection:&#10;{%url|http_host|cremote_ip|dst_ip%}&#10;Phishing pages attempt to obtain sensitive information such as login credentials or credit card details by disguising as trustworthy entities. The stolen data can be then used for financial gain.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="_PHISHING_APP___event">
+        <xlf:target state="translated">We blocked this phishing page for your protection:&#10;{%url|http_host|cremote_ip|dst_ip%}&#10;Accessed by: {%process.name%}&#10;Phishing pages attempt to obtain sensitive information such as login credentials or credit card details by disguising as trustworthy entities. The stolen data can be then used for financial gain.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="_FRAUD___yourprotection">
+        <xlf:target state="translated">Fraudulent page blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="_FRAUD___alert">
+        <xlf:target state="translated">Fraudulent pages usually attempt to trick you into sending money with the intent of obtaining unlawful gain.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="_FRAUD___subject">
+        <xlf:target state="translated">A fraud attempt detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="_FRAUD___event">
+        <xlf:target state="translated">We blocked this fraudulent page for your protection:&#10;{%url|http_host|cremote_ip|dst_ip%}&#10;Fraudulent pages use deceptive techniques with the intent of obtaining unlawful gain. For example, a fake online shop can trick the victim into sending money in advance without delivering the order.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="_FRAUD_APP___event">
+        <xlf:target state="translated">We blocked this fraudulent page for your protection:&#10;{%url|http_host|cremote_ip|dst_ip%}&#10;Accessed by: {%process.name%}&#10;Fraudulent pages use deceptive techniques with the intent of obtaining unlawful gain. For example, a fake online shop can trick the victim into sending money in advance without delivering the order.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="_VIRUS___event">
+        <xlf:target state="translated">We blocked this dangerous page for your protection:&#10;{%url|http_host|cremote_ip|dst_ip%}&#10;Threat name: {%VIRNAME%}&#10;Dangerous pages attempt to install software that can harm the device, gather personal information or operate without your consent.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="_VIRUS_APP___event">
+        <xlf:target state="translated">We blocked this dangerous page for your protection:&#10;{%url|http_host|cremote_ip|dst_ip%}&#10;Accessed by: {%process.name%}&#10;Threat name: {%VIRNAME%}&#10;Dangerous pages attempt to install software that can harm the device, gather personal information or operate without your consent.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="_GUSTER___yourprotection">
+        <xlf:target state="translated">Untrusted page blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="_GUSTER___alert">
+        <xlf:target state="translated">Untrusted pages exhibit suspicious behavior or particularities we deem risky, therefore you should avoid accessing them to keep your data unharmed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="_MINER___yourprotection">
+        <xlf:target state="translated">Miner page blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="_MINER___alert">
+        <xlf:target state="translated">Miner pages use the device&apos;s resources to mine for cryptocurrency, impacting its usability and hardware life span.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="_MINER___subject">
+        <xlf:target state="translated">Mining script has been detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="_MINER___event">
+        <xlf:target state="translated">We blocked this page for your device protection:&#10;{%url|http_host|cremote_ip|dst_ip%}&#10;Miner pages use the device&apos;s resources to mine for cryptocurrency, impacting its usability and hardware life span.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="_MINER_APP___event">
+        <xlf:target state="translated">We blocked this page for your device protection:&#10;{%url|http_host|cremote_ip|dst_ip%}&#10;Miner pages use the device&apos;s resources to mine for cryptocurrency, impacting its usability and hardware life span.&#10;Accessed by: {%process.name%}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="_PUA___yourprotection">
+        <xlf:target state="translated">A download was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="_PUA___alert">
+        <xlf:target state="translated">The page attempted to download a PUA (Potentially Unwanted App) to your device. This type of apps exhibit behaviors that impact the privacy and security of your device and data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="_PUA___subject">
+        <xlf:target state="translated">Download of potentially unwanted app has been detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="_PUA___event">
+        <xlf:target state="translated">We blocked this page for your protection:&#10;{%url|http_host|cremote_ip|dst_ip%}&#10;The page attempted to download a PUA (Potentially Unwanted App) to your device. This type of apps exhibit behaviors that impact the privacy and security of your device and data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="_PUA_APP___event">
+        <xlf:target state="translated">We blocked this page for your protection:&#10;{%url|http_host|cremote_ip|dst_ip%}&#10;Accessed by: {%process.name%}&#10;The page attempted to download a PUA (Potentially Unwanted App) to your device. This type of apps exhibit behaviors that impact the privacy and security of your device and data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="_CERT___title">
+        <xlf:target state="translated">Suspicious connection blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="_CERT___safe">
+        <xlf:target state="translated">We just blocked a suspicious connection attempt to keep your device and data intact. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="_CERT___yourprotection">
+        <xlf:target state="translated">Suspicious page blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="_CERT_ERROR___alert">
+        <xlf:target state="translated">The certificate used to encrypt your connection to this page could not be verified.&lt;br&gt;You shouldn&apos;t trust the identity of the page if a certificate has this issue, as you risk exposing your data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="_CERT_UNTRUSTED___alert">
+        <xlf:target state="translated">Your connection to this web page is not safe due to an untrusted security certificate.&lt;br&gt;Phishing sites often use fake certificates that trigger this alert, and their goal is to obtain your sensitive information.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="_CERT_REVOKED___alert">
+        <xlf:target state="translated">Your connection to this web page is not safe due to a revoked security certificate.&lt;br&gt;Revoked certificates are usually fraudulently obtained or used and represent a risk for the way your data is handled.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="_CERT_EXPIRED___alert">
+        <xlf:target state="translated">Your connection to this web page is not safe due to an expired security certificate.&lt;br&gt;Web pages must renew their certificates to stay current, and outdated security certificates represent a risk for your data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="_CERT_SELFSIGNED___alert">
+        <xlf:target state="translated">Your connection to this web page is not safe due to a self-signed security certificate.&lt;br&gt;Self-signed certificates cannot be verified by a trusted Certificate Authority, hence you run the risk of having your data exposed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="_CERT_WRONGHOST___alert">
+        <xlf:target state="translated">Your connection to this web page is not safe due to an unmatching security certificate.&lt;br&gt;This means that the certificate was issued for a different web address than the one it is being used for, and you run the risk of exposing your data by accessing this page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="_CERT___alert">
+        <xlf:target state="translated">Your connection to this web page is not safe.&lt;br&gt;You shouldn&apos;t trust the identity of the site if a certificate has this issue, as you risk exposing your data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="_CERT___subject">
+        <xlf:target state="translated">Suspicious connection blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="_CERT_ERROR___event">
+        <xlf:target state="translated">{%process.name%} attempted to establish a connection that could not be verified to {%http_host|cremote_ip|dst_ip%}. To avoid risking your data being sent in an unsecured manner to an unknown receiver we recommend you to end this type of connections.&#10;However, we will keep you protected against threats that might be delivered using such connections.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="_CERT_UNTRUSTED___event">
+        <xlf:target state="translated">{%process.name%} attempted to establish a connection relying on an untrusted certificate to {%http_host|cremote_ip|dst_ip%}. We blocked the connection to keep your data safe since untrusted certificates are issued by unrecognized Certificate Authorities.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="_CERT_REVOKED___event">
+        <xlf:target state="translated">{%process.name%} attempted to establish a connection relying on a revoked certificate to {%http_host|cremote_ip|dst_ip%}. We blocked the connection to keep your data safe since revoked certificates are usually fraudulently obtained or used.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="_CERT_EXPIRED___event">
+        <xlf:target state="translated">{%process.name%} attempted to establish a connection relying on an expired certificate to {%http_host|cremote_ip|dst_ip%}. We blocked the connection to keep your data safe since websites must renew their certificates with a certification authority to stay current, and outdated security certificates represent a risk.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="_CERT_SELFSIGNED___event">
+        <xlf:target state="translated">{%process.name%} attempted to establish a connection relying on a self-signed certificate to {%http_host|cremote_ip|dst_ip%}. We blocked the connection to keep your data safe since a self-signed certificate cannot be verified by a trusted Certificate Authority.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="_CERT_WRONGHOST___event">
+        <xlf:target state="translated">{%process.name%} attempted to establish a connection relying on an unmatching security certificate to {%http_host|cremote_ip|dst_ip%}. We blocked the connection to keep your data safe since the used certificate was issued for a different web address than the targeted one.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="_CERT___event">
+        <xlf:target state="translated">{%process.name%} attempted to establish a connection relying on an unsafe certificate to {%http_host|cremote_ip|dst_ip%}. We blocked the connection to prevent your data from being sent in an unsecured manner to an unknown receiver.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="_COMMANDINJECTION_LOGIN___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="_COMMANDINJECTION_LOGIN___safe">
+        <xlf:target state="translated">We just protected your device from an attack that threatened your data privacy. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="_COMMANDINJECTION_LOGIN___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="_COMMANDINJECTION_LOGIN___alert">
+        <xlf:target state="translated">An attack that threatened your data privacy was prevented on this page. View more details about the attack in the Notifications area of your &lt;#ProductName#&gt; security solution.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="_COMMANDINJECTION_LOGIN___subject">
+        <xlf:target state="translated">Exploit attempt blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="_COMMANDINJECTION_LOGIN___event">
+        <xlf:target state="translated">An attempt to inject a command towards your system through a vulnerable app was made by {%cremote_ip|dst_ip%} using the {%protocol%} protocol. We blocked the connection to prevent malicious commands from being executed on the device and across the network.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="_LOGINTOOLONG___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="_LOGINTOOLONG___safe">
+        <xlf:target state="translated">We just protected your device from an attack that threatened your data privacy. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="_LOGINTOOLONG___subject">
+        <xlf:target state="translated">Exploit attempt blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="_LOGINTOOLONG___event">
+        <xlf:target state="translated">An attempt to inject a command towards your system through a vulnerable app was made by {%cremote_ip|dst_ip%} using the {%protocol%} protocol. We blocked the connection to prevent malicious commands from being executed on the device and across the network.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="_EXECRITICALLOCATION___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="_EXECRITICALLOCATION___safe">
+        <xlf:target state="translated">We just protected your device from an attack that threatened your data privacy. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="_EXECRITICALLOCATION___subject">
+        <xlf:target state="translated">Exploit attempt blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="_EXECRITICALLOCATION___event">
+        <xlf:target state="translated">An attempt to access a restricted system location was made by a suspicious executable file: {%file_name|filename|process.name%}. We blocked the access to prevent the file from altering critical system data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="_SYSTEM32WRITE___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="_SYSTEM32WRITE___safe">
+        <xlf:target state="translated">We just protected your device from an attack that threatened your data privacy. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="_SYSTEM32WRITE___subject">
+        <xlf:target state="translated">Exploit attempt blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="_SYSTEM32WRITE___event">
+        <xlf:target state="translated">An attempt to access a system location was made by a suspicious executable file: {%file_name|filename|process.name%}. We blocked the access to prevent the file from altering critical system data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="_DOUBLEEXTENSION___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="_DOUBLEEXTENSION___safe">
+        <xlf:target state="translated">We just protected your device from an attack that threatened your data privacy. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="_DOUBLEEXTENSION___subject">
+        <xlf:target state="translated">Exploit attempt blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="_DOUBLEEXTENSION___event">
+        <xlf:target state="translated">An attempt to access a system share location was made by a suspicious executable file: {%file_name|filename|process.name%}. The file used a double extension to try to pass off as legitimate and trick someone into opening it, thus we blocked it.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="_BRUTEFORCE_FSTH___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="_BRUTEFORCE_FSTH___safe">
+        <xlf:target state="translated">We just protected your data from an attempt to steal your password. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="_BRUTEFORCE_FSTH___subject">
+        <xlf:target state="translated">Bruteforce attack blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="_BRUTEFORCE_FSTH___event">
+        <xlf:target state="translated">Multiple failed login attempts were made by {%cremote_ip|dst_ip%} using the {%protocol%} protocol. We blocked the connection to stop the attacker from gaining access to your credentials and compromise your privacy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="_BRUTEFORCE___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="_BRUTEFORCE___safe">
+        <xlf:target state="translated">We just protected your data from an attempt to steal your password. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="_BRUTEFORCE___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="_BRUTEFORCE___alert">
+        <xlf:target state="translated">An attack meant to steal your password was prevented on this page. View more details about the attack in the Notifications area of your &lt;#ProductName#&gt; security solution.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="_BRUTEFORCE___subject">
+        <xlf:target state="translated">Bruteforce attack blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="_BRUTEFORCE___event">
+        <xlf:target state="translated">Multiple failed login attempts were made by {%cremote_ip|dst_ip%}. We blocked the connection to stop the attacker from gaining access to your credentials and compromise your privacy.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="_LOCALFILEINCLUSION___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="_LOCALFILEINCLUSION___safe">
+        <xlf:target state="translated">We just stopped a suspicious external source from accessing your data. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="_LOCALFILEINCLUSION___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="_LOCALFILEINCLUSION___alert">
+        <xlf:target state="translated">An attack that threatened your data privacy was prevented on this page. View more details about the attack in the Notifications area of your &lt;#ProductName#&gt; security solution.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="_LOCALFILEINCLUSION___subject">
+        <xlf:target state="translated">External access attempt blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="_LOCALFILEINCLUSION___event">
+        <xlf:target state="translated">An attempt to access your files from an external source was made by {%cremote_ip|dst_ip%}. We blocked the connection to prevent remote code execution on your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="_BOT___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="_BOT___safe">
+        <xlf:target state="translated">A suspicious connection was blocked for your device and data protection. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="_BOT___subject">
+        <xlf:target state="translated">Suspicious connection blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="_BOT___event">
+        <xlf:target state="translated">Activity resembling botnet behavior was made by {%cremote_ip|dst_ip%}. We blocked the connection to prevent the infection of your device which would have been used to propagate the threat.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="_COMMANDINJECTION_x___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="_COMMANDINJECTION_x___safe">
+        <xlf:target state="translated">We just protected your device from an attack that threatened your data privacy. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="_COMMANDINJECTION_x___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="_COMMANDINJECTION_x___alert">
+        <xlf:target state="translated">An attack that threatened your data privacy was prevented on this page.&lt;br&gt;View more details about the attack in the Notifications area of your &lt;#ProductName#&gt; security solution.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="_COMMANDINJECTION_x___subject">
+        <xlf:target state="translated">Exploit attempt blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="_COMMANDINJECTION_x___event">
+        <xlf:target state="translated">An attempt to inject a command towards your system through a dangerous URL was made by {%cremote_ip|dst_ip%}. We blocked the connection to prevent malicious commands from being executed on the device and across the network.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="_EXPLOIT___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="_EXPLOIT___safe">
+        <xlf:target state="translated">We just protected your device from an attack that threatened your data privacy. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="_EXPLOIT___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="_EXPLOIT___alert">
+        <xlf:target state="translated">An attack that threatened your data privacy was prevented on this page. View more details about the attack in the Notifications area of your &lt;#ProductName#&gt; security solution.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="128" resname="_EXPLOIT___subject">
+        <xlf:target state="translated">Exploit attempt blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="129" resname="_EXPLOIT___event">
+        <xlf:target state="translated">An attempt to access your device by exploiting a vulnerability was made by {%cremote_ip|dst_ip%}. We blocked the connection to prevent the attacker from gaining access over your data and system resources.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="130" resname="_TROJAN___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="131" resname="_TROJAN___safe">
+        <xlf:target state="translated">We just protected your device and data from malicious traffic activity. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="132" resname="_TROJAN___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="133" resname="_TROJAN___alert">
+        <xlf:target state="translated">An attack that threatened your data privacy was prevented on this page. View more details about the attack in the Notifications area of your &lt;#ProductName#&gt; security solution.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="134" resname="_TROJAN___subject">
+        <xlf:target state="translated">Malicious traffic activity blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="135" resname="_TROJAN___event">
+        <xlf:target state="translated">Traffic involving malicious components was made by {%cremote_ip|dst_ip%}. We blocked the connection to prevent this type of traffic from affecting your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="136" resname="_DIRECTORYTRAVERSAL___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="137" resname="_DIRECTORYTRAVERSAL___safe">
+        <xlf:target state="translated">We just protected your device from an attack that threatened your data privacy. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="138" resname="_DIRECTORYTRAVERSAL___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="139" resname="_DIRECTORYTRAVERSAL___alert">
+        <xlf:target state="translated">An attack that threatened your data privacy was prevented on this page. View more details about the attack in the Notifications area of your &lt;#ProductName#&gt; security solution.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="140" resname="_DIRECTORYTRAVERSAL___subject">
+        <xlf:target state="translated">Exploit attempt blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="141" resname="_DIRECTORYTRAVERSAL___event">
+        <xlf:target state="translated">A directory traversal exploit attempt was made by {%http_host|cremote_ip|dst_ip%}. We blocked the connection to prevent it from gaining unauthorized access and altering critical system data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="142" resname="_SQLINJECTION___title">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="143" resname="_SQLINJECTION___safe">
+        <xlf:target state="translated">We just protected your device from an attack that threatened your data privacy. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="144" resname="_SQLINJECTION___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="145" resname="_SQLINJECTION___alert">
+        <xlf:target state="translated">An attack that threatened your data privacy was prevented on this page. View more details about the attack in the Notifications area of your &lt;#ProductName#&gt; security solution.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="146" resname="_SQLINJECTION___subject">
+        <xlf:target state="translated">Exploit attempt blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="147" resname="_SQLINJECTION___event">
+        <xlf:target state="translated">An SQL injection attempt was made by {%http_host|file|cremote_ip|dst_ip%}. We blocked the connection to prevent the attacker from tampering with sensitive data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="148" resname="_PRIVACY_PASSWORD___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="149" resname="_PRIVACY_PASSWORD___safe">
+        <xlf:target state="translated">We just blocked a connection to prevent your password being sent unencrypted, in plain text. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="150" resname="_PRIVACY_PASSWORD___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="151" resname="_PRIVACY_PASSWORD___alert">
+        <xlf:target state="translated">An attempt to send your password unencrypted, in plain text, was prevented on this page. View more details in the Notifications area of your &lt;#ProductName#&gt; security solution.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="152" resname="_PRIVACY_PASSWORD___subject">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="153" resname="_PRIVACY_PASSWORD___event">
+        <xlf:target state="translated">An attempt to send your password unencrypted was about to occur on {%http_host|cremote_ip|dst_ip%}. We blocked the connection to stop your private data from being exposed and tampered with.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="154" resname="_PRIVACY_BANKINFO___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="155" resname="_PRIVACY_BANKINFO___safe">
+        <xlf:target state="translated">We just blocked a connection to prevent your sensitive data from being sent unencrypted. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="156" resname="_PRIVACY_BANKINFO___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="157" resname="_PRIVACY_BANKINFO___alert">
+        <xlf:target state="translated">An attempt to send your sensitive data unencrypted, in plain text, was prevented on this page. View more details in the Notifications area of your &lt;#ProductName#&gt; security solution.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="158" resname="_PRIVACY_BANKINFO___subject">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="159" resname="_PRIVACY_BANKINFO___event">
+        <xlf:target state="translated">An attempt to send your private banking data unencrypted was about to occur on {%http_host|cremote_ip|dst_ip%}. We blocked the connection to stop your sensitive data from being exposed and used for illicit purposes.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="160" resname="_PRIVACY_DATA___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="161" resname="_PRIVACY_DATA___safe">
+        <xlf:target state="translated">We just blocked a connection to prevent your sensitive data from being sent unencrypted. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="162" resname="_PRIVACY_DATA___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="163" resname="_PRIVACY_DATA___alert">
+        <xlf:target state="translated">Connection to {%http_host|cremote_ip|dst_ip%} was blocked to prevent you from sending sensitive information unencrypted. Websites that don&apos;t encrypt the information you send expose your sensitive information to attackers.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="164" resname="_PRIVACY_DATA___subject">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="165" resname="_PRIVACY_DATA___event">
+        <xlf:target state="translated">An attempt to send your private data unencrypted was about to occur on {%http_host|cremote_ip|dst_ip%}. We blocked the connection to stop your sensitive data from being exposed and used for illicit purposes.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="166" resname="_PRIVACY_PLAINTEXT___title">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="167" resname="_PRIVACY_PLAINTEXT___safe">
+        <xlf:target state="translated">We just blocked a connection to prevent your login credentials from being sent unencrypted. You&apos;re safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="168" resname="_PRIVACY_PLAINTEXT___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="169" resname="_PRIVACY_PLAINTEXT___alert">
+        <xlf:target state="translated">An attempt to send your sensitive data unencrypted, in plain text, was prevented on this page. View more details in the Notifications area of your &lt;#ProductName#&gt; security solution.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="170" resname="_PRIVACY_PLAINTEXT___subject">
+        <xlf:target state="translated">Privacy threat blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="171" resname="_PRIVACY_PLAINTEXT___event">
+        <xlf:target state="translated">An attempt to send your login credentials unencrypted was about to occur on {%http_host|cremote_ip|dst_ip%}. We blocked the connection to stop your sensitive data from being exposed and tampered with.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="172" resname="_SAV___title">
+        <xlf:target state="translated">Threat detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="173" resname="_SAV___safe">
+        <xlf:target state="translated">Connection to {%cremote_ip|dst_ip%} was blocked for your protection. Your device is safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="174" resname="_SAV___yourprotection">
+        <xlf:target state="translated">This page was blocked for your protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="175" resname="_SAV___alert">
+        <xlf:target state="translated">Connection to {%cremote_ip|dst_ip%} was blocked for your protection.Your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="176" resname="_SAV___subject">
+        <xlf:target state="translated">Threat attempt blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="177" resname="_SAV___event">
+        <xlf:target state="translated">Connection to {%http_host|cremote_ip|dst_ip%} was blocked for your protection. Your device is safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="178" resname="IDS_POP3_REPLY_SUBJECT">
+        <xlf:target state="translated">&lt;#ProductName#&gt; detected an infected message</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="179" resname="IDS_POP3_REPLY_BODY">
+        <xlf:target state="translated">&lt;#ProductName#&gt; detected and blocked an infected message addressed to you. Your computer has NOT been infected.&#13;&#10;&#13;&#10;E-mail subject: {SUBJECT}&#13;&#10;From: {FROM}&#13;&#10;Threat name: {THREATNAME}&#13;&#10;Action taken: blocked and deleted&#13;&#10;&#13;&#10;This message was generated by the &lt;#ProductName#&gt; Scanner running on your computer. Please do not reply to this e-mail.&#13;&#10;Kind regards,&#13;&#10;The &lt;#ProductName#&gt; Team</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="180" resname="IDS_MAIL_REPLY_FROM">
+        <xlf:target state="translated">&lt;#ProductName#&gt; &lt;noreply@domain.com&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="181" resname="IDS_SMTP_REPLY_BODY">
+        <xlf:target state="translated">&lt;#ProductName#&gt; detected and blocked an infected message that was about to be sent from your device. To ensure that your device is threat-free, we recommend you to perform a System Scan.&#13;&#10;&#13;&#10;E-mail subject: {SUBJECT}&#13;&#10;To: {TO}&#13;&#10;Threat Name: {THREATNAME}&#13;&#10;Action taken: blocked and deleted&#13;&#10;&#13;&#10;This message was generated by the &lt;#ProductName#&gt; Scanner running on your computer. Please do not reply to this e-mail.&#13;&#10;Kind regards,&#13;&#10;&lt;#ProductName#&gt; Team</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="182" resname="IDS_SMTP_REPLY_SUBJECT">
+        <xlf:target state="translated">&lt;#ProductName#&gt; detected an infected message</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="183" resname="_OBKUPSELL___title">
+        <xlf:target state="translated">&lt;#FullProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="184" resname="_OBKUPSELL___safe">
+        <xlf:target state="translated">When working with banking websites, every transaction is sensitive. Protect your online transactions and prevent data loss with &lt;#ProductName#&gt; Total Security.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

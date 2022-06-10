@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="onboarding" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_WINDOW_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Device Assessment Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_SAFE_DEVICE">
+        <xlf:target state="translated">Your device is safe</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_STEP1_SCANNED">
+        <xlf:target state="translated">Scanned items:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_STEP1_ELAPSED">
+        <xlf:target state="translated">Elapsed time:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_STEP1_RESOLVED">
+        <xlf:target state="translated">Resolved threats:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_STEP1_UNRESOLVED">
+        <xlf:target state="translated">Unresolved threats:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_ANALYZING_DEVICE_TITLE">
+        <xlf:target state="translated">Analyzing your device...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_ANALYZING_DEVICE">
+        <xlf:target state="translated">An initial security assessment is being performed. After the analysis is complete, we will recommend different actions if necessary.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_STEP1_HEADER">
+        <xlf:target state="translated">Scanning for threats and attack traces</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_NOTIFY_ANALYSIS_FINISHED">
+        <xlf:target state="translated">Do you want to be notified when the analysis finishes?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_AT_RISK_DEVICE">
+        <xlf:target state="translated">Your device is at risk!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_SUMMARY_NO_THREATS">
+        <xlf:target state="translated">There were no threats or attack traces found on your system during the device assessment scan.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_SUMMARY_NO_THREATS_TRACES">
+        <xlf:target state="translated">There were no threats found on your device but some traces from past attacks were detected during the device assessment scan.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_SUMMMARY_THREATS_RESOLVED">
+        <xlf:target state="translated">Several threats were detected and resolved during the device assessment scan.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_SUMMARY_THRREATS_UNRESOLVED">
+        <xlf:target state="translated">Several threats were detected during the device assessment scan. We recommend running a System Scan to fully remove them.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_RESULTS_THREATS">
+        <xlf:target state="translated">Threats</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_NO_THREATS">
+        <xlf:target state="translated">No threats detected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_THREATS_RESOLVED">
+        <xlf:target state="translated">{0} threats were detected and resolved.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_THREATS_UNRESOLVED">
+        <xlf:target state="translated">{0} threats were detected and could not be resolved.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_RUN_IN_BACKGROUND">
+        <xlf:target state="translated">Run Scan in Background</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_VIEW_LOG">
+        <xlf:target state="translated">View Log</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_OPEN_MAIN_UI_TITLE">
+        <xlf:target state="translated">You can now start using your &lt;#ProductName#&gt; security product to:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_SECURITY_STATUS">
+        <xlf:target state="translated">View the protection status of your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_PRODUCT_FEATURES">
+        <xlf:target state="translated">Access all security and privacy features</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_INSTALL_PROTECTION">
+        <xlf:target state="translated">Install protection on other devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_OPEN_MAIN_UI">
+        <xlf:target state="translated">Start Using &lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_CREATE_ACCOUNT_TITLE">
+        <xlf:target state="translated">Create a &lt;#ProductName#&gt; Account to start using everything included in your security product:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_REAL_TIME_PROTECTION">
+        <xlf:target state="translated">Real-time protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_PRODUCT_FEATURES_ACCESS">
+        <xlf:target state="translated">Access to all security and privacy features</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_REMOTE_MANAGEMENT">
+        <xlf:target state="translated">Remote device management</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_CREATE_ACCOUNT">
+        <xlf:target state="translated">Create &lt;#ProductName#&gt; Account</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_IOC_S1_TRACES">
+        <xlf:target state="translated">Attack traces</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_IOC_S1_TRACES_TTP1">
+        <xlf:target state="translated">Even though your device might not currently exhibit malicious behavior or may be threat-free, we are also looking for traces of past attacks that could have compromised its security.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_IOC_S2_TRACES_0">
+        <xlf:target state="translated">No attack traces were detected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_IOC_S2_TRACES_N">
+        <xlf:target state="translated">{0} attack traces were detected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_IOC_S2_TRACES_1">
+        <xlf:target state="translated">1 attack trace was detected.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_IOC_S2_DETAILS">
+        <xlf:target state="translated">See more details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_IOC_R_WINDOW_TITLE">
+        <xlf:target state="translated">&lt;#FullProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_IOC_R_DESCRIPTION">
+        <xlf:target state="translated">We analyze the most severe attacks to check if your device was previously compromised.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_IOC_R_SEE_MORE">
+        <xlf:target state="translated">See more</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_IOC_R_SEE_LESS">
+        <xlf:target state="translated">See less</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_IOC_R_TRACES">
+        <xlf:target state="translated">Traces</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_IOC_R_NO_TRACE">
+        <xlf:target state="translated">No traces found</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_IOC_R_READ_ARTICLE">
+        <xlf:target state="translated">Read article</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_IOC_R_TrickBot_Description">
+        <xlf:target state="translated">While it started out as a credential-harvesting threat mostly focusing on e-banking, its plugin-based design has made it much more than just a threat focused on financial data theft. Security companies and researchers have previously analyzed a wide range of modules, proving that TrickBot is still under active development and undergoing constant &quot;feature upgrades&quot;. The flexibility allowed by this modular architecture has turned the Trojan into a very complex and sophisticated malware, capable of a wide range of malicious activities, as long as there is a plugin for it. From &quot;add-ons&quot; for stealing OpenSSH and OpenVPN sensitive data, to modules that perform SIM-swapping attacks to take control of a user&apos;s telephone number, and even disabling Windows built-in security mechanisms before downloading its main modules, TrickBot is a jack-of-all-trades.&#10;Another interesting aspect is that, while there are a handful of core modules, each new module is accompanied by a configuration file, potentially making each functionality fully independent.&#10;TrickBot has been mostly distributed through spam campaigns but it was also seen in cahoots with other threats. Distributed by the Emotet spam-sending botnet to deliver Ryuk ransomware, TrickBot operators have extended its capabilities into one of the most advanced malware delivery vehicles out there. This combo relied on Emotet for its huge spam campaign and effective social engineering, on TrickBot for its aggressive network spreading capabilities, and on the Ryuk ransomware for the final payload and direct monetization. The spam campaigns have focused on targeting organizations by going after enterprise assets.&#10;One of the most recent new plugin, is targeting Telecommunication Services in US and Hong Kong, detailed on our technical blog.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_IOC_R_Emotet_Description">
+        <xlf:target state="translated">Emotet Trojan was discovered around 2014, when its primary purpose was to steal from its victims banking credentials. Over the years the authors added new functionalities using a modular structure which makes it easier to add a new capability. Emotet is capable of installing new pieces of malware, retrieving banking credentials or performing DDoS.&#10;The main distribution method remains phishing emails, using various social engineering techniques to fool a user into clicking a malicious link or downloading a malicious documents. Since it has proven to have some of most aggressive spam campaigns and convincing social engineering techniques, Emotet is used as a Malware as a service by other types of threats which gain access to the computers affected by Emotet. Last year it was used in a combo together with TrickBot and Ryuk ransomware. Emotet has also been seen distributing AZORult, IcedID, ZeuS Panda.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_IOC_R_AgentTesla_Description">
+        <xlf:target state="translated">Agent Tesla spyware has reportedly been around since 2014, but has undergone constant improvements and updates. It reportedly operates under a malware-as-a-service offering, with its developers offering various pricing tiers based on different licensing models. Agent Tesla operators seem to have stayed in business for quite some time.&#10;Some of its most known and popular capabilities involve stealth, persistence and security evasion techniques that ultimately enable it to extract credentials, copy clipboard data, perform screen captures, form-grabbing, and keylogging functionality, and even collect credentials for a variety of installed applications.&#10;Security researchers have already documented the full extent of Agent Tesla&apos;s capabilities in various pieces of research and targeted campaigns.&#10;Recently it has been associated with campaigns targeting public institutions or oil &amp; gas vertical, detailed on our technical blog.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_IOC_R_StrongPity_Description">
+        <xlf:target state="translated">StrongPity is a threat group that was first discovered in 2016, but has been active since at least 2012. Although unusual for a targeted attack, StrongPity has a wide coverage and it is marked by continuous development, having already arrived at its third version. It is believed that the attacks attributed to StrongPity are government-sponsored and are used for population surveillance and intelligence exfiltration. More so, it is believed that these attacks are used as support for the different geo-political conflicts in the regions it targets.&#10;The known preferred infection vector used by the StrongPity group is a watering hole technique, delivering malicious versions of legitimate installers to certain targets. The affected applications fall into several categories, such as application for compression like 7-zip and WinRAR archiver, security software such as McAfee Security Scan Plus, file recovery application - Recuva, application for remote connection such as TeamViewer, chat application such as WhatsApp or different tools and utilities.&#10;Infection usually starts by first displaying the original installer to the victim in order to not raise any suspicion. It continues by installing a new service in order to ensure persistence after which it contacts the command and control server for its next actions. In most of the cases the command received involves scanning the storage for files with specific extensions, usually documents, and uploading it to the C&amp;C server.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_IOC_S2_TRACES">
+        <xlf:target state="translated">Attack traces</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_IOC_S2_TRACES_TTP1">
+        <xlf:target state="translated">Even though your device might not currently exhibit malicious behavior or may be threat-free, we are also looking for traces of past attacks that could have compromised its security.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_IOC_R_TITLE">
+        <xlf:target state="translated">Attack traces</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

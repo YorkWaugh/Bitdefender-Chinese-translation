@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="ProductCfg" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_PROGRESS">
+        <xlf:target state="translated">Please wait...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_CONFIGURING">
+        <xlf:target state="translated">Configuring {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_CONFIG_DONE">
+        <xlf:target state="translated">Product is successfully configured</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_APPNAME">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Product Configuration</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_REBOOT_REQUIRED_TITLE">
+        <xlf:target state="translated">Restart required</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_REBOOT_REQUIRED_MSG">
+        <xlf:target state="translated">Your system needs to be restarted before running setup again. Do you want to restart now?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_CHANGE_LANG_DESC">
+        <xlf:target state="translated">Applying new product language</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

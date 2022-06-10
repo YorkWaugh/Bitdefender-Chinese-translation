@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdwt.bdi" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_TITLE_64">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_AGENT">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet Agent</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_APP_AGENT">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet Application Agent</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="quarui" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_INFOTIP_FILE">
+        <xlf:target state="translated">File:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_INFOTIP_LOCATION">
+        <xlf:target state="translated">Location:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_INFOTIP_TIME">
+        <xlf:target state="translated">Added:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_RESTORE_TIPTITLE">
+        <xlf:target state="translated">Restore file</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_RESTORE_TIPTEXT">
+        <xlf:target state="translated">Click here to restore the selected file from the quarantine folder to its original location.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_QUAR_SETTINGS_PANEL_TITLE">
+        <xlf:target state="translated">View Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_QUAR_PLUGIN_NAME">
+        <xlf:target state="translated">Manage Quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_DELETE_OLD_FILES_TEXT">
+        <xlf:target state="translated">Content older than 30 days will be automatically deleted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_ADD_FILES_TO_EXCLUSIONS_TEXT">
+        <xlf:target state="translated">Restored files will be automatically excepted from scanning.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_DEFAULT_TEXT">
+        <xlf:target state="translated">Details about quarantined items will be displayed below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_HELP_DEFAULT_QR_SETTINGS">
+        <xlf:target state="translated">Click here to configure the Quarantine settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_HELP_RESTORE">
+        <xlf:target state="translated">Click here to restore the selected file(s) from the Quarantine to their initial location.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_HELP_DELETE">
+        <xlf:target state="translated">Click here to remove selected file(s) from the Quarantine.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_QUAR_HELP">
+        <xlf:target state="translated">Items considered potential threats that were not disinfected or erased during the scan will be quarantined.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_OK_HELP">
+        <xlf:target state="translated">Click here to confirm, apply all changes and close this window.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_CANCEL_HELP">
+        <xlf:target state="translated">Click here to cancel all changes and return to the previous window.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_BROWSE_FOR_FOLDER">
+        <xlf:target state="translated">Select a new location to restore the file(s)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_CONFIRM_RESTORE_TITLE">
+        <xlf:target state="translated">Restore file</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_CONFIRM_SEND_TITLE">
+        <xlf:target state="translated">Send files to the Lab</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_BROWSE">
+        <xlf:target state="translated">Browse</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_OPEN_LOCATION">
+        <xlf:target state="translated">Open location</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_APPLY_TO_ALL">
+        <xlf:target state="translated">Apply to all</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_MSG_CAPTION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_STRING_QUAR_CHOOSE_PATH">
+        <xlf:target state="translated">Choose another path</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_FILE_ALREADY_EXISTS">
+        <xlf:target state="translated">A file with the same name already exists. Do you want to replace it?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_PATH_NOT_FOUND">
+        <xlf:target state="translated">Failed to find the specified path. Please review the previous operation and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_PATH_ACCESS_DENIED">
+        <xlf:target state="translated">The system does not have rights to access the specified path.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_PATH_IS_RECYCLER">
+        <xlf:target state="translated">The specified path points to the system&apos;s Recycle Bin. By restoring there the file might become inaccessible. Please select another path.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_APPLY_TO_ALL3">
+        <xlf:target state="translated">Apply to All</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_FILE_RESTORED_DEFAULT">
+        <xlf:target state="translated">Your file has been successfully restored in %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_INFOTIP_INFECTED">
+        <xlf:target state="translated">Infected:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_MSG_DELETE">
+        <xlf:target state="translated">%d file(s) will be permanently deleted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_MSG_DELETE_FAILED">
+        <xlf:target state="translated">Failed to delete selected files from quarantine.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_MSG_FILE_RESTORE_FAILED">
+        <xlf:target state="translated">%i file couldn&apos;t be restored</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_MSG_FILE_RESTORE_FAILED_PLURAL">
+        <xlf:target state="translated">%i files couldn&apos;t be restored</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_MSG_FILE_RESTORE_FAILED_INTERNAL">
+        <xlf:target state="translated">The file has been corrupted and cannot be restored.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_MSG_FILE_RESTORE_FAILED_INTERNAL_PLURAL">
+        <xlf:target state="translated">The files have been corrupted and couldn&apos;t be restored.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_HELP_REFRESH">
+        <xlf:target state="translated">Click here to reload the list of quarantined files.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_PLUGIN_NAME">
+        <xlf:target state="translated">Quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_BUTTON_DEL">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_BUTTON_RESTORE">
+        <xlf:target state="translated">Restore</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_QUARANTINE_SETTINGS">
+        <xlf:target state="translated">Quarantine Folder</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_BUTTON_SEND">
+        <xlf:target state="translated">Send</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_BUTTON_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_COLUMN_NAME">
+        <xlf:target state="translated">File Name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_COLUMN_VIRUS">
+        <xlf:target state="translated">Threat Name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_QUARANTINE_TITLE">
+        <xlf:target state="translated">Quarantined Items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_EDIT_INVALID_DATA">
+        <xlf:target state="translated">The value you have entered is invalid. It must be between %d and %d.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_QUAR_LOADER_WITH_TEXT">
+        <xlf:target state="translated">Loading quarantine items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_QUAR_DEL_CONFIRM">
+        <xlf:target state="translated">Are you sure you want to permanently delete this file?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_QUAR_DEL_CONFIRM_TITLE">
+        <xlf:target state="translated">Delete Confirmation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_ON">
+        <xlf:target state="translated">On</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_OFF">
+        <xlf:target state="translated">Off</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_COLUMN_LOCATION">
+        <xlf:target state="translated">Original Location</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_BUTTON_REFRESH">
+        <xlf:target state="translated">Refresh</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_UNIT_BYTES">
+        <xlf:target state="translated">bytes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_UNIT_KB">
+        <xlf:target state="translated">KB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_CHK_DEL_OLD">
+        <xlf:target state="translated">Delete Old Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_STC_DEL_OLDER_THAN">
+        <xlf:target state="translated">Delete files older than</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_BTN_CLOSE">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_FAILED">
+        <xlf:target state="translated">Failed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_PLUGIN_DESCRIPTION">
+        <xlf:target state="translated">Quarantine Description</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_HELP_SETTINGS">
+        <xlf:target state="translated">Click here to configure how often quarantined files should be deleted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_HELP_SEND">
+        <xlf:target state="translated">Click here to send the quarantined files to &lt;#ProductName#&gt; Lab for analysis.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_HELP_BTDELOLD">
+        <xlf:target state="translated">Select this option to periodically delete old files from the quarantine folder.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_HELP_BTDELDUP">
+        <xlf:target state="translated">Select this option to periodically delete duplicate files from the quarantine folder.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_HELP_BTRESTORE">
+        <xlf:target state="translated">Select this option to restore files detected as clean after a Threat information database update.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_HELP_SCANUPDATE">
+        <xlf:target state="translated">Select this option if you want to scan all quarantined files after a Threat information database update.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_STC_CHECK_FOR_OLD">
+        <xlf:target state="translated">Check for old files every:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_CHK_DEL_DUP">
+        <xlf:target state="translated">Delete duplicate files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_STC_CHECK_DUP">
+        <xlf:target state="translated">Check for duplicate files every:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_CHK_SCAN_AFTER">
+        <xlf:target state="translated">Scan quarantined files after update</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_CHK_RESTORE_CLEAN">
+        <xlf:target state="translated">Restore clean files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_UNIT_DAYS">
+        <xlf:target state="translated">day(s)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_UNIT_MINUTES">
+        <xlf:target state="translated">minute(s)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_STC_SETT_TITLE">
+        <xlf:target state="translated">Quarantine Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_MSG_SETT_ERROR">
+        <xlf:target state="translated">Failed to save settings. Please review the previous operation and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_MSG_LOAD_SETT_ERR">
+        <xlf:target state="translated">Failed to load settings. Please review the previous operation and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_QUAR_NO_ITEMS">
+        <xlf:target state="translated">There are no files in quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_OPTION_RESCAN_AFTER_UPDATE">
+        <xlf:target state="translated">Rescan quarantine after threat information update</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_OPTION_DELETE_OLD_FILES_INTERVAL">
+        <xlf:target state="translated">Delete content older than 30 days</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_OPTION_ADD_TO_EXCLUSIONS">
+        <xlf:target state="translated">Create exception for restored files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_TABLE_HEADER_FILE_NAME">
+        <xlf:target state="translated">File Name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_TABLE_HEADER_VIRUS_NAME">
+        <xlf:target state="translated">Threat Name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_TABLE_HEADER_LOCATION">
+        <xlf:target state="translated">Original Location</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_TABLE_HEADER_DATE">
+        <xlf:target state="translated">Date</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_TABLE_HEADER_SENT">
+        <xlf:target state="translated">Sent</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_BUTON_RESTORE_CAPTION">
+        <xlf:target state="translated">Restore</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_BUTON_DELETE_CAPTION">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_STRING_QUAR_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_STRING_QUAR_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

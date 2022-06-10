@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="accessl" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_COREREBOOT_CLEAN">
+        <xlf:target state="translated">Your security solution is cleaning your device from threats</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_COREREBOOT_DELETE">
+        <xlf:target state="translated">Deleting...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_COREREBOOT_SUCCESS">
+        <xlf:target state="translated">The cleaning process finished successfully!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_COREREBOOT_FAILED">
+        <xlf:target state="translated">Some of the infected items failed to be cleaned. Please contact &lt;#CompanyName#&gt; Customer Care for more information on how to clean your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_COREREBOOT_EXEBASENAME">
+        <xlf:target state="translated">bddel</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="fshredctx" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_PRODUCT_NAME">
+        <xlf:target state="translated">&lt;#ProductNameColored#&gt; File Shredder</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDCMD_SHRED">
+        <xlf:target state="translated">File Shredder</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDCMD_SBTEXT_SHRED">
+        <xlf:target state="translated">Shred the contents of the currently selected files and/or folders.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

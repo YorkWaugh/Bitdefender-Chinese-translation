@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="OBKCh" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_YAHOOTOOLBAR_MESSAGE">
+        <xlf:source>The application Yahoo! Toolbar is preventing &lt;#ProductName#&gt; Safepay&#8482; from functioning correctly. &#13;&#10;Press Yes to close Internet Explorer and continue the current &lt;#ProductName#&gt; Safepay&#8482; session, or press No to close &lt;#ProductName#&gt; Safepay&#8482;.</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_SAFEPAY_FULL_PRODUCTNAME">
+        <xlf:source>&lt;#ProductName#&gt; Safepay&#8482;</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_SAFEPAY_TASKBAR_TITLE">
+        <xlf:source>&lt;#ProductName#&gt; Safepay&#8482;</xlf:source>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

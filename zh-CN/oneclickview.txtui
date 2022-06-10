@@ -1,0 +1,559 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="oneclickview" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_REGCLEAN_BACKUP_PATH">
+        <xlf:target state="translated">Registry Backup:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_TUNEUP_SUCCESFULL">
+        <xlf:target state="translated">Task finished successfully.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_TUNEUP_ABORTED">
+        <xlf:target state="translated">Task aborted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_PCCLEAN_DELETING_TEMPFILES">
+        <xlf:target state="translated">Deleting Temporary System Files...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_PCCLEAN_NRTEMP_SYSFILES">
+        <xlf:target state="translated">Temporary System Files deleted:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_PCCLEAN_DELETING_RECENTDOCS">
+        <xlf:target state="translated">Deleting the list of links to recent documents...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_PCCLEAN_NR_RECENTDOCS">
+        <xlf:target state="translated">Links to Recent Documents deleted:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_RC_CAT_SOFT_LOCATIONS">
+        <xlf:target state="translated">Software Locations</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_RC_CAT_CUSTOM_CTRLS">
+        <xlf:target state="translated">Custom controls</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_ONECLICK_ERROR_STOPPED">
+        <xlf:target state="translated">The optimization was canceled by the user.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_ONECLICK_ERROR_INTERNAL">
+        <xlf:target state="translated">Optimization encountered an error.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_STR_DEFAULT">
+        <xlf:target state="translated">(Default)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_DEFRAG_RUN">
+        <xlf:target state="translated">Run</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_DEFRAG">
+        <xlf:target state="translated">Defrag</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_SAFEDEL_BROWSE_TITLE">
+        <xlf:target state="translated">Select the files you want to erase</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_SAFEDEL_BROWSE_OK_BUTTON">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_SAFEDEL_BROWSE_CANCEL_BUTTON">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_SAFEDEL_BROWSE_WAIT_MESSAGE">
+        <xlf:target state="translated">Loading</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_DEFRAG_NEVER">
+        <xlf:target state="translated">Never</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_DUPLICATE_CONFIRM">
+        <xlf:target state="translated">Please note that the data erased by the &lt;#ProductName#&gt; File Shredder cannot be retrieved anymore. Please make sure that you have selected the targets very carefully. Are you sure you want to continue?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_SAFEDEL_DELETING">
+        <xlf:target state="translated">Deleting</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_REGREC_BTN_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_ONECLICK_TASKNAME">
+        <xlf:target state="translated">OneClick Optimizer task completed successfully</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_ONECLICK_TASKDESCRIPTION">
+        <xlf:target state="translated">OneClick Optimizer task completed successfully. It is recommended to run this task again from time to time to improve your system performance.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_PCCLEAN_CANCEL_BTN">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_DUPFINDER_PATH">
+        <xlf:target state="translated">Folder(s) Location</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_RC_STEP1">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Registry Cleaner Wizard</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_RC_BTN_NEXT">
+        <xlf:target state="translated">Next</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_RC_BTN_CLOSE">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_RC_BTN_STOP">
+        <xlf:target state="translated">Stop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_RC_ALL_SECTIONS">
+        <xlf:target state="translated">All categories</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_RC_CAT_SHARED_DLLS">
+        <xlf:target state="translated">Shared DLLs</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_FILESHRD_REMOVE">
+        <xlf:target state="translated">Remove</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_ONECLICK_JUNKFILE_LINK_TEXT">
+        <xlf:target state="translated">%d junk files selected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_ONECLICK_PRIVACYISSUES_LINK_TEXT">
+        <xlf:target state="translated">%d privacy issues selected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_RC_STEP1_TITLE">
+        <xlf:target state="translated">Welcome</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_FILESHRD_TASKNAME">
+        <xlf:target state="translated">File Shredder</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_FILESHRD_TASKDESCRIPTION">
+        <xlf:target state="translated">File Shredder permanently erases files and their traces from your system. It is recommended for cases where you want to delete files from your computer with no possibility of recovery.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_FILESHRD_NOFILES_DELETED">
+        <xlf:target state="translated">No files have been deleted.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_FILESHRD_FP_SUBTITLE">
+        <xlf:target state="translated">File Shredder permanently deletes selected files and all their traces from your hard drive. Click &lt;b&gt;Add Folder(s)&lt;/b&gt;  to choose files that you want to shred. &lt;br /&gt; &lt;b&gt;WARNING:&lt;/b&gt;  you will NOT be able to recover a file that has been run through the File Shredder.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_CLOSE_CONFIRM">
+        <xlf:target state="translated">Are you sure you want to close this wizard?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_ONECLICK_SYSTEM_OPTIMIZED">
+        <xlf:target state="translated">Your system is optimized!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_XSL_BITDEF_LOG_FILE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Log File</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_XSL_PRODUCT">
+        <xlf:target state="translated">Product:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_XSL_TASK_NAME">
+        <xlf:target state="translated">Task:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_XSL_LOG_DATE">
+        <xlf:target state="translated">Log date:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_XSL_NOT_DELETED_TASKS">
+        <xlf:target state="translated">Not Deleted Tasks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_XSL_NOT_DELETED_NUMBER">
+        <xlf:target state="translated">Number of tasks that were not deleted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_XSL_DETAILS">
+        <xlf:target state="translated">Details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_XSL_FILE_NAME">
+        <xlf:target state="translated">File Name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_XSL_ERROR_CODE">
+        <xlf:target state="translated">Error Code:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_XSL_ERROR_DESCRIPTION">
+        <xlf:target state="translated">Reason:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_ONECLICK_REQUIRES_ADMIN">
+        <xlf:target state="translated">Administrative privileges are required for this task.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_MISSING_FONTS">
+        <xlf:target state="translated">Missing fonts</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_HELP_FILES">
+        <xlf:target state="translated">Help files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_STARTUP_ITEMS">
+        <xlf:target state="translated">Startup items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_MOST_RECENT_RUN_LIST">
+        <xlf:target state="translated">Most recently run list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_DELETED_APPLICATIONS">
+        <xlf:target state="translated">Deleted applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_ONECLICK_CLICK_OPTIMIZE_SPACE_TEXT">
+        <xlf:target state="translated">&lt;#ProductName#&gt; can free up %s and speed up your system.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_ONECLICK_CLICK_OPTIMIZE_ISSUES_TEXT">
+        <xlf:target state="translated">&lt;#ProductName#&gt; can fix %d issues and speed up your system.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_ONECLICK_CLICK_OPTIMIZE_REG_TEXT">
+        <xlf:target state="translated">&lt;#ProductName#&gt; can fix %d registry issues and speed up your system.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_ONECLICK_DLG_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; OneClick Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_ONECLICK_DISK_CLEANUP_STEP_NAME">
+        <xlf:target state="translated">Disk Cleanup</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_OPTIMIZE_TEXT_BUTTON">
+        <xlf:target state="translated">Optimize</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_ONECLICK_REGISTRY_CLEANUP_STEP_NAME">
+        <xlf:target state="translated">Registry Cleanup</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_ONECLICK_PRIVACY_CLEANUP_STEP_NAME">
+        <xlf:target state="translated">Privacy Cleanup</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_ONECLICK_ISSUES_FIXED_FINAL_TEXT">
+        <xlf:target state="translated">Issues fixed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_ONECLICK_ISSUES_REMAINING_FINAL_TEXT">
+        <xlf:target state="translated">Issues remaining</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_ONECLICK_ISSUE_REMAINING_FINAL_TEXT">
+        <xlf:target state="translated">Issue remaining</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_ONECLICK_SPACE_CLEAREAD_FINAL_TEXT">
+        <xlf:target state="translated">Space cleaned</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_ONECLICK_DETAILS_CATEGORY_LABEL">
+        <xlf:target state="translated">Category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_ONECLICK_DETAILS_ISSUES_LABEL">
+        <xlf:target state="translated">Issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_ONECLICK_DETAILS_SIZE_LABEL">
+        <xlf:target state="translated">Size</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_ONECLICK_REGISTRY_CLEANUP_DETAILS_TITLE">
+        <xlf:target state="translated">Registry Cleanup Details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_ONE_CLICK_BROWSERS_TITLE">
+        <xlf:target state="translated">You need to close your browsers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_ONE_CLICK_BROWSERS_TEXT">
+        <xlf:target state="translated">To ensure a proper cleanup, &lt;#ProductName#&gt; needs to close your browsers. Please click OK to continue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_IGNORE">
+        <xlf:target state="translated">Ignore all</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_ONECLICK_CHROME_CACHE_TEXT">
+        <xlf:target state="translated">Chrome Cache</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_ONECLICK_OPERA_CACHE_TEXT">
+        <xlf:target state="translated">Opera Cache Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_ONE_CLICK_BROWSERS_BOX_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; OneClick Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_ONECLICK_CHROME_TEMP_TEXT">
+        <xlf:target state="translated">Chrome Temporary Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_ONECLICK_OPERA_TEMP_TEXT">
+        <xlf:target state="translated">Opera Temporary Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_ONECLICK_FIREFOX_CACHE_TEXT">
+        <xlf:target state="translated">Mozilla Firefox Cache</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_ONECLICK_INTERNET_CACHE_TEXT">
+        <xlf:target state="translated">Internet Explorer Cache</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_ONECLICK_EDGE_CACHE_TEXT">
+        <xlf:target state="translated">Edge Cache Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_ONECLICK_WIN_DUMPS_TEXT">
+        <xlf:target state="translated">Windows Dump Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_ONECLICK_LOG_FILES_TEXT">
+        <xlf:target state="translated">Windows Log Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_ONECLICK_WER_FILES_TEXT">
+        <xlf:target state="translated">WER Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_ONECLICK_DOWNLOADS_TEXT">
+        <xlf:target state="translated">Downloads Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_ONECLICK_QUICKTIME_TEXT">
+        <xlf:target state="translated">QuickTime Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_ONECLICK_WIN_STORE_TEXT">
+        <xlf:target state="translated">Windows Store Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_ONECLICK_WIN_TEMP_TEXT">
+        <xlf:target state="translated">Temporary System Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_ONECLICK_WIN_UPDATE_TEXT">
+        <xlf:target state="translated">Windows Update Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_ONECLICK_WIN_DANGER_TEXT">
+        <xlf:target state="translated">Windows Cache</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_ONECLICK_USERDONWLOADS_GROUP_TEXT">
+        <xlf:target state="translated">User Downloads Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_ONECLICK_WINJUNK_GROUP_TEXT">
+        <xlf:target state="translated">Windows Junk Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_ONECLICK_DEBUG_GROUP_TEXT">
+        <xlf:target state="translated">Windows Debug Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_ONECLICK_CHROME_COOKIES_TEXT">
+        <xlf:target state="translated">Chrome Cookies</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_ONECLICK_OPERA_COOKIES_TEXT">
+        <xlf:target state="translated">Opera Cookies</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_ONECLICK_WIN_RECYCLE_TEXT">
+        <xlf:target state="translated">Recycle Bin Files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_ONCECLICK_WIN_RETAIL_DEMO">
+        <xlf:target state="translated">RetailDemo Offline Content</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_ONECLICK_CHROME_HISTORY_TEXT">
+        <xlf:target state="translated">Chrome History</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_ONECLICK_OPERA_HISTORY_TEXT">
+        <xlf:target state="translated">Opera History</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_ONECLICK_FIREFOX_HISTORY_TEXT">
+        <xlf:target state="translated">Mozilla Firefox History</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_ONECLICK_FIREFOX_COOKIES_TEXT">
+        <xlf:target state="translated">Mozilla Firefox Cookies</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_ONECLICK_INTERNET_COOKIES_TEXT">
+        <xlf:target state="translated">Internet Explorer Cookies</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_ONECLICK_EDGE_COOKIES_TEXT">
+        <xlf:target state="translated">Edge Cookies</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_ONECLICK_INTERNET_HISTORY_TEXT">
+        <xlf:target state="translated">Internet Explorer History</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_ONECLICK_EDGE_HISTORY_TEXT">
+        <xlf:target state="translated">Edge History</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_ONECLICK_CHROME_NAME">
+        <xlf:target state="translated">Google Chrome</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_ONECLICK_FIREFOX_NAME">
+        <xlf:target state="translated">Mozilla Firefox</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_ONECLICK_IEXPLORE_NAME">
+        <xlf:target state="translated">Internet Explorer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="IDS_ONECLICK_EDGE_NAME">
+        <xlf:target state="translated">Microsoft Edge</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="IDS_ONECLICK_OPERA_NAME">
+        <xlf:target state="translated">Opera</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="IDS_ONECLICK_REG_ISSUES_FOUND_TEXT">
+        <xlf:target state="translated">%d registry issues selected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="IDS_ONECLICK_SYSTEM_PARTIALY_OPTIMIZED">
+        <xlf:target state="translated">Your system is not fully optimized.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="IDS_ONECLICK_ACTIONTAKEN">
+        <xlf:target state="translated">Total space cleaned: %s, number of issues fixed: %ld</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="IDS_RECOMMEND_REVIEW">
+        <xlf:target state="translated">We recommend reviewing the issues before proceeding.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="IDS_STEP_1_TITLE_DISK">
+        <xlf:target state="translated">Searching for disk issues...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="IDS_STEP_1_TITLE_REGISTRY">
+        <xlf:target state="translated">Searching for registry issues...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="IDS_STEP_1_TITLE_PRIVACY">
+        <xlf:target state="translated">Searching for privacy issues...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="IDS_STEP_1_DESCRIPTION_ANALYZE">
+        <xlf:target state="translated">Please wait while &lt;#ProductName#&gt; analyzes your system.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="IDS_STEP_1_ONECLICK_VIEW_FILES">
+        <xlf:target state="translated">View details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="128" resname="IDS_STEP_1_ONECLICK_VIEW_ISSUES">
+        <xlf:target state="translated">View issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="129" resname="IDS_STEP_1_TITLE_OPTIMIZE">
+        <xlf:target state="translated">Ready for optimization!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="130" resname="IDS_STEP_1_TITLE_CLEAN">
+        <xlf:target state="translated">Your system is optimized!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="131" resname="IDS_STEP_1_DESCRIPTION_CLEAN">
+        <xlf:target state="translated">&lt;#ProductName#&gt; did not find any issues on your system that can be optimized.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="132" resname="IDS_STEP_1_TITLE_FAILED">
+        <xlf:target state="translated">Your system is not fully optimized.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="133" resname="IDS_STEP_1_DESCRIPTION_FAILED">
+        <xlf:target state="translated">&lt;#ProductName#&gt; encountered an error while checking for issues on your system.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="134" resname="IDS_STEP_1_TITLE_OPTIMIZING">
+        <xlf:target state="translated">Optimizing...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="135" resname="IDS_STEP_1_DESCRIPTION_OPTIMIZING">
+        <xlf:target state="translated">Please wait while &lt;#ProductName#&gt; optimizes your system.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="136" resname="IDS_STEP_2_TITLE">
+        <xlf:target state="translated">Issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="137" resname="IDS_STEP_2_BACK">
+        <xlf:target state="translated">Back</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="138" resname="IDS_STEP_2_DISK_ISSUES">
+        <xlf:target state="translated">Disk issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="139" resname="IDS_STEP_2_REGISTRY_ISSUES">
+        <xlf:target state="translated">Registry issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="140" resname="IDS_STEP_2_PRIVACY_ISSUES">
+        <xlf:target state="translated">Privacy issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="141" resname="IDS_ISSUES_COUNT">
+        <xlf:target state="translated">%ld issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="142" resname="IDS_ISSUES_SELECTED">
+        <xlf:target state="translated">%ld issues selected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="143" resname="IDS_ISSUES_FOUND">
+        <xlf:target state="translated">%ld issues found</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="144" resname="IDS_ISSUES_COUNT_SIZE_MB">
+        <xlf:target state="translated">%ld issues (%s)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="145" resname="IDS_ISSUES_SELECTED_SIZE_MB">
+        <xlf:target state="translated">%ld issues (%s) selected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="146" resname="IDS_ISSUES_FOUND_SIZE_MB">
+        <xlf:target state="translated">%ld issues found (%s)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="147" resname="IDS_VIEW_DETAIL_REPORT">
+        <xlf:target state="translated">View detailed report</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="148" resname="IDS_X_OF_Y_ISSUES_FIXED">
+        <xlf:target state="translated">%ld of %ld issues fixed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="149" resname="IDS_REPORT_TITLE">
+        <xlf:target state="translated">OneClick Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="150" resname="IDS_REPORT_DISK_TITLE">
+        <xlf:target state="translated">Disk issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="151" resname="IDS_REPORT_ISSUES_SUBTITLE">
+        <xlf:target state="translated">Fixed %ld of %ld issues, %ld remaining</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="152" resname="IDS_REPORT_DISK_COL_CATEGORY">
+        <xlf:target state="translated">Category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="153" resname="IDS_REPORT_DISK_COL_PATH">
+        <xlf:target state="translated">File Path</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="154" resname="IDS_REPORT_DISK_COL_SIZE">
+        <xlf:target state="translated">Size</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="155" resname="IDS_REPORT_DISK_COL_STATUS">
+        <xlf:target state="translated">Cleanup Status</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="156" resname="IDS_REPORT_REGISTRY_TITLE">
+        <xlf:target state="translated">Registry issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="157" resname="IDS_REPORT_REGISTRY_COL_CATEGORY">
+        <xlf:target state="translated">Category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="158" resname="IDS_REPORT_REGISTRY_COL_PATH">
+        <xlf:target state="translated">Path</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="159" resname="IDS_REPORT_REGISTRY_COL_VALUE">
+        <xlf:target state="translated">Value</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="160" resname="IDS_REPORT_REGISTRY_COL_STATUS">
+        <xlf:target state="translated">Cleanup Status</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="161" resname="IDS_REPORT_PRIVACY_TITLE">
+        <xlf:target state="translated">Privacy issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="162" resname="IDS_REPORT_PRIVACY_COL_CATEGORY">
+        <xlf:target state="translated">Category</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="163" resname="IDS_REPORT_PRIVACY_COL_PATH">
+        <xlf:target state="translated">Path</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="164" resname="IDS_REPORT_PRIVACY_COL_SIZE">
+        <xlf:target state="translated">Size</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="165" resname="IDS_REPORT_PRIVACY_COL_STATUS">
+        <xlf:target state="translated">Cleanup Status</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="166" resname="IDS_STATUS_SUCCESS">
+        <xlf:target state="translated">Successful</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="167" resname="IDS_STATUS_FAILED">
+        <xlf:target state="translated">Failed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="168" resname="IDS_STATUS_FAILED_2">
+        <xlf:target state="translated">Failed (%s)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="169" resname="IDS_STATUS_FAILED_ACCESSDENIED">
+        <xlf:target state="translated">Failed (Access is denied)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="170" resname="IDS_STATUS_IGNORED_DISK">
+        <xlf:target state="translated">Ignored (file is in use)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="171" resname="IDS_STATUS_IGNORED_PRIVACY">
+        <xlf:target state="translated">Ignored (browser is in use)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="172" resname="IDS_GENERATING_REPORT_TEXT">
+        <xlf:target state="translated">Generating report, please wait...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="173" resname="IDS_MB">
+        <xlf:target state="translated">%1!s! MB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="174" resname="IDS_KB">
+        <xlf:target state="translated">%1!s! KB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="175" resname="IDS_GB">
+        <xlf:target state="translated">%1!s! GB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="176" resname="IDS_B">
+        <xlf:target state="translated">%1!s! B</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="177" resname="IDS_TRAY_SHOW">
+        <xlf:target state="translated">Show</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="178" resname="IDS_TRAY_ABOUT">
+        <xlf:target state="translated">About</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="179" resname="IDS_TRAY_EXIT">
+        <xlf:target state="translated">Exit</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="180" resname="IDS_TRAY_TOOLTIP">
+        <xlf:target state="translated">&lt;#ProductName#&gt; OneClick Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="181" resname="IDS_EDGE_HISTORY_CLEANED">
+        <xlf:target state="translated">%ld of %ld entries removed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="182" resname="IDS_FIREFOX_HISTORY_CLEANED">
+        <xlf:target state="translated">%ld of %ld entries removed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="183" resname="IDS_ONECLICK_SIZE">
+        <xlf:target state="translated">(%s)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="184" resname="IDS_STATUS_FAILED_3">
+        <xlf:target state="translated">Operation failed. The file cannot be accessed.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

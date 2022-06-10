@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="ODScanUI" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_APP_TITLE">
+        <xlf:target state="translated">On-demand Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_TRAY_PAUSE">
+        <xlf:target state="translated">Pause</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_TRAY_RESUME">
+        <xlf:target state="translated">Resume</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_TRAY_STOP">
+        <xlf:target state="translated">Stop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_TRAY_SHOW">
+        <xlf:target state="translated">Show</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_TRAY_EXIT">
+        <xlf:target state="translated">Exit</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_TRAY_SCAN_STARTED">
+        <xlf:target state="translated">&lt;#ProductName#&gt; has started the scan. You can double-click the moving icon in your system tray to see more details.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_TRAY_SCAN_PAUSED">
+        <xlf:target state="translated">Scan was paused.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_TRAY_SCAN_RESUMED">
+        <xlf:target state="translated">Scan was resumed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_TRAY_ABOUT">
+        <xlf:target state="translated">About</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_CLOSE">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_START">
+        <xlf:target state="translated">Start</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_PAUSE">
+        <xlf:target state="translated">Pause</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_RESUME">
+        <xlf:target state="translated">Resume</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_STOP">
+        <xlf:target state="translated">Stop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_CONTINUE">
+        <xlf:target state="translated">Continue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_SHOW_LOG">
+        <xlf:target state="translated">View Log</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_CONTACT">
+        <xlf:target state="translated">Get help</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_FINISH">
+        <xlf:target state="translated">Finish</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_PREPARE_WINRE">
+        <xlf:target state="translated">Rescue Environment</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_REBOOT">
+        <xlf:target state="translated">Restart</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_RESCAN">
+        <xlf:target state="translated">Rescan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_PROMPT_INITIALIZE_FAIL">
+        <xlf:target state="translated">There was an error initializing the scan. To get help with this issue, please contact &lt;#ProductName#&gt; Customer Support.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_PROMPT_EXIT">
+        <xlf:target state="translated">Are you sure you want to exit?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_PROMPT_STOP">
+        <xlf:target state="translated">Are you sure you want to stop the scan?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_PROMPT_SELECT_ACTION">
+        <xlf:target state="translated">To continue, please select an overall action for all threats, or select individual actions for each threat.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_PROMPT_RESTART">
+        <xlf:target state="translated">&lt;#ProductName#&gt; will restart your device. Before clicking OK, please make sure you have closed all open applications and saved all in progress documents.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_PROMPT_SERVER_DISCONNECT">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antivirus Scanner has encountered an error. If the problem persists, please contact your local &lt;#ProductName#&gt; representative, (contact details are available in the About section in the systray menu).  You can also contact &lt;#ProductName#&gt; Customer Care from the &lt;#ProductName#&gt; web page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_PROMPT_MOVE_MAIL_ARCHIVES">
+        <xlf:target state="translated">The selected items include email archives that contain infected attachments. We recommend that you remove the email messages with these attachments manually, in your email client. Do you want to also move the email archives to quarantine?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_STEP1_SCANNING_STATUS">
+        <xlf:target state="translated">Scanning in progress...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_STEP1_PAUSED_STATUS">
+        <xlf:target state="translated">Scanning paused</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_STEP1_SCANNED">
+        <xlf:target state="translated">Scanned items:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_STEP1_RESOLVED">
+        <xlf:target state="translated">Resolved:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_STEP1_UNRESOLVED">
+        <xlf:target state="translated">Unresolved items:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_STEP1_PASSWORD_PROTECTED">
+        <xlf:target state="translated">Password protected:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_STEP1_ELAPSED">
+        <xlf:target state="translated">Elapsed time:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_STEP1_LAST_ITEM">
+        <xlf:target state="translated">File:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_STEP2_TITLE">
+        <xlf:target state="translated">Threats were found.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_STEP2_RESOLVED">
+        <xlf:target state="translated">Resolved issues:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_STEP2_UNRESOLVED">
+        <xlf:target state="translated">Unresolved issues:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_STEP2_VIEW_RESOLVED">
+        <xlf:target state="translated">View resolved issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_STEP2_CHOOSE_ALL_TEMS">
+        <xlf:target state="translated">Choose Action - All Items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_STEP2_CHOOSE_ITEM">
+        <xlf:target state="translated">Choose action - this item</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_STEP2_IGNORE">
+        <xlf:target state="translated">Take no action</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_STEP2_PROPER_ACTIONS">
+        <xlf:target state="translated">Take proper actions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_STEP2_DELETE">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_STEP3_SCANNED">
+        <xlf:target state="translated">Scanned items:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_STEP3_RESOLVED">
+        <xlf:target state="translated">Resolved:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_STEP3_UNRESOLVED">
+        <xlf:target state="translated">Unresolved items:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_STEP3_PASSWORD_PROTECTED">
+        <xlf:target state="translated">Password protected:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_STEP3_PASSWORD_PROTECTED_LEARN">
+        <xlf:target state="translated">Learn more</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_STEP3_CLOUD_FILES">
+        <xlf:target state="translated">Cloud files detected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_STEP3_CLOUD_FILES_LEARN">
+        <xlf:target state="translated">Learn more</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_STEP3_THREAT_SINGLE_ISSUE">
+        <xlf:target state="translated">1 issue left</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_STEP3_THREAT_MULTIPLE_ISSUES">
+        <xlf:target state="translated">{0} issues left</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_STEP3_NO_ACTION_TAKEN">
+        <xlf:target state="translated">(no action was taken)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_STEP3_FAIL_DISINFECT">
+        <xlf:target state="translated">(disinfection failed)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_STEP3_FAIL_DELETE">
+        <xlf:target state="translated">(deletion failed)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_STEP3_FAIL_QUARANTINE">
+        <xlf:target state="translated">(move to quarantine failed)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_STEP3_TITLE_SUCCES">
+        <xlf:target state="translated">Your system is clean!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_STEP3_TITLE_WARNING">
+        <xlf:target state="translated">Your system is infected!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_STEP3_TITLE_RESOLVED">
+        <xlf:target state="translated">Detected threats were resolved!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_STEP3_TITLE_ATTENTION">
+        <xlf:target state="translated">Your system requires your attention!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_STEP3_TITLE">
+        <xlf:target state="translated">Scan task finished successfully.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_STEP4_IGNORED">
+        <xlf:target state="translated">Ignored items:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_STEP4_IGNORED_PASSWORD">
+        <xlf:target state="translated">&lt;#ProductName#&gt; found password protected files that could not be scanned. Right click on each password protected file, click on Scan with &lt;#ProductName#&gt; and insert the password to continue the scanning process. View the log file for more details.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_STEP4_IGNORED_MAIL_ARCHIVE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; found email archives with infected attachments that could not be cleaned. We recommend that you remove the email messages with these attachments manually, in your email client. View the log file for more details.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_STEP4_NO_ACTION">
+        <xlf:target state="translated">No further action is necessary.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_STEP4_ACTION_CONTACT">
+        <xlf:target state="translated">You can contact the &lt;#ProductName#&gt; support team to assist you in successfully cleaning your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_STEP4_ACTION_ALREADY_CONTACTED">
+        <xlf:target state="translated">The support team has already been contacted in order to assist you in successfully cleaning your device. Please wait for a response.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_STEP4_ACTION_RESTART">
+        <xlf:target state="translated">Some threats cannot be cleaned because access to their files is restricted. Restart your device so that &lt;#ProductName#&gt; can clean the remaining infected files.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_STEP4_ACTION_RESCAN">
+        <xlf:target state="translated">Please rescan the files that were ignored because of the lack of proper administrative rights.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_STEP4_ACTION_RESCAN_TASK">
+        <xlf:target state="translated">Please rescan the files on which there was no action taken.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_STEP4_ACTION_WINRE">
+        <xlf:target state="translated">We recommend using Rescue Environment so that &lt;#ProductName#&gt; can clean the remaining infected files.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_NOW">
+        <xlf:target state="translated">Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_SHUTDOWN_MESSAGE">
+        <xlf:target state="translated">Your device will be shut down after the time interval expires. If you do not want to shut down the device now, click Cancel.{br}Time remaining: {0} second(s)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_PASSWORD_MESSAGE">
+        <xlf:target state="translated">The current file is a password-protected item. Please enter the password here below so that &lt;#ProductName#&gt;  can scan it. If you do not know the password, you can choose to skip this file.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_PASSWORD_ENTER">
+        <xlf:target state="translated">Password</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_PASSWORD_SKIP_THIS">
+        <xlf:target state="translated">Don&apos;t ask for a password and skip this item from scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_PASSWORD_SKIP_ALL">
+        <xlf:target state="translated">Skip all password-protected items without scanning them.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_PASSWORD_ON_CLOSE_MESSAGE">
+        <xlf:target state="translated">Skip all password protected items?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_UPLOAD_FILES_MESSAGE">
+        <xlf:target state="translated">The following files must be uploaded for scanning:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_UPLOAD_ALL_FILES">
+        <xlf:target state="translated">Upload all/none</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_UPLOAD_AUTO_NEXT_SCAN">
+        <xlf:target state="translated">Automatically upload files in future scans</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_RESOLVED_FILES_MESSAGE">
+        <xlf:target state="translated">Solved issues: {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_RESOLVED_HEADER_PATH">
+        <xlf:target state="translated">File Path</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_RESOLVED_HEADER_THREAT">
+        <xlf:target state="translated">Threat Name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_RESOLVED_HEADER_RESULT">
+        <xlf:target state="translated">Action Taken</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_IGNORED_FILES_MESSAGE">
+        <xlf:target state="translated">Ignored issues: {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_RESOLVED_DISINFECTED">
+        <xlf:target state="translated">disinfected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_RESOLVED_DELETED">
+        <xlf:target state="translated">deleted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_RESOLVED_DELETED_REBOOT">
+        <xlf:target state="translated">deleted after restart</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_RESOLVED_MOVED">
+        <xlf:target state="translated">moved to quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_RESOLVED_MOVED_REBOOT">
+        <xlf:target state="translated">moved to quarantine after reboot</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_RESOLVED_CLEANED">
+        <xlf:target state="translated">cleaned</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_RESOLVED_CLEANED_REBOOT">
+        <xlf:target state="translated">cleaned after reboot</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_RESOLVED_IGNORED_FIX_RIGHTS">
+        <xlf:target state="translated">ignored (limited rights)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_RESOLVED_IGNORED_NO_ACTION">
+        <xlf:target state="translated">no further action is possible</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_STATUS_RESCUE_MODE">
+        <xlf:target state="translated">(reboot in Rescue Mode required)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_AFFECTED_FILES_ARCHIVE">
+        <xlf:target state="translated">*The archive containing the file also contains clean or suspect files and the only available action is to move the archive to quarantine.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_ROOTKIT_HIDDEN_ITEMS">
+        <xlf:target state="translated">Rootkit-Hidden items:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_HIDE">
+        <xlf:target state="translated">Hide</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_SCAN_TASK_SYS_FULL">
+        <xlf:target state="translated">Full System Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_SCAN_TASK_SYS_QUICK">
+        <xlf:target state="translated">Quick Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_SCAN_TASK_SYS_QUICK_RE">
+        <xlf:target state="translated">Quick Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_SCAN_TASK_SYS_CONTSCAN">
+        <xlf:target state="translated">Autoscan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_SCAN_TASK_SYS_MAINTENANCE">
+        <xlf:target state="translated">Autoscan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_SCAN_TASK_USR_CONTEXT">
+        <xlf:target state="translated">Contextual Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_SCAN_TASK_USR_DEVICE">
+        <xlf:target state="translated">Device Scanning</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_PAE_TITLE">
+        <xlf:target state="translated">Skipped files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_PAE_ARCHIVE_TITLE">
+        <xlf:target state="translated">Password protected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_PAE_ARCHIVE_DESCR">
+        <xlf:target state="translated">&lt;#ProductName#&gt; found password-protected files that were skipped from scan. These files will be automatically scanned when extracted. Check the scan log for details.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="IDS_PAE_EMAIL_TITLE">
+        <xlf:target state="translated">Email archives</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="IDS_PAE_EMAIL_DESCR">
+        <xlf:target state="translated">&lt;#ProductName#&gt; found emails with malicious attachments that could not be cleaned. Don&apos;t worry, when you access any of these attachments the threat will be blocked to prevent any harm to your files or your device. Check the scan log for details.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="IDS_PAE_RECOMAND">
+        <xlf:target state="translated">Please rescan the files on which there was no action taken.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="IDS_PAE_OK_BTN">
+        <xlf:target state="translated">Ok, got it</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="IDS_TASK_ALREADY_RUNNING">
+        <xlf:target state="translated">%s is already running in %s session.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="IDS_SKIPED_CLOUD_FILES_TITLE">
+        <xlf:target state="translated">Cloud files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="IDS_SKIPED_CLOUD_FILES_DESCR">
+        <xlf:target state="translated">&lt;#ProductName#&gt; found some files stored online. These files will be automatically scanned when you will open them on your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="IDS_SSNOTIFY_TITLE">
+        <xlf:target state="translated">System Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="IDS_SSNOTIFY_DESCR1">
+        <xlf:target state="translated">Your first System Scan is about to start.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="IDS_SSNOTIFY_DESCR2">
+        <xlf:target state="translated">Due to its complexity it might take a while to complete, but the scan time will gradually decrease as the protection technologies adapt to your system.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="IDS_GOT_IT">
+        <xlf:target state="translated">Ok, Got it</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="128" resname="IDS_UNPROTECTED_WARNING_TITLE">
+        <xlf:target state="translated">Your device may be at risk</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="129" resname="IDS_UNPROTECTED_WARNING_TEXT">
+        <xlf:target state="translated">Protect your device against all e-threats, from viruses, worms and Trojans, to ransomware, zero-day exploits, rootkits and spyware.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="130" resname="IDS_UNPROTECTED_WARNING_CREATE_ACCOUNT">
+        <xlf:target state="translated">Create an account to keep your data and privacy safe</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="131" resname="IDS_CREATE_ACCOUNT">
+        <xlf:target state="translated">Create account</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="132" resname="IDS_DELETE_WARNING">
+        <xlf:target state="translated">Be aware that the selected items will be deleted from your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="133" resname="IDS_DEVICE_AT_RISK_TITLE">
+        <xlf:target state="translated">Your device is at risk!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="134" resname="IDS_DEVICE_AT_RISK_MESSAGE">
+        <xlf:target state="translated">Your device is currently lacking protection against any type of threat, including ransomware. Activate protection to ensure essential security for your device and data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="135" resname="IDS_ACTIVATE_PROTECTION">
+        <xlf:target state="translated">Activate Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="136" resname="IDS_STEP4_TITLE">
+        <xlf:target state="translated">Scan finished</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="137" resname="IDS_UPSELL">
+        <xlf:target state="translated">Upgrade to unlock this feature</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="138" resname="IDS_STEP4_ACTION_WINRE_IN_PROC">
+        <xlf:target state="translated">Some threats cannot be cleaned because access to their files is not available. We recommend rebooting your computer and rescan the remaining threats with &lt;#ProductName#&gt;.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

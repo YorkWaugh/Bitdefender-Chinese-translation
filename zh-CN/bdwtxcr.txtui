@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdwtxcr" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_WALLET_LOCKED">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet is locked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_WALLET_ON">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet is on</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_WALLET_OFF">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet is off</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_WALLET_CONFIGURE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet is not configured</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_WALLET_RESTART">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet is off. A browser restart is required</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_WALLET_UPDATE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; is updating. A browser restart will be required to complete the operation</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

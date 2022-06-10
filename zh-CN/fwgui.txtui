@@ -1,0 +1,502 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="fwgui" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_FIREWALL_PAD_TITLE">
+        <xlf:target state="translated">Firewall</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_MANAGE_ADAPTERS">
+        <xlf:target state="translated">Manage adapters</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_FIREWALL_IS">
+        <xlf:target state="translated">Firewall</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_SAVE">
+        <xlf:target state="translated">Save</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_TAB_SUMMARY">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_FW_ADAPTERS_GENERIC">
+        <xlf:target state="translated">Generic</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_SET_PORT_SCANS">
+        <xlf:target state="translated">Port scan protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_ERROR_TITLE">
+        <xlf:target state="translated">Firewall Error</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_ERROR_SRV_COMM">
+        <xlf:target state="translated">Can&apos;t communicate with the&#10;&lt;#ProductName#&gt; service!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_SET_ADAPTER">
+        <xlf:target state="translated">Adapter</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_SET_GENERIC">
+        <xlf:target state="translated">Generic</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_SET_TRUST">
+        <xlf:target state="translated">Network Type</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_CREATE_RULE_TITLE">
+        <xlf:target state="translated">Create Rule</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_EDIT_RULE_TITLE">
+        <xlf:target state="translated">Edit Rule</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_INVALID_LOCAL_IP_OR_PORTS">
+        <xlf:target state="translated">Invalid local ports. Please enter up to one valid port or port range.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_INVALID_REMOTE_IPS_OR_PORTS">
+        <xlf:source>Invalid remote ports. Please enter up to %d valid ports or port ranges, separated by &quot;,&quot; (comma).</xlf:source>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_FW_DUPLICATE_ITEM_ADDED">
+        <xlf:target state="translated">A rule matching the specified properties already exists</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_SET_STEALTH">
+        <xlf:target state="translated">Stealth Mode</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_TEXT_ON">
+        <xlf:target state="translated">On</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_TEXT_OFF">
+        <xlf:target state="translated">Off</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_TRUST_ALLOW">
+        <xlf:target state="translated">Trusted (Allow All)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_TRUST_ALLOW_LOCAL">
+        <xlf:target state="translated">Home/Office</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_TRUST_UNSAFE">
+        <xlf:target state="translated">Public</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_TRUST_BLOCK">
+        <xlf:target state="translated">Untrusted (Block all)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_ADVANCED">
+        <xlf:target state="translated">Advanced</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_TEXT_ANY_ADAPTER">
+        <xlf:target state="translated">Any Network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_ACTION_ALLOW">
+        <xlf:target state="translated">Allow</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_ACTION_DENY">
+        <xlf:target state="translated">Deny</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_ACTION_BLOCK">
+        <xlf:target state="translated">Block</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_ACTION_AUTOMATIC">
+        <xlf:target state="translated">Automatic</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_BROWSE">
+        <xlf:target state="translated">Browse</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_EDRL_IP">
+        <xlf:target state="translated">IP:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_EDRL_PORTS">
+        <xlf:target state="translated">Port(s):</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_ERROR_INVALID_APP">
+        <xlf:target state="translated">Invalid application path.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_ERROR_INVALID_LOCAL_IP">
+        <xlf:target state="translated">Invalid local address.&#10;Please input a valid IP or network.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_ERROR_INVALID_REMOTE_IPS">
+        <xlf:target state="translated">Invalid remote addresses.&#10;Please input up to %u IPs or networks.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_ERROR_INVALID_IP_VERSION">
+        <xlf:target state="translated">Mixed IP address versions. Please use only IPv4 or IPv6 address.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_RLS_ANY_PROTOCOL">
+        <xlf:target state="translated">Any</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_CONFIRM_DELETE_RULE">
+        <xlf:target state="translated">Are you sure you want to delete the selected rule?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_CONFIRM_TITLE">
+        <xlf:target state="translated">Confirm Operation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_ERROR_INVALID_ADAPTER">
+        <xlf:target state="translated">Please select at least one network profile type.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_RLS_CONFIRM_RESET">
+        <xlf:target state="translated">The current rule set will be deleted and the default rule set will be loaded. Are you sure you want to continue?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_ERROR_INVALID_ZONE">
+        <xlf:target state="translated">Invalid zone. Please enter a valid IP or network range.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_SET_LOGGING">
+        <xlf:target state="translated">Enable logging</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_ADD">
+        <xlf:target state="translated">Add rule</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_ERROR_USER_LIMITED">
+        <xlf:target state="translated">Firewall settings can be changed only by the administrator of this device. Please login as an administrator and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_ACTION">
+        <xlf:target state="translated">Action</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_GEN_DNS_UDP">
+        <xlf:target state="translated">DNS over UDP</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_GEN_UDP_TCP">
+        <xlf:target state="translated">DNS over TCP</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_GEN_INC_ICMP">
+        <xlf:target state="translated">Incoming ICMP</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_GEN_INC_ICMP_V6">
+        <xlf:target state="translated">Incoming ICMPv6</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_GEN_SEND_EMAIL">
+        <xlf:target state="translated">Sending emails</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_GEN_HTTP">
+        <xlf:target state="translated">Web Browsing HTTP</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_GEN_REMOTE">
+        <xlf:target state="translated">Incoming Remote Desktop Connections</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_GEN_EXPLORER_HTTP">
+        <xlf:target state="translated">Windows Explorer traffic on HTTP</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_GEN_EXPLORER_FTP">
+        <xlf:target state="translated">Windows Explorer traffic on FTP</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_PROG_PATH">
+        <xlf:target state="translated">Program path:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_SETTS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_ANY">
+        <xlf:target state="translated">Any</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_DELETE">
+        <xlf:target state="translated">Delete rule</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_EDIT">
+        <xlf:target state="translated">Edit rule</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_CUSTOM_LOCAL">
+        <xlf:target state="translated">Custom Local Address</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_CUSTOM_REMOTE">
+        <xlf:target state="translated">Custom Remote Address</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_NETW_TYPE">
+        <xlf:target state="translated">Network Type</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_TRUSTED">
+        <xlf:target state="translated">Trusted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_HOMEOFFICE">
+        <xlf:target state="translated">Home/Office</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_PUBLIC">
+        <xlf:target state="translated">Public</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_UNTRUSTED">
+        <xlf:target state="translated">Untrusted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_FWR_PROTO">
+        <xlf:target state="translated">Protocol</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_FWR_DIRECTION">
+        <xlf:target state="translated">Direction</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_FWR_BOTH">
+        <xlf:target state="translated">Both</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_FWR_INB">
+        <xlf:target state="translated">Inbound</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_FW_HIDE_ADVANCED">
+        <xlf:target state="translated">Hide Advanced Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_FW_SHOW_ADVANCED">
+        <xlf:target state="translated">Show advanced settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_FWR_OUTB">
+        <xlf:target state="translated">Outbound</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_FWR_PERM">
+        <xlf:target state="translated">Permission</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_FWR_ALLOW">
+        <xlf:target state="translated">Allow</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_FWR_DENY">
+        <xlf:target state="translated">Deny</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_IP_ADDRESSES">
+        <xlf:target state="translated">Address</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_FIREWALL_WINDOW_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Firewall</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_FW_ADAPTERS_ALREADY_ADDED">
+        <xlf:target state="translated">A rule for the given network already exists.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_ADAPTERS">
+        <xlf:target state="translated">Network Adapters</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_RESET">
+        <xlf:target state="translated">Reset rules</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_NAME">
+        <xlf:target state="translated">Name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_SHOW_GENERAL">
+        <xlf:target state="translated">Show General Rules</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_NETWORK_EXCEPTIONS">
+        <xlf:target state="translated">Network Exceptions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_RULES">
+        <xlf:target state="translated">Rules</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_CLOSE">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_SET_ALLOW_DOMAIN">
+        <xlf:target state="translated">Allow access to domain network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_APPLY_ALL_APPS">
+        <xlf:target state="translated">Apply this rule to all applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_APPLY_ALL_APPS_NOTE">
+        <xlf:target state="translated">This rule will have less priority than individual application rules.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_SEARCH_NOVALUE">
+        <xlf:target state="translated">Search</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_RT_NETWORK">
+        <xlf:target state="translated">Network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_RT_PROTOCOL">
+        <xlf:target state="translated">Protocol</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_RT_TRAFFIC">
+        <xlf:target state="translated">Traffic</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_RT_PORTS">
+        <xlf:target state="translated">Ports</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_RT_IP">
+        <xlf:target state="translated">IP</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_RT_ACCESS">
+        <xlf:target state="translated">Access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_SYSTEM_NAME">
+        <xlf:target state="translated">System</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_ALL_APPS_NAME">
+        <xlf:target state="translated">All applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_PORT_SCAN_DESCRIPTION">
+        <xlf:target state="translated">Block port scan attempts in the network. Some port scan attempts are performed with the intent of compromising your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_PARANOID_MODE">
+        <xlf:target state="translated">Alert mode</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_PARANOID_MODE_DESCRIPTION">
+        <xlf:target state="translated">Get alerts for applications rights to access the Internet and control each connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_ALLOW_DOMAIN_DESCRIPTION">
+        <xlf:target state="translated">Allow or deny access to resources and shares defined by your domain controllers.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_LOGGING_DESCRIPTION">
+        <xlf:target state="translated">Create logs for the firewall driver.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_STEALTH_MODE">
+        <xlf:target state="translated">Stealth Mode</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_STEALTH_MODE_DESCRIPTION">
+        <xlf:target state="translated">Make your device invisible both inside and outside your network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_STEALTH_MODE_EDIT">
+        <xlf:target state="translated">Edit stealth settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_DEFAULT_BEHAVIOUR">
+        <xlf:target state="translated">Default application behavior</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_DEFAULT_BEHAVIOUR_DESCRIPTION">
+        <xlf:target state="translated">Configure default behavior for applications with no defined rules. Use automatic setting to let &lt;#ProductName#&gt; Firewall decide what&apos;s best for these applications.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_DEFAULT_BEHAVIOUR_EDIT">
+        <xlf:target state="translated">Edit default rules</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_HOMEOFFICE_NETWORK">
+        <xlf:target state="translated">Home/Office network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="IDS_HOMEOFFICE_DESCRIPTION">
+        <xlf:target state="translated">Use this setting to force networks as Home / Office type. This will apply application rules for Home / Office type no matter the actual type of the network.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="IDS_PUBLIC_NETWORK">
+        <xlf:target state="translated">Public network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="IDS_PUBLIC_DESCRIPTION">
+        <xlf:target state="translated">Use this setting to force networks as Public type. This will apply application rules for Public type no matter the actual type of the network.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="IDS_TRUSTED_NETWORK">
+        <xlf:target state="translated">Trusted network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="IDS_TRUSTED_DESCRIPTION">
+        <xlf:target state="translated">You trust this network completely and the firewall allows all inbound and outbound connections.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="IDS_UNTRUSTED_NETWORK">
+        <xlf:target state="translated">Untrusted network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="IDS_UNTRUSTED_DESCRIPTION">
+        <xlf:target state="translated">All inbound and outbound connections are blocked on this network.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="IDS_DYNAMIC">
+        <xlf:target state="translated">Dynamic</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="IDS_DYNAMIC_NETWORK">
+        <xlf:target state="translated">Dynamic network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="IDS_DYNAMIC_DESCRIPTION">
+        <xlf:target state="translated">Use this setting to automatically switch the network type based on the profile of the connected network, whether it&apos;s a Home / Office or Public network.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="IDS_USE_PASSIVE_DHCP_MODE">
+        <xlf:target state="translated">Use passive detection mode</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="128" resname="IDS_PASSIVE_DHCP_MODE_DESCRIPTION">
+        <xlf:target state="translated">Intercept DHCP traffic without conflicting with existing custom DHCP software.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="129" resname="IDS_EV_MINUTE_AGO">
+        <xlf:target state="translated">one minute ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="130" resname="IDS_EV_HOUR_AGO">
+        <xlf:target state="translated">an hour ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="131" resname="IDS_EV_MINUTES_AGO">
+        <xlf:target state="translated">{0} minutes ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="132" resname="IDS_EV_HOURS_AGO">
+        <xlf:target state="translated">{0} hours ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="133" resname="IDS_EV_YESTERDAY_AT_AM">
+        <xlf:target state="translated">Yesterday at {0}:{1} AM</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="134" resname="IDS_EV_YESTERDAY_AT_PM">
+        <xlf:target state="translated">Yesterday at {0}:{1} PM</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="135" resname="IDS_EV_JANUARY">
+        <xlf:target state="translated">January</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="136" resname="IDS_EV_FEBRUARY">
+        <xlf:target state="translated">February</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="137" resname="IDS_EV_MARCH">
+        <xlf:target state="translated">March</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="138" resname="IDS_EV_APRIL">
+        <xlf:target state="translated">April</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="139" resname="IDS_EV_MAY">
+        <xlf:target state="translated">May</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="140" resname="IDS_EV_JUNE">
+        <xlf:target state="translated">June</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="141" resname="IDS_EV_JULY">
+        <xlf:target state="translated">July</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="142" resname="IDS_EV_AUGUST">
+        <xlf:target state="translated">August</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="143" resname="IDS_EV_SEPTEMBER">
+        <xlf:target state="translated">September</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="144" resname="IDS_EV_OCTOBER">
+        <xlf:target state="translated">October</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="145" resname="IDS_EV_NOVEMBER">
+        <xlf:target state="translated">November</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="146" resname="IDS_EV_DECEMBER">
+        <xlf:target state="translated">December</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="147" resname="IDS_EV_FULL_DATE_AM">
+        <xlf:target state="translated">{0} {1} at {2}:{3} AM</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="148" resname="IDS_EV_FULL_DATE_PM">
+        <xlf:target state="translated">{0} {1} at {2}:{3} PM</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="149" resname="IDS_EV_NOW">
+        <xlf:target state="translated">now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="150" resname="IDS_FIREWALL_DESCRIPTION_FMT_1">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Firewall adds an extra layer of protection, by blocking potentially malicious applications that want to connect to the Internet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="151" resname="IDS_FIREWALL_DESCRIPTION_FMT_2">
+        <xlf:target state="translated">Your personal information stays safe from hackers and data snoops.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="152" resname="IDS_FIREWALL_DESCRIPTION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Firewall adds an extra layer of protection, by blocking potentially malicious applications that want to connect to the Internet. Your personal information stays safe from hackers and data snoops.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="153" resname="IDS_OK_GOT_IT">
+        <xlf:target state="translated">OK, GOT IT</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="154" resname="IDS_RECENT_APPS">
+        <xlf:target state="translated">Recent applications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="155" resname="IDS_RECENT_APPS_DESCRIPTION">
+        <xlf:target state="translated">Applications that have been allowed or blocked by Firewall will appear here.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="156" resname="IDS_ADAPTERS_CONNECTED">
+        <xlf:target state="translated">CONNECTED</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="157" resname="IDS_ADAPTERS_NOT_CONNECTED">
+        <xlf:target state="translated">NOT CONNECTED</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="158" resname="IDS_APP_ACTIVITY_ALLOWED">
+        <xlf:target state="translated">%s has been allowed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="159" resname="IDS_APP_ACTIVITY_BLOCKED">
+        <xlf:target state="translated">%s has been blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="160" resname="IDS_APP_ACTIVITY_GOTO">
+        <xlf:target state="translated">View application rules</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="161" resname="IDS_APP_ACCESS">
+        <xlf:target state="translated">Application access</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="162" resname="IDS_CONNECTED">
+        <xlf:target state="translated">Connected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="163" resname="IDS_NOTCONNECTED">
+        <xlf:target state="translated">Not Connected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="164" resname="IDS_TYPE">
+        <xlf:target state="translated">Type</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="165" resname="IDS_FIREWALL_PAD_TOOLTIP">
+        <xlf:target state="translated">Monitors connections performed by your apps and provides advanced control of network connectivity.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

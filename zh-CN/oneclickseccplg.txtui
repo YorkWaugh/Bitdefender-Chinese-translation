@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="oneclickseccplg" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_MODULE_NAME">
+        <xlf:target state="translated">OneClick Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_MODULE_DESCRIPTION">
+        <xlf:target state="translated">Identify and remove unnecessary files from your device in one easy step.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_ONECLICK_TASK_NAME">
+        <xlf:target state="translated">Optimize</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

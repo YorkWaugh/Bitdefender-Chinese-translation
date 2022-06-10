@@ -1,0 +1,1432 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="seccenter" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_TAB_FILE_VAULT">
+        <xlf:target state="translated">FILE VAULT</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_MODULES_STATUS">
+        <xlf:target state="translated">Modules</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_UNKNOWN">
+        <xlf:target state="translated">unknown</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_UPDATE_ERROR">
+        <xlf:target state="translated">Update Error</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_VIEW_DETAILS">
+        <xlf:target state="translated">View details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_EV_ACTION_VIEW_LOG">
+        <xlf:target state="translated">View log</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_ERROR">
+        <xlf:target state="translated">Error</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_AUTOPILOT_TIPTITLE">
+        <xlf:target state="translated">Auto Pilot</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_SHIELD_TIPTITLE">
+        <xlf:target state="translated">Shield</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_QUICK_ACTION_TIPTITLE">
+        <xlf:target state="translated">Quick Actions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_INSTALL_OTHER_TIPTITLE">
+        <xlf:target state="translated">Install on another device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_SOURCE_NEXT_LNK">
+        <xlf:target state="translated">Source Next Info</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_NOT_CONFIGURED">
+        <xlf:target state="translated">NOT CONFIGURED</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_SOURCE_NEXT_LNK_MYACCT">
+        <xlf:target state="translated">Account Info</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_SEAMLESS_TITLE">
+        <xlf:target state="translated">Create account</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_SEAMLESS_TELL_MORE">
+        <xlf:target state="translated">Tell me more</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_SEAMLESS_FEATURE">
+        <xlf:target state="translated">To unlock this feature, a &lt;#ProductName#&gt; account is required. To create one, click the button below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_SEAMLESS_CREATE">
+        <xlf:target state="translated">Create account</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_SEAMLESS_NOT_NOW">
+        <xlf:target state="translated">Not now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_SEAMLESS_UNLOCK">
+        <xlf:target state="translated">Unlock more devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_SEAMLESS_MYACCOUNT">
+        <xlf:target state="translated">To unlock all product functionalities, a &lt;#ProductName#&gt; account is required. To create one, click the button below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_SEAMLESS_FIRST_RUN">
+        <xlf:target state="translated">To unlock all product functionalities, a &lt;#ProductName#&gt; account is required. To create one, click the button below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_SEAMLESS_MANAGE">
+        <xlf:target state="translated">To install the product on more devices, a &lt;#ProductName#&gt; account is required. To create one, click the button below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_SEAMLESS_ONE_DEVICE">
+        <xlf:target state="translated">To manage your device remotely, a &lt;#ProductName#&gt; account is required. To create one, click the button below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_SEAMLESS_MANAGE_ONE_BUTTON">
+        <xlf:target state="translated">Manage device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_LOGIN">
+        <xlf:target state="translated">Log in</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_LOGIN_REQUIRED">
+        <xlf:target state="translated">This feature requires you to be logged in.&#10;Would you like to log in now?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_PROTECTION_SET">
+        <xlf:target state="translated">Protection Features</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_BACK">
+        <xlf:target state="translated">Home</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_ENCRYPT">
+        <xlf:target state="translated">Encrypt</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_OPTIMIZE">
+        <xlf:target state="translated">Edit quick actions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_TAB_PARENTAL">
+        <xlf:target state="translated">PARENTAL</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_TAB_VULNERABILITY">
+        <xlf:target state="translated">VULNERABILITY</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_EVENTS">
+        <xlf:target state="translated">Events</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_NOT_RESPONDING_BODY">
+        <xlf:target state="translated">If the issue persists, please contact support.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_NOT_RESPONDING_HEAD">
+        <xlf:target state="translated">Communication failure</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_NOT_RESPONDING_SUBTITLE">
+        <xlf:target state="translated">The security status of your device cannot be displayed</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_NOT_RESPONDING_DESCRIPTION">
+        <xlf:target state="translated">Communication with &lt;#ProductName#&gt; Security Service failed to be initiated. To retry the connection, please click the button below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_NOT_RESPONDING_START_VSSERV">
+        <xlf:target state="translated">Retry connection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_NOT_RESPONDING_RESTART">
+        <xlf:target state="translated">Restart device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_NOT_RESPONDING_DESC_RESTART">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Security Service failed to respond. A device restart may fix the issue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_UPDATE_SET">
+        <xlf:target state="translated">Update</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_SETTINGS">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_AUTOPILOT">
+        <xlf:target state="translated">Autopilot</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_UPDATE_PROGRESS_STATUS_DOWNLOADING">
+        <xlf:target state="translated">Update in progress...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_UPDATE_PROGRESS_BUTTON_CAPTION">
+        <xlf:target state="translated">Activate Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_UPDATE_PROGRESS_TOTAL_CAPTION">
+        <xlf:target state="translated">Uninstall conflicting security applications to benefit from &lt;#ProductName#&gt;&apos;s complete protection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_UPDATE_PROGRESS_DOWNLOADED_CAPTION">
+        <xlf:target state="translated">Downloaded</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_UPDATE_SIZE_MEASUREMENT_UNIT">
+        <xlf:target state="translated">KB</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_CURRENTNETWORK_HOME">
+        <xlf:target state="translated">This feature is limited in &lt;#FullProductName#&gt; Lite. Enable the full version of this app for complete protection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_STATUS_LAST_RUN_TODAY">
+        <xlf:target state="translated">Last run: today</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_STATUS_LAST_RUN_YESTERDAY">
+        <xlf:target state="translated">Last run: yesterday</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_GENERAL_SET">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_CUSTOM_SCAN">
+        <xlf:target state="translated">Manage Scans</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_PRIVACY_SHORT_SET">
+        <xlf:target state="translated">Privacy Features</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_OPTIMIZATION_RECOMMENDED">
+        <xlf:target state="translated">Utilities</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_APPNAME">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Security Center</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_TAB_DASHBOARD">
+        <xlf:target state="translated">DASHBOARD</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_GET_A_NEW_LICENSE">
+        <xlf:target state="translated">Renew Subscription</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_SWITCH_ACCOUNT">
+        <xlf:target state="translated">Switch Account</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_EULA_MESSAGE">
+        <xlf:target state="translated">To use this product you need to read through and accept the Subscription Agreement below</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_EULA_LINK">
+        <xlf:target state="translated">Subscription agreement</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_NEVER">
+        <xlf:target state="translated">Never</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_EULA_AGREE">
+        <xlf:target state="translated">I agree with</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_OEMVERSION">
+        <xlf:target state="translated">OEM version</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_EUVERSION">
+        <xlf:target state="translated">Registered license key</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_NFSVERSION">
+        <xlf:target state="translated">not for resale version</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_RENEW">
+        <xlf:target state="translated">Renew</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_CONTACT_SUPPORT">
+        <xlf:target state="translated">Contact Support</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_LIFE_TIME_KIT">
+        <xlf:target state="translated">Lifetime of your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_CRITICAL">
+        <xlf:target state="translated">CRITICAL WARNING</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_BUY">
+        <xlf:target state="translated">Buy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_ACCOUNT">
+        <xlf:target state="translated">My&lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_HELP">
+        <xlf:target state="translated">Help</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_REGISTER">
+        <xlf:target state="translated">License Info</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_OVERVIEW">
+        <xlf:target state="translated">Overview</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_MYACCOUNT">
+        <xlf:target state="translated">My&lt;#ProductName#&gt;:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_NOACCOUNT">
+        <xlf:target state="translated">Product Not Registered</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_REGISTRATION">
+        <xlf:target state="translated">Registration:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_OPTIMIZED">
+        <xlf:target state="translated">Profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_SECURED">
+        <xlf:target state="translated">SECURED</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_NOT_MONITORED">
+        <xlf:target state="translated">Not monitored</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="85" resname="IDS_TRAY_EXIT">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="86" resname="IDS_TAB_SECURITY">
+        <xlf:target state="translated">SECURITY</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="87" resname="IDS_TAB_TUNEUP">
+        <xlf:target state="translated">TUNE-UP</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="88" resname="IDS_TAB_FILE_MANAGER">
+        <xlf:target state="translated">FILE STORAGE</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="89" resname="IDS_TAB_BACK_PRIVACY">
+        <xlf:target state="translated">Return to Privacy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="90" resname="IDS_ACTIVATION_CODE_LINK">
+        <xlf:target state="translated">Enter activation code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="91" resname="IDS_STATUS_PROTECTED">
+        <xlf:target state="translated">You are safe</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="92" resname="IDS_STATUS_RED">
+        <xlf:target state="translated">Your device is at risk!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="93" resname="IDS_STATUS_ORANGE">
+        <xlf:target state="translated">Your device is vulnerable</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="94" resname="IDS_SUBSTATUS_NO_ISSUES">
+        <xlf:target state="translated">This system is safe</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="95" resname="IDS_SUBSTATUS_ISSUES">
+        <xlf:target state="translated">Fix all issues!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="96" resname="IDS_AUTOPILOT_TIPTEXT">
+        <xlf:target state="translated">Turn Autopilot ON and enjoy our silent security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="97" resname="IDS_ISSUES_TIPTITLE">
+        <xlf:target state="translated">Security status</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="98" resname="IDS_ISSUES_TIPTEXT">
+        <xlf:target state="translated">Shows the security status of your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="99" resname="IDS_STATUS">
+        <xlf:target state="translated">Status</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="100" resname="IDS_ISSUE">
+        <xlf:target state="translated">issue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="101" resname="IDS_ISSUES">
+        <xlf:target state="translated">issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="102" resname="IDS_NOISSUES">
+        <xlf:target state="translated">PROTECTED. No issues are affecting the security status of your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="103" resname="IDS_ISSUES_PLACEHOLDER_TITLE">
+        <xlf:target state="translated">Issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="104" resname="IDS_ISSUES_PLACEHOLDER">
+        <xlf:target state="translated">Different types of recommendations will appear here as we analyze your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="105" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="106" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="107" resname="IDS_ABORT">
+        <xlf:target state="translated">Abort</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="108" resname="IDS_RETRY">
+        <xlf:target state="translated">Retry</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="109" resname="IDS_IGNORE">
+        <xlf:target state="translated">Ignore</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="110" resname="IDS_CONTINUE">
+        <xlf:target state="translated">Continue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="111" resname="IDS_EV_FIXED_REBOOTED">
+        <xlf:target state="translated">This threat has been removed at device startup.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="112" resname="IDS_EV_AVC_ALLOWED">
+        <xlf:target state="translated">This process was granted execution rights upon user request.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="113" resname="IDS_STATUS_LAST_RUN_N_DAYS_AGO">
+        <xlf:target state="translated">Last run: %d days ago</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="114" resname="IDS_STATUS_LAST_RUN_NEVER">
+        <xlf:target state="translated">Last run: never</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="115" resname="IDS_INTEGRATED_SUPPORT">
+        <xlf:target state="translated">Hi, how can we help you?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="116" resname="IDS_OVERVIEW_BACK_TEXT">
+        <xlf:target state="translated">Return to Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="117" resname="IDS_MYBD_ACCOUNTSETTINGS">
+        <xlf:target state="translated">My Account</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="118" resname="IDS_FW_ADAPTERS_LABEL_NETDETAILS">
+        <xlf:target state="translated">Network Details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="119" resname="IDS_DAYS_LEFT_FORMAT">
+        <xlf:target state="translated">%d days left</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="120" resname="IDS_1_DAY_LEFT_FORMAT">
+        <xlf:target state="translated">1 day left</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="121" resname="IDS_DAYS_FORMAT">
+        <xlf:target state="translated">%d days</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="122" resname="IDS_1_DAY_FORMAT">
+        <xlf:target state="translated">1 day</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="123" resname="IDS_WARNING">
+        <xlf:target state="translated">REQUIRES ATTENTION</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="124" resname="IDS_SUPPORT">
+        <xlf:target state="translated">Help and Support</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="125" resname="IDS_HISTORY">
+        <xlf:target state="translated">View logs</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="126" resname="IDS_FEEDBACK">
+        <xlf:target state="translated">Feedback</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="127" resname="IDS_OPTIONS">
+        <xlf:target state="translated">Options</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="128" resname="IDS_EV_HTAB_DASHBOARD">
+        <xlf:target state="translated">Dashboard</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="129" resname="IDS_PRD_NFR">
+        <xlf:target state="translated">Not for Resale</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="130" resname="IDS_TAB_ANTIPHISHING">
+        <xlf:target state="translated">ANTIPHISHING</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="131" resname="IDS_TAB_ANTIVIRUS">
+        <xlf:target state="translated">ANTIVIRUS</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="132" resname="IDS_OVERALL">
+        <xlf:target state="translated">Security Status</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="133" resname="IDS_AFFECT">
+        <xlf:target state="translated">that affect the security status of your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="134" resname="IDS_SUBSCRIPTION_RECHECK">
+        <xlf:target state="translated">Need to recheck your subscription?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="135" resname="IDS_SUBSCRIPTION_SUBTITLE">
+        <xlf:target state="translated">This device is no longer protected against threats</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="136" resname="IDS_LICENCE_INVALID_TITLE">
+        <xlf:target state="translated">Your subscription has expired</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="137" resname="IDS_ADD_QUICK_ACTION">
+        <xlf:target state="translated">Add a quick action</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="138" resname="IDS_UPDATE_NOW">
+        <xlf:target state="translated">Update Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="139" resname="IDS_UPDATE_STATUS_UNAVAILABLE">
+        <xlf:target state="translated">Last update: today</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="140" resname="IDS_SCAN_STATUS_UNAVAILABLE">
+        <xlf:target state="translated">Last scan: unknown</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="141" resname="IDS_FW_ADAPTERS_ADPT_ALLOWED">
+        <xlf:target state="translated">Trusted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="142" resname="IDS_FW_ADAPTERS_ADPT_HOME">
+        <xlf:target state="translated">Home/Office</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="143" resname="IDS_FW_ADAPTERS_ADPT_PUBLIC">
+        <xlf:target state="translated">Public</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="144" resname="IDS_FW_ADAPTERS_ADPT_BLOCKED">
+        <xlf:target state="translated">Untrusted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="145" resname="IDS_FW_ADAPTERS_MULTIPLE_CONN">
+        <xlf:target state="translated">Multiple connections</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="146" resname="IDS_OVERVIEW_EVENTS">
+        <xlf:target state="translated">Notifications</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="147" resname="IDS_DEFAULT_PROFILE">
+        <xlf:target state="translated">Standard</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="148" resname="IDS_WORK_PROFILE">
+        <xlf:target state="translated">Work</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="149" resname="IDS_GAME_PROFILE">
+        <xlf:target state="translated">Game</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="150" resname="IDS_MOVIE_PROFILE">
+        <xlf:target state="translated">Movie</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="151" resname="IDS_CATEGORY_PROTECTION">
+        <xlf:target state="translated">Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="152" resname="IDS_CATEGORY_PRIVACY">
+        <xlf:target state="translated">Privacy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="153" resname="IDS_CATEGORY_TOOLS">
+        <xlf:target state="translated">Utilities</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="154" resname="IDS_QUICK_ACTION_QS">
+        <xlf:target state="translated">Quick Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="155" resname="IDS_QUICK_ACTION_VPN">
+        <xlf:target state="translated">VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="156" resname="IDS_QUICK_ACTION_UPDATE">
+        <xlf:target state="translated">Update</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="157" resname="IDS_QUICK_ACTION_SAFEPAY">
+        <xlf:target state="translated">Safepay</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="158" resname="IDS_QUICK_ACTION_VULNERABILITY">
+        <xlf:target state="translated">Vulnerability Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="159" resname="IDS_QUICK_ACTION_FILE_SHREDDER">
+        <xlf:target state="translated">File Shredder</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="160" resname="IDS_VIEW_MODULES">
+        <xlf:target state="translated">View Features</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="161" resname="IDS_GO_TO_CONNECT">
+        <xlf:target state="translated">Go to &lt;#ProductName#&gt; Central</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="162" resname="IDS_ACCOUNT_INFO">
+        <xlf:target state="translated">My Account</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="163" resname="IDS_VALID_SUBSCRIPTION">
+        <xlf:target state="translated">This product has a valid subscription.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="164" resname="IDS_INVALID_SUBSCRIPTION">
+        <xlf:target state="translated">Your subscription is invalid.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="165" resname="IDS_NAME_ACC_INFO">
+        <xlf:target state="translated">Name:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="166" resname="IDS_EMAIL_ACC_INFO">
+        <xlf:target state="translated">Email: </xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="167" resname="IDS_DEVICE_ACC_INFO">
+        <xlf:target state="translated">Device:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="168" resname="IDS_SUBSCRIPTION_ACC_INFO">
+        <xlf:target state="translated">Subscription</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="169" resname="IDS_EXPIRES_ACC_INFO">
+        <xlf:target state="translated">Expires in:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="170" resname="IDS_MANAGE_ACC_INFO">
+        <xlf:target state="translated">Protect and secure your devices, all in one place</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="171" resname="IDS_BUY_NOW_LINK">
+        <xlf:target state="translated">Buy Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="172" resname="IDS_ACTIVATE_CODE_LINK">
+        <xlf:target state="translated">Add it in Central</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="173" resname="IDS_SUBSCRIPTION_EXPIRES_TOOLTIP">
+        <xlf:target state="translated">Your subscription expires on {0} {1} {2}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="174" resname="IDS_TRIAL_SUBSCRIPTION_EXPIRES_TOOLTIP">
+        <xlf:target state="translated">Your trial expires on {0} {1} {2}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="175" resname="IDS_ACCOUNT_RENEW">
+        <xlf:target state="translated">Renew</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="176" resname="IDS_ACCOUNT_ENTER_ACCTIVATION_CODE">
+        <xlf:target state="translated">Enter activation code</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="177" resname="IDS_QUOTA_TITLE">
+        <xlf:target state="translated">Devices limit reached</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="178" resname="IDS_QUOTA_MSG">
+        <xlf:target state="translated">You already used up all your devices on this subscription. You can activate the product on this device by purchasing additional devices or a new subscription with a higher device limit.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="179" resname="IDS_BUY_DEVICES">
+        <xlf:target state="translated">Protect more devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="180" resname="IDS_MODULES_MAIN">
+        <xlf:target state="translated">Modules</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="181" resname="IDS_TRIAL_SUBSCRIPTION">
+        <xlf:target state="translated">Trial</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="182" resname="IDS_REBOOT_REQUIRED_TITLE">
+        <xlf:target state="translated">Restart required</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="183" resname="IDS_REBOOT_REQUIRED_MSG">
+        <xlf:target state="translated">Your system needs to be restarted before running setup again. Do you want to restart now?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="184" resname="IDS_APPS_BLOCKED_NONE">
+        <xlf:target state="translated">No apps blocked</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="185" resname="IDS_THREATS_BLOCKED_NONE">
+        <xlf:target state="translated">Your device is threat free</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="186" resname="IDS_SITES_BLOCKED_NONE">
+        <xlf:target state="translated">Your device is threat free</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="187" resname="IDS_APP_PROTECTION">
+        <xlf:target state="translated">App Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="188" resname="IDS_FILE_PROTECTION">
+        <xlf:target state="translated">File Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="189" resname="IDS_WEB_PROTECTION">
+        <xlf:target state="translated">Online Threat Prevention</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="190" resname="IDS_AUTOPILOT_ON_DESCRIPTION">
+        <xlf:target state="translated">OK, we got this</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="191" resname="IDS_AUTOPILOT_OFF_DESCRIPTION">
+        <xlf:target state="translated">Turn Autopilot ON for silent security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="192" resname="IDS_KNOWLEDEGE_TITLE">
+        <xlf:target state="translated">User Guide</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="193" resname="IDS_KNOWLEDEGE_DESCRIPTION">
+        <xlf:target state="translated">Everything you need to know about your product. Learn about features, settings and more.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="194" resname="IDS_KNOWLEDGE_OPEN">
+        <xlf:target state="translated">Open guide</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="195" resname="IDS_SUPPORT_CENTER_TITLE">
+        <xlf:target state="translated">Support Center</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="196" resname="IDS_SUPPORT_CENTER_DESCRIPTION">
+        <xlf:target state="translated">Find articles and videos with the best solutions for your questions.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="197" resname="IDS_SUPPORT_CENTER_OPEN">
+        <xlf:target state="translated">Go to Support Center</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="198" resname="IDS_COMMUNITY_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Community</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="199" resname="IDS_COMMUNITY_DESC">
+        <xlf:target state="translated">Get answers and guidance, ask questions and connect with &lt;#ProductName#&gt; users like you.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="200" resname="IDS_COMMUNITY_ASK">
+        <xlf:target state="translated">Ask the Community</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="201" resname="IDS_PRODUCT_INFO">
+        <xlf:target state="translated">Product information</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="202" resname="IDS_PRODUCT_INFO_BUILD">
+        <xlf:target state="translated">{0} | Build {1}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="203" resname="IDS_UPGRADE_TO">
+        <xlf:target state="translated">Upgrade to</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="204" resname="IDS_TOOLS_UPGRADE_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="205" resname="IDS_TOOLS_UPGRADE_DESCRIPTION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; {0} gives you all the benefits of &lt;#ProductName#&gt; award-winning security software for your Windows, Mac OS and Android devices in a unique, feature-packed product that&apos;s amazingly powerful and easy to use.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="206" resname="IDS_UPGRADE_ONE_CLICK">
+        <xlf:target state="translated">OneClick Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="207" resname="IDS_UPGRADE_START_UP">
+        <xlf:target state="translated">StartUp Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="208" resname="IDS_UPGRADE_ANTI_THEFT">
+        <xlf:target state="translated">Anti-Theft</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="209" resname="IDS_UPGRADE_DISK_OPTIMIZER">
+        <xlf:target state="translated">Disk Cleanup</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="210" resname="IDS_UPGRADE_LINK">
+        <xlf:target state="translated">Upgrade now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="211" resname="IDS_TOOLS_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Utilities</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="212" resname="IDS_TOOLS_PENDING_DESCRIPTION">
+        <xlf:target state="translated">Return to Utilities</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="213" resname="IDS_TOOLS_WARN">
+        <xlf:target state="translated">Don&apos;t restart your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="214" resname="IDS_TOOLS_ERROR_DESCRIPTION">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Utilities are currently unavailable. Click enable to activate these features.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="215" resname="IDS_TOOLS_ERROR_CONFIGURE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Utilities are being configured and will be available in a short while.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="216" resname="IDS_ENABLE_TOOLS">
+        <xlf:target state="translated">Enable Utilities</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="217" resname="IDS_PT_PROFILE_DEFAULT">
+        <xlf:target state="translated">Standard</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="218" resname="IDS_PT_PROFILE_WORK">
+        <xlf:target state="translated">Work profile is active</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="219" resname="IDS_PT_PROFILE_GAME">
+        <xlf:target state="translated">Game profile is active</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="220" resname="IDS_PT_PROFILE_MOVIE">
+        <xlf:target state="translated">Movie profile is active</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="221" resname="IDS_PT_PROFILE_BATTERY">
+        <xlf:target state="translated">Battery profile is active</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="222" resname="IDS_PT_PROFILE_WIFI">
+        <xlf:target state="translated">Public Wi-Fi profile is active</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="223" resname="IDS_ACTIVE_PROFILE">
+        <xlf:target state="translated">Active Profile:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="224" resname="IDS_UPGRADE_NOW">
+        <xlf:target state="translated">Upgrade now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="225" resname="IDS_UPGRADE_DESCRIPTION">
+        <xlf:target state="translated">Upgrade to get this feature</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="226" resname="IDS_CHECK_SUBSCRIPTION_LINK_EXPIRED">
+        <xlf:target state="translated">I already have a subscription and I want to activate the product</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="227" resname="IDS_CHECK_SUBSCRIPTION_LINK_QUOTA">
+        <xlf:target state="translated">I already purchased more devices and I want to activate the product</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="228" resname="IDS_CHECK_SUBSCRIPTION_ERROR">
+        <xlf:target state="translated">Error: it appears you don&apos;t have an active subscription</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="229" resname="IDS_CHECK_SUBSCRIPTION_SEARCH">
+        <xlf:target state="translated">Searching for subscription</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="230" resname="IDS_TOOLTIP_STAY">
+        <xlf:target state="translated">Stay protected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="231" resname="IDS_TOOLTIP_GOT_IT">
+        <xlf:target state="translated">Got it</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="232" resname="IDS_TOOLTIP_1_CONTENT">
+        <xlf:target state="translated">Check this section for custom-made suggestions about your device. We&apos;ll share ways for you to improve its security and performance, using &lt;#ProductName#&gt;&apos;s features.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="233" resname="IDS_TOOLTIP_2_CONTENT">
+        <xlf:target state="translated">See at a glance if your device is safe or if there&apos;s an issue. A red shield means that we found a potential security threat or that a protection feature is inactive.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="234" resname="IDS_TOOLTIP_3_CONTENT">
+        <xlf:target state="translated">Add your favorite features here and quickly access them whenever you need to. Hover over any quick action card to replace it with another feature.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="235" resname="IDS_TOOLTIP_4_CONTENT">
+        <xlf:target state="translated">Know how many other devices you can protect with your subscription. You can install your &lt;#ProductName#&gt; product on another device anytime during your subscription.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="236" resname="IDS_TOOLTIP_SKIP">
+        <xlf:target state="translated">Skip tour</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="237" resname="IDS_PROTECTION_DESCRIPTION">
+        <xlf:target state="translated">View and manage the included protection features that work together to ensure your device and data are secured.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="238" resname="IDS_PRIVACY_DESCRIPTION">
+        <xlf:target state="translated">Make sure your sensitive data receives proper attention by using the dedicated privacy features in this section.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="239" resname="IDS_MY_ACCOUNT_DESCRIPTION">
+        <xlf:target state="translated">View subscription information and access your &lt;#ProductName#&gt; Central account to manage your devices&apos; protection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="240" resname="IDS_GENERAL_DESCRIPTION">
+        <xlf:target state="translated">View or manage additional settings of your &lt;#ProductName#&gt; solution.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="241" resname="IDS_INSTALL_ANOTHER_DEVICE_LINK">
+        <xlf:target state="translated">Install &lt;#ProductName#&gt; on a new device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="242" resname="IDS_BUY_MORE_DEVICES_LINK">
+        <xlf:target state="translated">Want to protect more devices? Get a new {0} to keep them safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="243" resname="IDS_MSP_CONTACT_PROVIDER">
+        <xlf:target state="translated">Want to protect more devices? Contact your provider to learn about the available offers.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="244" resname="IDS_DESCRIPTION_MORE_DEVICES_UNLIMITED">
+        <xlf:target state="translated">more devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="245" resname="IDS_DESCRIPTION_X_DEVICES">
+        <xlf:target state="translated">{0} more devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="246" resname="IDS_DESCRIPTION_YOU_CAN_PROTECT">
+        <xlf:target state="translated">You can protect</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="247" resname="IDS_DESCRIPTION_WITH_YOUR_SUB">
+        <xlf:target state="translated">with your subscription.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="248" resname="IDS_SUBSCRIPTION_TYPE_BUY">
+        <xlf:target state="translated">{0} subscription</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="249" resname="IDS_UPDATE_REQUIRES_RESTART">
+        <xlf:target state="translated">Update requires restart</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="250" resname="IDS_UPDATE_RESTART_NOW">
+        <xlf:target state="translated">Restart Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="251" resname="IDS_PC_LIFETIME_EDITION">
+        <xlf:target state="translated">PC Lifetime Edition</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="252" resname="IDS_PROD_AV_CUSTOM">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Antivirus</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="253" resname="IDS_ACTIVATE_QUESTION">
+        <xlf:target state="translated">Have an activation code?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="254" resname="IDS_ONE_CLICK">
+        <xlf:target state="translated">OneClick Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="255" resname="IDS_ANTITHEFT">
+        <xlf:target state="translated">Anti-Theft</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="256" resname="IDS_TOOLS_DESCRIPTION">
+        <xlf:target state="translated">Boost your device performance with the &lt;#ProductName#&gt; optimization tools.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="257" resname="IDS_ONE_CLICK_DESCRIPTION">
+        <xlf:target state="translated">Identify and remove unnecessary files from your device in one easy step.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="258" resname="IDS_ANTITHEFT_DESCRIPTION">
+        <xlf:target state="translated">Protect what you stored on your device in case of loss or theft.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="259" resname="IDS_ONE_CLICK_BUTTON">
+        <xlf:target state="translated">Optimize my device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="260" resname="IDS_ANTITHEFT_BUTTON">
+        <xlf:target state="translated">Go to Central</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="261" resname="IDS_OA_ISSUE_TITLE">
+        <xlf:target state="translated">Real-Time Protection is disabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="262" resname="IDS_OA_ISSUE_DESCRIPTION">
+        <xlf:target state="translated">Currently, your data is not automatically scanned upon access. Enable Real-Time Protection so you only get to access files that have been previously confirmed to be safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="263" resname="IDS_ATD_ISSUE_TITLE">
+        <xlf:target state="translated">Advanced Threat Defense is disabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="264" resname="IDS_ATD_ISSUE_DESCRIPTION">
+        <xlf:target state="translated">Protection is currently lacking behavioral detection used for app monitoring. Enable Advanced Threat Defense to ensure essential security for your device and data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="265" resname="IDS_HTTP_ISSUE_TITTLE">
+        <xlf:target state="translated">Web Attack Prevention is disabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="266" resname="IDS_HTTP_ISSUE_DESCRIPTION">
+        <xlf:target state="translated">Browsing is currently unsecured and you run the risk of accessing dangerous web pages. Enable Web Attack Prevention to stay on the safe side.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="267" resname="IDS_SSL_ISSUE_TITLE">
+        <xlf:target state="translated">Encrypted Web Scan is disabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="268" resname="IDS_SSL_ISSUE_DESCRIPTION">
+        <xlf:target state="translated">You run the risk of accessing apparently safe but potentially hijacked web pages. Enable Encrypted Web Scan to avoid security risks while browsing.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="269" resname="IDS_REPORT_MODE_ISSUE_TITLE">
+        <xlf:target state="translated">Malware protection is disabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="270" resname="IDS_REPORT_MODE_ISSUE_DESCRIPTION">
+        <xlf:target state="translated">Your device is currently lacking protection against any type of threats, including ransomware. Activate protection to ensure essential security for your device and data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="271" resname="IDS_REC_DEFAULT_TITLE">
+        <xlf:target state="translated">Autopilot Recommendations</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="272" resname="IDS_REC_DEFAULT_DESCRIPTION">
+        <xlf:target state="translated">Autopilot, your personal security advisor, provides contextual recommendations based on your device usage and needs. This way, you&apos;ll get to benefit from everything your product has to offer.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="273" resname="IDS_RECOMM_TOOLTIP">
+        <xlf:target state="translated">Different types of recommendations will appear here as we analyze your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="274" resname="IDS_REC_UPDATE_TITLE">
+        <xlf:target state="translated">Update Recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="275" resname="IDS_REC_UPDATE_1_DAY_DESCRIPTION">
+        <xlf:target state="translated">Threat information updates are available. Update your product so it can easily detect even the newest threats and keep your device and data safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="276" resname="IDS_REC_UPDATE_ACTION">
+        <xlf:target state="translated">Update Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="277" resname="IDS_REC_UPDATE_3_DAYS_DESCRIPTION">
+        <xlf:target state="translated">Threat information database is outdated. Avoid risking your device and data&apos;s safety by updating your product.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="278" resname="IDS_REC_SUBSCRIPTION_TITLE">
+        <xlf:target state="translated">Subscription recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="279" resname="IDS_REC_SUBSCRIPTION_DESCRIPTION">
+        <xlf:target state="translated">Your subscription is due to expire tomorrow. Extend protection offered by your &lt;#ProductName#&gt; subscription to keep your device and data safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="280" resname="IDS_REC_SUBSCRIPTION_ACTION">
+        <xlf:target state="translated">Buy Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="281" resname="IDS_REC_ENABLE_NOW_ACTION">
+        <xlf:target state="translated">Enable Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="282" resname="IDS_REC_FIREWALL_TITLE">
+        <xlf:target state="translated">Firewall recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="283" resname="IDS_REC_FIREWALL_DESCRIPTION">
+        <xlf:target state="translated">An additional security layer that monitors network traffic is available. Enable &lt;#ProductName#&gt; Firewall to ensure your device is not exposed to unauthorized connections.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="286" resname="IDS_REC_BATTERY_MODE_TITLE">
+        <xlf:target state="translated">Battery Mode recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="287" resname="IDS_REC_BATTERY_MODE_DESCRIPTION">
+        <xlf:target state="translated">Your device&apos;s battery level is low. Use &lt;#ProductName#&gt; Battery Mode to extend the power time by optimizing background activity of your device whenever needed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="288" resname="IDS_REC_AUTOMATICALLY_PROFILES_TITLE">
+        <xlf:target state="translated">Automatic Profiles recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="289" resname="IDS_REC_AUTOMATICALLY_PROFILES_DESCRIPTION">
+        <xlf:target state="translated">Eliminate any kind of interruption when watching movies or playing your favorite game. Profiles will get activated automatically so you get the optimal experience depending on your activity.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="290" resname="IDS_REC_ONACCESS_REBOOT_TITLE">
+        <xlf:target state="translated">Real-Time Protection recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="291" resname="IDS_REC_ONACCESS_REBOOT_DESCRIPTION">
+        <xlf:target state="translated">We detected and blocked a threat to keep you safe. However, we recommend you to restart your device whenever it&apos;s convenient so we can completely remove it.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="292" resname="IDS_REC_REBOOT_ACTION">
+        <xlf:target state="translated">Restart device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="293" resname="IDS_REC_VU_WINUPDATES_TITLE">
+        <xlf:target state="translated">Vulnerability recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="294" resname="IDS_REC_VU_WINUPDATES_DESCRIPTION">
+        <xlf:target state="translated">Updates for your Operating System are available. Windows Updates sometimes come with new features while patching some known issues, that&apos;s why we recommend you to install the latest version.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="295" resname="IDS_REC_VU_WINUPDATES_ACTION">
+        <xlf:target state="translated">View updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="296" resname="IDS_REC_VU_APPUPDATES_TITLE">
+        <xlf:target state="translated">Vulnerability recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="297" resname="IDS_REC_VU_APPUPDATES_DESCRIPTION">
+        <xlf:target state="translated">Outdated apps pose a risk of being vulnerable to different attack types. Install the latest updates to benefit from improvements and stay safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="298" resname="IDS_REC_VU_APPUPDATES_ACTION">
+        <xlf:target state="translated">View apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="299" resname="IDS_REC_VU_WEAKPASS_TITLE">
+        <xlf:target state="translated">Vulnerability recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="300" resname="IDS_REC_VU_WEAKPASS_DESCRIPTION">
+        <xlf:target state="translated">Some Windows accounts have weak passwords and run the risk of being accessed by an intruder. Set a stronger password to secure the data and preferences on the account.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="301" resname="IDS_REC_VU_WEAKPASS_ACTION">
+        <xlf:target state="translated">View accounts</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="302" resname="IDS_REC_VU_IOR_OS_ISSUES_TITLE">
+        <xlf:target state="translated">Vulnerability recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="303" resname="IDS_REC_VU_IOR_OS_ISSUES_DESCRIPTION">
+        <xlf:target state="translated">We&apos;ve detected a change in your system settings that may lead to the compromise of your device and data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="304" resname="IDS_REC_VU_IOR_OS_ISSUES_ACTION">
+        <xlf:target state="translated">View details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="305" resname="IDS_REC_VU_IOR_BROWSER_ISSUES_TITLE">
+        <xlf:target state="translated">Vulnerability recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="306" resname="IDS_REC_VU_IOR_BROWSER_ISSUES_DESCRIPTION">
+        <xlf:target state="translated">We&apos;ve detected a change in your system settings that may lead to the compromise of your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="307" resname="IDS_REC_VU_IOR_BROWSER_ISSUES_ACTION">
+        <xlf:target state="translated">View details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="308" resname="IDS_REC_VU_IOR_NET_ISSUES_TITLE">
+        <xlf:target state="translated">Vulnerability recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="309" resname="IDS_REC_VU_IOR_NET_ISSUES_DESCRIPTION">
+        <xlf:target state="translated">We&apos;ve detected a change in your system settings that may lead to the compromise of your privacy and data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="310" resname="IDS_REC_VU_IOR_NET_ISSUES_ACTION">
+        <xlf:target state="translated">View details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="311" resname="IDS_REC_LOW_SYSTEM_DRIVE_SPACE_TITLE">
+        <xlf:target state="translated">OneClick Optimizer recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="312" resname="IDS_REC_LOW_SYSTEM_DRIVE_SPACE_DESCRIPTION">
+        <xlf:target state="translated">There are unnecessary files on your device that may cause system slowdown. Run OneClick Optimizer to remove them and take advantage of the space you&apos;re gaining.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="313" resname="IDS_REC_LOW_SYSTEM_DRIVE_SPACE_ACTION">
+        <xlf:target state="translated">Run OneClick Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="314" resname="IDS_REC_USE_FILE_SHREDDER_TITLE">
+        <xlf:target state="translated">File Shredder recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="315" resname="IDS_REC_USE_FILE_SHREDDER_DESCRIPTION">
+        <xlf:target state="translated">Normally, deleted files can be easily recovered. Use File Shredder for when you want to permanently erase sensitive data from your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="316" resname="IDS_REC_USE_FILE_SHREDDER_ACTION">
+        <xlf:target state="translated">Run File Shredder</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="317" resname="IDS_REC_UPDATE_REBOOT_DESCRIPTION">
+        <xlf:target state="translated">An update carrying product improvements and fixes for some known issues is available. Restart your device to get the latest benefits included in the update.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="318" resname="IDS_REC_UPDATE_REBOOT_ACTION">
+        <xlf:target state="translated">Restart Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="319" resname="IDS_REC_UPDATE_MAJOR_DESCRIPTION">
+        <xlf:target state="translated">The latest version of your &lt;#ProductName#&gt; product is here. You just need to restart your computer to finish your update.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="320" resname="IDS_REC_ENABLE_RANSOMWARE_REMEDIATION_TITLE">
+        <xlf:target state="translated">Ransomware remediation recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="321" resname="IDS_REC_ENABLE_RANSOMWARE_REMEDIATION_DESCRIPTION">
+        <xlf:target state="translated">Not a chance to lose your important data. Enable Ransomware Remediation to counteract encryption and have your files automatically restored after an attack gets blocked.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="322" resname="IDS_REC_ENABLE_RANSOMWARE_REMEDIATION_ACTION">
+        <xlf:target state="translated">Enable</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="323" resname="IDS_REC_BDAUXSRV_DOWN_TITLE">
+        <xlf:target state="translated">Security Recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="324" resname="IDS_REC_BDAUXSRV_DOWN_DESCRIPTION">
+        <xlf:target state="translated">Due to a failure, some modules are not available right now. Clicking Enable will force a recheck that may fix this issue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="325" resname="IDS_REC_BDAUXSRV_DOWN_ACTION">
+        <xlf:target state="translated">Enable</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="326" resname="IDS_REC_SUBSCRIPTION_X_DAYS_DESCRIPTION">
+        <xlf:target state="translated">Your subscription will expire in %s days. Keep your device and data continuously protected by extending your &lt;#ProductName#&gt; subscription.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="327" resname="IDS_REC_INSTALL_TITLE">
+        <xlf:target state="translated">Boost your network security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="328" resname="IDS_REC_INSTALL_DESCRIPTION_SINGLE">
+        <xlf:target state="translated">Protect all the devices connected to your network, to make sure your data and privacy are safe. Use your subscription and install security on one more device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="329" resname="IDS_REC_INSTALL_DESCRIPTION_MULTIPLE">
+        <xlf:target state="translated">Protect all the devices connected to your network, to make sure your data and privacy are safe. Use your subscription and install security on {0} more devices.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="330" resname="IDS_REC_INSTALL_DESCRIPTION_UNLIMITED">
+        <xlf:target state="translated">Protect all the devices connected to your network, to make sure your data and privacy are safe. Use your subscription and install security on more devices.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="331" resname="IDS_REC_INSTALL_ACTION">
+        <xlf:target state="translated">Protect new device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="332" resname="IDS_REC_NEW_DEVICE_TITLE">
+        <xlf:target state="translated">Secure your new devices</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="333" resname="IDS_REC_NEW_DEVICE_DESCRIPTION_SINGLE">
+        <xlf:target state="translated">Keep your network safe and install &lt;#ProductType#&gt; on any new devices that join your network. Your subscription can protect one more device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="334" resname="IDS_REC_NEW_DEVICE_DESCRIPTION_MULTIPLE">
+        <xlf:target state="translated">Keep your network safe and install &lt;#ProductType#&gt; on any new devices that join your network. Your subscription can protect {0} more devices.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="335" resname="IDS_REC_NEW_DEVICE_DESCRIPTION_UNLIMITED">
+        <xlf:target state="translated">Keep your network safe and install &lt;#ProductType#&gt; on any new devices that join your network. Your subscription can protect more devices.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="336" resname="IDS_REC_NEW_DEVICE_ACTION">
+        <xlf:target state="translated">Secure new device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="337" resname="IDS_QA_QUICK_SCAN_NAME">
+        <xlf:target state="translated">Quick Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="338" resname="IDS_QA_QUICK_SCAN_MODULE">
+        <xlf:target state="translated">Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="339" resname="IDS_QA_QUICK_SCAN_ACTION">
+        <xlf:target state="translated">Start Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="340" resname="IDS_QA_SYSTEM_SCAN_NAME">
+        <xlf:target state="translated">System Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="341" resname="IDS_QA_SYSTEM_SCAN_MODULE">
+        <xlf:target state="translated">Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="342" resname="IDS_QA_SYSTEM_SCAN_ACTION">
+        <xlf:target state="translated">Start Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="343" resname="IDS_QA_VULNER_SCAN_NAME">
+        <xlf:target state="translated">Vulnerability Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="344" resname="IDS_QA_VULNER_SCAN_MODULE">
+        <xlf:target state="translated">Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="345" resname="IDS_QA_VULNER_SCAN_ACTION">
+        <xlf:target state="translated">Start Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="346" resname="IDS_QA_WIFI_SCAN_NAME">
+        <xlf:target state="translated">Wi-Fi Security Advisor</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="347" resname="IDS_QA_WIFI_SCAN_MODULE">
+        <xlf:target state="translated">Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="348" resname="IDS_QA_WIFI_SCAN_ACTION">
+        <xlf:target state="translated">Open</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="349" resname="IDS_QA_SAFEPAY_NAME">
+        <xlf:target state="translated">Safepay</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="350" resname="IDS_QA_SAFEPAY_MODULE">
+        <xlf:target state="translated">Privacy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="351" resname="IDS_QA_SAFEPAY_ACTION">
+        <xlf:target state="translated">Open</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="352" resname="IDS_QA_WALLETS_NAME">
+        <xlf:target state="translated">Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="353" resname="IDS_QA_WALLETS_MODULE">
+        <xlf:target state="translated">Privacy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="354" resname="IDS_QA_WALLETS_ACTION">
+        <xlf:target state="translated">View</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="355" resname="IDS_QA_FILE_SHREDDER_NAME">
+        <xlf:target state="translated">File Shredder</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="356" resname="IDS_QA_FILE_SHREDDER_MODULE">
+        <xlf:target state="translated">Privacy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="357" resname="IDS_QA_FILE_SHREDDER_ACTION">
+        <xlf:target state="translated">Run</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="358" resname="IDS_QA_FILE_VAULTS_NAME">
+        <xlf:target state="translated">File Encryption</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="359" resname="IDS_QA_FILE_VAULTS_MODULE">
+        <xlf:target state="translated">Privacy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="360" resname="IDS_QA_FILE_VAULTS_ACTION">
+        <xlf:target state="translated">View</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="361" resname="IDS_QA_ONE_CLICK_NAME">
+        <xlf:target state="translated">OneClick Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="362" resname="IDS_QA_ONE_CLICK_MODULE">
+        <xlf:target state="translated">Utilities</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="363" resname="IDS_QA_ONE_CLICK_ACTION">
+        <xlf:target state="translated">Run</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="364" resname="IDS_QA_OPEN_VPN_NAME">
+        <xlf:target state="translated">VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="365" resname="IDS_QA_OPEN_VPN_MODULE">
+        <xlf:target state="translated">Privacy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="366" resname="IDS_QA_OPEN_VPN_ACTION">
+        <xlf:target state="translated">Open VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="367" resname="IDS_QAD_MAIN_TITLE">
+        <xlf:target state="translated">Quick actions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="368" resname="IDS_QAD_DESCRIPTION">
+        <xlf:target state="translated">Pin what you use most to the dashboard.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="369" resname="IDS_QAD_CATEGORY_AV">
+        <xlf:target state="translated">Antivirus</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="370" resname="IDS_QAD_QUICK_SCAN_TITLE">
+        <xlf:target state="translated">Quick Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="371" resname="IDS_QAD_QUICK_SCAN_DESCR">
+        <xlf:target state="translated">Run a lightweight scan for your peace of mind</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="372" resname="IDS_QAD_SYSTEM_SCAN_TITLE">
+        <xlf:target state="translated">System Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="373" resname="IDS_QAD_SYSTEM_SCAN_DESCR">
+        <xlf:target state="translated">Run a deep analysis of your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="374" resname="IDS_QAD_VULNERABILITY_SCAN_TITLE">
+        <xlf:target state="translated">Vulnerability Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="375" resname="IDS_QAD_VULNERABILITY_SCAN_DESCR">
+        <xlf:target state="translated">Check your system for vulnerabilities</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="376" resname="IDS_QAD_WIFI_SCAN_TITLE">
+        <xlf:target state="translated">Check Wi-Fi safety</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="377" resname="IDS_QAD_WIFI_SCAN_DESCR">
+        <xlf:target state="translated">Verify the security status of your Wi-Fi connection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="378" resname="IDS_QAD_WALLETS_TITLE">
+        <xlf:target state="translated">Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="379" resname="IDS_QAD_WALLETS_DESCR">
+        <xlf:target state="translated">View or manage your wallets with ease</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="380" resname="IDS_QAD_FILE_VAULT_TITLE">
+        <xlf:target state="translated">File Vaults</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="381" resname="IDS_QAD_FILE_VAULT_DESCR">
+        <xlf:target state="translated">Protect your files in encrypted vaults</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="382" resname="IDS_QAD_FILE_SHREDDER_TITLE">
+        <xlf:target state="translated">File Shredder</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="383" resname="IDS_QAD_FILE_SHREDDER_DESCR">
+        <xlf:target state="translated">Remove all traces of sensitive data from your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="384" resname="IDS_QAD_FILE_SAFEPAY_TITLE">
+        <xlf:target state="translated">Open Safepay</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="385" resname="IDS_QAD_FILE_SAFEPAY_DESCR">
+        <xlf:target state="translated">Use our secure browser to protect your online transactions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="386" resname="IDS_QAD_VPN_TITLE">
+        <xlf:target state="translated">Open VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="387" resname="IDS_QAD_VPN_DESCR">
+        <xlf:target state="translated">Protect your online presence by encrypting all internet traffic</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="388" resname="IDS_QAD_ONE_CLICK_TITLE">
+        <xlf:target state="translated">OneClick Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="389" resname="IDS_QAD_ONE_CLICK_DESCR">
+        <xlf:target state="translated">Identify and remove unnecessary files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="390" resname="IDS_QAD_CATEGORY_VUL">
+        <xlf:target state="translated">Vulnerability</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="391" resname="IDS_QAD_CATEGORY_WALL">
+        <xlf:target state="translated">Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="392" resname="IDS_QAD_CATEGORY_VAULT">
+        <xlf:target state="translated">File Encryption</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="393" resname="IDS_QAD_CATEGORY_SHREDDER">
+        <xlf:target state="translated">Data Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="394" resname="IDS_QAD_CATEGORY_SAFEPAY">
+        <xlf:target state="translated">Safepay</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="395" resname="IDS_QAD_CATEGORY_VPN">
+        <xlf:target state="translated">VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="396" resname="IDS_QAD_CATEGORY_ONECLICK">
+        <xlf:target state="translated">OneClick Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="397" resname="IDS_QAD_ADD_BUTTON">
+        <xlf:target state="translated">Add</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="398" resname="IDS_SHOW_MORE_DETAILS">
+        <xlf:target state="translated">Show more details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="399" resname="IDS_HIDE_DETAILS">
+        <xlf:target state="translated">Hide details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="400" resname="IDS_NEXT_RECOMMENDATION">
+        <xlf:target state="translated">Next recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="401" resname="IDS_ENABLE_NOW">
+        <xlf:target state="translated">Enable</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="402" resname="IDS_MAINUI_ISSUES_SUBTITLE">
+        <xlf:target state="translated">Attend the issue(s) described below to secure your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="403" resname="IDS_MAINUI_NO_ISSUES_SUBTITLE">
+        <xlf:target state="translated">We’re looking out for your device and data.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="404" resname="IDS_RWR_BLOCKED_ACCESS">
+        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Your files have been protected from being altered.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="405" resname="IDS_RWR_AUTO_PARTIAL_RECOVERED">
+        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Several files were encrypted by it and we couldn&apos;t automatically restore all of them. You can find the files to be restored below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="406" resname="IDS_RWR_AUTO_SUCCESS_RECOVERED">
+        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Several files were encrypted but we successfully restored all of them. You can find the restored files list below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="407" resname="IDS_RWR_AUTO_NONE_RECOVERED">
+        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Several files were encrypted by it and couldn&apos;t be automatically restored. You can find the files to be restored below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="408" resname="IDS_RWR_MANUAL_NONE_RECOVERED">
+        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Your attention is required because automatic file restoration is disabled. You can find the files to be restored below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="409" resname="IDS_RWR_MANUAL_ALL_RECOVERED">
+        <xlf:target state="translated">All your files have been successfully restored. You are safe!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="410" resname="IDS_COMM_FAILURE_TITLE">
+        <xlf:target state="translated">Communication failure</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="411" resname="IDS_COMM_FAILURE_DESCRIPTION">
+        <xlf:target state="translated">Communication with &lt;#ProductName#&gt; Security Service failed to be initiated. To retry the connection, please click the button below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="412" resname="IDS_COMM_FAILURE_DESCRIPTION_NOT_RESPOND">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Security Service failed to respond. A device restart may fix the issue. If the issue persists, please contact support.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="413" resname="IDS_COMM_FAILURE_STARTING_SERVICE">
+        <xlf:target state="translated">Communication with &lt;#ProductName#&gt; Security Service is being initiated. Please wait.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="414" resname="IDS_COMM_FAILURE_RETRY">
+        <xlf:target state="translated">Retry connection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="415" resname="IDS_COMM_FAILURE_RETRYING_CONNECTION">
+        <xlf:target state="translated">Retrying connection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="416" resname="IDS_COMM_FAILURE_CONTACT_SUPPORT">
+        <xlf:target state="translated">Contact Support</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="417" resname="IDS_COMM_FAILURE_RESTART_DEVICE">
+        <xlf:target state="translated">Restart device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="418" resname="IDS_UNAVAILABLE_FEATURE">
+        <xlf:target state="translated">This feature is unavailable at the moment.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="419" resname="IDS_UNAVAILABLE_FEATURE_DESC">
+        <xlf:target state="translated">Feature unavailable</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="420" resname="IDS_RESTART_MAY_FIX">
+        <xlf:target state="translated">A restart may fix this issue.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="421" resname="IDS_SYSTEM_SCAN_TITLE">
+        <xlf:target state="translated">Scan Recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="422" resname="IDS_SYSTEM_SCAN_DESCR">
+        <xlf:target state="translated">Although your device is protected against all types of threats, we recommend you to run a scan to ensure that your device is threat free.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="423" resname="IDS_SYSTEM_SCAN_ACTION">
+        <xlf:target state="translated">Start Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="424" resname="IDS_SPECIAL_OFFER_IPM">
+        <xlf:target state="translated">We have a special offer for you</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="425" resname="IDS_SPECIAL_OFFER_LINK">
+        <xlf:target state="translated">Click here!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="426" resname="IDS_PART_OF_PLAN">
+        <xlf:target state="translated">Part of</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="427" resname="IDS_RIFT_ALERT_TITLE">
+        <xlf:target state="translated">Data breach alert for {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="428" resname="IDS_RIFT_ALERT_MESSAGE">
+        <xlf:target state="translated">A security incident was reported for {domain}. {description}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="429" resname="IDS_RIFT_ALERT_READ_MODE">
+        <xlf:target state="translated">Read more</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="430" resname="IDS_RIFT_ALERT_HERE">
+        <xlf:target state="translated">here</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="431" resname="IDS_RIFT_GET_CONTINUOUS_MON">
+        <xlf:target state="translated">Protect yourself</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="432" resname="IDS_RIFT_SKIP">
+        <xlf:target state="translated">Skip</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="433" resname="IDS_NEW_LABEL">
+        <xlf:target state="translated">NEW</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="434" resname="IDS_IMPROVED_LABEL">
+        <xlf:target state="translated">IMPROVED</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="435" resname="IDS_SUBSCRIPTION_EXPIRED_MSP_TEXT">
+        <xlf:target state="translated">An active subscription is required to keep your device protected. Contact your provider to learn about the available offers.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="436" resname="IDS_MSP_UPGRADE_GUIDE">
+        <xlf:target state="translated">Contact your provider to learn about the available offers.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="437" resname="IDS_NO_SUBSCRIPTION_BODY">
+        <xlf:target state="translated">You can activate your product by purchasing a subscription or providing a valid activation code.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="438" resname="IDS_REC_WALLET_SAFERPASS_AVAILABLE_TITLE">
+        <xlf:target state="translated">Password Manager recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="439" resname="IDS_REC_WALLET_SAFERPASS_AVAILABLE_DESCRIPTION">
+        <xlf:target state="translated">Manage passwords, online identities, bank safely and operate with sensitive information across all your devices knowing you&apos;re guarded by an end-to-end encryption system.&#10;&#10;The new cross-platform &lt;#ProductName#&gt; Password Manager comes with the strongest known cryptographic algorithms so you can rest assured your online credentials are safe and secure.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="440" resname="IDS_REC_LEARN_MORE_ACTION">
+        <xlf:target state="translated">Learn more</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="438" resname="IDS_AVLITE_UPGRADE_TITLE">
+        <xlf:target state="translated">Upgrade to benefit from all features</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="439" resname="IDS_AVLITE_UPGRADE_DESC_PROTECTION">
+        <xlf:target state="translated">Unlock all &lt;span class=&quot;medium&quot;&gt;protection features&lt;/span&gt; by upgrading to the next security level.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="440" resname="IDS_AVLITE_UPGRADE_DESC_PRIVACY">
+        <xlf:target state="translated">Unlock all &lt;span class=&quot;medium&quot;&gt;privacy features&lt;/span&gt; by upgrading to the next security level.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="441" resname="IDS_AVLITE_UPGRADE_DESC_TOOLS">
+        <xlf:target state="translated">Unlock all &lt;span class=&quot;medium&quot;&gt;utilities features&lt;/span&gt; by upgrading to the next security level.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="442" resname="IDS_UPGRADE">
+        <xlf:target state="translated">Upgrade</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="443" resname="IDS_STATUS_BAR_UPGRADE_OPTIONS">
+        <xlf:target state="translated">View options</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="444" resname="IDS_STATUS_BAR_UPGRADE_TOOLTIP">
+        <xlf:target state="translated">Check out the &lt;#ProductName#&gt; security solution that works best for you.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="445" resname="IDS_UPGRADE_FEATURE_TOOLTIP">
+        <xlf:target state="translated">Upgrade to unlock this feature</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="446" resname="IDS_QUAD_VIEW_UPGRADE_OPTIONS">
+        <xlf:target state="translated">View upgrade options</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="447" resname="IDS_EV_JANUARY">
+        <xlf:target state="translated">January</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="448" resname="IDS_EV_FEBRUARY">
+        <xlf:target state="translated">February</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="449" resname="IDS_EV_MARCH">
+        <xlf:target state="translated">March</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="450" resname="IDS_EV_APRIL">
+        <xlf:target state="translated">April</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="451" resname="IDS_EV_MAY">
+        <xlf:target state="translated">May</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="452" resname="IDS_EV_JUNE">
+        <xlf:target state="translated">June</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="453" resname="IDS_EV_JULY">
+        <xlf:target state="translated">July</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="454" resname="IDS_EV_AUGUST">
+        <xlf:target state="translated">August</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="455" resname="IDS_EV_SEPTEMBER">
+        <xlf:target state="translated">September</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="456" resname="IDS_EV_OCTOBER">
+        <xlf:target state="translated">October</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="457" resname="IDS_EV_NOVEMBER">
+        <xlf:target state="translated">November</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="458" resname="IDS_EV_DECEMBER">
+        <xlf:target state="translated">December</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="459" resname="IDS_REC_MONITOR_JUNK_FILES_TITLE">
+        <xlf:target state="translated">OneClick Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="460" resname="IDS_REC_MONITOR_JUNK_FILES_DESCRIPTION">
+        <xlf:target state="translated">Boost your device speed and performance by cleaning junk files with &lt;#ProductName#&gt; Total Security.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="461" resname="IDS_REC_MONITOR_JUNK_FILES_NOW_ACTION">
+        <xlf:target state="translated">Upgrade now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="462" resname="IDS_REC_UPSELL_RANSOMWARE_REMEDIATION_TITLE">
+        <xlf:target state="translated">Ransomware remediation recommendation</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="463" resname="IDS_REC_UPSELL_RANSOMWARE_REMEDIATION_DESCRIPTION">
+        <xlf:target state="translated">Not a chance to lose your important data. Get &lt;#ProductName#&gt; Total Security to counteract encryption and have your files automatically restored after an attack gets blocked.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="464" resname="IDS_REC_UPSELL_ACTION">
+        <xlf:target state="translated">Upgrade now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="465" resname="IDS_REC_WALLET_PASSWORD_MANAGER_AVAILABLE_WALLETS_OWNER_TITLE">
+        <xlf:target state="translated">Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="466" resname="IDS_REC_WALLET_PASSWORD_MANAGER_AVAILABLE_WALLETS_OWNER_DESCRIPTION">
+        <xlf:target state="translated">Move Wallets to Password Manager and give it a try - it&apos;s included in your Premium Security pack. You&apos;ll no longer need your Wallet browser extension, so we&apos;ll uninstall it for you.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="467" resname="IDS_REC_WALLET_PASSWORD_MANAGER_AVAILABLE_WALLETS_OWNER_ACTION">
+        <xlf:target state="translated">Move Wallets</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="468" resname="IDS_REC_WALLET_PASSWORD_MANAGER_AVAILABLE_NO_WALLETS_TITLE">
+        <xlf:target state="translated">Password Manager</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="469" resname="IDS_REC_WALLET_PASSWORD_MANAGER_AVAILABLE_NO_WALLETS_DESCRIPTION">
+        <xlf:target state="translated">Manage passwords on all your devices, knowing you&apos;re guarded by the latest level of encryption. Included in your Premium Security pack.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="470" resname="IDS_REC_WALLET_PASSWORD_MANAGER_AVAILABLE_NO_WALLETS_ACTION">
+        <xlf:target state="translated">Open</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="471" resname="IDS_REC_LABEL_NEW">
+        <xlf:target state="translated">New</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="472" resname="IDS_QUOTA_MSG_AVFREE">
+        <xlf:target state="translated">You already used up all your devices on this subscription. You can activate the product on this device by upgrading to a new subscription with a higher device limit.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="473" resname="IDS_PRODUCT_NAME_TS">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Total Security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="474" resname="IDS_VIEW_OPTIONS">
+        <xlf:target state="translated">View options</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="GAdvanced" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_PLUGIN_NAME">
+        <xlf:target state="translated">Advanced</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_PROXY_USAGE">
+        <xlf:target state="translated">Proxy server</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_MANAGE_PROXIES">
+        <xlf:target state="translated">Proxy change</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_MANAGE_PROXIES_LABEL">
+        <xlf:target state="translated">Manage proxies</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_ANONYMOUS">
+        <xlf:target state="translated">Product reports</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_BITDEFENDER">
+        <xlf:target state="translated">&lt;#ProductName#&gt;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_CONFIGURE_ISSUES">
+        <xlf:target state="translated">Configure status alerts</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_ISSUES_TIPTEXT">
+        <xlf:target state="translated">Configure the list of issues to be monitored</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_ISSUES_TIPTITLE">
+        <xlf:target state="translated">Issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_SCAN_HOSTS_FILE">
+        <xlf:target state="translated">Scan hosts file</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_PROXY_TOOLTIP">
+        <xlf:target state="translated">Use a proxy server that acts as an intermediary for product requests.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_MANAGE_TOOLTIP">
+        <xlf:target state="translated">Change the proxy server that was previously added.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_ANONYMUS_TOOLTIP">
+        <xlf:target state="translated">Send cyber threat reports for product improvements according to Privacy Policy</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_SCAN_HOSTS_TOOLTIP">
+        <xlf:target state="translated">Checks the file that maps hostnames to IP addresses to prevent DNS hijack attacks.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

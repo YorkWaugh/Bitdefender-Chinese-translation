@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdusbizctx" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_DRIVENOTREMOVABLE">
+        <xlf:target state="translated">Drive is not removable</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_DRIVEIMMUNIZED">
+        <xlf:target state="translated">The USB device is protected against autorun-based threats.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_DRIVE_CANNOT_IMMUNIZE">
+        <xlf:target state="translated">Drive not formatted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_DRIVEIMMUNIZE">
+        <xlf:target state="translated">Immunize this drive</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_DRIVENOTIMMUNIZED">
+        <xlf:target state="translated">An error was encountered while attempting to immunize drive %s</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_BD_IMMUNIZER">
+        <xlf:target state="translated">&lt;#ProductName#&gt; USB Immunizer</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

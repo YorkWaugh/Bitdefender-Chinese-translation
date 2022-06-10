@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="profilesui" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_PROFILES_PAD_TITLE">
+        <xlf:target state="translated">Profiles</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_PLUGIN_NAME">
+        <xlf:target state="translated">Profiles</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_PLUGIN_DESCRIPT">
+        <xlf:target state="translated">Profiles description</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_PROFILES_TOOLTIP">
+        <xlf:target state="translated">Activate the right profile based on your activity or running apps.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_SAVE">
+        <xlf:target state="translated">Save</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_PROFILES_OPTIMIZER_TITLE">
+        <xlf:target state="translated">Profiles</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_PROFILES_AUTOPILOT">
+        <xlf:target state="translated">Activate profiles automatically</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_PROFILES_AUTOPILOT_DESCR">
+        <xlf:target state="translated">Automatically activates the right profile based on your activity or running applications.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_MANUAL_PROFILES_TITLE">
+        <xlf:target state="translated">Activate profiles manually</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_PROFILES_POSTPONE">
+        <xlf:target state="translated">Real-time optimization</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_PROFILES_WORK_TITLE">
+        <xlf:target state="translated">Work Profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_PROFILES_MOVIE_TITLE">
+        <xlf:target state="translated">Movie Profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_PROFILES_GAME_TITLE">
+        <xlf:target state="translated">Game Profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_PROFILES_WIFI_TITLE">
+        <xlf:target state="translated">Public Wi-Fi Profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_PROFILES_WORK_DESCR">
+        <xlf:target state="translated">Adjusts product settings to boost email protection and eliminates system slowdowns.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_PROFILES_MOVIE_DESCR">
+        <xlf:target state="translated">Eliminates interruptions and limits background activity while you watch movies.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_PROFILES_GAME_DESCR">
+        <xlf:target state="translated">Boosts device performance and eliminates interruptions while you play your favorite games.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_PROFILES_WIFI_DESCR">
+        <xlf:target state="translated">Adjusts product settings to boost protection when connected to an unsafe public Wi-Fi network.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_PROFILES_CONFIGURE_BTN">
+        <xlf:target state="translated">Configure</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_BATTERY_TITLE">
+        <xlf:target state="translated">Battery Mode Profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_PROFILES_BATTERY_DESCR">
+        <xlf:target state="translated">Saves battery life by limiting background activity and adapting product settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_PROFILES_POSTPONE_DESCR">
+        <xlf:target state="translated">Improves device performance real-time and eliminates interruptions while a profile is active.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_PROFILE_WORK_TITLE">
+        <xlf:target state="translated">Work Profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_PROFILE_WORK_BOOST_PERFORMANCE">
+        <xlf:target state="translated">Boost performance on work apps</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_PROFILE_WORK_BEST_PRODUCT">
+        <xlf:target state="translated">Optimize product settings for Work profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_PROFILE_WORK_POSTPONE">
+        <xlf:target state="translated">Postpone background programs and maintenance tasks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_PROFILE_WORK_APPLICATIONS">
+        <xlf:target state="translated">Applications list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_PROFILE_WORK_WINDOWS_UPDATE">
+        <xlf:target state="translated">Postpone Windows Automatic Updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_PROFILE_WORK_TIME_SETTINGS">
+        <xlf:target state="translated">Work profile settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_PROFILE_WORK_APPLICATION_TITLE_LIST">
+        <xlf:target state="translated">Work application list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_PROFILE_BATTERY_TITLE">
+        <xlf:target state="translated">Battery Mode</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_PROFILE_BATTERY_BEST_PRODUCT">
+        <xlf:target state="translated">Optimize product settings for Battery mode</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_PROFILE_BATTERY_POSTPONE">
+        <xlf:target state="translated">Postpone background programs and maintenance tasks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_PROFILE_BATTERY_PLAN">
+        <xlf:target state="translated">Adjust power plan settings for Battery mode</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_PROFILE_BATTERY_NETWORK">
+        <xlf:target state="translated">Disable external devices and network ports</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_PROFILE_BATTERY_WINDOWS_UPDATE">
+        <xlf:target state="translated">Postpone Windows Automatic Updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_PROFILE_BATTERY_LEVEL">
+        <xlf:target state="translated">Activate Battery Mode when the battery life is lower than:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_PROFILE_BATTERY_MODE_SETTINGS">
+        <xlf:target state="translated">Battery mode profile settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_PROFILE_GAME_TITLE">
+        <xlf:target state="translated">Game Profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_PROFILE_GAME_BOOST_PERFORMANCE">
+        <xlf:target state="translated">Boost performance on games</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_PROFILE_GAME_BEST_PRODUCT">
+        <xlf:target state="translated">Optimize product settings for Game profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_PROFILE_GAME_POSTPONE">
+        <xlf:target state="translated">Postpone background programs and maintenance tasks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_PROFILE_GAME_PLAN">
+        <xlf:target state="translated">Adjust power plan settings for games</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_PROFILE_GAMES_APPLICATIONS">
+        <xlf:target state="translated">Games list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_PROFILE_GAME_WINDOWS_UPDATE">
+        <xlf:target state="translated">Postpone Windows Automatic Updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_PROFILE_GAME_TIME_SETTINGS">
+        <xlf:target state="translated">Game profile settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_PROFILE_GAME_APPLICATION_TITLE_LIST">
+        <xlf:target state="translated">Game application list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_PROFILE_MOVIE_TITLE">
+        <xlf:target state="translated">Movie Profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_PROFILE_MOVIE_BOOST_PERFORMANCE">
+        <xlf:target state="translated">Boost performance on video players</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_PROFILE_MOVIE_BEST_PRODUCT">
+        <xlf:target state="translated">Optimize product settings for Movie profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_PROFILE_MOVIE_POSTPONE">
+        <xlf:target state="translated">Postpone background programs and maintenance tasks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_PROFILE_MOVIE_PLAN">
+        <xlf:target state="translated">Adjust power plan settings for movies</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_PROFILE_MOVIE_APPLICATIONS">
+        <xlf:target state="translated">Players list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_PROFILE_MOVIE_WINDOWS_UPDATE">
+        <xlf:target state="translated">Postpone Windows Automatic Updates</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_PROFILE_MOVIE_TIME_SETTINGS">
+        <xlf:target state="translated">Movie profile settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_PROFILE_MOVIE_APPLICATION_TITLE_LIST">
+        <xlf:target state="translated">Movie application list</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_PROFILE_WIFI_TITLE">
+        <xlf:target state="translated">Public Wi-Fi Profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_PROFILE_WIFI_BEST_PRODUCT">
+        <xlf:target state="translated">Adjusts product settings to boost protection when connected to an unsafe public Wi-Fi network</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_PROFILE_WIFI_BEST_PRODUCT2">
+        <xlf:target state="translated">Recommend using Safepay when accessing banking pages</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_PROFILE_WIFI_TIME_SETTINGS">
+        <xlf:target state="translated">Wi-Fi profile settings</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_PROFILE_LIST_APP_ADD">
+        <xlf:target state="translated">Add</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_PROFILE_LIST_APP_HEADER">
+        <xlf:target state="translated">Name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_PROFILE_LIST_APP_ERROR_MSG_TEXT">
+        <xlf:target state="translated">This app already exists in %s. Are you sure you want to remove the app from the existent profile and add it to the %s?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_PROFILE_LIST_APP_ERROR_MSG_TITLE">
+        <xlf:target state="translated">Warning</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_PROFILE_LIST_APP_TITLE">
+        <xlf:target state="translated">Select an application file</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_TEXT_ON">
+        <xlf:target state="translated">On</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_TEXT_OFF">
+        <xlf:target state="translated">Off</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_PROFILES_DSA_ENABLE">
+        <xlf:target state="translated">Enable &lt;#ProductName#&gt; protection to get access to this feature</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_PROFILES_DSA_DESCR">
+        <xlf:target state="translated">&lt;#ProductName#&gt; is not your default security application. To activate &lt;#ProductName#&gt; protection, you need to choose it as your default application on Windows 10.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_PROFILES_DSA_LEARNMORE">
+        <xlf:target state="translated">Learn more.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_DISABLE_ALERT">
+        <xlf:target state="translated">Are you sure you want to disable automatic profiles?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_DISABLE_MESSAGE">
+        <xlf:target state="translated">We have optimized your device in the past days. You really want to disable it now?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="77" resname="IDS_DISABLE_YES">
+        <xlf:target state="translated">YES, DISABLE</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="78" resname="IDS_DISABLE_NO">
+        <xlf:target state="translated">NO, KEEP AUTOMATIC PROFILES ON</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="79" resname="IDS_ENABLE_ALERT">
+        <xlf:target state="translated">Activate automatic profiles</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="80" resname="IDS_ENABLE_MESSAGE">
+        <xlf:target state="translated">Activate automatic profiles to ensure your device&apos;s performance is always optimal in moments that matter the most, like online meetings or while gaming.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="81" resname="IDS_ENABLE_DESCRIPTION">
+        <xlf:target state="translated">Manage preferences for different types of activities such as working, playing online or watching movies.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="82" resname="IDS_ENABLE_YES">
+        <xlf:target state="translated">Turn on</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="83" resname="IDS_ENABLE_NO">
+        <xlf:target state="translated">Not now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="84" resname="IDS_SETTINGS_TITLE">
+        <xlf:target state="translated">Settings</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

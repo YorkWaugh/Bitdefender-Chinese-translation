@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="updcenter" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_WND_UPDATE_CHECKING">
+        <xlf:target state="translated">Checking for updates ...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_WND_UPDATE_IN_PROGRESS_TILE">
+        <xlf:target state="translated">Update in progress ...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_WND_UPDATE_IN_PROGRESS_BODY">
+        <xlf:target state="translated">Keep your product updated so it can easily detect even the newest threats and keep your device and data safe.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_WND_CANCEL_BTN">
+        <xlf:target state="translated">Cancel update</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_WND_ESTIMATED_TIME">
+        <xlf:target state="translated">Estimated time:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_WND_ONE_MINUTE">
+        <xlf:target state="translated">1 minute</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_WND_X_MINUTES">
+        <xlf:target state="translated">{0} minutes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_WND_ZERO_MINUTES">
+        <xlf:target state="translated">0 minutes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_WND_RESTART_TITLE">
+        <xlf:target state="translated">Update requires device restart ...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_WND_RESTART_BODY">
+        <xlf:target state="translated">A device restart is required in order to apply the latest product updates.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_WND_RESTART_BUTTON">
+        <xlf:target state="translated">Restart device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_WND_COMPLETED_TITLE">
+        <xlf:target state="translated">Update completed...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_WND_COMPLETED_BODY">
+        <xlf:target state="translated">Your product is up to date. For more details click the link below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_WND_DETAILS_BUTTON">
+        <xlf:target state="translated">View details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_WND_FAILURE_TITLE">
+        <xlf:target state="translated">Update failure ...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_WND_FAILURE_BODY">
+        <xlf:target state="translated">The update encountered an error and failed to be performed. For more details click the link below.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_WND_MESSAGE_BOX_CANCEL">
+        <xlf:target state="translated">Are you sure you want to cancel the update?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_WND_MESSAGE_BOX_CLOSE">
+        <xlf:target state="translated">The update process will continue in the background.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_WND_CLOSE_BUTTON">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_WND_UPDATE_STOP">
+        <xlf:target state="translated">Update stopped...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_WND_UPDATE_STOP_BODY">
+        <xlf:target state="translated">The update operation was canceled by the user</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_WND_UPDATE_ERROR">
+        <xlf:target state="translated">Update error...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_WND_UPDATE_NO_INTERNET_BODY">
+        <xlf:target state="translated">Please check your internet connection and try again</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_WND_CONFIGURATION_TILE">
+        <xlf:target state="translated">Configuration in progress...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_EXPIRED_TITLE">
+        <xlf:target state="translated">Update stopped...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_EXPIRED_BODY">
+        <xlf:target state="translated">The update operation has not been performed as your subscription has expired. Check the product&apos;s interface to find out more on how to activate your subscription and protect your device.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_APP_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; Update</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="CLWinRE" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_APP_TITLE">
+        <xlf:target state="translated">Rescue Environment</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_PREPARING_DESCRIPTION">
+        <xlf:target state="translated">Preparing the Rescue Environment. This may take some time.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_WAITING_FOR_SERVICE">
+        <xlf:target state="translated">Rescue Environment services are starting...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_CONFIRMATION_DESCRIPTION">
+        <xlf:target state="translated">You must restart your device in order to boot in Rescue Environment.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_NO_RE_IMAGE_DESCRIPTION">
+        <xlf:target state="translated">Your Windows recovery image seems to be missing and Rescue Environment might not function properly. Do you wish to continue?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_REBOOT">
+        <xlf:target state="translated">Restart</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_CANCEL">
+        <xlf:target state="translated">Cancel</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_CONTINUE">
+        <xlf:target state="translated">Continue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_STOP">
+        <xlf:target state="translated">Stop</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_PAUSE">
+        <xlf:target state="translated">Pause</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_RESCAN">
+        <xlf:target state="translated">Rescan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_CLOSE">
+        <xlf:target state="translated">Close</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_SHOW_LOG">
+        <xlf:target state="translated">View Log</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_EXIT_SCAN_CONFIRMATION">
+        <xlf:target state="translated">Are you sure you want to exit the Rescue Environment? A scan is still in progress.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_STOP_CONFIRMATION">
+        <xlf:target state="translated">Are you sure you want to stop your scan?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_SCANNING_STATUS">
+        <xlf:target state="translated">Scanning in progress...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_LAST_ITEM_SCANNED">
+        <xlf:target state="translated">File:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_ITEMS_SCANNED">
+        <xlf:target state="translated">Scanned items:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_ELAPSED_TIME">
+        <xlf:target state="translated">Elapsed time:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_RESOLVED_THREATS">
+        <xlf:target state="translated">Resolved:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_UNRESOLVED_THREATS">
+        <xlf:target state="translated">Unresolved items:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_PASSWORD_PROTECTED">
+        <xlf:target state="translated">Password protected:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_HIDDEN_ROOTKIT_NAME">
+        <xlf:target state="translated">Hidden rootkit</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_EXIT_THREATS_CONFIRMATION">
+        <xlf:target state="translated">Are you sure you want to exit? You took no actions on found threats.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_ONE_ISSUE_LEFT">
+        <xlf:target state="translated">1 issue left</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_MULTIPLE_ISSUES_LEFT">
+        <xlf:target state="translated">{0} issues left</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_DISINFECTION_FAILED">
+        <xlf:target state="translated">(disinfection failed)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_DELETION_FAILED">
+        <xlf:target state="translated">(deletion failed)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_MOVE_TO_QUAR_FAILED">
+        <xlf:target state="translated">(move to Quarantine failed)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_NO_ACTION_TAKEN">
+        <xlf:target state="translated">(no action was taken)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_THREATS_FOUND">
+        <xlf:target state="translated">Threats were found</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_RESOLVED">
+        <xlf:target state="translated">Resolved:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_VIEW_RESOLVED">
+        <xlf:target state="translated">View resolved threats</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_UNRESOLVED">
+        <xlf:target state="translated">Unresolved items:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_CHOOSE_ACTION_OVERALL">
+        <xlf:target state="translated">Choose action - all items</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_CHOOSE_ACTION">
+        <xlf:target state="translated">Choose action - this item</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_PROPER_ACTIONS">
+        <xlf:target state="translated">Take proper actions</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_DELETE">
+        <xlf:target state="translated">Delete</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_NO_ACTION">
+        <xlf:target state="translated">Take no action</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_SELECT_ACTION">
+        <xlf:target state="translated">To continue, please select an overall action for all threats, or select individual actions for each threat.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_SHOULD_MOVE_MAIL_ARCHIVES">
+        <xlf:target state="translated">The selected items include email archives that contain infected attachments. We recommend that you remove the email messages with these attachments manually, in your email client. Do you want to also move the email archives to quarantine?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_SOLVED_ISSUES">
+        <xlf:target state="translated">Solved issues: {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_IGNORED_ISSUES">
+        <xlf:target state="translated">Ignored issues: {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_CLEANED_AFTER_REBOOT">
+        <xlf:target state="translated">cleaned after reboot</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_IGNORED_ACCESS_RIGHTS">
+        <xlf:target state="translated">ignored (limited rights)</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_CLEANED">
+        <xlf:target state="translated">cleaned</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_DISINFECTED">
+        <xlf:target state="translated">disinfected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_DELETED">
+        <xlf:target state="translated">deleted</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_DELETED_AFTER_REBOOT">
+        <xlf:target state="translated">deleted after restart</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_MOVED_TO_QUAR">
+        <xlf:target state="translated">moved to Quarantine</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_MOVED_TO_QUAR_AFTER_REBOOT">
+        <xlf:target state="translated">moved to Quarantine after restart</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_NO_ACTION_POSSIBLE">
+        <xlf:target state="translated">no further action is possible</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_PASSWORD_PROTECTED_LINK">
+        <xlf:target state="translated">Learn more</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_TITLE_RESOLVED">
+        <xlf:target state="translated">Detected threats were resolved!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_TITLE_SUCCESS">
+        <xlf:target state="translated">Your system is clean!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_TITLE_ATTENTION">
+        <xlf:target state="translated">Your system requires your attention!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_TITLE_WARNING">
+        <xlf:target state="translated">Your system is infected!</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_ACTION_RESCAN_DESCRIPTION">
+        <xlf:target state="translated">Please rescan the files on which there was no action taken.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_WINRE_SCAN_TYPE">
+        <xlf:target state="translated">Rescue Environment Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_PASSWORD_DESCRIPTION">
+        <xlf:target state="translated">The current file is a password-protected item. Please enter the password here below so that the Rescue Environment can scan it. If you do not know the password, you can choose to skip this file.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_PASSWORD">
+        <xlf:target state="translated">Password:</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_SKIP_THIS_OBJECT">
+        <xlf:target state="translated">Skip from scanning</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_SKIP_PASSWORD_PROTECTED">
+        <xlf:target state="translated">Skip all password-protected items without scanning them.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_FILES_NOT_SCANNED">
+        <xlf:target state="translated">Skipped files</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="68" resname="IDS_PASSWORD_PROTECTED_TITLE">
+        <xlf:target state="translated">Password protected</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="69" resname="IDS_PASSWORD_SUGGESTION">
+        <xlf:target state="translated">Rescue Environment found password-protected files that were skipped from scan. These files will be automatically scanned when extracted. Check the scan log for details.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="70" resname="IDS_EMAIL_ARCHIVES_TITLE">
+        <xlf:target state="translated">Email archives</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="71" resname="IDS_EMAIL_ARCHIVES_SUGGESTION">
+        <xlf:target state="translated">Rescue Environment found emails with malicious attachments that could not be cleaned. Don&apos;t worry, when you access any of these attachments the threat will be blocked to prevent any harm to your files or your device. Check the scan log for details.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="72" resname="IDS_CONFIRM_UNDERSTANDING">
+        <xlf:target state="translated">OK, got it</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="73" resname="IDS_AFFECTED_ARCHIVE">
+        <xlf:target state="translated">The archive containing this file also contains clean or possibly suspicious files. Move the archive to Quarantine.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="74" resname="IDS_FILE_PATH">
+        <xlf:target state="translated">File Path</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="75" resname="IDS_THREAT_NAME">
+        <xlf:target state="translated">Threat Name</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="76" resname="IDS_RESULT">
+        <xlf:target state="translated">Result</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

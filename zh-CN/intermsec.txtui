@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="intermsec" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_ODSW_SCAN">
+        <xlf:target state="translated">Custom Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_ODSW_SCAN_TTP">
+        <xlf:target state="translated">Allows you to create custom scan tasks and save them as quick tasks</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_ODSW_CUSTOM_SCAN_TTP">
+        <xlf:target state="translated">Click here to run the custom scan &apos;%s&apos;</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_GAME_MODE">
+        <xlf:target state="translated">Game Profile</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_GAME_MODE_TTP">
+        <xlf:target state="translated">Click here to view the Game Mode settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_LAPTOP_MODE">
+        <xlf:target state="translated">Battery Mode</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_LAPTOP_MODE_TTP">
+        <xlf:target state="translated">Click here to view the Battery Mode settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_TASK_ANTIVIRUS">
+        <xlf:target state="translated">Configure Antivirus</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_TASK_ANTIVIRUS_TTP">
+        <xlf:target state="translated">Click here to view the Antivirus settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_NO_INTERNET_CONNECTION">
+        <xlf:target state="translated">There is no internet connection. In order to log in to &lt;#ProductName#&gt; Account you need to be connected to the internet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_NETWORK_ADAPTERS">
+        <xlf:target state="translated">Network details</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_MANAGE_FRIENDS">
+        <xlf:target state="translated">Friends</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_MANAGE_SPAMMERS">
+        <xlf:target state="translated">Spammers</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_MANAGE_FRIENDS_TTP">
+        <xlf:target state="translated">Click here to manage the list of contacts you trust. These will be excepted from filtering.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="15" resname="IDS_MANAGE_SPAMMERS_TTP">
+        <xlf:target state="translated">Click here to manage the list of known spammers. These will be blocked without further verification.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="16" resname="IDS_MSG_NO_MYACCOUNT">
+        <xlf:target state="translated">To use ID theft protection you need a &lt;#ProductName#&gt; account. Please login or register a new account on the next page.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="17" resname="IDS_SCAN_QUICK">
+        <xlf:target state="translated">Quick Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="18" resname="IDS_SCAN_QUICK_TTP">
+        <xlf:target state="translated">Quick Scan performs a lightweight scan for your peace of mind</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="19" resname="IDS_FIREWALL">
+        <xlf:target state="translated">Configure Firewall</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="20" resname="IDS_FIREWALL_TTP">
+        <xlf:target state="translated">Click here to view the Firewall settings.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="21" resname="IDS_SCHEDULE_SCAN">
+        <xlf:target state="translated">Schedule My Scans</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="22" resname="IDS_SCHEDULE_SCAN_TTP">
+        <xlf:target state="translated">Click here to schedule on-demand scans.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="23" resname="IDS_OK">
+        <xlf:target state="translated">OK</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="24" resname="IDS_SYSTEM_SCAN">
+        <xlf:target state="translated">Full System Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="25" resname="IDS_SYSTEM_SCAN_TTP">
+        <xlf:target state="translated">Full System Scan scans for threats on all drives on your device, including archives</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="26" resname="IDS_UPDATE_NOW">
+        <xlf:target state="translated">Update Now</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="27" resname="IDS_UPDATE_NOW_TTP">
+        <xlf:target state="translated">The Update feature downloads and installs the latest version of the &lt;#ProductName#&gt; files. If newer files are detected on the &lt;#ProductName#&gt; servers, they are automatically downloaded and installed.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="28" resname="IDS_VU_SCAN">
+        <xlf:target state="translated">Vulnerability Scan</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="29" resname="IDS_VU_SCAN_TTP">
+        <xlf:target state="translated">Vulnerability Scan monitors Microsoft Windows updates and other applications updates to ensure that your device is not vulnerable to known exploits. Microsoft Windows accounts passwords are checked for possible password bypass.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="30" resname="IDS_HELP">
+        <xlf:target state="translated">Help &amp; Support</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="31" resname="IDS_HELP_TTP">
+        <xlf:target state="translated">Click here to view the Help &amp; Support section.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="32" resname="IDS_SEC_FIXALLISSUES">
+        <xlf:target state="translated">View &amp; Fix All Issues</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="33" resname="IDS_SEC_FIXALLISSUES_TTP">
+        <xlf:target state="translated">Click here to open the Fix All Issues wizard.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="34" resname="IDS_YES">
+        <xlf:target state="translated">Yes</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="35" resname="IDS_NO">
+        <xlf:target state="translated">No</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="36" resname="IDS_COMPARISON_UPGRADE_TITLE_V1">
+        <xlf:target state="translated">Find security that&apos;s right for you</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="37" resname="IDS_COMPARISON_UPGRADE_TITLE_V2">
+        <xlf:target state="translated">Upgrade to the next security level</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="38" resname="IDS_FREE_SECURITY">
+        <xlf:target state="translated">Antivirus Free</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="39" resname="IDS_TOTAL_SECURITY">
+        <xlf:target state="translated">Total Security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="40" resname="IDS_INTERNET_SECURITY">
+        <xlf:target state="translated">Internet Security</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="41" resname="IDS_COMPARISON_ANTIVIRUS">
+        <xlf:target state="translated">Real-Time Data Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="42" resname="IDS_COMPARISON_RANSOMWARE">
+        <xlf:target state="translated">Multi-Layer Ransomware Protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="43" resname="IDS_COMPARISON_OBK">
+        <xlf:target state="translated">Safe Online Banking</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="44" resname="IDS_COMPARISON_VPN">
+        <xlf:target state="translated">VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="45" resname="IDS_COMPARISON_OPTIMIZER">
+        <xlf:target state="translated">Device Optimizer</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="46" resname="IDS_COMPARISON_DEVICES">
+        <xlf:target state="translated">Protection for every OS: Windows, macOS, Android and iOS</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="47" resname="IDS_COMPARISON_OS_WINDOWS">
+        <xlf:target state="translated">Windows</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="48" resname="IDS_BTN_CURRENT">
+        <xlf:target state="translated">Current</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="49" resname="IDS_BTN_UPGRADE">
+        <xlf:target state="translated">Upgrade</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="50" resname="IDS_BTN_CONTINUE">
+        <xlf:target state="translated">Continue</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="51" resname="IDS_COMPARISON_RECOMMENDED">
+        <xlf:target state="translated">Recommended</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="52" resname="IDS_COMPARISON_START_TRIAL">
+        <xlf:target state="translated">Start 30-days free trial</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="53" resname="IDS_COMPARISON_OR">
+        <xlf:target state="translated">or</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="54" resname="IDS_COMPARISON_START_TRIAL_TOOLTIP1">
+        <xlf:target state="translated">Try out &lt;#ProductName#&gt; Total Security on any laptop, PC, phone or tablet.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="55" resname="IDS_COMPARISON_START_TRIAL_TOOLTIP2">
+        <xlf:target state="translated">Free, for 30 days.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="56" resname="IDS_START_TRIAL_TITLE1">
+        <xlf:target state="translated">Not ready to upgrade yet?</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="57" resname="IDS_START_TRIAL_TITLE2">
+        <xlf:target state="translated">Start a free trial</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="58" resname="IDS_START_TRIAL_DESCRIPTION1">
+        <xlf:target state="translated">Try out our complete protection solution - &lt;#ProductName#&gt; Total Security for Windows, macOS, Android and iOS.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="59" resname="IDS_START_TRIAL_DESCRIPTION2">
+        <xlf:target state="translated">Free, for 30 days.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="60" resname="IDS_BTN_START_TRIAL">
+        <xlf:target state="translated">Start trial</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="61" resname="IDS_BTN_START_FREE_TRIAL">
+        <xlf:target state="translated">Start free trial</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="62" resname="IDS_BOX_CAPTION_TRIAL">
+        <xlf:target state="translated">Activate trial</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="63" resname="IDS_BOX_MESSAGE_TRIAL">
+        <xlf:target state="translated">We could not activate your trial at this time.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="64" resname="IDS_ENABLE_AVFREE_BTN">
+        <xlf:target state="translated">Enable basic protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="65" resname="IDS_GET_FULL_BTN">
+        <xlf:target state="translated">Get full protection</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="66" resname="IDS_COMPARISON_UPGRADE_TITLE_V4">
+        <xlf:target state="translated">Your &lt;#FullProductName#&gt; license has expired</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="67" resname="IDS_COMPARISON_UPGRADE_DESCRIPTION_V4">
+        <xlf:target state="translated">This device is no longer protected against any types of threats.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

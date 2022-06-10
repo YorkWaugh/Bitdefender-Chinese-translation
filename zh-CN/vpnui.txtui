@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="vpnui" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_VPN_PAD_TITLE">
+        <xlf:target state="translated">VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_VPN_PAD_TOOLTIP">
+        <xlf:target state="translated">Keeps you anonymous online and provides access to content that is restricted based on region.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_VPN_INSTALL_TASK">
+        <xlf:target state="translated">Install VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="4" resname="IDS_VPN_OPEN_TASK">
+        <xlf:target state="translated">Open VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="5" resname="IDS_VPN_WINDOW_TITLE">
+        <xlf:target state="translated">&lt;#ProductName#&gt; VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="6" resname="IDS_VPN_DESCRIPTION">
+        <xlf:target state="translated">Stop worrying about privacy while surfing the web. &lt;#ProductName#&gt; VPN grants you complete online anonymity by encrypting your internet connection.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="7" resname="IDS_VPN_CONFIGURING">
+        <xlf:target state="translated">&lt;#ProductName#&gt; VPN is configuring...</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="8" resname="IDS_VPN_ERROR">
+        <xlf:target state="translated">&lt;#ProductName#&gt; VPN encountered an error and is disabled. Please restart your device and try again.</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="9" resname="IDS_VPN_ENABLE">
+        <xlf:target state="translated">Install &lt;#ProductName#&gt; VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="10" resname="IDS_VPN_OPEN">
+        <xlf:target state="translated">Open &lt;#ProductName#&gt; VPN</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="11" resname="IDS_VPN_AGREE">
+        <xlf:target state="translated">By continuing you agree with the {0}</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="12" resname="IDS_VPN_EULA">
+        <xlf:target state="translated">Subscription Agreement</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="13" resname="IDS_VPN_NO_RESTART">
+        <xlf:target state="translated">Don&apos;t restart your device</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="14" resname="IDS_VPN_SHORT_WHILE">
+        <xlf:target state="translated">Please wait while &lt;#ProductName#&gt; VPN is being configured.</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xlf:xliff xmlns:xlf="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xlf:file datatype="winres" original="bdagent" source-language="en" target-language="en-us">
+    <xlf:body>
+      <xlf:trans-unit id="1" resname="IDS_APP_TITLE">
+        <xlf:target state="translated">BdAgent</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="2" resname="IDS_BATTERY_MODE_TITLE">
+        <xlf:target state="translated">Battery Mode enabled</xlf:target>
+      </xlf:trans-unit>
+      <xlf:trans-unit id="3" resname="IDS_BATTERY_MODE_MESSAGE">
+        <xlf:target state="translated">To preserve battery life, &lt;#ProductName#&gt; activated Battery Mode</xlf:target>
+      </xlf:trans-unit>
+    </xlf:body>
+  </xlf:file>
+</xlf:xliff>
