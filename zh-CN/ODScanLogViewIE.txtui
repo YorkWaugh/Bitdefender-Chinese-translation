@@ -21,7 +21,7 @@
         <xlf:target state="translated">排除地址：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="7" resname="IDS_XSL_SCAN_RESULTS">
-        <xlf:target state="translated">Scan Results Summary</xlf:target>
+        <xlf:target state="translated">扫描结果统计</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="8" resname="IDS_XSL_SCAN_OPTIONS">
         <xlf:target state="translated">扫描选项</xlf:target>
