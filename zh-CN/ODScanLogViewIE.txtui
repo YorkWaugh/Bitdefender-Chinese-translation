@@ -240,61 +240,61 @@
         <xlf:target state="translated">项目路径</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="80" resname="IDS_XSL_DETAIL_THREAT">
-        <xlf:target state="translated">Threat Name</xlf:target>
+        <xlf:target state="translated">威胁名称</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="81" resname="IDS_XSL_DETAIL_STATUS">
-        <xlf:target state="translated">Action taken</xlf:target>
+        <xlf:target state="translated">采取的行动</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="82" resname="IDS_XSL_DETAIL_IGNORED">
-        <xlf:target state="translated">Ignored items</xlf:target>
+        <xlf:target state="translated">忽略的项目</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="83" resname="IDS_XSL_DETAIL_RESOLVED">
-        <xlf:target state="translated">Resolved issues</xlf:target>
+        <xlf:target state="translated">解决的问题</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="84" resname="IDS_XSL_DETAIL_NOT_SCANNED">
-        <xlf:target state="translated">Items skipped from scan</xlf:target>
+        <xlf:target state="translated">跳过扫描的项目</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="85" resname="IDS_XSL_DETAIL_REASON">
-        <xlf:target state="translated">Reason:</xlf:target>
+        <xlf:target state="translated">原因：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="86" resname="IDS_XSL_THREAT_NAME_ROOTKITS">
-        <xlf:target state="translated">Rootkit-Hidden items:</xlf:target>
+        <xlf:target state="translated">隐藏Rootkit的项目：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="87" resname="IDS_XSL_THREAT_NAME_ARCHIVE_BOMB">
-        <xlf:target state="translated">Over-compressed</xlf:target>
+        <xlf:target state="translated">过度压缩的</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="88" resname="IDS_XSL_THREAT_NAME_PASSWORD_PROT">
-        <xlf:target state="translated">Password-protected</xlf:target>
+        <xlf:target state="translated">密码保护的</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="89" resname="IDS_XSL_ACTION_NONE">
-        <xlf:target state="translated">None</xlf:target>
+        <xlf:target state="translated">无</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="90" resname="IDS_XSL_ACTION_ABORT">
-        <xlf:target state="translated">Abort</xlf:target>
+        <xlf:target state="translated">中止</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="91" resname="IDS_XSL_ACTION_DISINFECT">
-        <xlf:target state="translated">Disinfect</xlf:target>
+        <xlf:target state="translated">清除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="92" resname="IDS_XSL_ACTION_RENAME">
-        <xlf:target state="translated">Rename</xlf:target>
+        <xlf:target state="translated">重命名</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="93" resname="IDS_XSL_ACTION_DELETE">
-        <xlf:target state="translated">Delete</xlf:target>
+        <xlf:target state="translated">删除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="94" resname="IDS_XSL_ACTION_QUAR_COPY">
-        <xlf:target state="translated">Copy files to quarantine</xlf:target>
+        <xlf:target state="translated">将文件复制到隔离区</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="95" resname="IDS_XSL_ACTION_QUAR_MOVE">
-        <xlf:target state="translated">Move files to quarantine</xlf:target>
+        <xlf:target state="translated">将文件移动到隔离区</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="96" resname="IDS_XSL_ACTION_LOG_NOT_SCAN">
-        <xlf:target state="translated">Log only</xlf:target>
+        <xlf:target state="translated">仅日志</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="97" resname="IDS_XSL_ACTION_PROMPT_PASS">
-        <xlf:target state="translated">Prompt for password</xlf:target>
+        <xlf:target state="translated">提示输入密码</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="98" resname="IDS_XSL_STATUS_NOT_SCANNED">
-        <xlf:target state="translated">Not scanned</xlf:target>
+        <xlf:target state="translated">未扫描</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="99" resname="IDS_XSL_STATUS_CLEAN">
         <xlf:target state="translated">Cleaned</xlf:target>
