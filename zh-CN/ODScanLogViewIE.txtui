@@ -18,7 +18,7 @@
         <xlf:target state="translated">扫描日期：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="6" resname="IDS_XSL_EXCLUDED_PATHS">
-        <xlf:target state="translated">排除地址：</xlf:target>
+        <xlf:target state="translated">排除路径：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="7" resname="IDS_XSL_SCAN_RESULTS">
         <xlf:target state="translated">扫描结果摘要</xlf:target>
@@ -180,64 +180,64 @@
         <xlf:target state="translated">未解决的项目</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="60" resname="IDS_XSL_SCAN_SUMM_UNRESOLVED_NONE">
-        <xlf:target state="translated">(no issues remained unresolved)</xlf:target>
+        <xlf:target state="translated">（没有未解决的问题）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="61" resname="IDS_XSL_SCAN_SUMMARY_ADVANCED">
-        <xlf:target state="translated">Advanced</xlf:target>
+        <xlf:target state="translated">高级</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="62" resname="IDS_XSL_SCAN_SUMM_TIME">
-        <xlf:target state="translated">Scan time</xlf:target>
+        <xlf:target state="translated">扫描时间</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="63" resname="IDS_XSL_SCAN_SUMM_FPS">
-        <xlf:target state="translated">Files per second</xlf:target>
+        <xlf:target state="translated">个文件/秒</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="64" resname="IDS_XSL_SCAN_SUMM_SMARTSCANNED">
-        <xlf:target state="translated">Skipped items</xlf:target>
+        <xlf:target state="translated">跳过的项目</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="65" resname="IDS_XSL_SCAN_SUMM_PASS_PROT">
-        <xlf:target state="translated">Password protected:</xlf:target>
+        <xlf:target state="translated">密码保护：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="66" resname="IDS_XSL_SCAN_SUMM_ARCH_BOMBS">
-        <xlf:target state="translated">Overcompressed items</xlf:target>
+        <xlf:target state="translated">过度压缩的项目</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="67" resname="IDS_XSL_SCAN_SUMM_VIRUSES">
-        <xlf:target state="translated">Different threats:</xlf:target>
+        <xlf:target state="translated">不同的威胁：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="68" resname="IDS_XSL_SCAN_SUMM_DIRECTORIES">
-        <xlf:target state="translated">Scanned directories</xlf:target>
+        <xlf:target state="translated">扫描目录</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="69" resname="IDS_XSL_SCAN_SUMM_BOOT">
-        <xlf:target state="translated">Scanned boot sectors</xlf:target>
+        <xlf:target state="translated">扫描的启动扇区</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="70" resname="IDS_XSL_SCAN_SUMM_ARCHIVES">
-        <xlf:target state="translated">Scanned archives</xlf:target>
+        <xlf:target state="translated">扫描的压缩文件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="71" resname="IDS_XSL_SCAN_SUMM_ERRORS">
-        <xlf:target state="translated">Input-output errors</xlf:target>
+        <xlf:target state="translated">输入-输出错误</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="72" resname="IDS_XSL_SCAN_SUMM_PROC_SCANNED">
-        <xlf:target state="translated">Scanned processes</xlf:target>
+        <xlf:target state="translated">扫描过程</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="73" resname="IDS_XSL_SCAN_SUMM_PROC_INFECTED">
-        <xlf:target state="translated">Infected processes</xlf:target>
+        <xlf:target state="translated">感染过程</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="74" resname="IDS_XSL_SCAN_SUMM_REG_SCANNED">
-        <xlf:target state="translated">Scanned registry keys</xlf:target>
+        <xlf:target state="translated">扫描的注册表项</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="75" resname="IDS_XSL_SCAN_SUMM_REG_INFECTED">
-        <xlf:target state="translated">Infected registry keys</xlf:target>
+        <xlf:target state="translated">感染的注册表项</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="76" resname="IDS_XSL_SCAN_SUMM_COOK_SCANNED">
-        <xlf:target state="translated">Scanned cookies</xlf:target>
+        <xlf:target state="translated">扫描的cookies</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="77" resname="IDS_XSL_SCAN_SUMM_COOK_INFECTED">
-        <xlf:target state="translated">Infected cookies</xlf:target>
+        <xlf:target state="translated">感染的cookies</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="78" resname="IDS_XSL_DETAIL_REMAINING">
-        <xlf:target state="translated">Remaining issues</xlf:target>
+        <xlf:target state="translated">剩余的问题</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="79" resname="IDS_XSL_DETAIL_NAME">
-        <xlf:target state="translated">Item path</xlf:target>
+        <xlf:target state="translated">项目路径</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="80" resname="IDS_XSL_DETAIL_THREAT">
         <xlf:target state="translated">Threat Name</xlf:target>
