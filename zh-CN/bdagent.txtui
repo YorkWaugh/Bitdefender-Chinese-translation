@@ -6,10 +6,10 @@
         <xlf:target state="translated">BdAgent</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_BATTERY_MODE_TITLE">
-        <xlf:target state="translated">Battery Mode enabled</xlf:target>
+        <xlf:target state="translated">开启省电模式</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_BATTERY_MODE_MESSAGE">
-        <xlf:target state="translated">To preserve battery life, &lt;#ProductName#&gt; activated Battery Mode</xlf:target>
+        <xlf:target state="translated">为了保护电池寿命，&lt;#ProductName#&gt; 激活了省电模式。</xlf:target>
       </xlf:trans-unit>
     </xlf:body>
   </xlf:file>
