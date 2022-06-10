@@ -135,13 +135,13 @@
         <xlf:target state="translated">脱壳插件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="45" resname="IDS_XSL_SCAN_SUMMARY_DETAILED">
-        <xlf:target state="translated">Detailed Scan Summary</xlf:target>
+        <xlf:target state="translated">扫描详细摘要</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="46" resname="IDS_XSL_SCAN_SUMMARY_BASIC">
-        <xlf:target state="translated">Basic</xlf:target>
+        <xlf:target state="translated">基本</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="47" resname="IDS_XSL_SCAN_SUMM_SCANNED">
-        <xlf:target state="translated">Scanned items</xlf:target>
+        <xlf:target state="translated">扫描项目</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="48" resname="IDS_XSL_SCAN_SUMM_SCANNED_NONE">
         <xlf:target state="translated">(no items could be scanned)</xlf:target>
