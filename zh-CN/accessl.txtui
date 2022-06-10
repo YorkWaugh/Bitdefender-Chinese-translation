@@ -3,16 +3,16 @@
   <xlf:file datatype="winres" original="accessl" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_COREREBOOT_CLEAN">
-        <xlf:target state="translated">Your security solution is cleaning your device from threats</xlf:target>
+        <xlf:target state="translated">您的安全解决方案正在清除您设备的威胁</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_COREREBOOT_DELETE">
-        <xlf:target state="translated">Deleting...</xlf:target>
+        <xlf:target state="translated">清除中...</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_COREREBOOT_SUCCESS">
-        <xlf:target state="translated">The cleaning process finished successfully!</xlf:target>
+        <xlf:target state="translated">清除成功完成！</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="4" resname="IDS_COREREBOOT_FAILED">
-        <xlf:target state="translated">Some of the infected items failed to be cleaned. Please contact &lt;#CompanyName#&gt; Customer Care for more information on how to clean your device.</xlf:target>
+        <xlf:target state="translated">一些感染的项目无法清除。请联系&lt;#CompanyName#&gt; 客服以了解更多关于如何清理您的设备的信息。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="5" resname="IDS_COREREBOOT_EXEBASENAME">
         <xlf:target state="translated">bddel</xlf:target>
