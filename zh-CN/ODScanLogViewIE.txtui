@@ -21,118 +21,118 @@
         <xlf:target state="translated">排除地址：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="7" resname="IDS_XSL_SCAN_RESULTS">
-        <xlf:target state="translated">扫描结果统计</xlf:target>
+        <xlf:target state="translated">扫描结果摘要</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="8" resname="IDS_XSL_SCAN_OPTIONS">
         <xlf:target state="translated">扫描选项</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="9" resname="IDS_XSL_SCAN_THREATS_OPTIONS">
-        <xlf:target state="translated">Targeted threat types</xlf:target>
+        <xlf:target state="translated">目标威胁类型</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="10" resname="IDS_XSL_SCAN_VIRUSES">
-        <xlf:target state="translated">Scan for threats</xlf:target>
+        <xlf:target state="translated">扫描威胁</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="11" resname="IDS_XSL_SCAN_ADWARE">
-        <xlf:target state="translated">Scan for adware</xlf:target>
+        <xlf:target state="translated">扫描广告软件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="12" resname="IDS_XSL_SCAN_SPYWARE">
-        <xlf:target state="translated">Scan for spyware</xlf:target>
+        <xlf:target state="translated">扫描间谍软件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="13" resname="IDS_XSL_SCAN_APPLICATIONS">
-        <xlf:target state="translated">Scan for applications</xlf:target>
+        <xlf:target state="translated">扫描应用程序</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="14" resname="IDS_XSL_SCAN_DIALERS">
-        <xlf:target state="translated">Scan for dialers</xlf:target>
+        <xlf:target state="translated">扫描拨号器</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="15" resname="IDS_XSL_SCAN_ROOTKITS">
-        <xlf:target state="translated">Scan for rootkits</xlf:target>
+        <xlf:target state="translated">扫描rootkit</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="16" resname="IDS_XSL_SCAN_KEYLOGGERS">
-        <xlf:target state="translated">Scan for keyloggers</xlf:target>
+        <xlf:target state="translated">扫描键盘记录器</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="17" resname="IDS_XSL_TARGET_SEL">
-        <xlf:target state="translated">Scan options</xlf:target>
+        <xlf:target state="translated">扫描选项</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="18" resname="IDS_XSL_TARGET_REGISTRY">
-        <xlf:target state="translated">Scan registry keys</xlf:target>
+        <xlf:target state="translated">扫描注册表项</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="19" resname="IDS_XSL_TARGET_COOKIES">
-        <xlf:target state="translated">Scan cookies</xlf:target>
+        <xlf:target state="translated">扫描cookies</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="20" resname="IDS_XSL_TARGET_BOOT">
-        <xlf:target state="translated">Scan boot sectors</xlf:target>
+        <xlf:target state="translated">扫描启动扇区</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="21" resname="IDS_XSL_TARGET_MEMORY">
-        <xlf:target state="translated">Scan memory processes</xlf:target>
+        <xlf:target state="translated">扫描内存进程</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="22" resname="IDS_XSL_TARGET_ARCHIVES">
-        <xlf:target state="translated">Scan archives</xlf:target>
+        <xlf:target state="translated">扫描压缩文件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="23" resname="IDS_XSL_TARGET_PACKERS">
-        <xlf:target state="translated">Scan runtime packers</xlf:target>
+        <xlf:target state="translated">扫描运行时加壳程序</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="24" resname="IDS_XSL_TARGET_EMAILS">
-        <xlf:target state="translated">Scan emails</xlf:target>
+        <xlf:target state="translated">扫描电子邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="25" resname="IDS_XSL_TARGET_HEURISTIC">
-        <xlf:target state="translated">Heuristic Scan</xlf:target>
+        <xlf:target state="translated">启发式扫描</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="26" resname="IDS_XSL_TARGET_FILE_TYPES">
-        <xlf:target state="translated">File types</xlf:target>
+        <xlf:target state="translated">文件类型</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="27" resname="IDS_XSL_TARGET_FILE_TYPE_ALL">
-        <xlf:target state="translated">Scan all files</xlf:target>
+        <xlf:target state="translated">扫描所有文件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="28" resname="IDS_XSL_TARGET_FILE_TYPES_APP">
-        <xlf:target state="translated">Scan only applications</xlf:target>
+        <xlf:target state="translated">仅扫描应用程序</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="29" resname="IDS_XSL_TARGET_EXCL_EXT">
-        <xlf:target state="translated">Excepted extensions</xlf:target>
+        <xlf:target state="translated">排除扩展名</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="30" resname="IDS_XSL_TARGET_EXCL_EXT_NONE">
-        <xlf:target state="translated">not configured</xlf:target>
+        <xlf:target state="translated">未配置</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="31" resname="IDS_XSL_TARGET_PROCESSING">
-        <xlf:target state="translated">Target Processing</xlf:target>
+        <xlf:target state="translated">目标处理</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="32" resname="IDS_XSL_ACTION_INFECTED_FIRST">
-        <xlf:target state="translated">Primary action taken on infected items</xlf:target>
+        <xlf:target state="translated">对受感染的项目采取的首选操作</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="33" resname="IDS_XSL_ACTION_INFECTED_SECOND">
-        <xlf:target state="translated">Secondary action taken on infected items</xlf:target>
+        <xlf:target state="translated">对受感染的项目采取的次选操作</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="34" resname="IDS_XSL_ACTION_SUSPECT_FIRST">
-        <xlf:target state="translated">Primary action taken on suspicious items</xlf:target>
+        <xlf:target state="translated">对可疑项目采取的首选操作</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="35" resname="IDS_XSL_ACTION_SUSPECT_SECOND">
-        <xlf:target state="translated">Secondary action taken on suspicious items</xlf:target>
+        <xlf:target state="translated">对可疑项目采取的次选操作</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="36" resname="IDS_XSL_ACTION_HIDDEN">
-        <xlf:target state="translated">Action taken on hidden items</xlf:target>
+        <xlf:target state="translated">对隐藏项目采取的操作</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="37" resname="IDS_XSL_ACTION_PASS_PROT">
-        <xlf:target state="translated">Action taken on password protected items</xlf:target>
+        <xlf:target state="translated">对受密码保护的项目采取的操作</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="38" resname="IDS_XSL_SCAN_ENGINES">
-        <xlf:target state="translated">Scan Engines Summary</xlf:target>
+        <xlf:target state="translated">扫描引擎摘要</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="39" resname="IDS_XSL_ENGINE_SIGN">
-        <xlf:target state="translated">Number of threat information updates</xlf:target>
+        <xlf:target state="translated">威胁信息更新次数</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="40" resname="IDS_XSL_ENGINE_ARCHIVE">
-        <xlf:target state="translated">Archive plugins</xlf:target>
+        <xlf:target state="translated">压缩插件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="41" resname="IDS_XSL_ENGINE_EMAIL">
-        <xlf:target state="translated">E-mail plugins</xlf:target>
+        <xlf:target state="translated">电子邮件插件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="42" resname="IDS_XSL_ENGINE_SCAN">
-        <xlf:target state="translated">Scan plugins</xlf:target>
+        <xlf:target state="translated">扫描插件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="43" resname="IDS_XSL_ENGINE_SYSTEM">
-        <xlf:target state="translated">System plugins</xlf:target>
+        <xlf:target state="translated">系统插件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="44" resname="IDS_XSL_ENGINE_UNPACK">
-        <xlf:target state="translated">Unpack plugins</xlf:target>
+        <xlf:target state="translated">脱壳插件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="45" resname="IDS_XSL_SCAN_SUMMARY_DETAILED">
         <xlf:target state="translated">Detailed Scan Summary</xlf:target>
