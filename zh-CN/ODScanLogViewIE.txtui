@@ -297,130 +297,130 @@
         <xlf:target state="translated">未扫描</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="99" resname="IDS_XSL_STATUS_CLEAN">
-        <xlf:target state="translated">Cleaned</xlf:target>
+        <xlf:target state="translated">正常</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="100" resname="IDS_XSL_STATUS_INFECTED">
-        <xlf:target state="translated">No action was taken</xlf:target>
+        <xlf:target state="translated">未采取行动</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="101" resname="IDS_XSL_STATUS_SUSPECTED">
-        <xlf:target state="translated">Suspect</xlf:target>
+        <xlf:target state="translated">可疑</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="102" resname="IDS_XSL_STATUS_HIDDEN">
-        <xlf:target state="translated">Hidden</xlf:target>
+        <xlf:target state="translated">隐藏</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="103" resname="IDS_XSL_STATUS_HIDDEN_INFECTED">
-        <xlf:target state="translated">Hidden (infected)</xlf:target>
+        <xlf:target state="translated">隐藏（被感染）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="104" resname="IDS_XSL_STATUS_HIDDEN_SUSPECTED">
-        <xlf:target state="translated">Hidden (suspect)</xlf:target>
+        <xlf:target state="translated">隐藏（可疑）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="105" resname="IDS_XSL_STATUS_DISINFECTED">
-        <xlf:target state="translated">Disinfected</xlf:target>
+        <xlf:target state="translated">清除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="106" resname="IDS_XSL_STATUS_DELETED">
-        <xlf:target state="translated">Deleted</xlf:target>
+        <xlf:target state="translated">删除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="107" resname="IDS_XSL_STATUS_DELETED_CONTAINER">
-        <xlf:target state="translated">Deleted archive</xlf:target>
+        <xlf:target state="translated">删除压缩文件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="108" resname="IDS_XSL_STATUS_QUARANTINED">
-        <xlf:target state="translated">Moved to Quarantine</xlf:target>
+        <xlf:target state="translated">移动到隔离区</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="109" resname="IDS_XSL_STATUS_UNHIDDEN">
-        <xlf:target state="translated">Renamed</xlf:target>
+        <xlf:target state="translated">重命名</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="110" resname="IDS_XSL_STATUS_DELETED_REBOOT">
-        <xlf:target state="translated">Deleted after reboot</xlf:target>
+        <xlf:target state="translated">重启后删除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="111" resname="IDS_XSL_STATUS_QUARANTINED_REBOOT">
-        <xlf:target state="translated">Moved to Quarantine after reboot</xlf:target>
+        <xlf:target state="translated">重启后移动到隔离区</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="112" resname="IDS_XSL_STATUS_CLEANED_REBOOT">
-        <xlf:target state="translated">Cleaned after reboot</xlf:target>
+        <xlf:target state="translated">重启后清除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="113" resname="IDS_XSL_STATUS_FAIL_DISINFECT">
-        <xlf:target state="translated">Disinfect failed</xlf:target>
+        <xlf:target state="translated">清除失败</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="114" resname="IDS_XSL_STATUS_FAIL_DELETE">
-        <xlf:target state="translated">Delete failed</xlf:target>
+        <xlf:target state="translated">删除失败</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="115" resname="IDS_XSL_STATUS_FAIL_DELETE_CONTAINER">
-        <xlf:target state="translated">Delete archive failed</xlf:target>
+        <xlf:target state="translated">删除压缩文件失败</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="116" resname="IDS_XSL_STATUS_FAIL_QUARANTINE">
-        <xlf:target state="translated">Move to quarantine failed</xlf:target>
+        <xlf:target state="translated">移动到隔离区失败</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="117" resname="IDS_XSL_STATUS_FAIL_QUARANTINE_CONTAINER">
-        <xlf:target state="translated">Move archive to Quarantine failed</xlf:target>
+        <xlf:target state="translated">移动压缩文件到隔离区失败</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="118" resname="IDS_XSL_STATUS_FAIL_UNHIDE">
-        <xlf:target state="translated">Rename failed</xlf:target>
+        <xlf:target state="translated重命名失败</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="119" resname="IDS_XSL_STATUS_ERROR_PASSWORD_PROTECTED">
-        <xlf:target state="translated">(file was password-protected)</xlf:target>
+        <xlf:target state="translated">（文件被密码保护）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="120" resname="IDS_XSL_STATUS_ERROR_ARCHIVE_BOMB">
-        <xlf:target state="translated">(over-compressed file)</xlf:target>
+        <xlf:target state="translated">（过度压缩的文件）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="121" resname="IDS_XSL_STATUS_ERROR_NO_ACTION">
-        <xlf:target state="translated">(no action was taken)</xlf:target>
+        <xlf:target state="translated">（未采取行动）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="122" resname="IDS_XSL_STATUS_ERROR_FAIL_REPACK">
-        <xlf:target state="translated">(archive could not be repacked)</xlf:target>
+        <xlf:target state="translated">（压缩文件无法重打包）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="123" resname="IDS_XSL_STATUS_ERROR_FAIL_RESCAN">
-        <xlf:target state="translated">(item was not found)</xlf:target>
+        <xlf:target state="translated">（未找到项目）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="124" resname="IDS_XSL_STATUS_ERROR_IGNORED_READONLY">
-        <xlf:target state="translated">(ignored, file was located on a read-only media device)</xlf:target>
+        <xlf:target state="translated">（忽略,文件位于只读媒体设备上）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="125" resname="IDS_XSL_STATUS_ERROR_IGNORED_FIX_RIGHTS">
-        <xlf:target state="translated">(ignored, user did not have the proper access rights)</xlf:target>
+        <xlf:target state="translated">（忽略, 用户无正确的访问权限）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="126" resname="IDS_XSL_STATUS_ERROR_RESCUE_MODE">
-        <xlf:target state="translated">(reboot in Rescue Mode required)</xlf:target>
+        <xlf:target state="translated">（需要安全模式重启）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="127" resname="IDS_XSL_OBJECT_TYPE_FILE">
-        <xlf:target state="translated">File</xlf:target>
+        <xlf:target state="translated">文件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="128" resname="IDS_XSL_OBJECT_TYPE_BOOT_SECTOR">
-        <xlf:target state="translated">Boot sector:</xlf:target>
+        <xlf:target state="translated">启动扇区：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="129" resname="IDS_XSL_OBJECT_TYPE_PROCESS">
-        <xlf:target state="translated">Process</xlf:target>
+        <xlf:target state="translated">进程</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="130" resname="IDS_XSL_OBJECT_TYPE_REGISTRY_KEY">
-        <xlf:target state="translated">Registry key</xlf:target>
+        <xlf:target state="translated">注册表项</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="131" resname="IDS_XSL_OBJECT_TYPE_COOKIE">
         <xlf:target state="translated">Cookie</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="132" resname="IDS_XSL_OBJECT_TYPE_MIME_MESSAGE">
-        <xlf:target state="translated">MIME message</xlf:target>
+        <xlf:target state="translated">MIME消息</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="133" resname="IDS_XSL_OBJECT_TYPE_STREAM">
-        <xlf:target state="translated">Stream</xlf:target>
+        <xlf:target state="translated">流量</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="134" resname="IDS_XSL_YES">
-        <xlf:target state="translated">Yes</xlf:target>
+        <xlf:target state="translated">确定</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="135" resname="IDS_XSL_NO">
-        <xlf:target state="translated">No</xlf:target>
+        <xlf:target state="translated">取消</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="136" resname="IDS_XSL_BITDEF_LOG_FILE">
-        <xlf:target state="translated">Log File</xlf:target>
+        <xlf:target state="translated">日志文件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="137" resname="IDS_XSL_TARGET_ALL_FILES">
-        <xlf:target state="translated">Scan all files</xlf:target>
+        <xlf:target state="translated">扫描所有文件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="138" resname="IDS_XSL_TARGET_INC_EXT">
-        <xlf:target state="translated">Scanned extensions</xlf:target>
+        <xlf:target state="translated">扫描扩展</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="139" resname="IDS_XSL_TARGET_INCL_EXT_NONE">
-        <xlf:target state="translated">not configured</xlf:target>
+        <xlf:target state="translated">未配置</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="140" resname="IDS_DEVICE_ASSESMENT_LOG">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Device Assessment Scan Log</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt; 设备评估扫描日志</xlf:target>
       </xlf:trans-unit>
     </xlf:body>
   </xlf:file>
