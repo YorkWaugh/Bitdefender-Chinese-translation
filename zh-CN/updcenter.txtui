@@ -3,94 +3,94 @@
   <xlf:file datatype="winres" original="updcenter" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_WND_UPDATE_CHECKING">
-        <xlf:target state="translated">Checking for updates ...</xlf:target>
+        <xlf:target state="translated">检查更新...</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_WND_UPDATE_IN_PROGRESS_TILE">
-        <xlf:target state="translated">Update in progress ...</xlf:target>
+        <xlf:target state="translated">更新中...</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_WND_UPDATE_IN_PROGRESS_BODY">
-        <xlf:target state="translated">Keep your product updated so it can easily detect even the newest threats and keep your device and data safe.</xlf:target>
+        <xlf:target state="translated">让您的产品保持更新，以便轻松检测最新的威胁，并确保您的设备和数据安全。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="4" resname="IDS_WND_CANCEL_BTN">
-        <xlf:target state="translated">Cancel update</xlf:target>
+        <xlf:target state="translated">取消更新</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="5" resname="IDS_WND_ESTIMATED_TIME">
-        <xlf:target state="translated">Estimated time:</xlf:target>
+        <xlf:target state="translated">估计时间：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="6" resname="IDS_WND_ONE_MINUTE">
-        <xlf:target state="translated">1 minute</xlf:target>
+        <xlf:target state="translated">1分钟</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="7" resname="IDS_WND_X_MINUTES">
-        <xlf:target state="translated">{0} minutes</xlf:target>
+        <xlf:target state="translated">{0}分钟</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="8" resname="IDS_WND_ZERO_MINUTES">
-        <xlf:target state="translated">0 minutes</xlf:target>
+        <xlf:target state="translated">0分钟</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="9" resname="IDS_WND_RESTART_TITLE">
-        <xlf:target state="translated">Update requires device restart ...</xlf:target>
+        <xlf:target state="translated">需要重启设备以完成更新...</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="10" resname="IDS_WND_RESTART_BODY">
-        <xlf:target state="translated">A device restart is required in order to apply the latest product updates.</xlf:target>
+        <xlf:target state="translated">需要重新启动设备以应用最新的产品更新。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="11" resname="IDS_WND_RESTART_BUTTON">
-        <xlf:target state="translated">Restart device</xlf:target>
+        <xlf:target state="translated">重启设备</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="12" resname="IDS_WND_COMPLETED_TITLE">
-        <xlf:target state="translated">Update completed...</xlf:target>
+        <xlf:target state="translated">更新完成...</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="13" resname="IDS_WND_COMPLETED_BODY">
-        <xlf:target state="translated">Your product is up to date. For more details click the link below.</xlf:target>
+        <xlf:target state="translated">您的产品是最新的。想了解更多细节，请点击下面的链接。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="14" resname="IDS_WND_DETAILS_BUTTON">
-        <xlf:target state="translated">View details</xlf:target>
+        <xlf:target state="translated">显示详情</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="15" resname="IDS_WND_FAILURE_TITLE">
-        <xlf:target state="translated">Update failure ...</xlf:target>
+        <xlf:target state="translated">更新失败...</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="16" resname="IDS_WND_FAILURE_BODY">
-        <xlf:target state="translated">The update encountered an error and failed to be performed. For more details click the link below.</xlf:target>
+        <xlf:target state="translated">遇到了一个错误，未能执行更新。想了解更多详情，请点击下面的链接。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="17" resname="IDS_YES">
-        <xlf:target state="translated">Yes</xlf:target>
+        <xlf:target state="translated">确定</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="18" resname="IDS_NO">
-        <xlf:target state="translated">No</xlf:target>
+        <xlf:target state="translated">取消</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="19" resname="IDS_OK">
-        <xlf:target state="translated">OK</xlf:target>
+        <xlf:target state="translated">确定</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="20" resname="IDS_WND_MESSAGE_BOX_CANCEL">
-        <xlf:target state="translated">Are you sure you want to cancel the update?</xlf:target>
+        <xlf:target state="translated">您确定要取消更新吗？</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="21" resname="IDS_WND_MESSAGE_BOX_CLOSE">
-        <xlf:target state="translated">The update process will continue in the background.</xlf:target>
+        <xlf:target state="translated">更新过程将在后台继续进行。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="22" resname="IDS_WND_CLOSE_BUTTON">
-        <xlf:target state="translated">Close</xlf:target>
+        <xlf:target state="translated">关闭</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="23" resname="IDS_WND_UPDATE_STOP">
-        <xlf:target state="translated">Update stopped...</xlf:target>
+        <xlf:target state="translated">更新暂停...</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="24" resname="IDS_WND_UPDATE_STOP_BODY">
-        <xlf:target state="translated">The update operation was canceled by the user</xlf:target>
+        <xlf:target state="translated">更新操作被用户取消</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="25" resname="IDS_WND_UPDATE_ERROR">
-        <xlf:target state="translated">Update error...</xlf:target>
+        <xlf:target state="translated">更新错误...</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="26" resname="IDS_WND_UPDATE_NO_INTERNET_BODY">
-        <xlf:target state="translated">Please check your internet connection and try again</xlf:target>
+        <xlf:target state="translated">请检查您的互联网连接并重试</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="27" resname="IDS_WND_CONFIGURATION_TILE">
-        <xlf:target state="translated">Configuration in progress...</xlf:target>
+        <xlf:target state="translated">配置中...</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="28" resname="IDS_EXPIRED_TITLE">
-        <xlf:target state="translated">Update stopped...</xlf:target>
+        <xlf:target state="translated">更新暂停...</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="29" resname="IDS_EXPIRED_BODY">
-        <xlf:target state="translated">The update operation has not been performed as your subscription has expired. Check the product&apos;s interface to find out more on how to activate your subscription and protect your device.</xlf:target>
+        <xlf:target state="translated">由于您的订阅已经过期，更新操作没有被执行。检查产品界面，了解更多关于如何激活您的订阅并保护您的设备的信息。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="30" resname="IDS_APP_TITLE">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Update</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt; 更新</xlf:target>
       </xlf:trans-unit>
     </xlf:body>
   </xlf:file>
