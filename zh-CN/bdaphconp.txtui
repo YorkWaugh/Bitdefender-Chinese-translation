@@ -39,7 +39,7 @@
         <xlf:target state="translated">检查您访问的每个网页是否有诈骗内容。诈骗网页通常试图骗取您的钱财，获得非法利益。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="13" resname="IDS_WLBTN_LABEL">
-        <xlf:target state="translated">排除</xlf:target>
+        <xlf:target state="translated">管理排除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="14" resname="IDS_APHWL_URL_MISSING">
         <xlf:target state="translated">网址 %s 已存在。</xlf:target>
@@ -63,22 +63,22 @@
         <xlf:target state="translated">配置</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="21" resname="IDS_ANTIPHISHING_IS">
-        <xlf:target state="translated">Antiphishing</xlf:target>
+        <xlf:target state="translated">反钓鱼</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="22" resname="IDS_EVENTS_PRIVACY_TAB">
-        <xlf:target state="translated">Antiphishing</xlf:target>
+        <xlf:target state="translated">反钓鱼</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="23" resname="IDS_GUSTER_STATUS">
-        <xlf:target state="translated">Network threat prevention</xlf:target>
+        <xlf:target state="translated">网络威胁防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="24" resname="IDS_GUSTER_STATUS_DESCR">
-        <xlf:target state="translated">Prevents exploitation of vulnerabilities on your device to prevent complex threats, like ransomware, from using these vulnerabilities to attack your device.</xlf:target>
+        <xlf:target state="translated">防止复杂威胁（如勒索软件）使用这些漏洞攻击您的设备。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="25" resname="IDS_EXCEPTIONS_TITLE">
-        <xlf:target state="translated">Exceptions</xlf:target>
+        <xlf:target state="translated">排除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="26" resname="IDS_MANAGE_EXCEPTIONS_LABEL">
-        <xlf:target state="translated">Manage exceptions</xlf:target>
+        <xlf:target state="translated">管理排除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="27" resname="IDS_MANAGE_EXCEPTIONS_DESCR">
         <xlf:target state="translated">Add or remove items to be excepted from scan.</xlf:target>
