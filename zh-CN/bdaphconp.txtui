@@ -9,13 +9,13 @@
         <xlf:target state="translated">设置</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_TAB_BROWSERS">
-        <xlf:target state="translated">Web防护</xlf:target>
+        <xlf:target state="translated">网页防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="4" resname="IDS_TAB_GUSTER">
         <xlf:target state="translated">网络威胁防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="5" resname="IDS_HTTPTRAF">
-        <xlf:target state="translated">Web攻击防护</xlf:target>
+        <xlf:target state="translated">网页攻击防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="6" resname="IDS_HTTPTRAF_DESCR">
         <xlf:target state="translated">检查您访问的每个网页是否存在威胁，以避免它们被下载到您的设备上。</xlf:target>
@@ -48,19 +48,19 @@
         <xlf:target state="translated">排除列表已修改。是否保存？</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="16" resname="IDS_SSL">
-        <xlf:target state="translated">Encrypted web scan</xlf:target>
+        <xlf:target state="translated">加密网页扫描</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="17" resname="IDS_SSL_DESCR">
-        <xlf:target state="translated">Checks the safety of encrypted web pages. Encrypted web pages can use certificates issued by untrusted certificate authorities or even stolen certificates from legitimate sources.</xlf:target>
+        <xlf:target state="translated">检查加密网页的安全性。加密网页可能使用不受信任的证书机构颁发的证书，甚至从合法来源窃取的证书。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="18" resname="IDS_PRIVACY_PAD_TITLE">
-        <xlf:target state="translated">Online Threat Prevention</xlf:target>
+        <xlf:target state="translated">在线威胁防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="19" resname="IDS_PRIVACY_PAD_STATUS">
-        <xlf:target state="translated">Our cloud-based Global Protective Network secures your device by blocking any online threat.</xlf:target>
+        <xlf:target state="translated">我们基于云的全球防护网络通过阻止任何在线威胁来保护您的设备。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="20" resname="IDS_PRIVACY_CONFIGURE">
-        <xlf:target state="translated">Configure</xlf:target>
+        <xlf:target state="translated">配置</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="21" resname="IDS_ANTIPHISHING_IS">
         <xlf:target state="translated">Antiphishing</xlf:target>
