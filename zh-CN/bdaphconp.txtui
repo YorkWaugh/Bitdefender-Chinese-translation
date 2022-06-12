@@ -3,49 +3,49 @@
   <xlf:file datatype="winres" original="bdaphconp" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_CATEGORY_PRIVACY">
-        <xlf:target state="translated">Antiphishing</xlf:target>
+        <xlf:target state="translated">反钓鱼</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_TAB_NAME">
-        <xlf:target state="translated">Settings</xlf:target>
+        <xlf:target state="translated">设置</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_TAB_BROWSERS">
-        <xlf:target state="translated">Web Protection</xlf:target>
+        <xlf:target state="translated">Web防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="4" resname="IDS_TAB_GUSTER">
-        <xlf:target state="translated">Network threat prevention</xlf:target>
+        <xlf:target state="translated">网络威胁防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="5" resname="IDS_HTTPTRAF">
-        <xlf:target state="translated">Web attack prevention</xlf:target>
+        <xlf:target state="translated">Web攻击防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="6" resname="IDS_HTTPTRAF_DESCR">
-        <xlf:target state="translated">Checks every web page you access for threats to avoid them being downloaded on your device.</xlf:target>
+        <xlf:target state="translated">检查您访问的每个网页是否存在威胁，以避免它们被下载到您的设备上。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="7" resname="IDS_SEARCH_ADVISOR">
-        <xlf:target state="translated">Search Advisor</xlf:target>
+        <xlf:target state="translated">搜索建议</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="8" resname="IDS_SEARCH_ADVISOR_DESCR">
-        <xlf:target state="translated">Checks your search results to warn against dangerous web pages before you access them.</xlf:target>
+        <xlf:target state="translated">检查您的搜索结果，在您访问危险网页之前对其发出警告。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="9" resname="IDS_APH_BROWSERS">
-        <xlf:target state="translated">Phishing protection</xlf:target>
+        <xlf:target state="translated">钓鱼防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="10" resname="IDS_APH_BROWSERS_DESCR">
-        <xlf:target state="translated">Checks every web page you access for phishing behavior. Phishing pages attempt to obtain sensitive information such as login credentials or credit card details by disguising as trustworthy entities. The stolen data can be then used for financial gain.</xlf:target>
+        <xlf:target state="translated">检查您访问的每个网页是否有网络钓鱼行为。钓鱼网页试图通过伪装成值得信赖的实体来获取敏感信息，如登录凭证或信用卡细节。被盗的数据可以被用来获取经济利益。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="11" resname="IDS_ANTIFRAUD">
-        <xlf:target state="translated">Fraud protection</xlf:target>
+        <xlf:target state="translated">诈骗防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="12" resname="IDS_ANTIFRAUD_DESCR">
-        <xlf:target state="translated">Checks every web page you access for fraudulent content. Fraudulent pages usually attempt to trick you into sending money with the intent of obtaining unlawful gain.</xlf:target>
+        <xlf:target state="translated">检查您访问的每个网页是否有诈骗内容。诈骗网页通常试图骗取您的钱财，获得非法利益。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="13" resname="IDS_WLBTN_LABEL">
-        <xlf:target state="translated">Manage exceptions</xlf:target>
+        <xlf:target state="translated">排除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="14" resname="IDS_APHWL_URL_MISSING">
-        <xlf:target state="translated">URL %s already exists.</xlf:target>
+        <xlf:target state="translated">网址 %s 已存在。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="15" resname="IDS_APHWL_MODIFIED">
-        <xlf:target state="translated">The exception list was modified. Do you want to save it?</xlf:target>
+        <xlf:target state="translated">排除列表已修改。是否保存？</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="16" resname="IDS_SSL">
         <xlf:target state="translated">Encrypted web scan</xlf:target>
