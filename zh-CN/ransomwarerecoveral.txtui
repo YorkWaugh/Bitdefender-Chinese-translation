@@ -36,31 +36,31 @@
         <xlf:target state="translated">进程 &lt;#process_path#&gt; 表现出勒索软件行为并被阻止。有几个文件被加密了，但我们成功地恢复了所有的文件。您可以在下面找到恢复的文件列表。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="12" resname="IDS_LOGGER_RWR_ATTEMPT_AUTO_NONE_RECOVERED_MSG">
-        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Several files were encrypted by it and couldn&apos;t be automatically restored. You can find the files to be restored below.</xlf:target>
+        <xlf:target state="translated">进程 &lt;#process_path#&gt; 表现出勒索软件行为并被阻止。有几个文件被加密了，无法自动恢复。您可以在下面找到要恢复的文件。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="13" resname="IDS_LOGGER_RWR_ATTEMPT_MANUAL_NONE_RECOVERED_MSG">
-        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Your attention is required because automatic file restoration is disabled. You can find the files to be restored below.</xlf:target>
+        <xlf:target state="translated">进程 &lt;#process_path#&gt; 表现出勒索软件行为并被阻止。您需要注意，因为自动文件恢复功能已被禁用。您可以在下面找到要恢复的文件。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="14" resname="IDS_LOGGER_RWR_ATTEMPT_MANUAL_ALL_RECOVERED_MSG">
-        <xlf:target state="translated">All your files have been successfully restored. You are safe!</xlf:target>
+        <xlf:target state="translated">您的所有文件都已成功恢复。您是安全的!</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="15" resname="IDS_LOGGER_RWR_ATTEMPT_DELETE_CERTIFICATE">
-        <xlf:target state="translated">An attempt to delete encryption certificates has been detected. As this is a ransomware behavior, the attempt has been blocked, your device is safe.</xlf:target>
+        <xlf:target state="translated">已检测到删除加密证书的企图。由于这是一种勒索软件的行为，该企图已被阻止，您的设备是安全的。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="16" resname="IDS_LOGGER_RWR_REPORT_TITLE">
-        <xlf:target state="translated">Ransomware behavior detected on your device</xlf:target>
+        <xlf:target state="translated">在您的设备上检测到勒索软件行为</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="17" resname="IDS_LOGGER_RWR_REPORT_MSG1">
-        <xlf:target state="translated">The process &lt;#process_path#&gt; exhibits ransomware behavior, your data is at risk.</xlf:target>
+        <xlf:target state="translated">进程&lt;#process_path#&gt;表现出勒索软件行为，您的数据就处于危险之中。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="18" resname="IDS_LOGGER_RWR_REPORT_MSG2">
-        <xlf:target state="translated">The threat has not been resolved. Activate protection to enable the remediation layer and keep your device and data safe.</xlf:target>
+        <xlf:target state="translated">威胁尚未解决。激活防护以启用补救层，保护您的设备和数据安全。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="19" resname="IDS_LOGGER_RWR_REPORT_ACTIVATE_PROTECTION">
-        <xlf:target state="translated">Activate Protection</xlf:target>
+        <xlf:target state="translated">激活防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="20" resname="IDS_LOGGER_RWR_VIEW_ATTACK_TIMELINE_ACTION">
-        <xlf:target state="translated">View attack timeline</xlf:target>
+        <xlf:target state="translated">查看攻击时间线</xlf:target>
       </xlf:trans-unit>
     </xlf:body>
   </xlf:file>
