@@ -81,55 +81,55 @@
         <xlf:target state="translated">管理排除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="27" resname="IDS_MANAGE_EXCEPTIONS_DESCR">
-        <xlf:target state="translated">Add or remove items to be excepted from scan.</xlf:target>
+        <xlf:target state="translated">添加或删除要从扫描中排除的项目。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="28" resname="IDS_MANAGE_EXCEPTIONS_BTN">
-        <xlf:target state="translated">Manage exceptions</xlf:target>
+        <xlf:target state="translated">管理排除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="29" resname="IDS_OK">
-        <xlf:target state="translated">OK</xlf:target>
+        <xlf:target state="translated">确定</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="30" resname="IDS_YES">
-        <xlf:target state="translated">Yes</xlf:target>
+        <xlf:target state="translated">确定</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="31" resname="IDS_NO">
-        <xlf:target state="translated">No</xlf:target>
+        <xlf:target state="translated">取消</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="32" resname="IDS_TEXT_ON">
-        <xlf:target state="translated">On</xlf:target>
+        <xlf:target state="translated">开启</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="33" resname="IDS_TEXT_OFF">
-        <xlf:target state="translated">Off</xlf:target>
+        <xlf:target state="translated">关闭</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="34" resname="IDS_WEB_PROTECTION">
-        <xlf:target state="translated">Web Protection</xlf:target>
+        <xlf:target state="translated">网页防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="35" resname="IDS_NETWORK_THREAT_PROTECTION">
-        <xlf:target state="translated">Network Protection</xlf:target>
+        <xlf:target state="translated">网络防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="36" resname="IDS_EMAIL_THREAT_PROTECTION">
-        <xlf:target state="translated">Email Protection</xlf:target>
+        <xlf:target state="translated">邮件防护</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="37" resname="IDS_SCANEMAILS">
-        <xlf:target state="translated">Scan emails</xlf:target>
+        <xlf:target state="translated">扫描邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="38" resname="IDS_SCANEMAILS_DESCR">
-        <xlf:target state="translated">Scans email content for threats that may compromise your device.</xlf:target>
+        <xlf:target state="translated">扫描邮件内容，找出可能危害您的设备的威胁。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="39" resname="IDS_SCANEMAILS_ALL">
-        <xlf:target state="translated">Incoming and outgoing emails</xlf:target>
+        <xlf:target state="translated">收到和发出的电子邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="40" resname="IDS_SCANEMAILS_INCOMING">
-        <xlf:target state="translated">Incoming emails only</xlf:target>
+        <xlf:target state="translated">仅收到的邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="41" resname="IDS_SCANEMAILS_OUTGOING">
-        <xlf:target state="translated">Outgoing emails only</xlf:target>
+        <xlf:target state="translated">仅发出的邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="42" resname="IDS_SCANEMAILS_NONE">
-        <xlf:target state="translated">Don&apos;t scan emails</xlf:target>
+        <xlf:target state="translated">不扫描邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="43" resname="IDS_UPGRADE_TIP">
-        <xlf:target state="translated">Upgrade to unlock this feature</xlf:target>
+        <xlf:target state="translated">升级以解锁此功能</xlf:target>
       </xlf:trans-unit>
     </xlf:body>
   </xlf:file>
