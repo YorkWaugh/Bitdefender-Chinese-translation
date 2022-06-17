@@ -3,16 +3,16 @@
   <xlf:file datatype="winres" original="pmbxie" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_WALLET_LOCKED">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet is locked</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt; 资料夹已锁定</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_WALLET_ON">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet is on</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt; 资料夹已开启</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_WALLET_OFF">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet is off</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt; 资料夹已关闭</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="4" resname="IDS_WALLET_CONFIGURE">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Wallet is not configured</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt; 资料夹未配置</xlf:target>
       </xlf:trans-unit>
     </xlf:body>
   </xlf:file>
