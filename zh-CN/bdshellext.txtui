@@ -3,7 +3,7 @@
   <xlf:file datatype="winres" original="BdShellExt" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_PRODUCTNAME">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Context Menu Helpers</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt;上下文菜单帮助程序</xlf:target>
       </xlf:trans-unit>
     </xlf:body>
   </xlf:file>
