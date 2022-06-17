@@ -3,13 +3,13 @@
   <xlf:file datatype="winres" original="BdCtxScan" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_RIGHTCLICKMENU">
-        <xlf:target state="translated">Scan with &lt;#ProductName#&gt;</xlf:target>
+        <xlf:target state="translated">使用&lt;#ProductName#&gt;扫描</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_RIGHTCLICKMENUTIP">
-        <xlf:target state="translated">Scan the selected items with &lt;#ProductName#&gt;</xlf:target>
+        <xlf:target state="translated">使用&lt;#ProductName#&gt;扫描所选项目</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_ERROR">
-        <xlf:target state="translated">Scan Error</xlf:target>
+        <xlf:target state="translated">扫描错误</xlf:target>
       </xlf:trans-unit>
     </xlf:body>
   </xlf:file>
