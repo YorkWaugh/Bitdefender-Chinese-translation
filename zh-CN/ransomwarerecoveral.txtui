@@ -3,37 +3,37 @@
   <xlf:file datatype="winres" original="RansomwareRecoverAL" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_LOGGER_FEATURE">
-        <xlf:target state="translated">Ransomware Remediation</xlf:target>
+        <xlf:target state="translated">勒索软件补救</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_LOGGER_RWR_ATTEMPT_TITLE_REMEDIATED">
-        <xlf:target state="translated">Ransomware behavior remediated</xlf:target>
+        <xlf:target state="translated">勒索软件行为得到补救</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_LOGGER_RWR_ATTEMPT_TITLE_DETECTED">
-        <xlf:target state="translated">Ransomware behavior detected</xlf:target>
+        <xlf:target state="translated">检测到勒索软件行为</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="4" resname="IDS_LOGGER_RWR_SUSPICIOUS_DETECTED">
-        <xlf:target state="translated">Suspicious behavior detected</xlf:target>
+        <xlf:target state="translated">检测到可疑行为</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="5" resname="IDS_LOGGER_RWR_ATTEMPT_VIEW_ENCRYPTED_FILES_ACTION">
-        <xlf:target state="translated">Encrypted Files</xlf:target>
+        <xlf:target state="translated">加密的文件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="6" resname="IDS_LOGGER_RWR_ATTEMPT_VIEW_RESTORED_FILES_ACTION">
-        <xlf:target state="translated">Restored Files</xlf:target>
+        <xlf:target state="translated">恢复文件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="7" resname="IDS_LOGGER_RWR_ATTEMPT_ATTENTION_REQUIRED_ACTION">
-        <xlf:target state="translated">Attention required</xlf:target>
+        <xlf:target state="translated">需要注意</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="8" resname="IDS_LOGGER_RWR_ATTEMPT_ADD_EXCEPTION_ACTION">
-        <xlf:target state="translated">Except application</xlf:target>
+        <xlf:target state="translated">排除应用</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="9" resname="IDS_LOGGER_RWR_ATTEMPT_BLOCKED_ACCESS_MSG">
-        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Your files have been protected from being altered.</xlf:target>
+        <xlf:target state="translated">进程 &lt;#process_path#&gt; 表现出勒索软件行为并被阻止。您的文件已被保护，不会被篡改。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="10" resname="IDS_LOGGER_RWR_ATTEMPT_AUTO_PARTIAL_RECOVERED_MSG">
-        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Several files were encrypted by it and we couldn&apos;t automatically restore all of them. You can find the files to be restored below.</xlf:target>
+        <xlf:target state="translated">进程 &lt;#process_path#&gt; 表现出勒索软件行为并被阻止。有几个文件被加密了，我们无法自动恢复所有的文件。您可以在下面找到要恢复的文件。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="11" resname="IDS_LOGGER_RWR_ATTEMPT_AUTO_SUCCESS_RECOVERED_MSG">
-        <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Several files were encrypted but we successfully restored all of them. You can find the restored files list below.</xlf:target>
+        <xlf:target state="translated">进程 &lt;#process_path#&gt; 表现出勒索软件行为并被阻止。有几个文件被加密了，但我们成功地恢复了所有的文件。您可以在下面找到恢复的文件列表。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="12" resname="IDS_LOGGER_RWR_ATTEMPT_AUTO_NONE_RECOVERED_MSG">
         <xlf:target state="translated">The process &lt;#process_path#&gt; manifests ransomware behavior and was blocked. Several files were encrypted by it and couldn&apos;t be automatically restored. You can find the files to be restored below.</xlf:target>
