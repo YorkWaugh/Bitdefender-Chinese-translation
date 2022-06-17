@@ -3,70 +3,70 @@
   <xlf:file datatype="winres" original="obkconp" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_OBK_PAD_TITLE">
-        <xlf:target state="translated">Safepay</xlf:target>
+        <xlf:target state="translated">安全支付</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_OBK_PAD_TOOLTIP">
-        <xlf:target state="translated">Safepay is a secure environment for sensitive transactions and online banking.</xlf:target>
+        <xlf:target state="translated">安全支付是一个敏感交易和网上银行的安全环境。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_PLUGIN_NAME">
-        <xlf:target state="translated">Settings</xlf:target>
+        <xlf:target state="translated">设置</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="4" resname="IDS_OPEN_OBK">
-        <xlf:target state="translated">Open Safepay</xlf:target>
+        <xlf:target state="translated">打开安全支付</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="5" resname="IDS_OPEN_OBK_TTP">
-        <xlf:target state="translated">Open &lt;#ProductName#&gt; Safepay in a secure desktop</xlf:target>
+        <xlf:target state="translated">在一个安全的桌面上打开&lt;#ProductName#&gt;安全支付</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="6" resname="IDS_TEXT_ON">
-        <xlf:target state="translated">On</xlf:target>
+        <xlf:target state="translated">开启</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="7" resname="IDS_TEXT_OFF">
-        <xlf:target state="translated">Off</xlf:target>
+        <xlf:target state="translated">关闭</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="8" resname="IDS_YES">
-        <xlf:target state="translated">Yes</xlf:target>
+        <xlf:target state="translated">确定</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="9" resname="IDS_NO">
-        <xlf:target state="translated">No</xlf:target>
+        <xlf:target state="translated">取消</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="10" resname="IDS_OPT_RECOMMEND_USE">
-        <xlf:target state="translated">Safepay notifications</xlf:target>
+        <xlf:target state="translated">安全支付通知</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="11" resname="IDS_OPT_AUTO_VPN_APP">
-        <xlf:target state="translated">Use VPN with Safepay™</xlf:target>
+        <xlf:target state="translated">使用安全支付™和VPN</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="12" resname="IDS_VPN_APP_CAPTION">
         <xlf:target state="translated">&lt;#ProductName#&gt; VPN</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="13" resname="IDS_VPN_APP_NOT_INSTALLED">
-        <xlf:target state="translated">&lt;#ProductName#&gt; VPN is not enabled. Enable it now?</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt; VPN未开启。现在开启？</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="14" resname="IDS_OPT_RECOMMEND_USE_INFO">
-        <xlf:target state="translated">Recommends Safepay usage when working with banking pages.</xlf:target>
+        <xlf:target state="translated">建议在处理银行网页时使用安全支付。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="15" resname="IDS_OPT_AUTO_VPN_APP_INFO">
-        <xlf:target state="translated">Automatically connects &lt;#ProductName#&gt; VPN when Safepay starts.</xlf:target>
+        <xlf:target state="translated">开启安全支付时自动连接&lt;#ProductName#&gt; VPN。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="16" resname="IDS_OPT_AUTO_SAFEPAY">
-        <xlf:target state="translated">Automatically open &lt;#ProductName#&gt; Safepay</xlf:target>
+        <xlf:target state="translated">自动开启&lt;#ProductName#&gt;安全支付</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="17" resname="IDS_OPT_RECOMMEND_AUTO_SAFEPAY">
-        <xlf:target state="translated">Always open whitelisted domains in secure environment.</xlf:target>
+        <xlf:target state="translated">始终在安全环境中打开白名单上的域名。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="18" resname="IDS_TAB_SAFEPAY">
-        <xlf:target state="translated">Safepay</xlf:target>
+        <xlf:target state="translated">安全支付</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="19" resname="IDS_TAB_SETTINGS">
-        <xlf:target state="translated">Settings</xlf:target>
+        <xlf:target state="translated">设置</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="20" resname="IDS_BITDEFENDER_SAFEPAY">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Safepay</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt;安全支付</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="21" resname="IDS_BITDEFENDER_SAFEPAY_DESCRIPTION">
-        <xlf:target state="translated">A safe environment designed to keep your online banking, e-shopping or any other type of online transaction private and secured.</xlf:target>
+        <xlf:target state="translated">一个安全的环境，旨在保持您的网上银行、电子购物或任何其他类型的在线交易的私密性和安全性。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="22" resname="IDS_START_BTN">
-        <xlf:target state="translated">Launch Safepay</xlf:target>
+        <xlf:target state="translated">启动安全支付</xlf:target>
       </xlf:trans-unit>
     </xlf:body>
   </xlf:file>
