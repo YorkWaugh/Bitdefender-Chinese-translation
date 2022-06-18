@@ -3,37 +3,37 @@
   <xlf:file datatype="winres" original="bdascl" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_AS_TITLE">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt; 反垃圾邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_ADDRESS_NOT_VALID">
-        <xlf:target state="translated">Please enter a valid email address, e.g. address@domain.</xlf:target>
+        <xlf:target state="translated">请输入有效的邮箱地址,例如：address@domain。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_DOMAIN_NOT_VALID">
-        <xlf:target state="translated">Please enter a valid domain, e.g. @domain.</xlf:target>
+        <xlf:target state="translated">请输入有效的域名，例如：@domain。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="4" resname="IDS_ISSPAM">
-        <xlf:target state="translated">Is Spam</xlf:target>
+        <xlf:target state="translated">是垃圾邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="5" resname="IDS_ISSPAM_TTP">
-        <xlf:target state="translated">Mark message as spam.</xlf:target>
+        <xlf:target state="translated">标记为垃圾邮件。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="6" resname="IDS_NOTSPAM">
-        <xlf:target state="translated">Not Spam</xlf:target>
+        <xlf:target state="translated">非垃圾邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="7" resname="IDS_NOTSPAM_TTP">
-        <xlf:target state="translated">Mark message as not-spam.</xlf:target>
+        <xlf:target state="translated">标记邮件为非垃圾邮件。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="8" resname="IDS_ADDSPAMMER">
-        <xlf:target state="translated">Add Spammer</xlf:target>
+        <xlf:target state="translated">添加垃圾邮件发送人</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="9" resname="IDS_ADDSPAMMMER_TTP">
-        <xlf:target state="translated">Add sender(s) to Spammers list.</xlf:target>
+        <xlf:target state="translated">添加发件人至垃圾邮件发送人列表。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="10" resname="IDS_ADDFRIEND">
-        <xlf:target state="translated">Add Friend</xlf:target>
+        <xlf:target state="translated">添加好友</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="11" resname="IDS_ADDFRIEND_TTP">
-        <xlf:target state="translated">Add sender(s) to Friends list.</xlf:target>
+        <xlf:target state="translated">添加发件人至好友列表。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="12" resname="IDS_AS_TITLE_ADDSPAMMER">
         <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Add spammer</xlf:target>
