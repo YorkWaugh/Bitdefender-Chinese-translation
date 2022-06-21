@@ -123,25 +123,25 @@
         <xlf:target state="translated">保存</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="41" resname="IDS_BWLIST_BTN_LOAD">
-        <xlf:target state="translated">Load</xlf:target>
+        <xlf:target state="translated">导入</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="42" resname="IDS_BWLIST_BTN_CLEAR">
-        <xlf:target state="translated">Clear List</xlf:target>
+        <xlf:target state="translated">清除列表</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="43" resname="IDS_BWLIST_BTN_REMOVE">
-        <xlf:target state="translated">Remove</xlf:target>
+        <xlf:target state="translated">删除</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="44" resname="IDS_BWLIST_CHK_OVERWRITE">
-        <xlf:target state="translated">Overwrite current list</xlf:target>
+        <xlf:target state="translated">覆盖当前列表</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="45" resname="IDS_MSGBOX_TITLE">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt;反垃圾邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="46" resname="IDS_ADDRESS_NOT_VALID">
-        <xlf:target state="translated">Please enter a valid email address, e.g. address@domain.</xlf:target>
+        <xlf:target state="translated">请输入有效的邮箱地址，例如：address@domain</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="47" resname="IDS_DOMAIN_NOT_VALID">
-        <xlf:target state="translated">Please enter a valid domain, e.g. @domain.</xlf:target>
+        <xlf:target state="translated">请输入有效的域名，例如：@domain</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="48" resname="IDS_OK">
         <xlf:target state="translated">确定</xlf:target>
