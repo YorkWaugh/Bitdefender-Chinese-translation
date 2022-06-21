@@ -78,13 +78,13 @@
         <xlf:target state="translated">初始化反垃圾邮件。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="26" resname="IDS_ADD_ENEMY_EXISTS">
-        <xlf:target state="translated">This address already exists in the Spammers list:</xlf:target>
+        <xlf:target state="translated">此地址已经在垃圾邮件发送人列表中：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="27" resname="IDS_ADD_ENEMY_EXISTSWL">
         <xlf:target state="translated">Failed to add address to the Spammers list because it is already included in the Friends list. Please remove it from the Friends list first.</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="28" resname="IDS_ADD_FRIEND_EXISTS">
-        <xlf:target state="translated">This address already exists in the Friends list:</xlf:target>
+        <xlf:target state="translated">此地址已经在好友列表中：</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="29" resname="IDS_ADD_FRIEND_EXISTSBL">
         <xlf:target state="translated">Failed to add address to the Friends list because it is already included in the Spammers list. Please remove it from the Spammers list first.</xlf:target>
