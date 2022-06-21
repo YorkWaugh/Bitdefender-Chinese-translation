@@ -36,46 +36,46 @@
         <xlf:target state="translated">添加发件人至好友列表。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="12" resname="IDS_AS_TITLE_ADDSPAMMER">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Add spammer</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt;反垃圾邮件添加垃圾邮件发送人</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="13" resname="IDS_AS_TITLE_ADDFRIEND">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Add friend</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt;反垃圾邮件添加好友</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="14" resname="IDS_SPAMMERS">
-        <xlf:target state="translated">Spammers</xlf:target>
+        <xlf:target state="translated">垃圾邮件发送人</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="15" resname="IDS_SPAMMERS_TTP">
-        <xlf:target state="translated">Manage Spammers list.</xlf:target>
+        <xlf:target state="translated">管理垃圾邮件发送人列表。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="16" resname="IDS_FRIENDS">
-        <xlf:target state="translated">Friends</xlf:target>
+        <xlf:target state="translated">好友</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="17" resname="IDS_FRIENDS_TTP">
-        <xlf:target state="translated">Manage Friends list.</xlf:target>
+        <xlf:target state="translated">管理好友列表。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="18" resname="IDS_SETTINGS">
-        <xlf:target state="translated">Settings</xlf:target>
+        <xlf:target state="translated">设置</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="19" resname="IDS_SETTINGS_TTP">
-        <xlf:target state="translated">Configuration</xlf:target>
+        <xlf:target state="translated">配置</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="20" resname="IDS_MENU">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Toolbar</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt;反垃圾邮件工具栏</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="21" resname="IDS_MENU_TTP">
-        <xlf:target state="translated">&lt;#ProductName#&gt; Antispam Toolbar</xlf:target>
+        <xlf:target state="translated">&lt;#ProductName#&gt;反垃圾邮件工具栏</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="22" resname="IDS_ACTIVATE">
-        <xlf:target state="translated">Activate &lt;#ProductName#&gt; Antispam</xlf:target>
+        <xlf:target state="translated">激活&lt;#ProductName#&gt;反垃圾邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="23" resname="IDS_ACTIVATE_TTP">
-        <xlf:target state="translated">Activate &lt;#ProductName#&gt; Antispam.</xlf:target>
+        <xlf:target state="translated">激活&lt;#ProductName#&gt;反垃圾邮件。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="24" resname="IDS_ACTIVATE_INTERMIDIATE">
-        <xlf:target state="translated">Initializing Antispam</xlf:target>
+        <xlf:target state="translated">初始化反垃圾邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="25" resname="IDS_ACTIVATE_INTERMIDIATE_TTP">
-        <xlf:target state="translated">Initializing Antispam.</xlf:target>
+        <xlf:target state="translated">初始化反垃圾邮件。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="26" resname="IDS_ADD_ENEMY_EXISTS">
         <xlf:target state="translated">This address already exists in the Spammers list:</xlf:target>
