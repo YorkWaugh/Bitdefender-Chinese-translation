@@ -3,25 +3,25 @@
   <xlf:file datatype="winres" original="bdasconp" source-language="en" target-language="en-us">
     <xlf:body>
       <xlf:trans-unit id="1" resname="IDS_PLUGIN_NAME">
-        <xlf:target state="translated">Settings</xlf:target>
+        <xlf:target state="translated">设置</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="2" resname="IDS_LOW">
-        <xlf:target state="translated">Permissive</xlf:target>
+        <xlf:target state="translated">宽松</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="3" resname="IDS_MEDIUM">
-        <xlf:target state="translated">Normal</xlf:target>
+        <xlf:target state="translated">普通</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="4" resname="IDS_ANTISPAM_PAD_TITLE">
-        <xlf:target state="translated">Antispam</xlf:target>
+        <xlf:target state="translated">反垃圾邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="5" resname="IDS_MANAGE_TITLE">
-        <xlf:target state="translated">Manage</xlf:target>
+        <xlf:target state="translated">管理</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="6" resname="IDS_MANAGE_TITLE_TTP">
-        <xlf:target state="translated">Manage</xlf:target>
+        <xlf:target state="translated">管理</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="7" resname="IDS_ANTISPAM_IS">
-        <xlf:target state="translated">Antispam</xlf:target>
+        <xlf:target state="translated">反垃圾邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="8" resname="IDS_ANTISPAM_PAD_TOOLTIP">
         <xlf:target state="translated">Filters what is not relevant in the Inbox of your local email client (Outlook, Thunderbird).</xlf:target>
