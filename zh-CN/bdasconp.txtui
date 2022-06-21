@@ -138,10 +138,10 @@
         <xlf:target state="translated">&lt;#ProductName#&gt;反垃圾邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="46" resname="IDS_ADDRESS_NOT_VALID">
-        <xlf:target state="translated">请输入有效的邮箱地址，例如：address@domain</xlf:target>
+        <xlf:target state="translated">请输入有效的邮箱地址，例如：address@domain。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="47" resname="IDS_DOMAIN_NOT_VALID">
-        <xlf:target state="translated">请输入有效的域名，例如：@domain</xlf:target>
+        <xlf:target state="translated">请输入有效的域名，例如：@domain。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="48" resname="IDS_OK">
         <xlf:target state="translated">确定</xlf:target>
