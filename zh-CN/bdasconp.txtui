@@ -24,34 +24,34 @@
         <xlf:target state="translated">反垃圾邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="8" resname="IDS_ANTISPAM_PAD_TOOLTIP">
-        <xlf:target state="translated">Filters what is not relevant in the Inbox of your local email client (Outlook, Thunderbird).</xlf:target>
+        <xlf:target state="translated">反垃圾邮件过滤器与您的收件箱无关。它适用于本地电子邮件客户端（Microsoft Outlook，Thunderbird）。</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="9" resname="IDS_ANTISPAM">
-        <xlf:target state="translated">Antispam</xlf:target>
+        <xlf:target state="translated">反垃圾邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="10" resname="IDS_ANTISPAM_TTP">
-        <xlf:target state="translated">Antispam</xlf:target>
+        <xlf:target state="translated">反垃圾邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="11" resname="IDS_MANAGE_FRIENDS_TTP">
-        <xlf:target state="translated">Manage Friends list (add/remove friends)</xlf:target>
+        <xlf:target state="translated">管理好友列表（添加/删除 好友）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="12" resname="IDS_MANAGE_SPAMMERS_TTP">
-        <xlf:target state="translated">Manage Spammers list (add/remove spammers)</xlf:target>
+        <xlf:target state="translated">管理垃圾邮件发送人列表（添加/删除 垃圾邮件发送人）</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="13" resname="IDS_FILTERS_TITLE">
-        <xlf:target state="translated">Spam filters</xlf:target>
+        <xlf:target state="translated">垃圾邮件过滤器</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="14" resname="IDS_BLOCK_ASIAN">
-        <xlf:target state="translated">Block logograms (Asian)</xlf:target>
+        <xlf:target state="translated">拦截亚洲字符</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="15" resname="IDS_BLOCK_ASIAN_DESCR">
-        <xlf:target state="translated">Blocks emails that are encoded with Asian characters</xlf:target>
+        <xlf:target state="translated">拦截内容为亚洲字符的邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="16" resname="IDS_BLOCK_CYRILLIC">
-        <xlf:target state="translated">Block Cyrillic</xlf:target>
+        <xlf:target state="translated">拦截西里尔字符</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="17" resname="IDS_BLOCK_CYRILLIC_DESCR">
-        <xlf:target state="translated">Blocks emails that are encoded with Cyrillic characters</xlf:target>
+        <xlf:target state="translated">拦截内容为西里尔字符的邮件</xlf:target>
       </xlf:trans-unit>
       <xlf:trans-unit id="18" resname="IDS_MANAGE_FRIENDS">
         <xlf:target state="translated">Manage Friends</xlf:target>
